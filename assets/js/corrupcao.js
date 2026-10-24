@@ -23,9 +23,10 @@ function reais(v) {
   return `R$ ${fmt(v)}`;
 }
 
-const [dados, pessoas] = await Promise.all([
+const [dados, pessoas, receita] = await Promise.all([
   fetch("dados/dinheiro.json").then((r) => r.json()),
   carregarCSV("dados/pessoas.csv").catch(() => []),
+  fetch("dados/empresas.json").then((r) => r.json()).catch(() => null),
 ]);
 const nomes = Object.fromEntries(pessoas.map((p) => [p.id, p.nome]));
 
@@ -186,3 +187,40 @@ painel.innerHTML = `<p class="nota">Clique numa pessoa, empresa ou ligação par
 
 // versão em lista, para leitor de tela e celular
 document.getElementById("rede-dinheiro-lista").innerHTML = `<ul>${ligs.map((l) => `<li><strong>${esc(l.a.nome)} → ${esc(l.b.nome)}</strong>: ${esc(l.rotulo)}. 📄 ${linkDoc(l.doc)}</li>`).join("")}</ul>`;
+
+// 6. Empresas: cadastro e quadro societário (Receita Federal)
+const NOME_CASO = { covaxin: "Covaxin", global: "Global", vtclog: "VTCLog", barros: "Empresas de Ricardo Barros", cloroquina: "Cloroquina" };
+const dataBRiso = (d) => (d ? d.split("-").reverse().join("/") : "—");
+const ALERTA_SIT = new Set(["NULA", "INAPTA", "BAIXADA", "SUSPENSA"]);
+function desenharEmpresas() {
+  if (!receita) return;
+  const caso = document.getElementById("caso-empresa").value;
+  document.getElementById("lista-empresas").innerHTML = receita.empresas.filter((e) => !caso || e.caso === caso).map((e) => {
+    const nomeados = e.socios.filter((s) => s.nome);
+    const depois = e.socios.length - nomeados.length;
+    const anos = e.abertura ? new Date().getFullYear() - Number(e.abertura.slice(0, 4)) : null;
+    return `<article class="empresa">
+      <div class="empresa-topo"><h3>${esc(e.nome || e.razao_social)}</h3>
+        <span class="selo-sit" style="--c:${ALERTA_SIT.has(e.situacao) ? "var(--contra)" : "var(--neutro)"}">${ALERTA_SIT.has(e.situacao) ? "⚠️" : "🏢"} CNPJ ${esc(e.situacao)}</span></div>
+      <p class="nota">${esc(e.razao_social)}${e.nome_fantasia ? ` (nome fantasia: ${esc(e.nome_fantasia)})` : ""} · CNPJ ${esc(e.cnpj)} · ${esc(e.municipio)}/${esc(e.uf)}</p>
+      <p>${esc(e.por_que)} <a href="${esc(e.documento)}">Documento</a></p>
+      <dl class="empresa-dados">
+        <div><dt>Aberta em</dt><dd>${dataBRiso(e.abertura)}${anos !== null ? ` (${anos} anos)` : ""}</dd></div>
+        <div><dt>Capital social</dt><dd>${e.capital_social != null ? `R$ ${fmt(e.capital_social, 2)}` : "—"}</dd></div>
+        <div><dt>Atividade principal</dt><dd>${esc(e.atividade || "—")}</dd></div>
+        <div><dt>Natureza</dt><dd>${esc(e.natureza || "—")}</dd></div>
+      </dl>
+      <h4>Sócios e administradores</h4>
+      <ul class="socios">${nomeados.map((s) => `<li><strong>${s.ficha ? `<a href="envolvidos.html?id=${esc(s.ficha)}">${esc(s.nome)}</a>` : esc(s.nome)}</strong>${s.tipo === "empresa" ? " (empresa)" : ""} · ${esc(s.qualificacao)} · desde ${dataBRiso(s.entrada)}${s.representante ? ` · representada por ${esc(s.representante)}` : ""}</li>`).join("")}
+        ${depois ? `<li class="nota">${depois} ${depois > 1 ? "pessoas entraram" : "pessoa entrou"} depois de 2021 (sem relação com os fatos; nome na cópia da Receita)</li>` : ""}</ul>
+      <p class="nota">📄 <a href="${esc(e.fonte)}">Consulta pública</a> · <a href="${esc(e.copia)}">cópia arquivada</a></p>
+    </article>`;
+  }).join("");
+}
+if (receita) {
+  const sel = document.getElementById("caso-empresa");
+  sel.insertAdjacentHTML("beforeend", [...new Set(receita.empresas.map((e) => e.caso))].map((c) => `<option value="${c}">${esc(NOME_CASO[c] || c)}</option>`).join(""));
+  sel.addEventListener("input", desenharEmpresas);
+  document.getElementById("fonte-empresas").innerHTML = `Fonte: ${esc(receita.fonte)}, consultados em ${dataBRiso(receita.consultado_em)}. Dados: <a href="dados/empresas.json">empresas.json</a>, gerados por <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/scripts/gerar_empresas.py">scripts/gerar_empresas.py</a>.`;
+  desenharEmpresas();
+}

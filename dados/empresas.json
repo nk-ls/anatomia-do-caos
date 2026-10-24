@@ -1,0 +1,507 @@
+{
+ "consultado_em": "2026-10-24",
+ "fonte": "Dados abertos do CNPJ, Receita Federal (via minhareceita.org / brasilapi.com.br)",
+ "empresas": [
+  {
+   "cnpj": "03.394.819/0001-79",
+   "nome": "Precisa Medicamentos (hoje OVS Importadora)",
+   "caso": "covaxin",
+   "por_que": "Precisa Medicamentos (hoje OVS Importadora): representante da Bharat no contrato da Covaxin. Declarada inidônea pelo TCU e pela CGU.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf",
+   "razao_social": "OVS IMPORTADORA LTDA.",
+   "nome_fantasia": null,
+   "abertura": "1999-08-23",
+   "situacao": "ATIVA",
+   "data_situacao": "2001-02-25",
+   "capital_social": 12952989,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Comércio atacadista de medicamentos e drogas de uso humano",
+   "municipio": "ITAPEVI",
+   "uf": "SP",
+   "socios": [
+    {
+     "nome": "FRANCISCO EMERSON MAXIMIANO",
+     "depois_dos_fatos": false,
+     "ficha": "francisco-maximiano",
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2020-06-25",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "GLOBAL GESTAO EM SAUDE S.A.",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2014-07-23",
+     "tipo": "empresa",
+     "cnpj": null,
+     "representante": "LUIS ANTONIO BLOTTA"
+    },
+    {
+     "nome": "OVS IMPORTADORA LTDA.",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Cotas em Tesouraria",
+     "entrada": "2005-09-26",
+     "tipo": "empresa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/03394819000179",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/03394819000179.json"
+  },
+  {
+   "cnpj": "10.375.666/0001-88",
+   "nome": "Global Gestão em Saúde",
+   "caso": "global",
+   "por_que": "Global Gestão em Saúde: recebeu R$ 19,9 milhões adiantados em 2017 sem entregar os remédios; sócia majoritária da Precisa, segundo a CPI.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf",
+   "razao_social": "GLOBAL GESTAO EM SAUDE S.A.",
+   "nome_fantasia": null,
+   "abertura": "2008-09-26",
+   "situacao": "ATIVA",
+   "data_situacao": "2008-09-26",
+   "capital_social": 30748556,
+   "natureza": "Sociedade Anônima Fechada",
+   "atividade": "Atividades de apoio à gestão de saúde",
+   "municipio": "SAO PAULO",
+   "uf": "SP",
+   "socios": [
+    {
+     "nome": "FRANCISCO EMERSON MAXIMIANO",
+     "depois_dos_fatos": false,
+     "ficha": "francisco-maximiano",
+     "qualificacao": "Presidente",
+     "entrada": "2020-07-07",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "WELLYNGTON FERREIRA GONCALVES",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Diretor",
+     "entrada": "2019-05-06",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/10375666000188",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/10375666000188.json"
+  },
+  {
+   "cnpj": "23.706.333/0001-36",
+   "nome": "FIB Bank",
+   "caso": "covaxin",
+   "por_que": "FIB Bank: deu a carta de fiança da garantia do contrato da Covaxin sem ser instituição autorizada pelo Banco Central. Declarado inidôneo pelo TCU.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf",
+   "razao_social": "FIB BANK GARANTIA DE FIANCAS FIDEJUSSORIAS S/A",
+   "nome_fantasia": "FIJI GARANTIAS S/A",
+   "abertura": "2015-11-20",
+   "situacao": "NULA",
+   "data_situacao": "2015-11-20",
+   "capital_social": 7500000000,
+   "natureza": "Sociedade Anônima Fechada",
+   "atividade": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",
+   "municipio": "BARUERI",
+   "uf": "SP",
+   "socios": [
+    {
+     "nome": "LUIZ HENRIQUE LOURENCO FORMIGA",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Diretor",
+     "entrada": "2020-09-30",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "ROBERTO PEREIRA RAMOS JUNIOR",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Presidente",
+     "entrada": "2017-11-22",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/23706333000136",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/23706333000136.json"
+  },
+  {
+   "cnpj": "22.627.911/0001-86",
+   "nome": "MB Guassu",
+   "caso": "covaxin",
+   "por_que": "MB Guassu: a CGU estendeu a ela a multa aplicada ao FIB Bank (abuso da personalidade jurídica), segundo o Acórdão TCU 1.912/2024.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf",
+   "razao_social": "MB GUASSU ADMINISTRADORA DE BENS PROPRIOS LTDA",
+   "nome_fantasia": null,
+   "abertura": "2015-06-10",
+   "situacao": "INAPTA",
+   "data_situacao": "2026-06-05",
+   "capital_social": 2000000,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Outras sociedades de participação, exceto holdings",
+   "municipio": "SAO PAULO",
+   "uf": "SP",
+   "socios": [
+    {
+     "nome": "FRANCISCO VALDERI FERNANDES DE LIMA",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2015-06-10",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "SEBASTIAO FERNANDES DE LIMA",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2015-06-10",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/22627911000186",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/22627911000186.json"
+  },
+  {
+   "cnpj": "11.378.090/0001-75",
+   "nome": "Pico do Juazeiro",
+   "caso": "covaxin",
+   "por_que": "Pico do Juazeiro: a CGU estendeu a ela a multa aplicada ao FIB Bank (abuso da personalidade jurídica), segundo o Acórdão TCU 1.912/2024.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf",
+   "razao_social": "PICO DO JUAZEIRO PARTICIPACOES E ADMINISTRACAO LTDA",
+   "nome_fantasia": null,
+   "abertura": "2009-11-27",
+   "situacao": "ATIVA",
+   "data_situacao": "2009-11-27",
+   "capital_social": 32000000,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Outras sociedades de participação, exceto holdings",
+   "municipio": "CURITIBA",
+   "uf": "PR",
+   "socios": [
+    {
+     "nome": "INFINITE GARANTIAS - FUNDO DE INVESTIMENTOS EM PARTICIPACOES",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2023-02-27",
+     "tipo": "empresa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "RICARDO BENETTI",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2010-03-30",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/11378090000175",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/11378090000175.json"
+  },
+  {
+   "cnpj": "07.376.572/0001-19",
+   "nome": "Profit Bank",
+   "caso": "covaxin",
+   "por_que": "Profit Bank: outra emissora de garantias sem validade em contratos públicos; inidônea por 3 anos junto com o FIB Bank (Acórdão TCU 1.912/2024).",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf",
+   "razao_social": "P.B. INVESTMENT EMPRESARIAL S/A",
+   "nome_fantasia": "PROFIT BANK",
+   "abertura": "2005-05-09",
+   "situacao": "INAPTA",
+   "data_situacao": "2023-10-25",
+   "capital_social": 481190000,
+   "natureza": "Sociedade Anônima Fechada",
+   "atividade": "Outras atividades de serviços financeiros não especificadas anteriormente",
+   "municipio": "GOIANIA",
+   "uf": "GO",
+   "socios": [
+    {
+     "nome": "ANA CLAUDIA DE ABREU BARRETOS",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Diretor",
+     "entrada": "2011-11-01",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "MARLENE APARECIDA DOS SANTOS",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Presidente",
+     "entrada": "2011-11-01",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/07376572000119",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/07376572000119.json"
+  },
+  {
+   "cnpj": "24.893.687/0001-08",
+   "nome": "VTCLog",
+   "caso": "vtclog",
+   "por_que": "VTCLog: operadora logística do Ministério da Saúde (Contrato 59/2018), alvo do aditivo de R$ 18,98 milhões barrado pelo TCU.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf",
+   "razao_social": "VTC OPERADORA LOGISTICA LTDA",
+   "nome_fantasia": "VTCLOG",
+   "abertura": "1988-03-01",
+   "situacao": "ATIVA",
+   "data_situacao": "2005-11-03",
+   "capital_social": 15000000,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Agenciamento de cargas, exceto para o transporte marítimo",
+   "municipio": "BRASILIA",
+   "uf": "DF",
+   "socios": [
+    {
+     "nome": null,
+     "depois_dos_fatos": true,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2025-02-20",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": null,
+     "depois_dos_fatos": true,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2025-02-20",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "RAIMUNDO NONATO BRASIL",
+     "depois_dos_fatos": false,
+     "ficha": "raimundo-nonato-brasil",
+     "qualificacao": "Sócio",
+     "entrada": "1998-06-15",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": null,
+     "depois_dos_fatos": true,
+     "ficha": null,
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2024-12-31",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/24893687000108",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/24893687000108.json"
+  },
+  {
+   "cnpj": "01.017.250/0001-05",
+   "nome": "Voetur Turismo",
+   "caso": "vtclog",
+   "por_que": "Voetur Turismo: do mesmo grupo da VTCLog, segundo a CPI (a VTCLog se chamava Voetur Cargas e Encomendas).",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+   "razao_social": "VOETUR TURISMO E REPRESENTACOES LTDA",
+   "nome_fantasia": "VOETUR VIAGENS",
+   "abertura": "1984-10-31",
+   "situacao": "ATIVA",
+   "data_situacao": "2005-11-03",
+   "capital_social": 2600000,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Agências de viagens",
+   "municipio": "BRASILIA",
+   "uf": "DF",
+   "socios": [
+    {
+     "nome": null,
+     "depois_dos_fatos": true,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2025-02-19",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "HUMBERTO AGENOR CANCADO LIMA",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2020-01-20",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": null,
+     "depois_dos_fatos": true,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2025-02-19",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": null,
+     "depois_dos_fatos": true,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2025-02-19",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/01017250000105",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/01017250000105.json"
+  },
+  {
+   "cnpj": "11.342.178/0001-37",
+   "nome": "RC4 Incorporações",
+   "caso": "barros",
+   "por_que": "RC4 Incorporações: apontada pela CPI como empresa de Ricardo Barros que faturou R$ 2,22 milhões de 2018 a 2020 com um funcionário e sem notas fiscais.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+   "razao_social": "RC4 INCORPORACOES LTDA",
+   "nome_fantasia": null,
+   "abertura": "2009-11-10",
+   "situacao": "ATIVA",
+   "data_situacao": "2009-11-10",
+   "capital_social": 20000,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Incorporação de empreendimentos imobiliários",
+   "municipio": "MARINGA",
+   "uf": "PR",
+   "socios": [
+    {
+     "nome": "MARIA APARECIDA BORGHETTI",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2013-06-07",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "RICARDO JOSE MAGALHAES BARROS",
+     "depois_dos_fatos": false,
+     "ficha": "ricardo-barros",
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2013-06-07",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/11342178000137",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/11342178000137.json"
+  },
+  {
+   "cnpj": "80.269.079/0001-90",
+   "nome": "BB Corretora",
+   "caso": "barros",
+   "por_que": "BB Corretora: apontada pela CPI como empresa de Ricardo Barros que faturou R$ 2,3 milhões em 2019 sem emitir nota fiscal.",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+   "razao_social": "BB CORRETORA LTDA",
+   "nome_fantasia": "TECNO IMOVEIS",
+   "abertura": "1987-09-10",
+   "situacao": "ATIVA",
+   "data_situacao": "2005-11-03",
+   "capital_social": 10000,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente",
+   "municipio": "MARINGA",
+   "uf": "PR",
+   "socios": [
+    {
+     "nome": null,
+     "depois_dos_fatos": true,
+     "ficha": null,
+     "qualificacao": "Administrador",
+     "entrada": "2025-06-04",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    },
+    {
+     "nome": "RC3 INCORPORACOES LTDA",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio",
+     "entrada": "2019-06-10",
+     "tipo": "empresa",
+     "cnpj": null,
+     "representante": "RICARDO JOSE MAGALHAES BARROS"
+    },
+    {
+     "nome": "RICARDO JOSE MAGALHAES BARROS",
+     "depois_dos_fatos": false,
+     "ficha": "ricardo-barros",
+     "qualificacao": "Sócio",
+     "entrada": "1987-09-10",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/80269079000190",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/80269079000190.json"
+  },
+  {
+   "cnpj": "22.528.133/0001-78",
+   "nome": "Sulminas",
+   "caso": "cloroquina",
+   "por_que": "Sulminas: vendeu ao Exército o sal da cloroquina; declarada inidônea por 1 ano por uso indevido do regime de microempresa (Acórdão TCU 2.162/2022).",
+   "documento": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2162-2022_Plenario.pdf",
+   "razao_social": "SULMINAS SUPLEMENTOS E NUTRICAO LTDA",
+   "nome_fantasia": "SULMINAS",
+   "abertura": "2015-05-26",
+   "situacao": "ATIVA",
+   "data_situacao": "2015-05-26",
+   "capital_social": 30000,
+   "natureza": "Sociedade Empresária Limitada",
+   "atividade": "Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente",
+   "municipio": "CAMPANHA",
+   "uf": "MG",
+   "socios": [
+    {
+     "nome": "ROSEANA MAZUCHI DOS SANTOS DIAS MAZZARO",
+     "depois_dos_fatos": false,
+     "ficha": null,
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2015-05-26",
+     "tipo": "pessoa",
+     "cnpj": null,
+     "representante": null
+    }
+   ],
+   "fonte": "https://minhareceita.org/22528133000178",
+   "copia": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/receita_cnpj/22528133000178.json"
+  }
+ ]
+}

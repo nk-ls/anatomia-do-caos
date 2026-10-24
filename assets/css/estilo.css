@@ -268,3 +268,16 @@ button.barra-linha { width: 100%; background: none; border: 0; font: inherit; te
 .grafico-uf .escolhido .barra-rotulo { font-weight: 700; color: var(--texto); }
 .linha-brasil { font-size: .88rem; color: var(--suave); padding-top: 6px; border-top: 1px dashed var(--borda); }
 .etiqueta.uf { color: var(--texto); }
+
+/* Empresas (Receita Federal) */
+.empresas { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; margin-top: 12px; }
+.empresa { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 14px 16px; }
+.empresa-topo { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 10px; align-items: center; }
+.empresa h3 { margin: 0; font-size: 1.05rem; }
+.empresa h4 { margin: 10px 0 4px; font-size: .92rem; }
+.empresa p { margin: 6px 0; }
+.empresa-dados { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 12px; margin: 8px 0; font-size: .88rem; }
+.empresa-dados dt { color: var(--suave); font-size: .78rem; }
+.empresa-dados dd { margin: 0; }
+.socios { padding-left: 18px; margin: 0; font-size: .9rem; }
+@media (max-width: 400px) { .empresas { grid-template-columns: 1fr; } .empresa-dados { grid-template-columns: 1fr; } }

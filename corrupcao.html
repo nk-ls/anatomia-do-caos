@@ -36,6 +36,7 @@
       <li><a href="#quanto">Quanto dinheiro, e onde ele parou</a></li>
       <li><a href="#rede-dinheiro">A rede do dinheiro</a></li>
       <li><a href="#casos">Os casos, passo a passo</a></li>
+      <li><a href="#empresas">Quem está por trás das empresas (Receita Federal)</a></li>
       <li><a href="#limites">O que não sabemos</a></li>
     </ol>
   </nav>
@@ -84,12 +85,22 @@
   <div id="lista-casos"></div>
 </section>
 
+<section id="empresas">
+  <h2>5. Quem está por trás das empresas</h2>
+  <p>Cadastro e quadro de sócios e administradores de cada empresa brasileira do caminho do dinheiro, pelos <strong>dados abertos do CNPJ da Receita Federal</strong>. Cada empresa só aparece aqui porque um documento oficial a liga a um caso. Empresas estrangeiras (Bharat, Madison Biotech, Davati) não estão na base da Receita.</p>
+  <div class="aviso"><strong>Como ler.</strong> Constar do quadro de uma empresa <strong>não</strong> indica participação em irregularidade. O quadro é o <strong>atual</strong>, da data da consulta, e não o da época dos fatos: a data de entrada mostra desde quando cada sócio está lá, e quem saiu antes não aparece. Pessoas que entraram depois de 2021 só são contadas, não nomeadas, porque não têm relação com os fatos; o nome delas está na cópia da Receita. Não publicamos CPF. Situação do CNPJ: <strong>inapta</strong> é a empresa que deixou de prestar contas à Receita; <strong>nula</strong> é a inscrição anulada pela Receita.</div>
+  <div class="filtros"><label for="caso-empresa">Caso</label> <select id="caso-empresa"><option value="">Todos</option></select></div>
+  <div class="empresas" id="lista-empresas"></div>
+  <p class="nota" id="fonte-empresas"></p>
+</section>
+
 <section id="limites">
-  <h2>5. O que não sabemos</h2>
+  <h2>6. O que não sabemos</h2>
   <ul>
     <li>O desfecho da investigação da Covaxin na Justiça Federal do DF, depois que o STF a enviou para a primeira instância: não há andamento público localizado.</li>
     <li>O resultado do inquérito sobre a acusação de propina da Davati.</li>
     <li>Para onde foram os mais de R$ 5 milhões sacados em espécie das contas da VTCLog: o relatório do COAF está sob sigilo na CPI.</li>
+    <li>Quem eram os sócios de cada empresa <strong>na época dos fatos</strong>: os dados abertos da Receita só trazem o quadro atual. Na VTCLog, por exemplo, a CPI listou em 2021 três sócios, e hoje só um deles continua no quadro; o histórico completo está nas juntas comerciais.</li>
     <li>Se as multas da CGU à Precisa (R$ 3,88 milhões) e à Global (R$ 21,7 milhões) foram pagas.</li>
   </ul>
   <p>Tem um documento oficial que responde a alguma dessas perguntas? <a href="https://github.com/nk-ls/anatomia-do-caos/issues">Abra uma issue com o link</a>.</p>
