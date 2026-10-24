@@ -160,3 +160,31 @@ tr.brasil td { font-weight: 700; background: color-mix(in srgb, var(--destaque) 
 .cadeira { display: flex; align-items: center; gap: 8px; border: 1px solid var(--borda); border-radius: 999px; padding: 4px 12px 4px 4px; background: var(--superficie); font: inherit; color: inherit; cursor: pointer; }
 .cadeira .bola { width: 22px; height: 22px; border-radius: 50%; display: grid; place-items: center; color: #fff; font-size: .75rem; font-weight: 700; }
 .cadeira.sim .bola { background: var(--favor); } .cadeira.nao .bola { background: var(--contra); }
+
+/* Rede em tela cheia */
+body.tela-cheia { height: 100vh; overflow: hidden; background: #0b0d10; color: #e8e6e1; }
+.rede-topo { display: flex; align-items: center; gap: 10px; padding: 8px 12px; background: #121417; border-bottom: 1px solid #2e333a; flex-wrap: wrap; }
+.rede-topo .marca { color: #e8e6e1; margin-right: auto; }
+.rede-busca input { font: inherit; padding: 7px 10px; border-radius: 8px; border: 1px solid #2e333a; background: #1b1e23; color: #e8e6e1; width: min(320px, 60vw); }
+.botao { font: inherit; font-size: .9rem; padding: 7px 12px; border-radius: 8px; border: 1px solid #2e333a; background: #1b1e23; color: #e8e6e1; text-decoration: none; cursor: pointer; }
+.rede-cheia { position: relative; height: calc(100vh - 54px); }
+.rede-cheia .rede-quadro { height: 100%; border: 0; border-radius: 0; }
+.rede-cheia .rede-svg { height: 100%; aspect-ratio: auto; }
+.rede-cheia .rede-controles { position: absolute; left: 12px; bottom: 12px; top: auto; right: auto; }
+.rede-painel.flutuante { position: absolute; right: 12px; top: 12px; width: min(380px, calc(100vw - 24px)); max-height: calc(100% - 24px); background: rgba(27, 30, 35, .96); color: #e8e6e1; border-color: #2e333a; }
+.rede-painel.flutuante a { color: #8ab8f0; }
+.rede-filtros { position: absolute; left: 12px; top: 12px; width: min(320px, calc(100vw - 24px)); max-height: calc(100% - 80px); overflow: auto; background: rgba(27, 30, 35, .96); border: 1px solid #2e333a; border-radius: var(--raio); padding: 12px 14px; z-index: 2; }
+.rede-filtros h3 { font-size: .85rem; text-transform: uppercase; letter-spacing: .04em; color: #a3a8b0; margin: 10px 0 6px; }
+.rede-filtros a { color: #8ab8f0; }
+.chip { display: flex; align-items: center; gap: 6px; font-size: .88rem; padding: 3px 0; }
+.ponto { display: inline-block; width: 11px; height: 11px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
+.rede-dica { position: absolute; pointer-events: none; background: rgba(0,0,0,.85); color: #fff; font-size: .82rem; padding: 4px 8px; border-radius: 6px; white-space: nowrap; z-index: 3; }
+.rede-quadro .rot-pessoa { display: inline; }
+@media (max-width: 700px) {
+  .rede-painel.flutuante { top: auto; bottom: 0; right: 0; width: 100%; max-height: 45%; border-radius: var(--raio) var(--raio) 0 0; }
+}
+.rede-painel .fechar { float: right; background: none; border: 0; color: inherit; font-size: 1.6rem; line-height: 1; cursor: pointer; }
+.rede-filtros .lista-simples { font-size: .88rem; padding-left: 16px; }
+.rede-filtros #ajuda h3 { margin-top: 0; }
+@media (max-width: 700px) { .rede-cheia .rede-controles { top: 12px; bottom: auto; left: auto; right: 12px; } }
+.rede-aviso { position: absolute; left: 50%; bottom: 14px; transform: translateX(-50%); background: rgba(27,30,35,.95); border: 1px solid #2e333a; border-radius: 999px; padding: 6px 14px; font-size: .85rem; margin: 0; max-width: calc(100vw - 120px); text-align: center; }

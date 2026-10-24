@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rede de conexões — Anatomia do Caos</title>
+<meta name="description" content="Grafo em tela cheia: quem fez o quê na pandemia de Covid-19 no Brasil, com as fontes de cada ato.">
+<link rel="stylesheet" href="assets/css/estilo.css">
+</head>
+<body class="tela-cheia">
+<header class="rede-topo">
+  <a class="marca" href="index.html">Anatomia do Caos</a>
+  <form class="rede-busca" id="form-busca" role="search">
+    <label for="busca" hidden>Buscar</label>
+    <input id="busca" list="nomes" placeholder="Buscar pessoa ou tema" autocomplete="off"><datalist id="nomes"></datalist>
+  </form>
+  <button type="button" class="botao" id="abrir-filtros" aria-expanded="false" aria-controls="filtros">Filtros e ajuda</button>
+  <a class="botao" href="investigacao.html">Investigação</a>
+</header>
+<div class="rede-cheia">
+  <div class="rede-quadro" id="quadro"><p class="nota" style="color:#e5e7eb;padding:16px">Carregando a rede…</p></div>
+  <aside class="rede-filtros" id="filtros" hidden>
+    <div id="ajuda"></div>
+    <h3>Ligações</h3><div id="f-ligas"></div>
+    <h3>Temas</h3><div id="f-temas"></div>
+    <h3>CPI</h3><label class="chip"><input type="checkbox" id="f-cpi"> só quem teve pedido de indiciamento</label>
+    <h3>Grupos (cor)</h3><div id="f-grupos" class="legenda"></div>
+    <p class="nota">Regras de tema: <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/scripts/gerar_rede.py">gerar_rede.py</a>. Dados: <a href="dados/rede.json">rede.json</a>.</p>
+  </aside>
+  <aside class="rede-painel flutuante" id="painel" aria-live="polite" hidden></aside>
+  <p class="rede-aviso" id="aviso">Passe o mouse ou toque num ponto. <strong>Filtros e ajuda</strong> explicam as cores.</p>
+  <div class="rede-controles"><button type="button" data-z="0.8" aria-label="Aproximar">+</button><button type="button" data-z="1.25" aria-label="Afastar">−</button><button type="button" data-z="0" aria-label="Ver tudo">⤢</button></div>
+</div>
+<script type="module">
+import { montarRede, COR_TEMA, COR_LIGA, COR_GRUPO } from "./assets/js/rede.js";
+const $ = (id) => document.getElementById(id);
+const idInicial = new URLSearchParams(location.search).get("id");
+const NOMES = { favor: "a favor", contra: "contra", ambos: "a favor e contra", processual: "só processual" };
+const rede = await montarRede($("quadro"), $("painel"), {
+  largura: 1600, altura: Math.round(1600 * Math.min(Math.max(innerHeight / innerWidth, 0.55), 2.2)), controles: false, painelFlutuante: true,
+  aoSelecionar: (n) => history.replaceState(null, "", n ? `rede.html?id=${encodeURIComponent(n.id)}` : "rede.html"),
+});
+$("ajuda").innerHTML = rede.ajuda();
+$("f-ligas").innerHTML = Object.entries(COR_LIGA).map(([k, c]) => `<label class="chip"><input type="checkbox" data-liga="${k}" checked><span class="ponto" style="background:${c}"></span>${NOMES[k]}</label>`).join("");
+$("f-temas").innerHTML = rede.temas.map((t) => `<label class="chip"><input type="checkbox" data-tema="${t.id}" checked><span class="ponto" style="background:${COR_TEMA[t.id.slice(5)]}"></span>${t.nome}</label>`).join("");
+$("f-grupos").innerHTML = Object.entries(COR_GRUPO).map(([g, c]) => `<span class="chip"><span class="ponto" style="background:${c}"></span>${g}</span>`).join("");
+$("filtros").addEventListener("change", (e) => {
+  const i = e.target;
+  if (i.dataset.liga) rede.alternarLiga(i.dataset.liga, i.checked);
+  if (i.dataset.tema) rede.alternarTema(i.dataset.tema, i.checked);
+  if (i.id === "f-cpi") rede.soCpi(i.checked);
+});
+$("abrir-filtros").addEventListener("click", (e) => { const f = $("filtros"); f.hidden = !f.hidden; e.target.setAttribute("aria-expanded", String(!f.hidden)); });
+document.querySelector(".rede-controles").addEventListener("click", (e) => { const z = e.target.dataset.z; if (z !== undefined) rede.zoom(+z); });
+$("nomes").innerHTML = rede.nos.map((n) => `<option value="${n.nome.replace(/"/g, "&quot;")}">`).join("");
+$("form-busca").addEventListener("submit", (e) => { e.preventDefault(); rede.buscar($("busca").value); });
+$("busca").addEventListener("change", () => rede.buscar($("busca").value));
+if (idInicial) rede.selecionarPorId(idInicial);
+setTimeout(() => $("aviso").remove(), 7000);
+</script>
+</body>
+</html>

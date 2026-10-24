@@ -29,7 +29,7 @@ async function iniciar() {
   votos();
   $("caminho").innerHTML = CAMINHO.map((c) => etapa({ titulo: c.titulo, quando: c.data, texto: c.texto, fontes: c.fontes, tipo: c.tipo }, c.votos)).join("");
   $("fluxo-sistema").innerHTML = SISTEMA.map((s) => etapa({ titulo: s.titulo, resumo: s.resumo, texto: s.texto, fontes: s.links })).join("");
-  try { await montarRede($("rede-quadro"), $("rede-painel")); }
+  try { const rede = await montarRede($("rede-quadro"), $("rede-painel")); document.querySelector("#rede-busca")?.addEventListener("change", (e) => rede.buscar(e.target.value)); document.getElementById("rede-nomes").innerHTML = rede.nos.map((n) => `<option value="${esc(n.nome)}">`).join(""); }
   catch (e) { $("rede-quadro").innerHTML = `<p class="aviso">${esc(e.message)}</p>`; }
 }
 iniciar();
