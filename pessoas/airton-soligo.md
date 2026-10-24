@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (alegação) Atuou no Ministério da Saúde sob Pazuello como "número 2" informal, reunindo-se com gestores sem cargo formal [fonte](https://www.metropoles.com/brasil/numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid)
+- **2020** (alegação) Atuou no Ministério da Saúde sob Pazuello como "número 2" informal, reunindo-se com gestores sem cargo formal [fonte](https://www.metropoles.com/brasil/numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/metropoles-com-brasil-numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid-aa11ea21/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

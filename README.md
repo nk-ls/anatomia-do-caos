@@ -4,7 +4,7 @@
 
 Este trabalho é dedicado às **mais de 716 mil pessoas** cuja morte por Covid-19 foi registrada pelo Ministério da Saúde, e às vidas que a pandemia levou além da contagem oficial: as estimativas de mortes acima do esperado passam de **850 mil** só em 2020 e 2021 e chegam a cerca de **934 mil** até 2024.
 
-Estima-se que cada morte por Covid deixe cerca de **nove parentes próximos** de luto: avós, pais, irmãos, cônjuges e filhos. Aplicada só às mortes registradas, essa conta chega a **pelo menos 6,4 milhões de brasileiros** que perderam alguém que amavam. Só em 2020 e 2021, cerca de **149 mil crianças e adolescentes** perderam o pai, a mãe ou os dois.
+Estima-se que cada morte por Covid deixe cerca de **nove parentes próximos** de luto: avós, pais, irmãos, cônjuges e filhos. Aplicada só às mortes registradas, essa conta chega a **cerca de 6,4 milhões de brasileiros** que perderam alguém que amavam. Só em 2020 e 2021, cerca de **149 mil crianças e adolescentes** perderam o pai, a mãe ou os dois.
 
 **A Bandeira do Brasil é do povo.** Ela pertence a todos os brasileiros e não deve servir a nenhum lado político. O Brasil é do seu povo.
 
@@ -16,7 +16,9 @@ O povo judeu repete *Zachor*, "lembra-te", e mantém viva a memória do Holocaus
 
 <sub>Números: mortes registradas pelo Ministério da Saúde, 716.626 até 30/08/2025, última atualização do painel oficial ([covid.saude.gov.br](https://covid.saude.gov.br/)); as comparações entre países abaixo usam a série da OMS/Our World in Data (702.116, até ago/2024). Excesso de mortes (mortes de qualquer causa acima do esperado, inclusive as indiretas, como por falta de atendimento): ≈ 934 mil pelo modelo do The Economist (até jun/2024) e 851.606 em 2020–2021 (299.324 em 2020 e 552.282 em 2021) pelo [painel do Conass com a Vital Strategies e os cartórios](https://cieges.conass.org.br/paineis/d6966d83-1709-4956-abb2-3d2ceb2b7b0d), que conta só causas naturais; são estimativas, com métodos e períodos diferentes (o painel também traz 2022, mas com o número esperado de mortes repetido de 2021, por isso não usamos esse ano). "Nove parentes por morte" é o multiplicador de luto calculado para os EUA por [Verdery et al., PNAS, 2020](https://ideas.repec.org/a/nas/journl/v117y2020p17695-17701.html), usado aqui como aproximação, pois não há estudo equivalente para o Brasil (9 × 716 mil ≈ 6,4 milhões). Órfãos: Steyn et al., *Lancet Regional Health – Americas*, 29/09/2025, DOI [10.1016/j.lana.2025.101252](https://doi.org/10.1016/j.lana.2025.101252) (149 mil perderam pai ou mãe; 284 mil contando outros cuidadores da família). Definição de profanação: [Dicio](https://www.dicio.com.br/profanacao/). Este texto é a posição do autor; ver [Posicionamento do autor](docs/posicionamento-do-autor.md).</sub>
 
-> ✅ **Revisado.** Dados e gráficos reproduzíveis; caso brasileiro conferido, com cópias datadas de 157 das 182 fontes e dos documentos oficiais no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes); revisão independente por amostra e auditoria completa em 24/10/2026; correções registradas em [docs/revisao.md](docs/revisao.md). Erros remanescentes podem ser apontados por *issue*.
+> ✅ **Revisado.** Dados e gráficos reproduzíveis; caso brasileiro conferido, com cópias datadas de 493 das 550 fontes citadas (contagem de 24/10/2026; a atual está em Referências) e dos documentos oficiais no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes); revisão independente por amostra e auditoria completa em 24/10/2026; correções registradas em [docs/revisao.md](docs/revisao.md). Erros remanescentes podem ser apontados por *issue*.
+
+> **Sobre o nome.** O levantamento partiu do documentário *Anatomia do Caos* (2026), uma obra autoral que não se apresenta como neutra ([roteiro e recepção](docs/documentario.md)). Aqui o filme é só ponto de partida: cada fato é conferido em fonte própria, com [cadeia de custódia](docs/cadeia-de-custodia.md) auditável.
 
 **Site:** [nk-ls.github.io/anatomia-do-caos](https://nk-ls.github.io/anatomia-do-caos/) · **[Investigação aberta](https://nk-ls.github.io/anatomia-do-caos/investigacao.html)**: rede de conexões, achados com provas, votos da CPI e seus efeitos (HTML, CSS e JavaScript, sem dependências; lê as mesmas planilhas deste repositório)
 
@@ -93,7 +95,7 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 
 ## 6. O caso brasileiro: decisões do governo federal
 
-> 🔎 **Conferido pela busca** (24/10/2026). Cópias datadas de 157 das 182 fontes estão no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Detalhes, citações e todos os links nos documentos indicados. [Como verificamos](docs/verificacao.md).
+> 🔎 **Conferido pela busca** (24/10/2026). Cópias datadas de 493 das 550 fontes citadas (contagem de 24/10/2026; a atual está em Referências) estão no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Detalhes, citações e todos os links nos documentos indicados. [Como verificamos](docs/verificacao.md).
 
 **Vacinas oferecidas e não respondidas** ([cronologia completa](docs/cronologia.md) · [as 81 correspondências da Pfizer, doses vencidas e fura-fila](docs/pfizer-e-desvios.md))
 
@@ -107,7 +109,7 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 - **Janeiro de 2021** — contrato da CoronaVac em 07/01; primeira vacinada, a enfermeira Mônica Calazans, em 17/01. Contrato da Pfizer só em março de 2021 (anunciado em 15/03, assinado em 18/03); o primeiro lote chegou em 29/04/2021.
 - **O Brasil poderia ter sido o primeiro?** Dimas Covas disse à CPI que o Brasil *"poderia ser o primeiro país do mundo a começar a vacinação não fossem os percalços"*. É a avaliação dele, condicional, sobre começar a vacinar.
 
-**Falas do presidente** — *"Chega de frescura, de mimimi […] A própria Bíblia diz […] 'Não temas'"* (04/03/2021, um dia depois de um recorde de mortes); *"gripezinha"* (20 e 24/03/2020); *"E daí? Lamento. Quer que eu faça o quê?"* (28/04/2020); *"país de maricas"* (10/11/2020); *"não vou tomar vacina e ponto final"* (15/12/2020); *"se você virar um jacaré, é problema seu"* (17/12/2020); imitação de pessoa com falta de ar (18/03/2021); live associando falsamente a vacina à aids (21/10/2021), removida pelas plataformas.
+**Falas do presidente** — *"Chega de frescura, de mimimi […] A própria Bíblia diz 'Não temas'"* (04/03/2021, um dia depois de um recorde de mortes); *"gripezinha"* (20 e 24/03/2020); *"E daí? Lamento. Quer que eu faça o quê?"* (28/04/2020); *"país de maricas"* (10/11/2020); *"não vou tomar vacina e ponto final"* (15/12/2020); *"se você virar um jacaré, é problema seu"* (17/12/2020); imitação de pessoa com falta de ar (18/03/2021); live associando falsamente a vacina à aids (21/10/2021), removida pelas plataformas.
 
 **Cloroquina** — orientação do Ministério da Saúde liberando o uso em casos leves (20/05/2020), mesmo sem evidência de benefício; produção de cerca de 3,2 milhões de comprimidos pelo laboratório do Exército em 2020; app TrateCov (jan/2021). Na CPI, Mandetta e o presidente da Anvisa, Antonio Barra Torres, confirmaram uma reunião no Planalto com proposta de mudar a bula da cloroquina para incluir a Covid. A Anvisa não aceitou.
 
@@ -123,9 +125,9 @@ Nenhum desses números é exato, e cada um depende de premissas explicadas no do
 
 **A CPI da Covid** ([quem foi apontado e o que aconteceu depois](docs/cpi.md)) — o relatório final, aprovado em 26/10/2021 por 7 votos a 4, pediu o indiciamento de **78 pessoas e 2 empresas**, entre elas o presidente da República por 9 crimes. Em 2022 a Procuradoria-Geral da República pediu o arquivamento da maior parte; em setembro de 2025 o STF autorizou um inquérito da Polícia Federal com 24 investigados (segundo o Correio Braziliense; o Poder360 fala em 22), que segue sob sigilo. ⚖️ **Pedido de indiciamento não é condenação**, e até out/2026, até onde as fontes mostram, ninguém foi condenado pelos fatos apontados pela CPI.
 
-**Todos os envolvidos, um por um** — [ficha de cada pessoa](pessoas/README.md) com o que fez **a favor** e **contra** o combate à pandemia, o pedido da CPI, o que aconteceu depois e o que ela diz em sua defesa. São 107 fichas, entre elas as 78 pessoas e 2 empresas apontadas pela CPI.
+**Todos os envolvidos, um por um** — [ficha de cada pessoa](pessoas/README.md) com o que fez **a favor** e **contra** o combate à pandemia, o pedido da CPI, o que aconteceu depois e o que ela diz em sua defesa. São 114 fichas, entre elas as 78 pessoas e 2 empresas apontadas pela CPI.
 
-**Quem atuou a favor da população** — Butantan, Fiocruz, SUS e profissionais de saúde, cientistas, Anvisa, imprensa e outros, com ato, data e ressalvas: [lista aberta](docs/quem-atuou.md).
+**Atos a favor do combate à pandemia** — de Butantan, Fiocruz, SUS e profissionais de saúde, cientistas, Anvisa, imprensa e outros, com ato, data e ressalvas: [lista aberta](docs/quem-atuou.md).
 
 ---
 

@@ -9,7 +9,7 @@ Antes da divulgação, dois revisores que não participaram da redação tentara
 
 ## Resultado
 
-- **Nenhuma acusação falsa encontrada.** Todo ato "contra" da amostra teve confirmação independente.
+- **Nenhuma acusação falsa encontrada.** Todo ato "contra" da amostra teve confirmação independente. Esta revisão conferiu a **exatidão** dos fatos; o **equilíbrio** (atos omitidos, régua igual para todos) foi avaliado depois, na revisão de neutralidade registrada abaixo.
 - **Amostra de atos:** 41 de 50 corretos e 9 com erro de data, de contexto ou de atribuição. **Os 9 foram corrigidos.**
 - **Números dos países:** todos conferem com a planilha (Brasil 326 por 100 mil, 19º; 3º nas Américas; 33º no excesso de mortes).
 
@@ -56,3 +56,24 @@ A lista completa, com antes, depois e página de cada correção, acompanha o hi
 - 13 fichas ainda só têm o pedido da CPI, sem atos documentados.
 
 Uma revisão por amostra não garante a ausência de erros. Encontrou um? Abra uma *issue* com a fonte, e a correção entra com registro.
+
+## Revisão de cadeia de custódia e neutralidade (24/10/2026)
+
+Pedida pelo autor com a regra: tudo no site tem de poder ser auditado, ser verídico e não ter lado político. Método e roteiro de conferência em [cadeia de custódia](cadeia-de-custodia.md).
+
+**Integridade e reprodutibilidade**
+- Todas as impressões digitais conferem: as 454 cópias de páginas da web com SHA-256 no `arquivo/manifesto.csv` e todas as pastas de `documentos/` (`sha256sum -c`), sem nenhum arquivo sem hash.
+- Nenhum link quebrado: 688 links do site para o arquivo de fontes, 490 links internos e 150 links dentro do arquivo de fontes.
+- Os scripts foram rodados de novo e reproduzem os dados publicados (gráficos, fichas, rede, caminho do dinheiro, estados). A lista de fontes estava desatualizada e foi corrigida no gerador: agora lê também as páginas e os dados do site.
+- Os 28 valores da página Caminho do dinheiro e os números da página inicial (716.626 óbitos, excesso de mortes, órfãos) foram procurados e encontrados, escritos iguais, nos documentos citados.
+- Cópias arquivadas passaram de 199 para **493 das 550 fontes citadas (90%)**. Foram arquivadas também as respostas brutas das APIs oficiais (painel do Ministério da Saúde, Câmara, Senado), os dados de saúde da página inicial e os documentos dos casos estaduais.
+
+**Neutralidade (revisão crítica independente, 37 achados; todos tratados)**
+- O grupo "Atuaram a favor da população" julgava pessoas, contra a regra de classificar só atos. Os grupos passaram a ser por função (por exemplo, "Senadores da CPI", "Governos estaduais", "Instituições de saúde e SUS"), e as cores da rede, por esfera de atuação; verde e vermelho ficam só para os atos.
+- Saíram das fichas os dados eleitorais de 2026 e os processos alheios à pandemia, que só apareciam para um dos lados.
+- A opinião do autor na página inicial ganhou o rótulo "opinião, não é dado verificado"; o item de símbolos religiosos saiu da cronologia e foi para o posicionamento do autor.
+- Mesma régua para atos parecidos: depoimentos, denúncias e condução da CPI passaram a "processual"; a viagem de João Doria a Miami virou ato próprio; o pedido de investigação contra Luis Miranda e seu arquivamento foram registrados.
+- Os 11 senadores titulares da CPI têm ficha (antes, só os 4 que votaram "sim"), com o voto de cada um e o voto em separado; saiu a única citação de voto, que era de um voto "não".
+- O Caminho do dinheiro passou a incluir seis casos estaduais e de consórcio, de partidos diferentes (Consórcio Nordeste, Rio de Janeiro, Pará, Amazonas, Santa Catarina, São Paulo), com o mesmo método.
+- Redação: estimativas descritas como estimativas ("cerca de 6,4 milhões"; o efeito do atraso da vacina como faixa de estudos); acusações atribuídas a quem acusa; "mentiu" trocado pela classificação da checagem; rótulos políticos retirados; o coautor parte interessada de um estudo foi identificado.
+- Fontes de linha editorial alinhada usadas como prova única foram trocadas por imprensa de referência (Correio Braziliense, A Gazeta/Agência Estado). A frase "A VACINA CHINESA DE JOÃO DORIA" foi confirmada na fonte arquivada; a frase "minha decisão é a de não adquirir", que só existe em tradução da Reuters, saiu.

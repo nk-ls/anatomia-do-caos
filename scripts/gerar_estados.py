@@ -25,7 +25,8 @@ REGIAO = {**{u: "Norte" for u in "AC AP AM PA RO RR TO".split()}, **{u: "Nordest
 DEPUTADOS = {"eduardo-bolsonaro": "Eduardo Bolsonaro", "bia-kicis": "Bia Kicis", "carla-zambelli": "Carla Zambelli", "carlos-jordy": "Carlos Jordy",
     "osmar-terra": "Osmar Terra", "ricardo-barros": "Ricardo Barros", "luis-miranda": "Luis Miranda", "eduardo-pazuello": "General Pazuello",
     "onyx-lorenzoni": "Onyx Lorenzoni"}
-SENADORES = {"flavio-bolsonaro": 5894, "omar-aziz": 5525, "randolfe-rodrigues": 5012, "renan-calheiros": 70, "otto-alencar": 5523}
+SENADORES = {"flavio-bolsonaro": 5894, "omar-aziz": 5525, "randolfe-rodrigues": 5012, "renan-calheiros": 70, "otto-alencar": 5523,
+             "tasso-jereissati": 3396, "humberto-costa": 5008, "eduardo-braga": 4994, "marcos-rogerio": 5422, "jorginho-mello": 5350, "luis-carlos-heinze": 1186, "eduardo-girao": 5976}
 NOTA_DEP = {"eduardo-pazuello": "Deputado federal a partir de 2023 (na pandemia, ministro da Saúde)",
             "onyx-lorenzoni": "Deputado federal até 2019 (na pandemia, ministro)"}
 # Cargo estadual, municipal ou sede da instituição, como descrito na ficha (dados/pessoas.csv, cargo_epoca).
@@ -48,15 +49,24 @@ MANUAL = {
         "daniella-aguiar", "paola-werneck", "carla-guerra", "rodrigo-esper", "fernando-oikawa", "daniel-baena", "joao-paulo-barros", "fernanda-igarashi"]},
 }
 
-def obter(url, cab=None):
+COPIAS = RAIZ.parent / "anatomia-do-caos-fontes" / "documentos" / "apis_oficiais"
+
+def obter(url, cab=None, copia=None):
+    """Baixa um JSON oficial e, se pedido, guarda a resposta BRUTA (byte a byte) no arquivo de fontes."""
     with urllib.request.urlopen(urllib.request.Request(url, headers={**UA, **(cab or {})}), timeout=60) as r:
-        return json.load(r)
+        bruto = r.read()
+    if copia:
+        COPIAS.mkdir(parents=True, exist_ok=True)
+        (COPIAS / copia).write_bytes(bruto)
+        with open(COPIAS / "ORIGEM.tsv", "a", encoding="utf-8") as f:
+            f.write(f"{copia}\t{url}\t{date.today().isoformat()}\n")
+    return json.loads(bruto)
 
 def norm(s):
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower().strip()
 
 def estados():
-    d = obter(PAINEL, {"X-Parse-Application-Id": "unAFkcaNDeXajurGB7LChj8SgQYS2ptm"})
+    d = obter(PAINEL, {"X-Parse-Application-Id": "unAFkcaNDeXajurGB7LChj8SgQYS2ptm"}, copia="ms_painel_PortalEstado.json")
     vac = vacinacao()
     linhas = []
     for x in sorted(d, key=lambda x: x["_id"]):
@@ -99,19 +109,46 @@ def vacinacao():
         soma[chave][l["dose"]] += int(float(l["n"]))
     return soma
 
+def achar_uf(dado):
+    """A UF do senador: na identificação ou, para mandatos encerrados, dentro do último mandato."""
+    if isinstance(dado, dict):
+        for k in ("UfParlamentar", "UfMandato"):
+            if isinstance(dado.get(k), str) and len(dado[k]) == 2:
+                return dado[k]
+        for v in dado.values():
+            r = achar_uf(v)
+            if r:
+                return r
+    elif isinstance(dado, list):
+        for v in reversed(dado):
+            r = achar_uf(v)
+            if r:
+                return r
+    return None
+
 def pessoas():
     fichas = {r["id"]: r for r in csv.DictReader(open(RAIZ / "dados/pessoas.csv", encoding="utf-8"))}
     saida = {}
     for pid, nome in DEPUTADOS.items():
         for leg in (57, 56, 55):
-            r = obter(f"https://dadosabertos.camara.leg.br/api/v2/deputados?nome={urllib.parse.quote(nome)}&idLegislatura={leg}")["dados"]
+            r = obter(f"https://dadosabertos.camara.leg.br/api/v2/deputados?nome={urllib.parse.quote(nome)}&idLegislatura={leg}",
+                      copia=f"camara_{pid}_leg{leg}.json")["dados"]
             r = [d for d in r if norm(d["nome"]) == norm(nome)] or r[:1]
             if r:
                 saida[pid] = (r[0]["siglaUf"], NOTA_DEP.get(pid, "Deputado(a) federal"), f"https://www.camara.leg.br/deputados/{r[0]['id']}")
                 break
     for pid, cod in SENADORES.items():
-        p = obter(f"https://legis.senado.leg.br/dadosabertos/senador/{cod}.json", {"Accept": "application/json"})
-        uf = p["DetalheParlamentar"]["Parlamentar"]["IdentificacaoParlamentar"]["UfParlamentar"]
+        p = obter(f"https://legis.senado.leg.br/dadosabertos/senador/{cod}.json", {"Accept": "application/json"}, copia=f"senado_{pid}.json")
+        uf = achar_uf(p)
+        if not uf:  # mandato já encerrado: o estado está na lista de mandatos (o da CPI, out/2021)
+            m = obter(f"https://legis.senado.leg.br/dadosabertos/senador/{cod}/mandatos.json", {"Accept": "application/json"}, copia=f"senado_{pid}_mandatos.json")
+            mandatos = m["MandatoParlamentar"]["Parlamentar"]["Mandatos"]["Mandato"]
+            for md in mandatos if isinstance(mandatos, list) else [mandatos]:
+                ini = md["PrimeiraLegislaturaDoMandato"]["DataInicio"]
+                fim = (md.get("SegundaLegislaturaDoMandato") or md["PrimeiraLegislaturaDoMandato"]).get("DataFim", "9999")
+                if ini <= "2021-10-26" <= fim:
+                    uf = md["UfParlamentar"]
+                    break
         saida[pid] = (uf, "Senador(a)", f"https://www25.senado.leg.br/web/senadores/senador/-/perfil/{cod}")
     TAC = "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/copia_BrasildeFato_TAC_PreventSenior_2021-11-29.html"
     for pid, (uf, vinc) in MANUAL.items():
@@ -125,5 +162,22 @@ def pessoas():
     assert not faltam, faltam
     print("pessoas com UF:", len(saida), "de", len(fichas))
 
+def fechar_copias():
+    """SHA-256 de cada resposta guardada e um README com a origem."""
+    import hashlib
+    linhas = []
+    for f in sorted(COPIAS.glob("*.json")):
+        linhas.append(f"{hashlib.sha256(f.read_bytes()).hexdigest()}  {f.name}")
+    (COPIAS / "SHA256SUMS").write_text("\n".join(linhas) + "\n", encoding="utf-8")
+    origem = {}
+    for l in (COPIAS / "ORIGEM.tsv").read_text(encoding="utf-8").splitlines():
+        a, u, d = l.split("\t")
+        origem[a] = (u, d)
+    tabela = "\n".join(f"| `{a}` | {u} | {d} |" for a, (u, d) in sorted(origem.items()))
+    (COPIAS / "README.md").write_text(
+        "# Respostas brutas de APIs oficiais\n\nGuardadas byte a byte por `scripts/gerar_estados.py` do repositório principal, no momento em que o script gerou `dados/estados.csv` e `dados/pessoas_uf.csv`. Painel do Ministério da Saúde (óbitos e população por estado), API de dados abertos da Câmara e do Senado (estado do mandato).\n\n"
+        "| Arquivo | Origem | Coletado em |\n|---|---|---|\n" + tabela + "\n", encoding="utf-8")
+    (COPIAS / "ORIGEM.tsv").unlink()
+
 if __name__ == "__main__":
-    estados(); pessoas()
+    estados(); pessoas(); fechar_copias()

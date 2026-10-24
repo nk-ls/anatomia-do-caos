@@ -1,17 +1,17 @@
 # João Doria
 
 **Cargo à época:** Governador de São Paulo  
-**Grupo:** Atuaram a favor da população
+**Grupo:** Governos estaduais
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **17/01/2021** (fato) Bancou a CoronaVac com o Butantan e promoveu a primeira vacinação do país; em dez/2020 viajou a Miami logo após decretar fase vermelha e pediu desculpas. [fonte](https://www.poder360.com.br/brasil/no-hospital-das-clinicas-doria-aguarda-anvisa-para-vacinar-1a-brasileira/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-no-hospital-das-clinicas-doria-aguarda-anvisa-para-vacinar-1a-brasi-586b3105/2026-10-24.html)
+- **17/01/2021** (fato) Bancou a CoronaVac com o Butantan e promoveu a primeira vacinação do país. [fonte](https://www.poder360.com.br/brasil/no-hospital-das-clinicas-doria-aguarda-anvisa-para-vacinar-1a-brasileira/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-no-hospital-das-clinicas-doria-aguarda-anvisa-para-vacinar-1a-brasi-586b3105/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **23/12/2020** (fato) Viajou a Miami de licença logo depois de anunciar a volta de São Paulo à fase vermelha no Natal e no Ano-Novo; voltou no dia seguinte e pediu desculpas, dizendo "reconheço o erro". [fonte](https://www.poder360.com.br/brasil/doria-pede-desculpas-por-licenca-e-viagem-a-miami-em-meio-a-pandemia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-doria-pede-desculpas-por-licenca-e-viagem-a-miami-em-meio-a-pandemi-5361f18a/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

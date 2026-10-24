@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **04/08/2021** (alegação) Senadores apontaram que buscava vender vacinas ao setor privado antes de lei que o autorizasse [fonte](https://www.em.com.br/app/noticia/politica/2021/08/04/interna_politica,1292700/senadores-apontam-ilegalidade-de-coronel-blanco-em-negociacao-de-vacinas.shtml)
+- **04/08/2021** (alegação) Senadores apontaram que buscava vender vacinas ao setor privado antes de lei que o autorizasse [fonte](https://www.em.com.br/app/noticia/politica/2021/08/04/interna_politica,1292700/senadores-apontam-ilegalidade-de-coronel-blanco-em-negociacao-de-vacinas.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-08-04-interna-politica-1292700-senadores-apontam-ilega-8961571a/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **04/08/2021** (declaração) Levou Luiz Paulo Dominguetti ao jantar com Roberto Dias em Brasília, segundo o próprio Blanco; negou ter ouvido pedido de propina [fonte](https://jovempan.com.br/politica/blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-com-dominguetti/)
+- **04/08/2021** (declaração) Levou Luiz Paulo Dominguetti ao jantar com Roberto Dias em Brasília, segundo o próprio Blanco; negou ter ouvido pedido de propina [fonte](https://jovempan.com.br/politica/blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-com-dominguetti/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jovempan-com-br-politica-blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-86a9b0e5/2026-10-24.html)
 
 ## Na CPI da Covid
 

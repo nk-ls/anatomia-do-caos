@@ -11,12 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **04/2021** (alegação) Técnicos do TCU recomendaram processo sobre sua conduta, apontando "graves omissões" no comitê de crise, como falhas no monitoramento de oxigênio e leitos [fonte](https://www.gazetadopovo.com.br/republica/tcu-omissao-braga-netto-covid/)
+- **04/2021** (alegação) Técnicos do TCU recomendaram processo sobre sua conduta, apontando "graves omissões" no comitê de crise, como falhas no monitoramento de oxigênio e leitos [fonte](https://www.gazetadopovo.com.br/republica/tcu-omissao-braga-netto-covid/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/gazetadopovo-com-br-republica-tcu-omissao-braga-netto-covid-ec3d09aa/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
 - **04/2020** (fato) Coordenou o centro de operações do comitê de crise da Covid-19 como subchefe na Casa Civil [fonte](https://legis.senado.leg.br/sdleg-getter/documento?dm=8976841)
-- **28/02/2023** (decisão judicial) STF · Decisão de Dias Toffoli: extingue o feito Pet 10.059/DF (epidemia com resultado morte, art. 267): Extingue o feito a pedido da PGR. Situação em out/2026: Arquivado, com o mesmo agravo pendente no Plenário desde 2023/2024. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307914)
+- **28/02/2023** (decisão judicial) STF · Decisão de Dias Toffoli: extingue o feito Pet 10.059/DF (epidemia com resultado morte, art. 267): Extingue o feito a pedido da PGR. Situação em out/2026: Arquivado, com o mesmo agravo pendente no Plenário desde 2023/2024. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307914) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10059_extincao_Toffoli_2023-03-01.pdf)
 
 ## Na CPI da Covid
 

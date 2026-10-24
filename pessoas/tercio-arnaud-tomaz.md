@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (alegação) Integrou no Twitter grupo de ataques a Mandetta, a quem chamou de "genocida" por recomendar que pessoas com sintomas leves ficassem em casa [fonte](https://www.campograndenews.com.br/politica/cpi-da-covid-confirma-convocacao-e-mandetta-sera-ouvido-na-terca-que-vem)
+- **2020** (alegação) Integrou no Twitter grupo de ataques a Mandetta, a quem chamou de "genocida" por recomendar que pessoas com sintomas leves ficassem em casa [fonte](https://www.campograndenews.com.br/politica/cpi-da-covid-confirma-convocacao-e-mandetta-sera-ouvido-na-terca-que-vem) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/campograndenews-com-br-politica-cpi-da-covid-confirma-convocacao-e-mandetta-sera-ouvido-na-2acb4d05/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **2021** (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilo determinada pela CPI, que investigava o chamado "gabinete do ódio" [fonte](https://oantagonista.com.br/?p=604008)
+- **2021** (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilo determinada pela CPI, que investigava o chamado "gabinete do ódio" [fonte](https://oantagonista.com.br/?p=604008) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/oantagonista-com-br-p-604008-708fbd7e/2026-10-24.html)
 
 ## Na CPI da Covid
 

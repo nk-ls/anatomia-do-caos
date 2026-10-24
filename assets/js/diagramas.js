@@ -34,18 +34,17 @@ export const VOTOS = [
   { nome: "Omar Aziz", partido: "PSD-AM", papel: "presidente da CPI", voto: "sim", ficha: "omar-aziz" },
   { nome: "Randolfe Rodrigues", partido: "Rede-AP", papel: "vice-presidente", voto: "sim", ficha: "randolfe-rodrigues" },
   { nome: "Renan Calheiros", partido: "MDB-AL", papel: "relator", voto: "sim", ficha: "renan-calheiros" },
-  { nome: "Tasso Jereissati", partido: "PSDB-CE", papel: "titular", voto: "sim" },
+  { nome: "Tasso Jereissati", partido: "PSDB-CE", papel: "titular", voto: "sim" , ficha: "tasso-jereissati" },
   { nome: "Otto Alencar", partido: "PSD-BA", papel: "titular", voto: "sim", ficha: "otto-alencar" },
-  { nome: "Humberto Costa", partido: "PT-PE", papel: "titular", voto: "sim" },
-  { nome: "Eduardo Braga", partido: "MDB-AM", papel: "titular", voto: "sim" },
+  { nome: "Humberto Costa", partido: "PT-PE", papel: "titular", voto: "sim" , ficha: "humberto-costa" },
+  { nome: "Eduardo Braga", partido: "MDB-AM", papel: "titular", voto: "sim" , ficha: "eduardo-braga" },
   { nome: "Marcos Rogério", partido: "DEM-RO", papel: "titular; apresentou voto em separado", voto: "não",
-    fala: "\"Voto contra […] porque essa CPI se revelou um estelionato político; e […] o relatório, para mim, é um grande fake news processual.\"",
-    doc: FONTES + "blob/main/documentos/cpi_voto_separado_marcos_rogerio_2021-10-26.pdf" },
-  { nome: "Jorginho Mello", partido: "PL-SC", papel: "titular", voto: "não" },
+    doc: FONTES + "blob/main/documentos/cpi_voto_separado_marcos_rogerio_2021-10-26.pdf" , ficha: "marcos-rogerio" },
+  { nome: "Jorginho Mello", partido: "PL-SC", papel: "titular", voto: "não" , ficha: "jorginho-mello" },
   { nome: "Luis Carlos Heinze", partido: "PP-RS", papel: "titular; apresentou voto em separado", voto: "não",
-    doc: FONTES + "blob/main/documentos/cpi_voto_separado_heinze_2021-10-26.pdf" },
+    doc: FONTES + "blob/main/documentos/cpi_voto_separado_heinze_2021-10-26.pdf" , ficha: "luis-carlos-heinze" },
   { nome: "Eduardo Girão", partido: "Podemos-CE", papel: "titular; apresentou voto em separado", voto: "não",
-    doc: FONTES + "blob/main/documentos/cpi_voto_separado_girao_2021-10-26.pdf" },
+    doc: FONTES + "blob/main/documentos/cpi_voto_separado_girao_2021-10-26.pdf" , ficha: "eduardo-girao" },
 ].map((v) => ({ ...v, fontes: VOTO }));
 
 export const CAMINHO = [
@@ -86,6 +85,6 @@ export const CAMINHO = [
     texto: "O STF arquiva o caso Covaxin quanto ao deputado Ricardo Barros e envia o restante (Maximiano, Trento, Santana e Roberto Dias) à Justiça Federal do DF; os autos seguem ao TRF1 em fev/2025.",
     fontes: [["STF, Pet 10.063 (remessa)", "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10063_remessa_TRF1_2025-02-13.pdf"]] },
   { data: "out/2026", titulo: "Situação hoje", tipo: "estado atual",
-    texto: "O inquérito autorizado em 2025 segue sob sigilo. O caso da live vacina–aids (Inq 4.888) aguarda a PGR ratificar o arquivamento (despacho de 06/10/2026). No andamento oficial do STF e do STJ, em 24/10/2026, nenhum dos 78 nomes tinha condenação criminal pelos fatos apontados pela CPI; o governador Wilson Lima é réu no STJ por compras de respiradores, sem sentença. (Condenações em outros processos, como a do ex-presidente pela trama golpista em 2025, não decorrem da CPI.)",
+    texto: "O inquérito autorizado em 2025 segue sob sigilo. O caso da live vacina–aids (Inq 4.888) aguarda a PGR ratificar o arquivamento (despacho de 06/10/2026). No andamento oficial do STF e do STJ, em 24/10/2026, nenhum dos 78 nomes tinha condenação criminal pelos fatos apontados pela CPI; o governador Wilson Lima é réu no STJ por compras de respiradores, sem sentença.",
     fontes: [["STF, Inq 4.888 (despacho)", "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Inq4888_despacho_2026-10-07.pdf"], ["STJ, APn 993", "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STJ_APn993_andamentos_2026-10-24.html"], ["Aos Fatos", "https://www.aosfatos.org/noticias/bolsonaro-acusacoes-cpi-covid-19/"], ["Justiça Global", "https://www.global.org.br/blog/o-esquema-da-pandemia-da-covid-19-segundo-a-cpi-justica-global-lanca-relatorio-no-marco-dos-5-anos-da-comissao/"]] },
 ];

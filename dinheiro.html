@@ -27,7 +27,7 @@
 <main class="conteiner">
 <section>
   <h1>O caminho do dinheiro</h1>
-  <p>Esta página segue o dinheiro público nos casos de corrupção investigados na pandemia: <strong>quem contratou, quem recebeu, quanto saiu, quanto foi barrado e o que os órgãos de controle decidiram</strong>. Cada passo tem o documento oficial guardado no <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos">arquivo de fontes</a>.</p>
+  <p>Esta página segue o dinheiro público nos casos de suspeita de irregularidade investigados na pandemia, no governo federal e nos estados: <strong>quem contratou, quem recebeu, quanto saiu, quanto foi barrado e o que os órgãos de controle decidiram</strong>. Cada passo tem o documento oficial guardado no <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos">arquivo de fontes</a>.</p>
 
   <nav class="sumario" aria-label="Sumário">
     <strong>Nesta página</strong>
@@ -69,7 +69,7 @@
 
 <section id="rede-dinheiro">
   <h2>3. A rede do dinheiro</h2>
-  <p>Empresas, pessoas e o Ministério da Saúde, ligados pelo que de fato aconteceu entre eles. Cada seta diz o que é: contrato, pagamento, garantia, cargo ou acusação. O número no canto de cada nó conta as decisões de órgãos de controle e da Justiça sobre aquela pessoa ou empresa. <strong>Clique</strong> em qualquer nome ou seta para ver os documentos.</p>
+  <p>Empresas, pessoas e o Ministério da Saúde, ligados pelo que de fato aconteceu entre eles. Cada seta diz o que é: contrato, pagamento, garantia, cargo ou acusação. O número no canto de cada nó conta as decisões de órgãos de controle e da Justiça sobre aquela pessoa ou empresa. <strong>Clique</strong> em qualquer nome ou seta para ver os documentos. A rede cobre os casos federais, onde os documentos ligam empresas, sócios e órgãos entre si; os casos estaduais estão na seção 4.</p>
   <div class="dinheiro-rede-caixa">
     <div class="rede-legenda" id="rede-dinheiro-legenda"></div>
     <div class="rede-rolagem" id="rede-dinheiro-svg"></div>
@@ -77,11 +77,13 @@
   </div>
   <div class="rede-dinheiro-painel" id="rede-dinheiro-painel" aria-live="polite"></div>
   <details><summary>Ver todas as ligações em lista</summary><div id="rede-dinheiro-lista"></div></details>
-  <p class="nota">Para ver todas as 107 pessoas e instituições ligadas a todos os temas, use a <a href="rede.html">rede completa</a>.</p>
+  <p class="nota">Para ver todas as pessoas e instituições ligadas a todos os temas, use a <a href="rede.html">rede completa</a>.</p>
 </section>
 
 <section id="casos">
   <h2>4. Os casos, passo a passo</h2>
+  <p>Casos do governo federal e de governos estaduais e consórcios, de partidos diferentes, com a mesma régua: o que o documento mostra, o que é acusação e o que já foi decidido.</p>
+  <div class="filtros"><label for="esfera">Esfera</label> <select id="esfera"><option value="">Todas</option><option value="federal">Governo federal</option><option value="estadual">Governos estaduais e consórcios</option></select></div>
   <div id="lista-casos"></div>
 </section>
 
@@ -101,6 +103,8 @@
     <li>O resultado do inquérito sobre a acusação de propina da Davati.</li>
     <li>Para onde foram os mais de R$ 5 milhões sacados em espécie das contas da VTCLog: o relatório do COAF está sob sigilo na CPI.</li>
     <li>Quem eram os sócios de cada empresa <strong>na época dos fatos</strong>: os dados abertos da Receita só trazem o quadro atual. Na VTCLog, por exemplo, a CPI listou em 2021 três sócios, e hoje só um deles continua no quadro; o histórico completo está nas juntas comerciais.</li>
+    <li>Quanto foi recuperado nos casos estaduais: só há registro parcial (R$ 3,57 milhões devolvidos ao Rio Grande do Norte no caso do Consórcio Nordeste, segundo a imprensa).</li>
+    <li>Outros casos estaduais e municipais da tabela oficial de operações da Polícia Federal (Recife, Distrito Federal, Ceará, Sergipe, Roraima, Minas Gerais, Maranhão e municípios de São Paulo) foram listados, mas não detalhados aqui; a lista está no <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos/estaduais">arquivo de fontes</a>.</li>
     <li>Se as multas da CGU à Precisa (R$ 3,88 milhões) e à Global (R$ 21,7 milhões) foram pagas.</li>
   </ul>
   <p>Tem um documento oficial que responde a alguma dessas perguntas? <a href="https://github.com/nk-ls/anatomia-do-caos/issues">Abra uma issue com o link</a>.</p>

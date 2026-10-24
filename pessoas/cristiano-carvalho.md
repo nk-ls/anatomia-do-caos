@@ -15,8 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **07/2021** (alegação) Presidente da CPI, Omar Aziz, o chamou de 'mentor' das acusações feitas por Dominguetti [fonte](https://www.cnnbrasil.com.br/politica/ceo-da-davati-e-mentor-do-esquema-e-deve-depor-diz-omar-aziz/)
-- **15/07/2021** (alegação) Na CPI, disse ter sabido (sem estar no jantar) de pedido de comissão por vacinas atribuído ao grupo do tenente-coronel Blanco e entregou perícia de seu celular [fonte](https://www.correiobraziliense.com.br/politica/2021/07/4937807-representante-da-davati-admite-que-soube-de-pedido-de-propina-e-cita-grupo-de-blanco.html)
+- **07/2021** (alegação) Presidente da CPI, Omar Aziz, o chamou de 'mentor' das acusações feitas por Dominguetti [fonte](https://www.cnnbrasil.com.br/politica/ceo-da-davati-e-mentor-do-esquema-e-deve-depor-diz-omar-aziz/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-politica-ceo-da-davati-e-mentor-do-esquema-e-deve-depor-diz-omar-aziz-b77e3c51/2026-10-24.html)
+- **15/07/2021** (alegação) Na CPI, disse ter sabido (sem estar no jantar) de pedido de comissão por vacinas atribuído ao grupo do tenente-coronel Blanco e entregou perícia de seu celular [fonte](https://www.correiobraziliense.com.br/politica/2021/07/4937807-representante-da-davati-admite-que-soube-de-pedido-de-propina-e-cita-grupo-de-blanco.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/correiobraziliense-com-br-politica-2021-07-4937807-representante-da-davati-admite-que-soub-9445a30a/2026-10-24.html)
 
 ## Na CPI da Covid
 

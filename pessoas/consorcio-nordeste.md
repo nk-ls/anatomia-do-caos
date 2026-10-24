@@ -1,13 +1,13 @@
 # Consórcio Nordeste
 
 **Cargo à época:** Governadores do Nordeste  
-**Grupo:** Atuaram a favor da população
+**Grupo:** Governos estaduais
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **03/2021** (fato) Negociou 39 milhões de doses da Sputnik V; a Anvisa negou a importação. [fonte](https://www.brasildefato.com.br/2021/03/12/vacina-russa-consorcio-nordeste-compra-mais-doses-e-paga-mais-barato-que-bolsonaro) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/brasildefato-com-br-2021-03-12-vacina-russa-consorcio-nordeste-compra-mais-doses-e-paga-ma-877e8ade/2026-10-24.html)
+- **17/03/2021** (fato) Os governadores assinaram contratos para 37 milhões de doses da Sputnik V (17/03/2021); a Anvisa negou e depois limitou a importação, e o consórcio suspendeu a compra em ago/2021. [fonte](https://www.agazeta.com.br/brasil/consorcio-do-nordeste-assina-acordo-por-37-milhoes-de-doses-da-sputnik-v-0321) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-consorcio-do-nordeste-assina-acordo-por-37-milhoes-de-doses-da-sputn-0426f200/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

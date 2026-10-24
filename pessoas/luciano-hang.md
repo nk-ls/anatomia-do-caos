@@ -11,12 +11,12 @@
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **05/02/2021** (declaração) Após a morte da mãe, publicou vídeo questionando se o "tratamento preventivo" a teria salvado; na CPI confirmou que ela usou o "kit covid" [fonte](https://www.agazeta.com.br/brasil/hang-confirma-que-sua-mae-cardiaca-e-diabetica-tomou-kit-covid-0921)
+- **05/02/2021** (declaração) Após a morte da mãe, publicou vídeo questionando se o "tratamento preventivo" a teria salvado; na CPI confirmou que ela usou o "kit covid" [fonte](https://www.agazeta.com.br/brasil/hang-confirma-que-sua-mae-cardiaca-e-diabetica-tomou-kit-covid-0921) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-hang-confirma-que-sua-mae-cardiaca-e-diabetica-tomou-kit-covid-0921-27274900/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **29/09/2021** (alegação) A CPI mostrou que o atestado de óbito da mãe dele, tratada com "kit Covid" pela Prevent Senior, omitiu a Covid como causa. [fonte](https://www.poder360.com.br/congresso/hang-confirma-morte-da-mae-por-covid-e-fala-em-possivel-erro-do-plantonista/) · [no documentário, 01:07:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=4050s)
-- **29/09/2021** (fato) Depôs à CPI; negou ter financiado fake news e integrar o "gabinete paralelo" [fonte](https://www.poder360.com.br/congresso/hang-nega-ter-financiado-fake-news-e-participado-de-gabinete-paralelo-a-cpi/)
+- **29/09/2021** (alegação) A CPI mostrou que o atestado de óbito da mãe dele, tratada com "kit Covid" pela Prevent Senior, omitiu a Covid como causa. [fonte](https://www.poder360.com.br/congresso/hang-confirma-morte-da-mae-por-covid-e-fala-em-possivel-erro-do-plantonista/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-hang-confirma-morte-da-mae-por-covid-e-fala-em-possivel-erro-do--702b10be/2026-10-24.html) · [no documentário, 01:07:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=4050s)
+- **29/09/2021** (fato) Depôs à CPI; negou ter financiado fake news e integrar o "gabinete paralelo" [fonte](https://www.poder360.com.br/congresso/hang-nega-ter-financiado-fake-news-e-participado-de-gabinete-paralelo-a-cpi/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-hang-nega-ter-financiado-fake-news-e-participado-de-gabinete-par-f3d30787/2026-10-24.html)
 
 ## Na CPI da Covid
 

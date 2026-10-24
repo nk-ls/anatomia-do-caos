@@ -1,6 +1,6 @@
 # Cronologia: o governo federal e a pandemia (2020–2021)
 
-> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 157 das 182 fontes e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
+> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 493 das 550 fontes citadas (contagem de 24/10/2026; a atual está em Referências) e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
 
 **Como ler a coluna Tipo:** *fato* = aconteceu e está documentado; *declaração* = fala pública registrada; *alegação* = o que alguém afirmou em depoimento, sem ter sido provado; *conclusão da CPI* = posição do relatório do Senado, que não é decisão judicial.
 
@@ -72,7 +72,7 @@
 ### Item 2: Butantan/CoronaVac
 - O acordo com a Sinovac foi assinado em 10/06/2020 e anunciado por Doria em 11/06/2020.
 - Em 30/07/2020, o Butantan ofertou 60 milhões de doses para o 4º trimestre de 2020. Em outubro, a oferta subiu para 100 milhões: 45 milhões até dezembro de 2020, 15 milhões até fevereiro de 2021 e o restante até maio (Agência Senado).
-- Em 20/10/2020, Pazuello anunciou o protocolo de intenção para 46 milhões de doses. Em 21/10/2020, Bolsonaro escreveu: "NÃO SERÁ COMPRADA". **A expressão "vacina chinesa do João Doria" não apareceu literalmente nos trechos que a busca devolveu**: a imprensa fala em "vacina chinesa" e liga a decisão a Doria. Veja as LACUNAS.
+- Em 20/10/2020, Pazuello anunciou o protocolo de intenção para 46 milhões de doses. Em 21/10/2020, Bolsonaro publicou: "A VACINA CHINESA DE JOÃO DORIA – Para o meu Governo, qualquer vacina, antes de ser disponibilizada à população, deverá ser COMPROVADA CIENTIFICAMENTE PELO MINISTÉRIO DA SAÚDE e CERTIFICADA PELA ANVISA" ([Estado de Minas](https://www.em.com.br/app/noticia/politica/2020/10/21/interna_politica,1196655/povo-brasileiro-nao-sera-cobaia-diz-bolsonaro-sobre-vacina-chinesa.shtml)) e respondeu a um seguidor: "NÃO SERÁ COMPRADA" ([CNN Brasil](https://www.cnnbrasil.com.br/saude/nao-sera-comprada-diz-bolsonaro-nas-redes-sobre-coronavac/)).
 - Em 10/11/2020, sobre a suspensão dos testes anunciada pela Anvisa na noite de 09/11, Bolsonaro escreveu: "Mais uma que Jair Bolsonaro ganha".
 - Em 07/01/2021, o MS assinou o contrato de 46 milhões de doses.
 - Em 17/01/2021, a Anvisa aprovou o uso emergencial e Mônica Calazans foi vacinada às 15h30, no HC-SP, com Doria presente.
@@ -116,15 +116,7 @@
 - **Saída do ministério:** a troca foi anunciada em 15/03/2021; Pazuello foi exonerado e Marcelo Queiroga tomou posse em 23/03/2021 ([Correio Braziliense](https://www.correiobraziliense.com.br/politica/2021/03/amp/4913551-em-evento-fechado-bolsonaro-da-posse-a-queiroga-como-ministro-da-saude.html)).
 
 ### Item 7: Símbolos religiosos e bandeira
-- **Salmo 23 / "não temerei mal algum":** **nenhum registro encontrado** em duas buscas, uma delas estendida (LACUNA). Por isso essa atribuição **não é feita** neste levantamento.
-- **Registros religiosos verificados:**
-  - Jejum nacional convocado em 02/04/2020 e realizado em 05/04/2020, com vídeo de pastores e versículos.
-  - Uso recorrente de João 8:32 ("E conhecereis a verdade, e a verdade vos libertará"), que é anterior à pandemia (aparece, por exemplo, no discurso na ONU de 2019). Uma coluna de A Gazeta de 06/06/2020 a contrapõe ao atraso na divulgação dos dados de Covid. **Não encontrei transcrição datada de discurso sobre a pandemia que cite o versículo.**
-- **Bandeira e atos (somente fatos datados):**
-  - 15/03/2020: ato em frente ao Planalto, com cumprimentos sem máscara.
-  - 19/04/2020: ato no QG do Exército, com pautas AI-5 e fim do isolamento.
-  - 07/09/2021: atos na Esplanada e na Paulista; hasteamento da bandeira no Alvorada; desfile cancelado pela Covid.
-  - Os resultados não descrevem especificamente o uso da bandeira nacional pelos manifestantes em cada ato; só o hasteamento no Alvorada em 07/09/2021 está documentado.
+- Movido para o [posicionamento do autor](posicionamento-do-autor.md#o-que-os-registros-mostram), porque serve de contexto à opinião dele, não à linha do tempo da gestão.
 
 ### Item 8: Gabinete paralelo, imunidade de rebanho, Covaxin e Prevent Senior
 - **Relatório lido em 20/10/2021 e aprovado em 26/10/2021 (7×4).** Conclusões: "gabinete paralelo" e a política de "contaminação para adquirir imunidade de rebanho" (Reuters/IstoÉ Dinheiro). São **conclusões da CPI**, não condenação judicial. Indiciamento não é denúncia; cabe à PGR.
@@ -135,8 +127,8 @@
 ---
 
 ## 3. Lacunas — o que NÃO foi confirmado (e por isso não é afirmado aqui)
-1. **"Vacina chinesa do João Doria"**: a frase literal atribuída a Bolsonaro em 21/10/2020 não apareceu nos trechos de busca. Só "NÃO SERÁ COMPRADA" e "não será cobaia" estão confirmados.
-2. **Salmo 23**: nenhum registro de Bolsonaro citando o Salmo 23 no contexto da pandemia. **Encontrado depois:** em 04/03/2021 ele disse *"A própria Bíblia diz que em 365 citações ela diz: 'Não temas'"*, junto com *"Chega de frescura, de mimimi"* (documentário, 00:31:30; [Sul21](https://sul21.com.br/?p=16141)). Também não há transcrição datada de discurso sobre a pandemia citando João 8:32.
+1. **"Vacina chinesa do João Doria"**: resolvida. A frase está na publicação de 21/10/2020 reproduzida pelo Estado de Minas (ver item 2).
+2. *(Item retirado: tratava de uma referência religiosa sem registro; o tema foi movido para o posicionamento do autor.)*
 3. **Uso da bandeira nacional** pelos manifestantes nos atos de 2020/2021: as fontes encontradas não o descrevem especificamente; só o hasteamento no Alvorada em 07/09/2021.
 4. **Contagem de e-mails da Pfizer**: 9 tentativas (Murillo) e 53 e-mails (Randolfe) são números conflitantes, de fontes e métricas diferentes. O relatório final da CPI adota uma terceira métrica: "81 correspondências da Pfizer ao governo brasileiro, enviadas de 17 de março de 2020 a 23 de abril de 2021, das quais 90% não obtiveram respostas" (p. 213).
 5. **Volume de cada oferta da Pfizer em agosto/2020** (30 ou 70 milhões) e **número total de ofertas** (3 ou 5): as reportagens divergem.

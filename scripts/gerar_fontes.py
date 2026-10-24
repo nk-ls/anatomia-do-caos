@@ -16,6 +16,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 FONTES = Path(sys.argv[1]) if len(sys.argv) > 1 else RAIZ.parent / "anatomia-do-caos-fontes"
 REPO_FONTES = "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main"
 URL_RE = re.compile(r"https?://[^\s<>\"'`|)\]]+")
+PROPRIOS = ("github.com/nk-ls", "nk-ls.github.io", "transparenciadocaos.com", "raw.githubusercontent.com/nk-ls")
 
 TIPOS = [
     ("documento oficial", ("gov.br", "leg.br", "jus.br", "tcu.", "cgu.", "mpf.mp.br", "in.gov.br", "anvisa", "butantan.gov", "fiocruz.br", "ebc.com.br")),
@@ -64,8 +65,9 @@ def main():
     usos = defaultdict(set)
     nomes = {p["id"]: p["nome"] for p in csv.DictReader(open(RAIZ / "dados/pessoas.csv", encoding="utf-8"))}
     for a in csv.DictReader(open(RAIZ / "dados/atos.csv", encoding="utf-8")):
-        for pid in a["pessoas"].split(";"):
-            usos[limpar(a["fonte"])].add(f"ficha:{pid.strip()}")
+        for fonte in a["fonte"].split():  # um ato pode ter mais de uma fonte, separadas por espaço
+            for pid in a["pessoas"].split(";"):
+                usos[limpar(fonte)].add(f"ficha:{pid.strip()}")
     for p in csv.DictReader(open(RAIZ / "dados/pessoas.csv", encoding="utf-8")):
         for u in URL_RE.findall(p["fontes"] + " " + p["o_que_diz"]):
             usos[limpar(u)].add(f"ficha:{p['id']}")
@@ -74,7 +76,19 @@ def main():
             continue
         for u in URL_RE.findall(f.read_text(encoding="utf-8")):
             u = limpar(u)
-            if "github.com/nk-ls" not in u:
+            if not any(k in u for k in PROPRIOS):
+                usos[u].add(f"doc:{f.relative_to(RAIZ)}")
+    # páginas do site e dados que alimentam as páginas
+    paginas = sorted(RAIZ.glob("*.html")) + [RAIZ / "assets/js/diagramas.js"] + [RAIZ / f"dados/{n}" for n in ("dinheiro.json", "empresas.json", "estados.csv", "pessoas_uf.csv")]
+    for f in paginas:
+        if not f.exists():
+            continue
+        texto = html.unescape(f.read_text(encoding="utf-8"))
+        if f.suffix == ".csv":  # uma URL por célula; a vírgula separa colunas
+            texto = "\n".join(c for linha in csv.reader(texto.splitlines()) for c in linha)
+        for u in URL_RE.findall(texto):
+            u = limpar(u)
+            if not any(k in u for k in PROPRIOS) and not u.startswith(("https://cdn", "https://fonts.")):
                 usos[u].add(f"doc:{f.relative_to(RAIZ)}")
 
     arquivo = {}
@@ -90,9 +104,28 @@ def main():
                     data=r["coletado_em"][:10], sha=r["sha256"],
                     titulo=titulo_arquivado(bruto) if ext == "html" else "")
 
+    # cópias guardadas nas pastas de documentos: cada linha de tabela dos README que tem
+    # uma URL de origem e um arquivo da pasta liga a URL ao arquivo (com o SHA-256 do arquivo).
+    import hashlib
+    for readme in sorted((FONTES / "documentos").rglob("README.md")):
+        pasta = readme.parent
+        for linha in readme.read_text(encoding="utf-8").splitlines():
+            urls = [limpar(u) for u in URL_RE.findall(linha) if "github.com/nk-ls" not in u]
+            if len(urls) != 1 or urls[0] in arquivo:
+                continue
+            achados = re.findall(r"[\w./-]+\.(?:pdf|html?|txt|json|csv|jpe?g|png|xlsx?|zip)\b", re.sub(r"https?://\S+", " ", linha))
+            alvos = [b / n for n in achados for b in (pasta, pasta.parent) if (b / n).is_file()]
+            if alvos:
+                alvo = alvos[0]
+                rel = alvo.relative_to(FONTES).as_posix()
+                arquivo[urls[0]] = dict(copia=f"{REPO_FONTES}/{rel}", texto="", data="2026-10-24",
+                                        sha=hashlib.sha256(alvo.read_bytes()).hexdigest(), titulo="")
+
     linhas = []
     for u in sorted(usos):
         a = arquivo.get(u, {})
+        if u.startswith(REPO_FONTES):  # a fonte já é um documento guardado no arquivo de fontes
+            a = dict(copia=u, data="", sha="", titulo="")
         fichas = sorted(x.split(":", 1)[1] for x in usos[u] if x.startswith("ficha:"))
         docs = sorted(x.split(":", 1)[1] for x in usos[u] if x.startswith("doc:"))
         linhas.append(dict(url=u, titulo=a.get("titulo", ""), veiculo=veiculo(u), tipo=tipo(u),

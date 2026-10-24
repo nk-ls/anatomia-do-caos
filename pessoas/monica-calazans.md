@@ -1,7 +1,7 @@
 # Mônica Calazans
 
 **Cargo à época:** Enfermeira de UTI; primeira vacinada no Brasil  
-**Grupo:** Atuaram a favor da população
+**Grupo:** Instituições de saúde e SUS
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 

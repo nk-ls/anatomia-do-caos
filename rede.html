@@ -28,7 +28,7 @@
     <h3>Estado</h3><select id="f-uf" aria-label="Filtrar por estado"><option value="">Todos os estados</option><option value="Federal">Atuação federal ou nacional</option></select>
     <p class="nota" id="f-uf-nota"></p>
     <h3>CPI</h3><label class="chip"><input type="checkbox" id="f-cpi"> só quem teve pedido de indiciamento</label>
-    <h3>Grupos (cor)</h3><div id="f-grupos" class="legenda"></div>
+    <h3>Esfera de atuação (cor)</h3><div id="f-grupos" class="legenda"></div>
     <p class="nota">Regras de tema: <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/scripts/gerar_rede.py">gerar_rede.py</a>. Dados: <a href="dados/rede.json">rede.json</a>.</p>
   </aside>
   <aside class="rede-painel flutuante" id="painel" aria-live="polite" hidden></aside>
@@ -36,7 +36,7 @@
   <div class="rede-controles"><button type="button" data-z="0.8" aria-label="Aproximar">+</button><button type="button" data-z="1.25" aria-label="Afastar">−</button><button type="button" data-z="0" aria-label="Ver tudo">⤢</button></div>
 </div>
 <script type="module">
-import { montarRede, COR_TEMA, COR_LIGA, COR_GRUPO } from "./assets/js/rede.js";
+import { montarRede, COR_TEMA, COR_LIGA, COR_ESFERA } from "./assets/js/rede.js";
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
 const idInicial = params.get("id");
@@ -50,7 +50,7 @@ const rede = await montarRede($("quadro"), $("painel"), {
 $("ajuda").innerHTML = rede.ajuda();
 $("f-ligas").innerHTML = Object.entries(COR_LIGA).map(([k, c]) => `<label class="chip"><input type="checkbox" data-liga="${k}" checked><span class="ponto" style="background:${c}"></span>${NOMES[k]}</label>`).join("");
 $("f-temas").innerHTML = rede.temas.map((t) => `<label class="chip"><input type="checkbox" data-tema="${t.id}" checked><span class="ponto" style="background:${COR_TEMA[t.id.slice(5)]}"></span>${t.nome}</label>`).join("");
-$("f-grupos").innerHTML = Object.entries(COR_GRUPO).map(([g, c]) => `<span class="chip"><span class="ponto" style="background:${c}"></span>${g}</span>`).join("");
+$("f-grupos").innerHTML = Object.entries(COR_ESFERA).map(([g, c]) => `<span class="chip"><span class="ponto" style="background:${c}"></span>${g}</span>`).join("");
 $("f-uf").insertAdjacentHTML("beforeend", rede.estados.map((e) => `<option value="${e.uf}"${e.pessoas ? "" : " disabled"}>${e.nome} (${e.pessoas})</option>`).join(""));
 function filtrarUF(uf) {
   ufAtual = uf; $("f-uf").value = uf;

@@ -1,23 +1,23 @@
 # Mauro Luiz de Brito Ribeiro
 
 **Cargo à época:** Presidente do Conselho Federal de Medicina  
-**Grupo:** "Gabinete paralelo" e médicos
+**Grupo:** Médicos e conselheiros citados pela CPI (cloroquina e "gabinete paralelo")
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **2021** (fato) CFM pediu ao Ministério da Saúde garantia de vacina para os médicos e ofereceu suas sedes regionais para a imunização [fonte](https://portal.cfm.org.br/noticias/cfm-pede-ao-ministerio-da-saude-garantia-de-vacina-contra-a-covid-19-para-os-500-mil-medicos-brasileiros/)
+- **2021** (fato) CFM pediu ao Ministério da Saúde garantia de vacina para os médicos e ofereceu suas sedes regionais para a imunização [fonte](https://portal.cfm.org.br/noticias/cfm-pede-ao-ministerio-da-saude-garantia-de-vacina-contra-a-covid-19-para-os-500-mil-medicos-brasileiros/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/portal-cfm-org-br-noticias-cfm-pede-ao-ministerio-da-saude-garantia-de-vacina-contra-a-cov-4fed5ae5/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **04/2020** (fato) Relatou o Parecer CFM 4/2020, que permitiu ao médico considerar cloroquina e hidroxicloroquina em pacientes com Covid-19 [fonte](https://medicinasa.com.br/cfm-cloroquina/)
-- **25/03/2021** (declaração) Disse que médicos "não têm de seguir" a orientação da AMB pelo banimento dos medicamentos do "kit covid" [fonte](https://jovempan.com.br/noticias/medicos-nao-tem-de-seguir-o-que-a-associacao-medica-esta-orientando-diz-presidente-do-cfm/)
+- **04/2020** (fato) Relatou o Parecer CFM 4/2020, que permitiu ao médico considerar cloroquina e hidroxicloroquina em pacientes com Covid-19 [fonte](https://medicinasa.com.br/cfm-cloroquina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/medicinasa-com-br-cfm-cloroquina-a3c8ed69/2026-10-24.html)
+- **25/03/2021** (declaração) Disse que médicos "não têm de seguir" a orientação da AMB pelo banimento dos medicamentos do "kit covid" [fonte](https://jovempan.com.br/noticias/medicos-nao-tem-de-seguir-o-que-a-associacao-medica-esta-orientando-diz-presidente-do-cfm/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jovempan-com-br-noticias-medicos-nao-tem-de-seguir-o-que-a-associacao-medica-esta-orientan-3dadf201/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **10/2021** (fato) MPF em São Paulo abriu inquérito civil sobre a atuação do CFM no chamado tratamento precoce [fonte](https://www.poder360.com.br/coronavirus/mpf-vai-investigar-conselho-federal-de-medicina-sobre-uso-do-kit-covid/)
-- **03/09/2025** (decisão de órgão de controle) TCU · Acórdão (Nota Informativa 17/2020 sobre cloroquina) 2.010/2025, TC 019.895/2020-8 (relator Zymler): Representações procedentes. Determina ao Ministério da Saúde, em 15 dias, anular a NI 17/2020-SE/GAB/SE/MS, de 10/08/2020 (orientação sobre cloroquina/hidroxicloroquina), por violação aos motivos determinantes. Não conhece da parte sobre o presidente do CFM. Cópia enviada ao Senado. Situação em out/2026: Encerrado, com determinação de anulação. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2010-2025_Plenario.pdf)
+- **10/2021** (fato) MPF em São Paulo abriu inquérito civil sobre a atuação do CFM no chamado tratamento precoce [fonte](https://www.poder360.com.br/coronavirus/mpf-vai-investigar-conselho-federal-de-medicina-sobre-uso-do-kit-covid/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-coronavirus-mpf-vai-investigar-conselho-federal-de-medicina-sobre-uso-do-k-508492e0/2026-10-24.html)
+- **03/09/2025** (decisão de órgão de controle) TCU · Acórdão (Nota Informativa 17/2020 sobre cloroquina) 2.010/2025, TC 019.895/2020-8 (relator Zymler): Representações procedentes. Determina ao Ministério da Saúde, em 15 dias, anular a NI 17/2020-SE/GAB/SE/MS, de 10/08/2020 (orientação sobre cloroquina/hidroxicloroquina), por violação aos motivos determinantes. Não conhece da parte sobre o presidente do CFM. Cópia enviada ao Senado. Situação em out/2026: Encerrado, com determinação de anulação. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2010-2025_Plenario.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2010-2025_Plenario.pdf)
 
 ## Na CPI da Covid
 

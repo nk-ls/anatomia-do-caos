@@ -86,8 +86,11 @@ document.getElementById("tabela-dose").innerHTML = `<table><thead><tr><th>Vacina
   dados.comparacao.map((c) => `<tr><td>${esc(c.vacina)}</td><td><a href="${esc(c.doc)}">${esc(c.contrato)}</a></td><td>${esc(c.data)}</td><td>${fmt(c.doses)}</td><td>${reais(c.valor_reais)}</td><td>${brl(c.preco_dose_reais)}</td><td>${esc(c.calculo)}</td><td>${esc(c.pago)}</td></tr>`).join("")}</tbody></table>`;
 
 // 4. Casos passo a passo
-document.getElementById("lista-casos").innerHTML = dados.casos.map((c) => `
+function desenharCasos() {
+const esfera = document.getElementById("esfera").value;
+document.getElementById("lista-casos").innerHTML = dados.casos.filter((c) => !esfera || c.esfera === esfera).map((c) => `
   <article class="achado caso-dinheiro" id="caso-${esc(c.id)}">
+    <p class="esfera-caso">${c.esfera === "estadual" ? "Governo estadual ou consórcio" : "Governo federal"}</p>
     <h3>${esc(c.titulo)}</h3>
     <p class="resumo">${esc(c.resumo)}</p>
     ${c.etapas.length ? `<h4>O caminho do dinheiro</h4><ol class="trilha">${c.etapas.map((e) => `
@@ -101,6 +104,9 @@ document.getElementById("lista-casos").innerHTML = dados.casos.map((c) => `
     <ul class="decisoes">${c.decisoes.map((d) => `<li><span class="orgao">${esc(d.orgao)}</span> <span class="quando">${esc(d.data)}</span> — ${esc(d.texto)}. <span class="nota">📄 ${docs(d.docs)}</span></li>`).join("")}</ul>
     ${c.pessoas.length ? `<p class="nota">Fichas: ${c.pessoas.map((id) => `<a href="envolvidos.html?id=${encodeURIComponent(id)}">${esc(nomes[id] || id)}</a>`).join(" · ")}</p>` : ""}
   </article>`).join("");
+}
+document.getElementById("esfera").addEventListener("input", desenharCasos);
+desenharCasos();
 
 // 5. Rede do dinheiro: posições fixas por caso (legível, sem linhas cruzando o miolo).
 // Decisões de controle aparecem como selo ⚖️ no nó e no painel, não como linhas.

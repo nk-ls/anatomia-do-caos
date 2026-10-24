@@ -1,7 +1,7 @@
 # Nise Yamaguchi
 
 **Cargo à época:** Médica oncologista; apontada pela CPI como integrante do "gabinete paralelo"  
-**Grupo:** "Gabinete paralelo" e médicos
+**Grupo:** Médicos e conselheiros citados pela CPI (cloroquina e "gabinete paralelo")
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
@@ -13,12 +13,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 - **2020** (alegação) Segundo Barra Torres, apoiou a proposta de mudar a bula da cloroquina; ela nega a minuta. [fonte](https://www.poder360.com.br/congresso/barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cloroquina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cl-15f58cce/2026-10-24.html)
 - **2020** (declaração) Em sessão da comissão externa da Câmara sobre "imunidade de rebanho por transmissão", disse que "não é necessário vacinar aleatoriamente uma população inteira" e que a imunidade das vacinas seria inferior à natural. [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No https://www.poder360.com.br/brasil/omar-aziz-diz-que-nise-yamaguchi-mentiu-em-depoimento-a-cpi/) · [no documentário, 00:12:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=720s)
-- **01/06/2021** (declaração) Na CPI, defendeu a hidroxicloroquina citando estudo da Fundação Henry Ford que havia sido interrompido em 2020 sem demonstrar eficácia; o senador Alessandro Vieira apontou a interrupção e ela disse não ter essa informação. [fonte](https://www.em.com.br/app/noticia/politica/2021/06/01/interna_politica,1272539/nise-cita-estudo-pro-cloroquina-encerrado-por-falta-de-resultados.shtml) · [no documentário, 00:15:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=930s)
-- **01/06/2021** (declaração) Na CPI, negou integrar um "gabinete paralelo", mas relatou várias reuniões com integrantes do governo e com o presidente sobre cloroquina. A Aos Fatos classificou como enganosas informações dela sobre o "tratamento precoce". [fonte](https://www.aosfatos.org/noticias/na-cpi-nise-yamaguchi-defende-tratamento-precoce-com-informacoes-enganosas/)
+- **01/06/2021** (declaração) Na CPI, defendeu a hidroxicloroquina citando estudo da Fundação Henry Ford que havia sido interrompido em 2020 sem demonstrar eficácia; o senador Alessandro Vieira apontou a interrupção e ela disse não ter essa informação. [fonte](https://www.em.com.br/app/noticia/politica/2021/06/01/interna_politica,1272539/nise-cita-estudo-pro-cloroquina-encerrado-por-falta-de-resultados.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-06-01-interna-politica-1272539-nise-cita-estudo-pro-cl-b867132e/2026-10-24.html) · [no documentário, 00:15:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=930s)
+- **01/06/2021** (declaração) Na CPI, negou integrar um "gabinete paralelo", mas relatou várias reuniões com integrantes do governo e com o presidente sobre cloroquina. A Aos Fatos classificou como enganosas informações dela sobre o "tratamento precoce". [fonte](https://www.aosfatos.org/noticias/na-cpi-nise-yamaguchi-defende-tratamento-precoce-com-informacoes-enganosas/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-na-cpi-nise-yamaguchi-defende-tratamento-precoce-com-informacoes-eng-618d3cf3/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **01/06/2021** (fato) Na CPI, o senador Otto Alencar, médico, a questionou sobre noções de infectologia (diferença entre vírus e protozoário, família do vírus); considerou as respostas dela insuficientes e concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [no documentário, 00:18:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1080s)
+- **01/06/2021** (fato) Na CPI, o senador Otto Alencar, médico, a questionou sobre noções de infectologia (diferença entre vírus e protozoário, família do vírus); considerou as respostas dela insuficientes e concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jornaldebrasilia-com-br-noticias-politica-e-poder-otto-alencar-questiona-nise-e-afirma-a-s-b2bc14e0/2026-10-24.html) · [no documentário, 00:18:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1080s)
 
 ## Na CPI da Covid
 

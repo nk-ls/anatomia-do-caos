@@ -11,8 +11,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **30/09/2021** (declaração) Na CPI foram exibidos vídeos dele atacando a CoronaVac ("não presta") e o uso de máscaras; sustentou que eram opiniões e defendeu o "kit covid" [fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacionista-e-defende-posicao-antivacina/)
-- **30/09/2021** (checagem) Aos Fatos: citou informações falsas ao dizer na CPI que as vacinas são experimentais [fonte](https://www.aosfatos.org/noticias/fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vacinas-sao-experimentais/)
+- **30/09/2021** (declaração) Na CPI foram exibidos vídeos dele atacando a CoronaVac ("não presta") e o uso de máscaras; sustentou que eram opiniões e defendeu o "kit covid" [fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacionista-e-defende-posicao-antivacina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jovempan-com-br-politica-na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacio-27f448c2/2026-10-24.html)
+- **30/09/2021** (checagem) Aos Fatos: citou informações falsas ao dizer na CPI que as vacinas são experimentais [fonte](https://www.aosfatos.org/noticias/fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vacinas-sao-experimentais/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vac-8f4cdf21/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

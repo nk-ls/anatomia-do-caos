@@ -14,9 +14,11 @@ VIDEO = "https://www.youtube.com/watch?v=MG3XZYu0_No"
 
 ORDEM_GRUPOS = [
     "Presidência da República e família", "Ministério da Saúde", "Outros ministérios e órgãos federais",
-    "Parlamentares", "\"Gabinete paralelo\" e médicos", "Empresários, comunicadores e influenciadores",
-    "Contratos de vacina e logística (Covaxin, Davati, VTCLog)", "Prevent Senior", "Governo do Amazonas",
-    "Empresas (pessoa jurídica)", "Médicos defensores do \"tratamento precoce\" que morreram de Covid", "Atuaram a favor da população",
+    "Parlamentares", "Senadores da CPI", "Governos estaduais", "Judiciário",
+    "Instituições de saúde e SUS", "Cientistas, imprensa e sociedade civil",
+    "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")", "Médicos que defenderam o \"tratamento precoce\"",
+    "Empresários, comunicadores e influenciadores", "Contratos de vacina e logística (Covaxin, Davati, VTCLog)", "Prevent Senior",
+    "Empresas (pessoa jurídica)",
 ]
 SELO = {"a favor": "🟢", "contra": "🔴", "processual": "⚪"}
 AVISO_CPI = ("> ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de "

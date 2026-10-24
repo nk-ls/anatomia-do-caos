@@ -29,5 +29,5 @@ Toda afirmação deste levantamento tem um estado de verificação. O estado só
 ## Estado atual (24/10/2026)
 
 - Dados globais (planilha e gráficos): reproduzíveis pelo script.
-- Documentos e fichas: 🔎 conferidos pela busca, e **157 das 182 fontes** já têm cópia datada (📄), e a pasta [documentos](https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos) guarda a íntegra do relatório final aprovado da CPI, dos votos em separado, do contrato da Pfizer e das notas do Ministério da Saúde sobre a cloroquina no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/manifesto.csv).
+- Documentos e fichas: 🔎 conferidos pela busca, e **493 das 550 fontes citadas** já têm cópia datada (24/10/2026) (📄), e a pasta [documentos](https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos) guarda a íntegra do relatório final aprovado da CPI, dos votos em separado, do contrato da Pfizer e das notas do Ministério da Saúde sobre a cloroquina no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/manifesto.csv).
 - [Revisão independente](revisao.md) por amostra feita, com correções registradas.

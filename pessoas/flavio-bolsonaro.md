@@ -11,19 +11,19 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **03/2021** (fato) Passou a defender a vacinação no Telegram (44 publicações desde 10/03/2021, segundo levantamento do Brasil de Fato) [fonte](https://www.brasildefato.com.br/2021/04/02/efeito-lula-apos-discurso-flavio-bolsonaro-ja-defendeu-vacinas-44-vezes-no-telegram/)
-- **22/07/2021** (fato) Recebeu publicamente a 1ª dose (AstraZeneca), aplicada pelo ministro Marcelo Queiroga, e incentivou a vacinação [fonte](https://www.poder360.com.br/brasil/queiroga-vacina-flavio-bolsonaro-contra-a-covid-assista/)
+- **03/2021** (fato) Passou a defender a vacinação no Telegram (44 publicações desde 10/03/2021, segundo levantamento do Brasil de Fato) [fonte](https://www.brasildefato.com.br/2021/04/02/efeito-lula-apos-discurso-flavio-bolsonaro-ja-defendeu-vacinas-44-vezes-no-telegram/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/brasildefato-com-br-2021-04-02-efeito-lula-apos-discurso-flavio-bolsonaro-ja-defendeu-vaci-0e6cd4ab/2026-10-24.html)
+- **22/07/2021** (fato) Recebeu publicamente a 1ª dose (AstraZeneca), aplicada pelo ministro Marcelo Queiroga, e incentivou a vacinação [fonte](https://www.poder360.com.br/brasil/queiroga-vacina-flavio-bolsonaro-contra-a-covid-assista/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-queiroga-vacina-flavio-bolsonaro-contra-a-covid-assista-a47ba3cf/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **03/2020** (checagem) Compartilhou foto de paciente com enfisema pulmonar usada para promover suposta cura da covid-19; o Facebook marcou o conteúdo como distorcido [fonte](https://www.aosfatos.org/noticias/bolsonaristas-usam-foto-de-paciente-com-enfisema-pulmonar-para-promover-cura-da-covid-19/)
-- **24/08/2020** (declaração) Ao anunciar diagnóstico de covid-19, informou tratar-se com hidroxicloroquina e azitromicina, medicamentos sem eficácia comprovada contra a doença [fonte](https://www.agazeta.com.br/brasil/flavio-bolsonaro-e-diagnosticado-com-covid-19-senador-esta-sem-sintomas-0820)
+- **03/2020** (checagem) Compartilhou foto de paciente com enfisema pulmonar usada para promover suposta cura da covid-19; o Facebook marcou o conteúdo como distorcido [fonte](https://www.aosfatos.org/noticias/bolsonaristas-usam-foto-de-paciente-com-enfisema-pulmonar-para-promover-cura-da-covid-19/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-bolsonaristas-usam-foto-de-paciente-com-enfisema-pulmonar-para-promo-c4b899e4/2026-10-24.html)
+- **24/08/2020** (declaração) Ao anunciar diagnóstico de covid-19, informou tratar-se com hidroxicloroquina e azitromicina, medicamentos sem eficácia comprovada contra a doença [fonte](https://www.agazeta.com.br/brasil/flavio-bolsonaro-e-diagnosticado-com-covid-19-senador-esta-sem-sintomas-0820) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-flavio-bolsonaro-e-diagnosticado-com-covid-19-senador-esta-sem-sinto-ddcbd432/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-justica-pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro-fbcb1394/2026-10-24.html)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
-- **18/09/2025** (decisão judicial) STF · Decisão do ministro Flávio Dino Pet 10.064/DF: Acolhe pedido da PF contra a posição da PGR. Converte a Pet em inquérito policial, com prazo inicial de 60 dias e sigilo nível 3. A Pet consta como "processo findo" em 19/09/2025 e foi baixada em 18/02/2026, porque virou inquérito sob outro número, não divulgado. Em jan/2026 a PF pediu mais prazo. Situação em out/2026: Em investigação sob sigilo. Nenhum relatório final, denúncia ou arquivamento foi localizado até 24/10/2026. [fonte](https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-determina-abertura-de-inquerito-para-investigar-resultados-da-cpi-da-pandemia/)
+- **18/09/2025** (decisão judicial) STF · Decisão do ministro Flávio Dino Pet 10.064/DF: Acolhe pedido da PF contra a posição da PGR. Converte a Pet em inquérito policial, com prazo inicial de 60 dias e sigilo nível 3. A Pet consta como "processo findo" em 19/09/2025 e foi baixada em 18/02/2026, porque virou inquérito sob outro número, não divulgado. Em jan/2026 a PF pediu mais prazo. Situação em out/2026: Em investigação sob sigilo. Nenhum relatório final, denúncia ou arquivamento foi localizado até 24/10/2026. [fonte](https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-determina-abertura-de-inquerito-para-investigar-resultados-da-cpi-da-pandemia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10064_decisao_Dino_2025-09-18.pdf)
 
 ## Na CPI da Covid
 
@@ -33,7 +33,7 @@
 
 ## O que aconteceu depois
 
-Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação por fatos apontados pela CPI até out/2026, até onde as fontes mostram. Candidato a presidente em 2026 (Agência Pública).
+Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação por fatos apontados pela CPI até out/2026, até onde as fontes mostram.
 
 ## O que a pessoa diz
 

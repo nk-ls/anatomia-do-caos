@@ -1,13 +1,13 @@
 # Natalia Pasternak
 
 **Cargo à época:** Microbiologista; Instituto Questão de Ciência  
-**Grupo:** Atuaram a favor da população
+**Grupo:** Cientistas, imprensa e sociedade civil
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **11/06/2021** (fato) Na CPI, expuseram a falta de evidência da cloroquina e defenderam máscara e vacina. [fonte](https://www12.senado.leg.br/radio/1/noticia/2021/06/11/especialistas-defendem-uso-de-mascara-e-criticam-falta-de-acao-coordenada-do-ministerio-da-saude) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-radio-1-noticia-2021-06-11-especialistas-defendem-uso-de-mascara-e-criticam--1453e14a/2026-10-24.html)
+Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **11/06/2021** (declaração) Na CPI, expuseram a falta de evidência da cloroquina e defenderam máscara e vacina. [fonte](https://www12.senado.leg.br/radio/1/noticia/2021/06/11/especialistas-defendem-uso-de-mascara-e-criticam-falta-de-acao-coordenada-do-ministerio-da-saude) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-radio-1-noticia-2021-06-11-especialistas-defendem-uso-de-mascara-e-criticam--1453e14a/2026-10-24.html)
 
 ## Na CPI da Covid
 

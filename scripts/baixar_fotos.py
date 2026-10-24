@@ -23,7 +23,8 @@ DEPUTADOS = {  # id da ficha -> nome parlamentar na Câmara
     "luis-miranda": "Luis Miranda", "eduardo-pazuello": "General Pazuello", "onyx-lorenzoni": "Onyx Lorenzoni",
 }
 SENADORES = {"flavio-bolsonaro": "Flávio Bolsonaro", "omar-aziz": "Omar Aziz", "randolfe-rodrigues": "Randolfe Rodrigues",
-             "renan-calheiros": "Renan Calheiros", "otto-alencar": "Otto Alencar"}
+             "renan-calheiros": "Renan Calheiros", "otto-alencar": "Otto Alencar",
+             "tasso-jereissati": "Tasso Jereissati", "humberto-costa": "Humberto Costa", "eduardo-braga": "Eduardo Braga", "marcos-rogerio": "Marcos Rogério", "jorginho-mello": "Jorginho Mello", "luis-carlos-heinze": "Luis Carlos Heinze", "eduardo-girao": "Eduardo Girão"}
 
 
 def norm(s):

@@ -15,8 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **12/03/2021** (fato) Intermediou reunião de representantes da Davati com o secretário-executivo Elcio Franco no Ministério da Saúde sobre oferta de 400 milhões de doses [fonte](https://www.congressoemfoco.com.br/legislativo/apontado-como-elo-entre-davati-e-saude-coronel-helcio-bruno-depoe-a-cpi/)
-- **10/08/2021** (fato) Depôs à CPI amparado por habeas corpus; negou irregularidade e calou-se em várias perguntas [fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/helcio-bruno-nega-envolvimento-em-irregularidade-na-compra-de-vacina)
+- **12/03/2021** (fato) Intermediou reunião de representantes da Davati com o secretário-executivo Elcio Franco no Ministério da Saúde sobre oferta de 400 milhões de doses [fonte](https://www.congressoemfoco.com.br/legislativo/apontado-como-elo-entre-davati-e-saude-coronel-helcio-bruno-depoe-a-cpi/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-legislativo-apontado-como-elo-entre-davati-e-saude-coronel-helcio-b-ab301e60/2026-10-24.html)
+- **10/08/2021** (fato) Depôs à CPI amparado por habeas corpus; negou irregularidade e calou-se em várias perguntas [fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/helcio-bruno-nega-envolvimento-em-irregularidade-na-compra-de-vacina) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-politica-noticia-2021-08-helcio-bruno-nega-envolvimento-em-irregu-da5b2131/2026-10-24.html)
 
 ## Na CPI da Covid
 

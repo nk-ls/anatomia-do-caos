@@ -89,28 +89,28 @@
 "id": "antonio-barra-torres",
 "tipo": "pessoa",
 "nome": "Antonio Barra Torres",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
 "cpi": false
 },
 {
 "id": "antonio-jordao",
 "tipo": "pessoa",
 "nome": "Antônio Jordão de Oliveira Neto",
-"grupo": "\"Gabinete paralelo\" e médicos",
+"grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
 "cpi": true
 },
 {
 "id": "anvisa",
 "tipo": "pessoa",
 "nome": "Anvisa (diretoria colegiada e corpo técnico)",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
 "cpi": false
 },
 {
 "id": "arthur-weintraub",
 "tipo": "pessoa",
 "nome": "Arthur Weintraub",
-"grupo": "\"Gabinete paralelo\" e médicos",
+"grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
 "cpi": true
 },
 {
@@ -166,21 +166,21 @@
 "id": "claudio-maierovitch",
 "tipo": "pessoa",
 "nome": "Claudio Maierovitch",
-"grupo": "Atuaram a favor da população",
+"grupo": "Cientistas, imprensa e sociedade civil",
 "cpi": false
 },
 {
 "id": "consorcio-imprensa",
 "tipo": "pessoa",
 "nome": "Consórcio de veículos de imprensa",
-"grupo": "Atuaram a favor da população",
+"grupo": "Cientistas, imprensa e sociedade civil",
 "cpi": false
 },
 {
 "id": "consorcio-nordeste",
 "tipo": "pessoa",
 "nome": "Consórcio Nordeste",
-"grupo": "Atuaram a favor da população",
+"grupo": "Governos estaduais",
 "cpi": false
 },
 {
@@ -201,7 +201,7 @@
 "id": "dimas-covas",
 "tipo": "pessoa",
 "nome": "Dimas Covas",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
 "cpi": false
 },
 {
@@ -210,6 +210,20 @@
 "nome": "Eduardo Bolsonaro",
 "grupo": "Presidência da República e família",
 "cpi": true
+},
+{
+"id": "eduardo-braga",
+"tipo": "pessoa",
+"nome": "Eduardo Braga",
+"grupo": "Senadores da CPI",
+"cpi": false
+},
+{
+"id": "eduardo-girao",
+"tipo": "pessoa",
+"nome": "Eduardo Girão",
+"grupo": "Senadores da CPI",
+"cpi": false
 },
 {
 "id": "eduardo-parrillo",
@@ -250,7 +264,7 @@
 "id": "ester-sabino",
 "tipo": "pessoa",
 "nome": "Ester Sabino",
-"grupo": "Atuaram a favor da população",
+"grupo": "Cientistas, imprensa e sociedade civil",
 "cpi": false
 },
 {
@@ -278,7 +292,7 @@
 "id": "fiocruz",
 "tipo": "pessoa",
 "nome": "Fiocruz",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
 "cpi": false
 },
 {
@@ -292,7 +306,7 @@
 "id": "flavio-cadegiani",
 "tipo": "pessoa",
 "nome": "Flávio Adsuara Cadegiani",
-"grupo": "\"Gabinete paralelo\" e médicos",
+"grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
 "cpi": true
 },
 {
@@ -306,7 +320,7 @@
 "id": "guido-cespedes",
 "tipo": "pessoa",
 "nome": "Guido Céspedes",
-"grupo": "Médicos defensores do \"tratamento precoce\" que morreram de Covid",
+"grupo": "Médicos que defenderam o \"tratamento precoce\"",
 "cpi": false
 },
 {
@@ -331,10 +345,17 @@
 "cpi": true
 },
 {
+"id": "humberto-costa",
+"tipo": "pessoa",
+"nome": "Humberto Costa",
+"grupo": "Senadores da CPI",
+"cpi": false
+},
+{
 "id": "instituto-butantan",
 "tipo": "pessoa",
 "nome": "Instituto Butantan",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
 "cpi": false
 },
 {
@@ -348,14 +369,21 @@
 "id": "jaqueline-goes",
 "tipo": "pessoa",
 "nome": "Jaqueline Goes de Jesus",
-"grupo": "Atuaram a favor da população",
+"grupo": "Cientistas, imprensa e sociedade civil",
 "cpi": false
 },
 {
 "id": "joao-doria",
 "tipo": "pessoa",
 "nome": "João Doria",
-"grupo": "Atuaram a favor da população",
+"grupo": "Governos estaduais",
+"cpi": false
+},
+{
+"id": "jorginho-mello",
+"tipo": "pessoa",
+"nome": "Jorginho Mello",
+"grupo": "Senadores da CPI",
 "cpi": false
 },
 {
@@ -376,7 +404,7 @@
 "id": "jurema-werneck",
 "tipo": "pessoa",
 "nome": "Jurema Werneck",
-"grupo": "Atuaram a favor da população",
+"grupo": "Cientistas, imprensa e sociedade civil",
 "cpi": false
 },
 {
@@ -390,14 +418,14 @@
 "id": "lecio-patrocinio",
 "tipo": "pessoa",
 "nome": "Lécio Patrocínio",
-"grupo": "Médicos defensores do \"tratamento precoce\" que morreram de Covid",
+"grupo": "Médicos que defenderam o \"tratamento precoce\"",
 "cpi": false
 },
 {
 "id": "luciano-dias-azevedo",
 "tipo": "pessoa",
 "nome": "Luciano Dias Azevedo",
-"grupo": "\"Gabinete paralelo\" e médicos",
+"grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
 "cpi": true
 },
 {
@@ -408,10 +436,17 @@
 "cpi": true
 },
 {
+"id": "luis-carlos-heinze",
+"tipo": "pessoa",
+"nome": "Luis Carlos Heinze",
+"grupo": "Senadores da CPI",
+"cpi": false
+},
+{
 "id": "luis-miranda",
 "tipo": "pessoa",
 "nome": "Luis Miranda e Luis Ricardo Miranda",
-"grupo": "Atuaram a favor da população",
+"grupo": "Parlamentares",
 "cpi": false
 },
 {
@@ -425,14 +460,14 @@
 "id": "luiz-henrique-mandetta",
 "tipo": "pessoa",
 "nome": "Luiz Henrique Mandetta",
-"grupo": "Atuaram a favor da população",
+"grupo": "Ministério da Saúde",
 "cpi": false
 },
 {
 "id": "marcellus-campelo",
 "tipo": "pessoa",
 "nome": "Marcellus Campêlo",
-"grupo": "Governo do Amazonas",
+"grupo": "Governos estaduais",
 "cpi": true
 },
 {
@@ -464,6 +499,13 @@
 "cpi": true
 },
 {
+"id": "marcos-rogerio",
+"tipo": "pessoa",
+"nome": "Marcos Rogério",
+"grupo": "Senadores da CPI",
+"cpi": false
+},
+{
 "id": "marcos-tolentino",
 "tipo": "pessoa",
 "nome": "Marcos Tolentino da Silva",
@@ -474,13 +516,13 @@
 "id": "mauro-ribeiro",
 "tipo": "pessoa",
 "nome": "Mauro Luiz de Brito Ribeiro",
-"grupo": "\"Gabinete paralelo\" e médicos",
+"grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
 "cpi": true
 },
 {
 "id": "mayra-pinheiro",
 "tipo": "pessoa",
-"nome": "Mayra Pinheiro (\"capitã cloroquina\")",
+"nome": "Mayra Pinheiro",
 "grupo": "Ministério da Saúde",
 "cpi": true
 },
@@ -488,42 +530,42 @@
 "id": "monica-calazans",
 "tipo": "pessoa",
 "nome": "Mônica Calazans",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
 "cpi": false
 },
 {
 "id": "natalia-pasternak",
 "tipo": "pessoa",
 "nome": "Natalia Pasternak",
-"grupo": "Atuaram a favor da população",
+"grupo": "Cientistas, imprensa e sociedade civil",
 "cpi": false
 },
 {
 "id": "nelson-teich",
 "tipo": "pessoa",
 "nome": "Nelson Teich",
-"grupo": "Atuaram a favor da população",
+"grupo": "Ministério da Saúde",
 "cpi": false
 },
 {
 "id": "nise-yamaguchi",
 "tipo": "pessoa",
 "nome": "Nise Yamaguchi",
-"grupo": "\"Gabinete paralelo\" e médicos",
+"grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
 "cpi": true
 },
 {
 "id": "nisia-trindade",
 "tipo": "pessoa",
 "nome": "Nísia Trindade Lima",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
 "cpi": false
 },
 {
 "id": "omar-aziz",
 "tipo": "pessoa",
 "nome": "Omar Aziz",
-"grupo": "Atuaram a favor da população",
+"grupo": "Senadores da CPI",
 "cpi": false
 },
 {
@@ -551,14 +593,14 @@
 "id": "otto-alencar",
 "tipo": "pessoa",
 "nome": "Otto Alencar",
-"grupo": "Atuaram a favor da população",
+"grupo": "Senadores da CPI",
 "cpi": false
 },
 {
 "id": "paolo-zanotto",
 "tipo": "pessoa",
 "nome": "Paolo Marinho de Andrade Zanotto",
-"grupo": "\"Gabinete paralelo\" e médicos",
+"grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
 "cpi": true
 },
 {
@@ -572,7 +614,7 @@
 "id": "pedro-hallal",
 "tipo": "pessoa",
 "nome": "Pedro Hallal",
-"grupo": "Atuaram a favor da população",
+"grupo": "Cientistas, imprensa e sociedade civil",
 "cpi": false
 },
 {
@@ -600,7 +642,7 @@
 "id": "randolfe-rodrigues",
 "tipo": "pessoa",
 "nome": "Randolfe Rodrigues",
-"grupo": "Atuaram a favor da população",
+"grupo": "Senadores da CPI",
 "cpi": false
 },
 {
@@ -614,7 +656,7 @@
 "id": "renan-calheiros",
 "tipo": "pessoa",
 "nome": "Renan Calheiros",
-"grupo": "Atuaram a favor da população",
+"grupo": "Senadores da CPI",
 "cpi": false
 },
 {
@@ -656,14 +698,21 @@
 "id": "stf",
 "tipo": "pessoa",
 "nome": "Supremo Tribunal Federal",
-"grupo": "Atuaram a favor da população",
+"grupo": "Judiciário",
 "cpi": false
 },
 {
 "id": "sus-pni",
 "tipo": "pessoa",
 "nome": "SUS / Programa Nacional de Imunizações e profissionais de saúde",
-"grupo": "Atuaram a favor da população",
+"grupo": "Instituições de saúde e SUS",
+"cpi": false
+},
+{
+"id": "tasso-jereissati",
+"tipo": "pessoa",
+"nome": "Tasso Jereissati",
+"grupo": "Senadores da CPI",
 "cpi": false
 },
 {
@@ -698,7 +747,7 @@
 "id": "wilson-lima",
 "tipo": "pessoa",
 "nome": "Wilson Lima",
-"grupo": "Governo do Amazonas",
+"grupo": "Governos estaduais",
 "cpi": true
 }
 ],
@@ -710,7 +759,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-121
+0
 ]
 },
 {
@@ -720,7 +769,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-122
+1
 ]
 },
 {
@@ -730,13 +779,13 @@
 "contra": 2,
 "processual": 5,
 "atos": [
-113,
-116,
-277,
-278,
-279,
-280,
-282
+2,
+76,
+179,
+253,
+273,
+274,
+275
 ]
 },
 {
@@ -746,7 +795,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-117
+3
 ]
 },
 {
@@ -756,7 +805,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-244
+5
 ]
 },
 {
@@ -766,7 +815,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-243
+4
 ]
 },
 {
@@ -776,9 +825,9 @@
 "contra": 1,
 "processual": 2,
 "atos": [
-177,
-178,
-179
+6,
+7,
+8
 ]
 },
 {
@@ -788,7 +837,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-183
+9
 ]
 },
 {
@@ -798,7 +847,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-184
+10
 ]
 },
 {
@@ -808,7 +857,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-31
+12
 ]
 },
 {
@@ -818,7 +867,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-30
+11
 ]
 },
 {
@@ -828,7 +877,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-148
+13
 ]
 },
 {
@@ -838,7 +887,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-149
+14
 ]
 },
 {
@@ -848,7 +897,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-289
+68
 ]
 },
 {
@@ -858,8 +907,8 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-35,
-36
+15,
+16
 ]
 },
 {
@@ -869,7 +918,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-140
+18
 ]
 },
 {
@@ -879,8 +928,8 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-139,
-141
+17,
+19
 ]
 },
 {
@@ -890,7 +939,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-245
+20
 ]
 },
 {
@@ -900,7 +949,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-224
+23
 ]
 },
 {
@@ -910,7 +959,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-223
+22
 ]
 },
 {
@@ -920,9 +969,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-18,
-204,
-257
+100,
+146,
+147
 ]
 },
 {
@@ -932,9 +981,9 @@
 "contra": 3,
 "processual": 0,
 "atos": [
-222,
-225,
-226
+21,
+24,
+25
 ]
 },
 {
@@ -944,7 +993,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-32
+26
 ]
 },
 {
@@ -954,7 +1003,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-98
+27
 ]
 },
 {
@@ -964,7 +1013,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-262
+145
 ]
 },
 {
@@ -974,7 +1023,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-99
+28
 ]
 },
 {
@@ -984,8 +1033,8 @@
 "contra": 2,
 "processual": 0,
 "atos": [
-228,
-229
+30,
+31
 ]
 },
 {
@@ -995,7 +1044,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-227
+29
 ]
 },
 {
@@ -1005,9 +1054,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-18,
-204,
-257
+100,
+146,
+147
 ]
 },
 {
@@ -1017,7 +1066,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-230
+32
 ]
 },
 {
@@ -1027,7 +1076,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-212
+33
 ]
 },
 {
@@ -1037,9 +1086,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-18,
-213,
-257
+34,
+146,
+147
 ]
 },
 {
@@ -1049,7 +1098,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-231
+35
 ]
 },
 {
@@ -1059,7 +1108,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-232
+36
 ]
 },
 {
@@ -1069,9 +1118,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-18,
-204,
-257
+100,
+146,
+147
 ]
 },
 {
@@ -1081,7 +1130,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-233
+37
 ]
 },
 {
@@ -1091,7 +1140,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-54
+40
 ]
 },
 {
@@ -1101,7 +1150,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-154
+38
 ]
 },
 {
@@ -1111,7 +1160,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-157
+42
 ]
 },
 {
@@ -1121,7 +1170,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-155
+39
 ]
 },
 {
@@ -1131,17 +1180,17 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-156
+41
 ]
 },
 {
 "de": "claudio-maierovitch",
 "para": "tema:cloroquina",
-"favor": 1,
+"favor": 0,
 "contra": 0,
-"processual": 0,
+"processual": 1,
 "atos": [
-42
+212
 ]
 },
 {
@@ -1151,7 +1200,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-44
+43
 ]
 },
 {
@@ -1161,7 +1210,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-47
+44
 ]
 },
 {
@@ -1171,7 +1220,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-172
+45
 ]
 },
 {
@@ -1181,20 +1230,20 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-171
+46
 ]
 },
 {
 "de": "danilo-trento",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 1,
-"processual": 3,
+"contra": 0,
+"processual": 4,
 "atos": [
-165,
-167,
-265,
-283
+47,
+48,
+201,
+268
 ]
 },
 {
@@ -1204,7 +1253,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-166
+49
 ]
 },
 {
@@ -1214,9 +1263,9 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-37,
-38,
-39
+50,
+118,
+119
 ]
 },
 {
@@ -1226,7 +1275,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-206
+53
 ]
 },
 {
@@ -1236,8 +1285,8 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-205,
-207
+51,
+52
 ]
 },
 {
@@ -1247,7 +1296,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-208
+54
 ]
 },
 {
@@ -1257,9 +1306,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-18,
-204,
-257
+100,
+146,
+147
 ]
 },
 {
@@ -1269,9 +1318,49 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-209,
-210,
-211
+55,
+56,
+57
+]
+},
+{
+"de": "eduardo-braga",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+59
+]
+},
+{
+"de": "eduardo-braga",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+58
+]
+},
+{
+"de": "eduardo-girao",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+60
+]
+},
+{
+"de": "eduardo-girao",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+61
 ]
 },
 {
@@ -1281,8 +1370,8 @@
 "contra": 2,
 "processual": 0,
 "atos": [
-56,
-193
+241,
+243
 ]
 },
 {
@@ -1292,11 +1381,11 @@
 "contra": 0,
 "processual": 5,
 "atos": [
-196,
-197,
-198,
-199,
-269
+90,
+91,
+92,
+244,
+245
 ]
 },
 {
@@ -1306,10 +1395,10 @@
 "contra": 1,
 "processual": 3,
 "atos": [
-6,
-286,
-288,
-289
+68,
+127,
+209,
+210
 ]
 },
 {
@@ -1319,7 +1408,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-260
+143
 ]
 },
 {
@@ -1329,7 +1418,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-21
+63
 ]
 },
 {
@@ -1339,9 +1428,9 @@
 "contra": 1,
 "processual": 2,
 "atos": [
-25,
-258,
-262
+67,
+141,
+145
 ]
 },
 {
@@ -1351,10 +1440,10 @@
 "contra": 2,
 "processual": 2,
 "atos": [
-23,
-24,
-268,
-292
+65,
+66,
+69,
+70
 ]
 },
 {
@@ -1364,9 +1453,9 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-20,
-22,
-290
+62,
+64,
+140
 ]
 },
 {
@@ -1376,8 +1465,8 @@
 "contra": 0,
 "processual": 2,
 "atos": [
-287,
-289
+68,
+75
 ]
 },
 {
@@ -1387,11 +1476,11 @@
 "contra": 0,
 "processual": 5,
 "atos": [
-81,
-260,
-276,
-277,
-284
+73,
+74,
+76,
+143,
+254
 ]
 },
 {
@@ -1401,7 +1490,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-262
+145
 ]
 },
 {
@@ -1411,7 +1500,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-292
+70
 ]
 },
 {
@@ -1421,9 +1510,9 @@
 "contra": 0,
 "processual": 2,
 "atos": [
-79,
-80,
-290
+71,
+72,
+140
 ]
 },
 {
@@ -1433,10 +1522,10 @@
 "contra": 1,
 "processual": 3,
 "atos": [
-55,
-161,
-162,
-276
+77,
+78,
+107,
+254
 ]
 },
 {
@@ -1446,7 +1535,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-96
+82
 ]
 },
 {
@@ -1456,7 +1545,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-93
+79
 ]
 },
 {
@@ -1466,12 +1555,101 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-97,
-257
+83,
+147
 ]
 },
 {
 "de": "ernesto-araujo",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 1,
+"atos": [
+80,
+81
+]
+},
+{
+"de": "ester-sabino",
+"para": "tema:gestao",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+84
+]
+},
+{
+"de": "fabio-wajngarten",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+85
+]
+},
+{
+"de": "fabio-wajngarten",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+86,
+87,
+88
+]
+},
+{
+"de": "fernando-parrillo",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 1,
+"atos": [
+89,
+241,
+243
+]
+},
+{
+"de": "fernando-parrillo",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 0,
+"processual": 5,
+"atos": [
+90,
+91,
+92,
+244,
+245
+]
+},
+{
+"de": "filipe-martins",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+93
+]
+},
+{
+"de": "fiocruz",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+68
+]
+},
+{
+"de": "fiocruz",
 "para": "tema:vacinas",
 "favor": 1,
 "contra": 0,
@@ -1482,102 +1660,13 @@
 ]
 },
 {
-"de": "ester-sabino",
-"para": "tema:gestao",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-41
-]
-},
-{
-"de": "fabio-wajngarten",
-"para": "tema:gestao",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-103
-]
-},
-{
-"de": "fabio-wajngarten",
-"para": "tema:vacinas",
-"favor": 0,
-"contra": 1,
-"processual": 2,
-"atos": [
-104,
-105,
-106
-]
-},
-{
-"de": "fernando-parrillo",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 2,
-"processual": 1,
-"atos": [
-56,
-193,
-195
-]
-},
-{
-"de": "fernando-parrillo",
-"para": "tema:prevent",
-"favor": 0,
-"contra": 0,
-"processual": 5,
-"atos": [
-196,
-197,
-198,
-199,
-269
-]
-},
-{
-"de": "filipe-martins",
-"para": "tema:vacinas",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-108
-]
-},
-{
-"de": "fiocruz",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-289
-]
-},
-{
-"de": "fiocruz",
-"para": "tema:vacinas",
-"favor": 1,
-"contra": 0,
-"processual": 1,
-"atos": [
-40,
-291
-]
-},
-{
 "de": "flavio-bolsonaro",
 "para": "tema:cloroquina",
 "favor": 0,
 "contra": 1,
 "processual": 0,
 "atos": [
-201
+97
 ]
 },
 {
@@ -1587,7 +1676,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-200
+96
 ]
 },
 {
@@ -1597,9 +1686,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-18,
-204,
-257
+100,
+146,
+147
 ]
 },
 {
@@ -1609,8 +1698,8 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-202,
-203
+98,
+99
 ]
 },
 {
@@ -1620,7 +1709,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-153
+104
 ]
 },
 {
@@ -1630,8 +1719,8 @@
 "contra": 0,
 "processual": 2,
 "atos": [
-151,
-152
+102,
+103
 ]
 },
 {
@@ -1641,7 +1730,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-150
+101
 ]
 },
 {
@@ -1651,13 +1740,13 @@
 "contra": 1,
 "processual": 6,
 "atos": [
-55,
-158,
-159,
-265,
-276,
-282,
-283
+105,
+106,
+107,
+201,
+253,
+254,
+268
 ]
 },
 {
@@ -1667,7 +1756,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-160
+108
 ]
 },
 {
@@ -1677,7 +1766,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-59
+109
 ]
 },
 {
@@ -1687,7 +1776,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-60
+110
 ]
 },
 {
@@ -1697,7 +1786,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-107
+111
 ]
 },
 {
@@ -1707,7 +1796,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-262
+145
 ]
 },
 {
@@ -1717,7 +1806,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-99
+28
 ]
 },
 {
@@ -1727,7 +1816,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-248
+112
 ]
 },
 {
@@ -1737,7 +1826,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-249
+113
 ]
 },
 {
@@ -1747,9 +1836,9 @@
 "contra": 1,
 "processual": 2,
 "atos": [
-82,
-286,
-289
+68,
+114,
+210
 ]
 },
 {
@@ -1759,8 +1848,8 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-83,
-84
+115,
+116
 ]
 },
 {
@@ -1770,7 +1859,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-262
+145
 ]
 },
 {
@@ -1780,8 +1869,18 @@
 "contra": 0,
 "processual": 2,
 "atos": [
-268,
-292
+69,
+70
+]
+},
+{
+"de": "humberto-costa",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+117
 ]
 },
 {
@@ -1791,7 +1890,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-289
+68
 ]
 },
 {
@@ -1801,9 +1900,9 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-37,
-38,
-293
+118,
+119,
+120
 ]
 },
 {
@@ -1811,10 +1910,11 @@
 "para": "tema:cloroquina",
 "favor": 0,
 "contra": 1,
-"processual": 1,
+"processual": 2,
 "atos": [
-6,
-259
+124,
+127,
+142
 ]
 },
 {
@@ -1824,7 +1924,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-260
+143
 ]
 },
 {
@@ -1834,23 +1934,22 @@
 "contra": 4,
 "processual": 0,
 "atos": [
-5,
-9,
-13,
-14
+126,
+131,
+135,
+136
 ]
 },
 {
 "de": "jair-bolsonaro",
 "para": "tema:distanciamento",
 "favor": 0,
-"contra": 3,
+"contra": 2,
 "processual": 1,
 "atos": [
-1,
-3,
-4,
-261
+122,
+125,
+144
 ]
 },
 {
@@ -1860,7 +1959,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-2
+123
 ]
 },
 {
@@ -1868,16 +1967,15 @@
 "para": "tema:justica",
 "favor": 0,
 "contra": 1,
-"processual": 7,
+"processual": 6,
 "atos": [
-0,
-17,
-18,
-255,
-257,
-258,
-262,
-266
+121,
+134,
+139,
+141,
+145,
+146,
+147
 ]
 },
 {
@@ -1887,15 +1985,15 @@
 "contra": 6,
 "processual": 2,
 "atos": [
-7,
-8,
-10,
-11,
-12,
-15,
-16,
-256,
-290
+128,
+129,
+130,
+132,
+133,
+137,
+138,
+140,
+148
 ]
 },
 {
@@ -1905,7 +2003,17 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-41
+84
+]
+},
+{
+"de": "joao-doria",
+"para": "tema:outros",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+149
 ]
 },
 {
@@ -1915,7 +2023,17 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-46
+150
+]
+},
+{
+"de": "jorginho-mello",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+151
 ]
 },
 {
@@ -1925,8 +2043,8 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-252,
-253
+152,
+153
 ]
 },
 {
@@ -1936,7 +2054,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-254
+154
 ]
 },
 {
@@ -1946,8 +2064,8 @@
 "contra": 0,
 "processual": 2,
 "atos": [
-111,
-265
+155,
+268
 ]
 },
 {
@@ -1957,17 +2075,17 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-112
+156
 ]
 },
 {
 "de": "jurema-werneck",
 "para": "tema:justica",
-"favor": 1,
+"favor": 0,
 "contra": 0,
-"processual": 0,
+"processual": 1,
 "atos": [
-43
+246
 ]
 },
 {
@@ -1977,7 +2095,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-247
+157
 ]
 },
 {
@@ -1987,7 +2105,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-61
+158
 ]
 },
 {
@@ -1997,7 +2115,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-62
+159
 ]
 },
 {
@@ -2007,8 +2125,8 @@
 "contra": 2,
 "processual": 0,
 "atos": [
-146,
-147
+160,
+161
 ]
 },
 {
@@ -2018,7 +2136,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-240
+165
 ]
 },
 {
@@ -2028,7 +2146,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-238
+163
 ]
 },
 {
@@ -2038,210 +2156,42 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-58,
-239
+162,
+164
+]
+},
+{
+"de": "luis-carlos-heinze",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+166
+]
+},
+{
+"de": "luis-carlos-heinze",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+167
 ]
 },
 {
 "de": "luis-miranda",
 "para": "tema:contratos",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-50
-]
-},
-{
-"de": "luiz-dominguetti",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 0,
-"processual": 2,
-"atos": [
-173,
-174
-]
-},
-{
-"de": "luiz-dominguetti",
-"para": "tema:vacinas",
 "favor": 0,
 "contra": 0,
 "processual": 1,
 "atos": [
-175
+168
 ]
 },
 {
-"de": "luiz-henrique-mandetta",
-"para": "tema:cloroquina",
-"favor": 2,
-"contra": 0,
-"processual": 0,
-"atos": [
-26,
-27
-]
-},
-{
-"de": "luiz-henrique-mandetta",
-"para": "tema:gestao",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-28
-]
-},
-{
-"de": "marcellus-campelo",
-"para": "tema:gestao",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-132
-]
-},
-{
-"de": "marcellus-campelo",
-"para": "tema:manaus",
-"favor": 0,
-"contra": 0,
-"processual": 3,
-"atos": [
-133,
-134,
-268
-]
-},
-{
-"de": "marcelo-bento-pires",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 1,
-"processual": 2,
-"atos": [
-113,
-114,
-115
-]
-},
-{
-"de": "marcelo-blanco",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-123
-]
-},
-{
-"de": "marcelo-blanco",
-"para": "tema:vacinas",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-124
-]
-},
-{
-"de": "marcelo-queiroga",
-"para": "tema:cloroquina",
-"favor": 1,
-"contra": 1,
-"processual": 3,
-"atos": [
-75,
-76,
-77,
-286,
-289
-]
-},
-{
-"de": "marcelo-queiroga",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-260
-]
-},
-{
-"de": "marcelo-queiroga",
-"para": "tema:distanciamento",
-"favor": 0,
-"contra": 2,
-"processual": 0,
-"atos": [
-70,
-71
-]
-},
-{
-"de": "marcelo-queiroga",
-"para": "tema:justica",
-"favor": 0,
-"contra": 1,
-"processual": 1,
-"atos": [
-78,
-262
-]
-},
-{
-"de": "marcelo-queiroga",
-"para": "tema:vacinas",
-"favor": 3,
-"contra": 1,
-"processual": 0,
-"atos": [
-69,
-72,
-73,
-74
-]
-},
-{
-"de": "marconny-faria",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-181
-]
-},
-{
-"de": "marconny-faria",
-"para": "tema:justica",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-180
-]
-},
-{
-"de": "marcos-tolentino",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 1,
-"processual": 3,
-"atos": [
-168,
-170,
-282,
-283
-]
-},
-{
-"de": "marcos-tolentino",
+"de": "luis-miranda",
 "para": "tema:justica",
 "favor": 0,
 "contra": 0,
@@ -2251,371 +2201,50 @@
 ]
 },
 {
-"de": "mauro-ribeiro",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 2,
-"processual": 2,
-"atos": [
-135,
-137,
-138,
-286
-]
-},
-{
-"de": "mauro-ribeiro",
-"para": "tema:vacinas",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-136
-]
-},
-{
-"de": "mayra-pinheiro",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 1,
-"processual": 2,
-"atos": [
-57,
-286,
-288
-]
-},
-{
-"de": "mayra-pinheiro",
-"para": "tema:manaus",
-"favor": 0,
-"contra": 2,
-"processual": 2,
-"atos": [
-66,
-67,
-268,
-292
-]
-},
-{
-"de": "monica-calazans",
-"para": "tema:vacinas",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-49
-]
-},
-{
-"de": "natalia-pasternak",
-"para": "tema:cloroquina",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-42
-]
-},
-{
-"de": "nelson-teich",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-29
-]
-},
-{
-"de": "nise-yamaguchi",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 3,
-"processual": 0,
-"atos": [
-33,
-34,
-64
-]
-},
-{
-"de": "nise-yamaguchi",
-"para": "tema:desinformacao",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-63
-]
-},
-{
-"de": "nise-yamaguchi",
-"para": "tema:vacinas",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-65
-]
-},
-{
-"de": "nisia-trindade",
-"para": "tema:vacinas",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-40
-]
-},
-{
-"de": "omar-aziz",
-"para": "tema:justica",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-45
-]
-},
-{
-"de": "onyx-lorenzoni",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-89
-]
-},
-{
-"de": "onyx-lorenzoni",
+"de": "luiz-dominguetti",
 "para": "tema:contratos",
 "favor": 0,
 "contra": 0,
-"processual": 1,
+"processual": 2,
 "atos": [
-90
+170,
+171
 ]
 },
 {
-"de": "onyx-lorenzoni",
+"de": "luiz-dominguetti",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+172
+]
+},
+{
+"de": "luiz-henrique-mandetta",
+"para": "tema:cloroquina",
+"favor": 2,
+"contra": 0,
+"processual": 0,
+"atos": [
+173,
+174
+]
+},
+{
+"de": "luiz-henrique-mandetta",
 "para": "tema:gestao",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-88
-]
-},
-{
-"de": "onyx-lorenzoni",
-"para": "tema:justica",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-257
-]
-},
-{
-"de": "onyx-lorenzoni",
-"para": "tema:vacinas",
-"favor": 0,
-"contra": 1,
-"processual": 1,
-"atos": [
-91,
-92
-]
-},
-{
-"de": "osmar-terra",
-"para": "tema:cloroquina",
 "favor": 0,
 "contra": 1,
 "processual": 0,
 "atos": [
-219
+175
 ]
 },
 {
-"de": "osmar-terra",
-"para": "tema:desinformacao",
-"favor": 0,
-"contra": 2,
-"processual": 0,
-"atos": [
-218,
-220
-]
-},
-{
-"de": "osmar-terra",
-"para": "tema:distanciamento",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-217
-]
-},
-{
-"de": "osmar-terra",
-"para": "tema:justica",
-"favor": 0,
-"contra": 1,
-"processual": 4,
-"atos": [
-18,
-53,
-204,
-257,
-262
-]
-},
-{
-"de": "osmar-terra",
-"para": "tema:vacinas",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-221
-]
-},
-{
-"de": "otavio-fakhoury",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-241
-]
-},
-{
-"de": "otavio-fakhoury",
-"para": "tema:vacinas",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-242
-]
-},
-{
-"de": "otto-alencar",
-"para": "tema:justica",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-68
-]
-},
-{
-"de": "paolo-zanotto",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-142
-]
-},
-{
-"de": "paolo-zanotto",
-"para": "tema:outros",
-"favor": 0,
-"contra": 0,
-"processual": 1,
-"atos": [
-143
-]
-},
-{
-"de": "paolo-zanotto",
-"para": "tema:prevent",
-"favor": 0,
-"contra": 2,
-"processual": 0,
-"atos": [
-144,
-145
-]
-},
-{
-"de": "pedro-benedito-batista",
-"para": "tema:cloroquina",
-"favor": 0,
-"contra": 2,
-"processual": 0,
-"atos": [
-56,
-193
-]
-},
-{
-"de": "pedro-benedito-batista",
-"para": "tema:justica",
-"favor": 0,
-"contra": 1,
-"processual": 0,
-"atos": [
-194
-]
-},
-{
-"de": "pedro-benedito-batista",
-"para": "tema:prevent",
-"favor": 0,
-"contra": 1,
-"processual": 3,
-"atos": [
-192,
-196,
-198,
-269
-]
-},
-{
-"de": "pedro-hallal",
-"para": "tema:justica",
-"favor": 1,
-"contra": 0,
-"processual": 0,
-"atos": [
-43
-]
-},
-{
-"de": "precisa-medicamentos",
-"para": "tema:contratos",
-"favor": 0,
-"contra": 2,
-"processual": 11,
-"atos": [
-55,
-159,
-188,
-189,
-190,
-191,
-273,
-274,
-276,
-277,
-282,
-283,
-284
-]
-},
-{
-"de": "rafael-alves",
-"para": "tema:contratos",
+"de": "marcellus-campelo",
+"para": "tema:gestao",
 "favor": 0,
 "contra": 0,
 "processual": 1,
@@ -2624,7 +2253,31 @@
 ]
 },
 {
-"de": "raimundo-nonato-brasil",
+"de": "marcellus-campelo",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 0,
+"processual": 3,
+"atos": [
+69,
+177,
+178
+]
+},
+{
+"de": "marcelo-bento-pires",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+179,
+180,
+181
+]
+},
+{
+"de": "marcelo-blanco",
 "para": "tema:contratos",
 "favor": 0,
 "contra": 0,
@@ -2634,13 +2287,531 @@
 ]
 },
 {
-"de": "randolfe-rodrigues",
+"de": "marcelo-blanco",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+183
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:cloroquina",
+"favor": 1,
+"contra": 1,
+"processual": 3,
+"atos": [
+68,
+184,
+190,
+191,
+210
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+143
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+186,
+187
+]
+},
+{
+"de": "marcelo-queiroga",
 "para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+145,
+192
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:vacinas",
+"favor": 3,
+"contra": 0,
+"processual": 1,
+"atos": [
+185,
+188,
+189,
+193
+]
+},
+{
+"de": "marconny-faria",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+195
+]
+},
+{
+"de": "marconny-faria",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+194
+]
+},
+{
+"de": "marcos-rogerio",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+196
+]
+},
+{
+"de": "marcos-rogerio",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+197
+]
+},
+{
+"de": "marcos-tolentino",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 3,
+"atos": [
+198,
+200,
+201,
+253
+]
+},
+{
+"de": "marcos-tolentino",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+199
+]
+},
+{
+"de": "mauro-ribeiro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 2,
+"atos": [
+202,
+204,
+205,
+210
+]
+},
+{
+"de": "mauro-ribeiro",
+"para": "tema:vacinas",
 "favor": 1,
 "contra": 0,
 "processual": 0,
 "atos": [
-45
+203
+]
+},
+{
+"de": "mayra-pinheiro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+206,
+209,
+210
+]
+},
+{
+"de": "mayra-pinheiro",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 2,
+"processual": 2,
+"atos": [
+69,
+70,
+207,
+208
+]
+},
+{
+"de": "monica-calazans",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+211
+]
+},
+{
+"de": "natalia-pasternak",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+212
+]
+},
+{
+"de": "nelson-teich",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+213
+]
+},
+{
+"de": "nise-yamaguchi",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 3,
+"processual": 0,
+"atos": [
+214,
+216,
+218
+]
+},
+{
+"de": "nise-yamaguchi",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+217
+]
+},
+{
+"de": "nise-yamaguchi",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+215
+]
+},
+{
+"de": "nisia-trindade",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+94
+]
+},
+{
+"de": "omar-aziz",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+219,
+220
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+222
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+223
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:gestao",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+221
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+147
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+224,
+225
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+229
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+228,
+230
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+227
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 4,
+"atos": [
+100,
+145,
+146,
+147,
+226
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+231
+]
+},
+{
+"de": "otavio-fakhoury",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+232
+]
+},
+{
+"de": "otavio-fakhoury",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+233
+]
+},
+{
+"de": "otto-alencar",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+234,
+235
+]
+},
+{
+"de": "paolo-zanotto",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+236
+]
+},
+{
+"de": "paolo-zanotto",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+237
+]
+},
+{
+"de": "paolo-zanotto",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+238,
+239
+]
+},
+{
+"de": "pedro-benedito-batista",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+241,
+243
+]
+},
+{
+"de": "pedro-benedito-batista",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+242
+]
+},
+{
+"de": "pedro-benedito-batista",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 1,
+"processual": 3,
+"atos": [
+91,
+240,
+244,
+245
+]
+},
+{
+"de": "pedro-hallal",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+246
+]
+},
+{
+"de": "precisa-medicamentos",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 2,
+"processual": 11,
+"atos": [
+74,
+76,
+106,
+107,
+201,
+247,
+248,
+249,
+250,
+251,
+252,
+253,
+254
+]
+},
+{
+"de": "rafael-alves",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+255
+]
+},
+{
+"de": "raimundo-nonato-brasil",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+256
+]
+},
+{
+"de": "randolfe-rodrigues",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+219,
+257
 ]
 },
 {
@@ -2650,10 +2821,10 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-118,
-119,
-276,
-277
+76,
+254,
+258,
+259
 ]
 },
 {
@@ -2663,17 +2834,18 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-120
+260
 ]
 },
 {
 "de": "renan-calheiros",
 "para": "tema:justica",
-"favor": 1,
+"favor": 0,
 "contra": 0,
-"processual": 0,
+"processual": 2,
 "atos": [
-45
+219,
+261
 ]
 },
 {
@@ -2683,9 +2855,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-52,
+74,
 265,
-284
+268
 ]
 },
 {
@@ -2695,7 +2867,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-51
+262
 ]
 },
 {
@@ -2705,10 +2877,10 @@
 "contra": 0,
 "processual": 4,
 "atos": [
-18,
-204,
-257,
-264
+100,
+146,
+147,
+267
 ]
 },
 {
@@ -2718,9 +2890,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-214,
-215,
-216
+263,
+264,
+266
 ]
 },
 {
@@ -2730,7 +2902,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-246
+269
 ]
 },
 {
@@ -2740,17 +2912,17 @@
 "contra": 2,
 "processual": 9,
 "atos": [
-85,
-86,
-113,
-265,
-276,
-277,
-278,
-279,
-280,
-282,
-284
+74,
+76,
+179,
+253,
+254,
+268,
+270,
+271,
+273,
+274,
+275
 ]
 },
 {
@@ -2760,7 +2932,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-87
+272
 ]
 },
 {
@@ -2770,7 +2942,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-285
+276
 ]
 },
 {
@@ -2780,8 +2952,8 @@
 "contra": 2,
 "processual": 0,
 "atos": [
-250,
-251
+277,
+278
 ]
 },
 {
@@ -2791,8 +2963,8 @@
 "contra": 2,
 "processual": 0,
 "atos": [
-234,
-235
+279,
+280
 ]
 },
 {
@@ -2802,8 +2974,8 @@
 "contra": 0,
 "processual": 2,
 "atos": [
-236,
-237
+281,
+282
 ]
 },
 {
@@ -2813,8 +2985,8 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-48,
-270
+283,
+284
 ]
 },
 {
@@ -2824,7 +2996,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-272
+285
 ]
 },
 {
@@ -2834,7 +3006,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-271
+286
 ]
 },
 {
@@ -2844,8 +3016,18 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-19,
-271
+286,
+287
+]
+},
+{
+"de": "tasso-jereissati",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+288
 ]
 },
 {
@@ -2855,7 +3037,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-109
+289
 ]
 },
 {
@@ -2865,7 +3047,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-110
+290
 ]
 },
 {
@@ -2875,7 +3057,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-164
+291
 ]
 },
 {
@@ -2885,7 +3067,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-163
+292
 ]
 },
 {
@@ -2895,14 +3077,14 @@
 "contra": 1,
 "processual": 7,
 "atos": [
-186,
-187,
-275,
-277,
-278,
-280,
-281,
-294
+76,
+273,
+274,
+294,
+295,
+296,
+297,
+298
 ]
 },
 {
@@ -2912,7 +3094,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-185
+293
 ]
 },
 {
@@ -2922,7 +3104,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-100
+299
 ]
 },
 {
@@ -2932,9 +3114,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
-101,
-102,
-263
+300,
+301,
+302
 ]
 },
 {
@@ -2944,7 +3126,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-128
+306
 ]
 },
 {
@@ -2954,11 +3136,11 @@
 "contra": 2,
 "processual": 2,
 "atos": [
-125,
-126,
-129,
-131,
-267
+303,
+304,
+307,
+309,
+310
 ]
 },
 {
@@ -2968,7 +3150,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-130
+308
 ]
 },
 {
@@ -2978,7 +3160,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-127
+305
 ]
 }
 ],

@@ -6,12 +6,17 @@ const NS = "http://www.w3.org/2000/svg";
 export const COR_TEMA = { prevent: "#a855f7", contratos: "#ca8a04", manaus: "#0ea5e9", cloroquina: "#f97316", vacinas: "#22c55e",
   distanciamento: "#14b8a6", desinformacao: "#ef4444", gestao: "#94a3b8", justica: "#3b82f6", outros: "#6b7280" };
 export const COR_LIGA = { favor: "#22c55e", contra: "#ef4444", ambos: "#eab308", processual: "#6b7280" };
-export const COR_GRUPO = {
-  "Presidência da República e família": "#f43f5e", "Ministério da Saúde": "#fb923c", "Outros ministérios e órgãos federais": "#fbbf24",
-  "Parlamentares": "#a78bfa", "\"Gabinete paralelo\" e médicos": "#f472b6", "Empresários, comunicadores e influenciadores": "#c084fc",
-  "Contratos de vacina e logística (Covaxin, Davati, VTCLog)": "#facc15", "Prevent Senior": "#e879f9", "Governo do Amazonas": "#38bdf8",
-  "Empresas (pessoa jurídica)": "#fde047", "Médicos defensores do \"tratamento precoce\" que morreram de Covid": "#d1d5db",
-  "Atuaram a favor da população": "#4ade80" };
+// Cor por esfera de atuação, sem juízo: verde e vermelho ficam só para os atos (ligações).
+export const COR_ESFERA = { "Governo federal": "#60a5fa", "Congresso": "#c084fc", "Governos estaduais": "#fbbf24",
+  "Judiciário": "#cbd5e1", "Saúde, ciência e imprensa": "#2dd4bf", "Setor privado": "#f9a8d4", "Médicos": "#fdba74" };
+export const ESFERA = {
+  "Presidência da República e família": "Governo federal", "Ministério da Saúde": "Governo federal", "Outros ministérios e órgãos federais": "Governo federal",
+  "Parlamentares": "Congresso", "Senadores da CPI": "Congresso", "Governos estaduais": "Governos estaduais", "Judiciário": "Judiciário",
+  "Instituições de saúde e SUS": "Saúde, ciência e imprensa", "Cientistas, imprensa e sociedade civil": "Saúde, ciência e imprensa",
+  "Empresários, comunicadores e influenciadores": "Setor privado", "Contratos de vacina e logística (Covaxin, Davati, VTCLog)": "Setor privado",
+  "Prevent Senior": "Setor privado", "Empresas (pessoa jurídica)": "Setor privado",
+  "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")": "Médicos", "Médicos que defenderam o \"tratamento precoce\"": "Médicos" };
+export const COR_GRUPO = Object.fromEntries(Object.entries(ESFERA).map(([g, e]) => [g, COR_ESFERA[e]]));
 const NOME_LIGA = { favor: "a favor", contra: "contra", ambos: "a favor e contra", processual: "só processual" };
 
 const tipoLiga = (a) => (a.favor && a.contra ? "ambos" : a.contra ? "contra" : a.favor ? "favor" : "processual");

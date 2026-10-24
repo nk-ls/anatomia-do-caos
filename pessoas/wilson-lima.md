@@ -1,26 +1,26 @@
 # Wilson Lima
 
 **Cargo à época:** Governador do Amazonas  
-**Grupo:** Governo do Amazonas
+**Grupo:** Governos estaduais
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
 - **01/2021** (fato) Assinou ofícios alertando Pazuello e o Exército sobre a iminência de esgotamento do oxigênio, segundo a PF [fonte](https://www.metropoles.com/brasil/pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/metropoles-com-brasil-pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus-88914726/2026-10-24.html)
-- **14/01/2021** (fato) Decretou toque de recolher no estado e transferência de pacientes para hospitais de outros estados [fonte](https://www.congressoemfoco.com.br/saude/venezuela-amazonas-oxigenio-manaus/)
-- **26/01/2021** (fato) Governo estadual reabriu o hospital Nilton Lins para pacientes de Covid-19, com 80 leitos clínicos e 22 de UTI [fonte](https://agenciabrasil.ebc.com.br/saude/noticia/2021-01/hospital-nilton-lins-reabre-para-pacientes-com-covid-19-no-amazonas)
+- **14/01/2021** (fato) Decretou toque de recolher no estado e transferência de pacientes para hospitais de outros estados [fonte](https://www.congressoemfoco.com.br/saude/venezuela-amazonas-oxigenio-manaus/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-saude-venezuela-amazonas-oxigenio-manaus-243eeaab/2026-10-24.html)
+- **26/01/2021** (fato) Governo estadual reabriu o hospital Nilton Lins para pacientes de Covid-19, com 80 leitos clínicos e 22 de UTI [fonte](https://agenciabrasil.ebc.com.br/saude/noticia/2021-01/hospital-nilton-lins-reabre-para-pacientes-com-covid-19-no-amazonas) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-saude-noticia-2021-01-hospital-nilton-lins-reabre-para-pacientes--a9bba499/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **30/06/2020** (alegação) Alvo de buscas da PF na Operação Sangria, que apura compra de respiradores de uma loja de vinhos com sobrepreço [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/wilson-lima-governador-do-am-e-alvo-de-operacao-da-pf-em-acao-contra-desvios-na-saude/)
-- **23/12/2020** (fato) Decretou fechamento do comércio não essencial; após crítica de Bolsonaro, recuou e autorizou o funcionamento [fonte](https://www.poder360.com.br/coronavirus/a-sucessao-erros-manaus-dw/)
+- **30/06/2020** (alegação) Alvo de buscas da PF na Operação Sangria, que apura compra de respiradores de uma loja de vinhos com sobrepreço [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/wilson-lima-governador-do-am-e-alvo-de-operacao-da-pf-em-acao-contra-desvios-na-saude/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jornaldebrasilia-com-br-noticias-politica-e-poder-wilson-lima-governador-do-am-e-alvo-de-o-b1b41f15/2026-10-24.html)
+- **23/12/2020** (fato) Decretou fechamento do comércio não essencial; após crítica de Bolsonaro, recuou e autorizou o funcionamento [fonte](https://www.poder360.com.br/coronavirus/a-sucessao-erros-manaus-dw/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-coronavirus-a-sucessao-erros-manaus-dw-f027d504/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **06/2021** (decisão judicial) Ministra Rosa Weber autorizou que não comparecesse à CPI, por ser investigado por desvio de recursos na pandemia [fonte](https://www.noticiasagricolas.com.br/noticia/290029)
-- **20/09/2021** (decisão judicial) STJ aceitou denúncia da PGR sobre a compra de respiradores e o tornou réu (ser réu não é condenação). [fonte](https://www.poder360.com.br/justica/por-unanimidade-stj-recebe-denuncia-contra-wilson-lima-por-respiradores/)
-- **20/09/2021** (decisão judicial) STJ · Ação Penal (Operação Sangria: 28 respiradores comprados de loja de vinhos) APn 993/DF: A Corte Especial recebeu a denúncia por unanimidade (peculato, dispensa e fraude em licitação, organização criminosa, embaraço). Em 17/06/2026 houve redistribuição a Nancy Andrighi. Em 08/09/2026 a Corte Especial negou, por unanimidade, os agravos de Wilson Lima e de Gutemberg Alencar (voto de Raul Araújo). Embargos de declaração estão conclusos desde 23/10/2026. O caso continua no STJ mesmo depois de Lima deixar o governo em abril de 2026. Situação em out/2026: Réu, sem sentença. Não houve condenação nem absolvição até 24/10/2026. [fonte](https://processo.stj.jus.br/processo/pesquisa/?num_registro=202000928826&aplicacao=processos.ea)
+- **06/2021** (decisão judicial) Ministra Rosa Weber autorizou que não comparecesse à CPI, por ser investigado por desvio de recursos na pandemia [fonte](https://www.noticiasagricolas.com.br/noticia/290029) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/noticiasagricolas-com-br-noticia-290029-6c6eff28/2026-10-24.html)
+- **20/09/2021** (decisão judicial) STJ aceitou denúncia da PGR sobre a compra de respiradores e o tornou réu (ser réu não é condenação). [fonte](https://www.poder360.com.br/justica/por-unanimidade-stj-recebe-denuncia-contra-wilson-lima-por-respiradores/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-justica-por-unanimidade-stj-recebe-denuncia-contra-wilson-lima-por-respira-bd925e70/2026-10-24.html)
+- **20/09/2021** (decisão judicial) STJ · Ação Penal (Operação Sangria: 28 respiradores comprados de loja de vinhos) APn 993/DF: A Corte Especial recebeu a denúncia por unanimidade (peculato, dispensa e fraude em licitação, organização criminosa, embaraço). Em 17/06/2026 houve redistribuição a Nancy Andrighi. Em 08/09/2026 a Corte Especial negou, por unanimidade, os agravos de Wilson Lima e de Gutemberg Alencar (voto de Raul Araújo). Embargos de declaração estão conclusos desde 23/10/2026. O caso continua no STJ mesmo depois de Lima deixar o governo em abril de 2026. Situação em out/2026: Réu, sem sentença. Não houve condenação nem absolvição até 24/10/2026. [fonte](https://processo.stj.jus.br/processo/pesquisa/?num_registro=202000928826&aplicacao=processos.ea) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STJ_APn993_andamentos_2026-10-24.html)
 
 ## Na CPI da Covid
 

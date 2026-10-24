@@ -284,3 +284,9 @@ button.barra-linha { width: 100%; background: none; border: 0; font: inherit; te
 
 .uf-cadeira { font-size: .75rem; color: var(--suave); border: 1px solid var(--borda); border-radius: 999px; padding: 0 6px; }
 .cadeira.apagada { opacity: .25; }
+
+/* Opinião do autor, separada dos dados */
+.opiniao { border-left: 4px solid var(--neutro); padding: 4px 0 4px 16px; margin: 18px 0; }
+.opiniao-rotulo { font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); margin: 0 0 6px; }
+
+.esfera-caso { margin: 0 0 2px; font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); }

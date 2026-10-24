@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2021** (checagem) Coletivo Bereia classificou como enganosa publicação dele com argumentos de medo contra a vacinação [fonte](https://coletivobereia.com.br/youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-para-propagar-medo-de-efeitos/)
+- **2021** (checagem) Coletivo Bereia classificou como enganosa publicação dele com argumentos de medo contra a vacinação [fonte](https://coletivobereia.com.br/youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-para-propagar-medo-de-efeitos/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/coletivobereia-com-br-youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-p-c4b0c725/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 
