@@ -11,11 +11,13 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
+- **2017** (alegação) Global Gestão em Saúde, presidida por ele, recebeu adiantamento de cerca de R$ 20 milhões do Ministério da Saúde por remédios de alto custo que não foram entregues; MPF move ação de improbidade (caso anterior à pandemia) [fonte](https://www.bemparana.com.br/noticia/mpf-pede-bloqueio-de-bens-de-ricardo-barros)
 - **25/02/2021** (alegação) Contrato da Covaxin (intermediado pela Precisa): 20 milhões de doses, cerca de R$ 1,6 bilhão; investigado por pedido de pagamento antecipado a offshore não previsto no contrato. A vacina nunca foi entregue e o contrato foi cancelado. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [no documentário, 00:46:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2760s)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **2021** (fato) Precisa, de sua propriedade, representou a Bharat Biotech no contrato de 20 milhões de doses da Covaxin (R$ 1,6 bilhão) com o Ministério da Saúde [fonte](https://www.em.com.br/app/noticia/politica/2021/08/12/interna_politica,1295191/barros-nega-na-cpi-da-covid-relacao-com-francisco-maximiano-e-covaxin.shtml)
+- **19/08/2021** (fato) Depôs à CPI após quatro adiamentos, usou o direito ao silêncio, admitiu conhecer Ricardo Barros e negou ter pedido favorecimento [fonte](https://www.cnnbrasil.com.br/politica/cpi-da-covid-ao-vivo-francisco-maximiano-dono-da-precisa-presta-depoimento/)
 
 ## Na CPI da Covid
 
@@ -29,7 +31,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Defesa afirma que não houve sobrepreço nem irregularidade e que os documentos alterados vieram da Envixia, parceira da Bharat, não da Precisa ([fonte](https://blogs.correiobraziliense.com.br/servidor/?p=20261))
 
 ## Fontes da ficha
 

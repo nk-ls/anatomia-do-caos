@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **15/07/2021** (alegação) Segundo Cristiano Carvalho na CPI, foi o conhecido em comum que o apresentou a Dominguetti por volta de janeiro de 2021 [fonte](https://www.em.com.br/app/noticia/politica/2021/07/15/interna_politica,1286906/representante-da-davati-diz-que-dominghetti-o-procurou-para-negociar-vacina.shtml)
 
 ## Na CPI da Covid
 

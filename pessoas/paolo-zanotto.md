@@ -11,11 +11,13 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **08/09/2020** (fato) Em reunião com Bolsonaro no Planalto (vídeo divulgado em 2021), propôs um 'shadow cabinet' para aconselhar o governo e disse que o Brasil 'talvez' não precisasse de vacinas, tema a ser tratado 'com muito cuidado' [fonte](https://www.poder360.com.br/governo/em-setembro-de-2020-virologista-propos-grupo-das-sombras-a-bolsonaro/)
+- **09/2021** (fato) CPI exibiu vídeo em que afirma estar desenvolvendo protocolo para a Prevent Senior baseado em medicamentos sem eficácia comprovada [fonte](https://www.bandab.com.br/politica/cpi-avalia-que-caso-prevent-pode-chegar-ao-governo-e-traz-gabinete-paralelo-de-volta-ao-foco/amp/)
+- **28/09/2021** (alegação) Advogada dos médicos da Prevent, Bruna Morato, afirmou à CPI que a aproximação entre a operadora e o governo foi feita por Nise Yamaguchi, Paolo Zanotto e Anthony Wong [fonte](https://www.maisgoias.com.br/brasil/prevent-e-medicos-do-gabinete-paralelo-fizeram-pacto-para-validar-cloroquina-diz-advogada/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **09/09/2020** (fato) Registros de visitantes do Ministério da Saúde, segundo o Brasil de Fato, mostram sua ida à sede da pasta com o grupo em reunião reservada no dia seguinte [fonte](https://www.brasildefato.com.br/2021/06/15/exclusivo-gabinete-das-sombras-fez-visita-secreta-no-ministerio-da-saude)
 
 ## Na CPI da Covid
 
@@ -29,7 +31,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Diz que 'gabinete das sombras' foi só metáfora, que as recomendações não foram seguidas pelo governo e nega ser contra vacinas; fala em 'alvejamento semântico para fins políticos' ([fonte](https://www.poder360.com.br/governo/virologista-paolo-zanotto-diz-que-gabinete-das-sombras-foi-so-metafora/))
 
 ## Fontes da ficha
 

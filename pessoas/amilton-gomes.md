@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **03/08/2021** (declaração) Na CPI, admitiu que a Senah esperava receber doações em troca de facilitar o acesso da empresa ao Ministério da Saúde [fonte](https://www.folhavitoria.com.br/politica/reverendo-admite-ter-esperado-doacao-por-facilitar-acesso-de-empresa-a-saude/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **02/2021** (fato) Presidente da Senah, foi autorizado pelo Ministério da Saúde a negociar 400 milhões de doses da AstraZeneca por meio da Davati [fonte](https://diariodonordeste.verdesmares.com.br/pontopoder/cpi-da-covid-retorna-apos-recesso-e-ouve-reverendo-amilton-gomes-de-paula-1.3117540)
+- **03/08/2021** (fato) Confrontado com e-mails sobre oferta de vacinas a municípios, chorou e não explicou o contato próximo com o ministério [fonte](https://congressoemfoco.com.br/legislativo/reverendo-chora-e-confrontado-sobre-venda-de-vacinas-a-municipios)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Diz que não negociou vacinas e que sua atuação se limitou a indicar ao Ministério da Saúde quem teria imunizantes ([fonte](https://www.tnh1.com.br/noticia/nid/cpi-reverendo-amilton-de-paula-diz-que-nao-negociou-vacinas/))
 
 ## Fontes da ficha
 

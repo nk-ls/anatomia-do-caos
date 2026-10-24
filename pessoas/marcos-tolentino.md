@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **2021** (alegação) Apontado pela CPI como sócio oculto do FIB Bank, empresa sem autorização do Banco Central para operar como banco, que emitiu carta-fiança de R$ 80,7 milhões à Precisa no contrato da Covaxin [fonte](https://www.congressoemfoco.com.br/legislativo/ao-vivo-cpi-ouve-diretor-de-empresa-que-deu-aval-de-r-80-milhoes-no-caso-covaxin)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **12/08/2021** (fato) Amigo de Ricardo Barros, acompanhou o deputado em seu depoimento à CPI [fonte](https://www.congressoemfoco.com.br/legislativo/ao-vivo-cpi-ouve-diretor-de-empresa-que-deu-aval-de-r-80-milhoes-no-caso-covaxin)
+- **14/09/2021** (fato) Depôs à CPI amparado por habeas corpus, calou-se sobre a relação com o FIB Bank e negou ser sócio oculto [fonte](https://jovempan.com.br/politica/tolentino-se-cala-sobre-relacao-com-o-fib-bank-mas-nega-ser-socio-oculto-da-empresa/)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Nega ser sócio oculto do FIB Bank e nega participação nas negociações da Covaxin ([fonte](https://jovempan.com.br/politica/tolentino-se-cala-sobre-relacao-com-o-fib-bank-mas-nega-ser-socio-oculto-da-empresa/))
 
 ## Fontes da ficha
 

@@ -12,10 +12,14 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **25/02/2021** (alegação) Contrato da Covaxin (intermediado pela Precisa): 20 milhões de doses, cerca de R$ 1,6 bilhão; investigado por pedido de pagamento antecipado a offshore não previsto no contrato. A vacina nunca foi entregue e o contrato foi cancelado. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [no documentário, 00:46:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2760s)
+- **07/2021** (fato) CGU concluiu que a Precisa entregou ao Ministério da Saúde documentos fraudados (procuração da Bharat e declaração); a Bharat Biotech negou autoria e rompeu com a Precisa [fonte](https://crusoe.com.br/diario/cgu-conclui-que-precisa-usou-documentos-falsos-em-negociacao-de-vacina)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **2021** (fato) Precisa, de sua propriedade, representou a Bharat Biotech no contrato de 20 milhões de doses da Covaxin (R$ 1,6 bilhão) com o Ministério da Saúde [fonte](https://www.em.com.br/app/noticia/politica/2021/08/12/interna_politica,1295191/barros-nega-na-cpi-da-covid-relacao-com-francisco-maximiano-e-covaxin.shtml)
+- **2021** (fato) Polícia Federal fez busca na sede da Precisa em São Paulo, a pedido da CPI e com autorização do STF [fonte](https://www.poder360.com.br/justica/policia-federal-faz-operacao-contra-a-precisa-medicamentos-em-sao-paulo/)
+- **07/2021** (fato) CGU não encontrou evidências de sobrepreço na compra da Covaxin [fonte](https://blogs.correiobraziliense.com.br/servidor/a-controladoria-geral-da-uniao-cgu-nao-encontrou-evidencias-de-sobrepreco-na-compra-da-covaxin-vacina-indiana-encomendada-pelo-ministerio-da-saude-em-fevereiro-deste-ano-mas-a-pasta-suspeita-da-p/)
+- **29/07/2021** (fato) Ministério da Saúde decidiu cancelar o contrato da Covaxin; nenhum valor foi pago pela vacina [fonte](https://www.tnh1.com.br/noticia/nid/ministerio-decide-cancelar-contrato-para-aquisicao-da-vacina-covaxin/)
 
 ## Na CPI da Covid
 
@@ -29,7 +33,7 @@ A Covaxin nunca foi comprada; o contrato foi cancelado.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Reitera 'lisura' na negociação da Covaxin; atribui alteração de documentos à Envixia; chamou de 'inadmissível' a busca da PF ([fonte](https://blogs.correiobraziliense.com.br/servidor/?p=20261))
 
 ## Fontes da ficha
 

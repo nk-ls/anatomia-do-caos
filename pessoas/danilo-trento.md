@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **09/2021** (alegação) Senador Randolfe Rodrigues o chamou de 'chefe da lavanderia de dinheiro' da Precisa (acusação de senador, sem condenação) [fonte](https://www.metropoles.com/brasil/politica-brasil/danilo-trento-e-chefe-da-lavanderia-de-dinheiro-da-precisa-diz-randolfe)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **23/09/2021** (fato) Depôs à CPI, ficou em silêncio em quase todas as perguntas e disse não ter participado das negociações da Covaxin; CPI aprovou quebra de seus sigilos [fonte](https://congressoemfoco.com.br/noticia/13539/cpi-ouve-empresario-danilo-trento-suposto-diretor-da-precisa-medicamentos)
+- **23/09/2021** (fato) Disse não conhecer Eduardo Bolsonaro, mas Randolfe Rodrigues divulgou mensagem em que Trento afirmava conhecê-lo [fonte](https://www.correiobraziliense.com.br/politica/2021/09/4951190-cpi-eduardo-bolsonaro-me-conhece-diz-diretor-da-precisa-em-mensagem.html)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Disse que, embora diretor da Precisa, não participou das negociações da Covaxin ([fonte](https://congressoemfoco.com.br/noticia/13539/cpi-ouve-empresario-danilo-trento-suposto-diretor-da-precisa-medicamentos))
 
 ## Fontes da ficha
 

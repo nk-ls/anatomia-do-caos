@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **05/10/2021** (fato) Na CPI, confirmou que saques em espécie eram praxe na VTCLog e negou pagamento de propina a Roberto Dias [fonte](https://www.poder360.com.br/cpi-da-covid/socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-diretor-da-saude/)
 
 ## Na CPI da Covid
 
@@ -29,7 +29,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Nega propina a Roberto Dias; diz que saques em espécie pagavam despesas do dia a dia e que Dias era cliente da Voetur com dívida ([fonte](https://www.poder360.com.br/cpi-da-covid/socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-diretor-da-saude/))
 
 ## Fontes da ficha
 

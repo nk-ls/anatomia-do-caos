@@ -70,18 +70,18 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Nise Yamaguchi](nise-yamaguchi.md) | Médica oncologista; apontada pela CPI como integrante do "gabinete paralelo" | 0 | 5 | sim |
-| [Arthur Weintraub](arthur-weintraub.md) | Ex-assessor da Presidência; "gabinete paralelo" | 0 | 0 | sim |
-| [Paolo Marinho de Andrade Zanotto](paolo-zanotto.md) | Virologista (USP); "gabinete paralelo" | 0 | 0 | sim |
-| [Luciano Dias Azevedo](luciano-dias-azevedo.md) | Médico anestesista; "gabinete paralelo" | 0 | 0 | sim |
-| [Antônio Jordão de Oliveira Neto](antonio-jordao.md) | Médico; presidente da associação Médicos pela Vida | 0 | 0 | sim |
+| [Arthur Weintraub](arthur-weintraub.md) | Ex-assessor da Presidência; "gabinete paralelo" | 0 | 2 | sim |
+| [Paolo Marinho de Andrade Zanotto](paolo-zanotto.md) | Virologista (USP); "gabinete paralelo" | 0 | 3 | sim |
+| [Luciano Dias Azevedo](luciano-dias-azevedo.md) | Médico anestesista; "gabinete paralelo" | 0 | 2 | sim |
+| [Antônio Jordão de Oliveira Neto](antonio-jordao.md) | Médico; presidente da associação Médicos pela Vida | 0 | 2 | sim |
 | [Mauro Luiz de Brito Ribeiro](mauro-ribeiro.md) | Presidente do Conselho Federal de Medicina | 1 | 2 | sim |
-| [Flávio Adsuara Cadegiani](flavio-cadegiani.md) | Médico; estudo com proxalutamida | 0 | 0 | sim |
+| [Flávio Adsuara Cadegiani](flavio-cadegiani.md) | Médico; estudo com proxalutamida | 0 | 2 | sim |
 
 ## Empresários, comunicadores e influenciadores
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Carlos Wizard Martins](carlos-wizard.md) | Empresário; apontado pela CPI como integrante do "gabinete paralelo" | 0 | 1 | sim |
+| [Carlos Wizard Martins](carlos-wizard.md) | Empresário; apontado pela CPI como integrante do "gabinete paralelo" | 0 | 2 | sim |
 | [Luciano Hang](luciano-hang.md) | Empresário (Havan) | 0 | 0 | sim |
 | [Otávio Oscar Fakhoury](otavio-fakhoury.md) | Empresário | 0 | 0 | sim |
 | [Allan Lopes dos Santos](allan-dos-santos.md) | Blogueiro (Terça Livre) | 0 | 0 | sim |
@@ -97,16 +97,16 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Francisco Emerson Maximiano](francisco-maximiano.md) | Sócio da Precisa Medicamentos | 0 | 1 | sim |
+| [Francisco Emerson Maximiano](francisco-maximiano.md) | Sócio da Precisa Medicamentos | 0 | 2 | sim |
 | [Emanuela Batista de Souza Medrades](emanuela-medrades.md) | Diretora-executiva da Precisa | 0 | 1 | sim |
 | [Túlio Silveira](tulio-silveira.md) | Consultor jurídico da Precisa | 0 | 0 | sim |
-| [Danilo Berndt Trento](danilo-trento.md) | Diretor de relações institucionais da Precisa | 0 | 0 | sim |
-| [Marcos Tolentino da Silva](marcos-tolentino.md) | Advogado; apontado como sócio oculto do FIB Bank | 0 | 0 | sim |
+| [Danilo Berndt Trento](danilo-trento.md) | Diretor de relações institucionais da Precisa | 0 | 1 | sim |
+| [Marcos Tolentino da Silva](marcos-tolentino.md) | Advogado; apontado como sócio oculto do FIB Bank | 0 | 1 | sim |
 | [Cristiano Alberto Hossri Carvalho](cristiano-carvalho.md) | Representante da Davati | 0 | 0 | sim |
 | [Luiz Paulo Dominguetti Pereira](luiz-dominguetti.md) | Representante da Davati | 0 | 0 | sim |
 | [Rafael Francisco Carmo Alves](rafael-alves.md) | Intermediador (Davati) | 0 | 0 | sim |
 | [José Odilon Torres da Silveira Júnior](jose-odilon.md) | Intermediador (Davati) | 0 | 0 | sim |
-| [Amilton Gomes de Paula ("Reverendo Amilton")](amilton-gomes.md) | Representante da Senah | 0 | 0 | sim |
+| [Amilton Gomes de Paula ("Reverendo Amilton")](amilton-gomes.md) | Representante da Senah | 0 | 1 | sim |
 | [Marconny Nunes Ribeiro Albernaz de Faria](marconny-faria.md) | Lobista | 0 | 0 | sim |
 | [Raimundo Nonato Brasil](raimundo-nonato-brasil.md) | Sócio da VTCLog | 0 | 0 | sim |
 | [Andreia da Silva Lima](andreia-lima.md) | Diretora-executiva da VTCLog | 0 | 0 | sim |
@@ -117,9 +117,9 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Fernando Parrillo](fernando-parrillo.md) | Dono da Prevent Senior | 0 | 1 | sim |
-| [Eduardo Parrillo](eduardo-parrillo.md) | Dono da Prevent Senior | 0 | 1 | sim |
-| [Pedro Benedito Batista Júnior](pedro-benedito-batista.md) | Diretor-executivo da Prevent Senior | 0 | 1 | sim |
+| [Fernando Parrillo](fernando-parrillo.md) | Dono da Prevent Senior | 0 | 3 | sim |
+| [Eduardo Parrillo](eduardo-parrillo.md) | Dono da Prevent Senior | 0 | 3 | sim |
+| [Pedro Benedito Batista Júnior](pedro-benedito-batista.md) | Diretor-executivo da Prevent Senior | 0 | 4 | sim |
 | [Daniella de Aguiar Moreira da Silva](daniella-aguiar.md) | Médica da Prevent Senior | 0 | 0 | sim |
 | [Paola Werneck](paola-werneck.md) | Médica da Prevent Senior | 0 | 0 | sim |
 | [Carla Guerra](carla-guerra.md) | Médica da Prevent Senior | 0 | 0 | sim |
@@ -140,8 +140,8 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Precisa Comercialização de Medicamentos Ltda.](precisa-medicamentos.md) | Intermediária da vacina Covaxin | 0 | 1 | sim |
-| [VTC Operadora Logística Ltda. (VTCLog)](vtclog.md) | Empresa de logística do Ministério da Saúde | 0 | 0 | sim |
+| [Precisa Comercialização de Medicamentos Ltda.](precisa-medicamentos.md) | Intermediária da vacina Covaxin | 0 | 2 | sim |
+| [VTC Operadora Logística Ltda. (VTCLog)](vtclog.md) | Empresa de logística do Ministério da Saúde | 0 | 2 | sim |
 
 ## Médicos defensores do "tratamento precoce" que morreram de Covid
 

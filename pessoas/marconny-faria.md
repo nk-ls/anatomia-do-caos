@@ -15,7 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **02/09/2021** (fato) Faltou ao depoimento com atestado de 'dor pélvica' depois anulado pelo médico emissor; CPI aprovou condução coercitiva [fonte](https://www12.senado.leg.br/noticias/materias/2021/09/02/cpi-aprova-conducao-coercitiva-de-marconny-faria-lobista-que-faltou-ao-depoimento)
+- **15/09/2021** (fato) Depôs, negou ser lobista mas disse ter sido sondado pela Precisa para assessorar em licitação de testes rápidos; calou ou disse não lembrar sobre mensagens; CPI o tornou investigado [fonte](https://www.cnnbrasil.com.br/politica/cpi-da-covid-ao-vivo-marconny-faria/)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Nega ser lobista; diz que foi sondado para assessoria política e técnica e não participou da proposta da Precisa ([fonte](https://www.poder360.com.br/cpi-da-covid/marconny-faria-nega-ser-lobista-a-cpi-mas-diz-que-foi-sondado-pela-precisa/))
 
 ## Fontes da ficha
 

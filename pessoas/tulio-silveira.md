@@ -15,7 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **08/2021** (alegação) Mensagens obtidas pela CPI indicariam que atuava como funcionário do departamento jurídico da Precisa, e não apenas como advogado externo [fonte](https://www.moneytimes.com.br/apos-silencio-reiterado-advogado-da-precisa-passa-a-ser-investigado-pela-cpi/)
+- **18/08/2021** (fato) Depôs à CPI e, invocando sigilo profissional (Fux acolheu só em parte), ficou calado na maior parte da sessão; a CPI o converteu em investigado [fonte](https://www.poder360.com.br/congresso/diante-de-silencio-cpi-transforma-advogado-da-precisa-em-investigado/)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Defesa diz que ele é advogado contratado, protegido por sigilo profissional, e não consultor jurídico da Precisa ([fonte](https://www.migalhas.com.br/quentes/350287/cpi-advogado-da-precisa-fica-em-silencio-por-sigilo-profissional))
 
 ## Fontes da ficha
 

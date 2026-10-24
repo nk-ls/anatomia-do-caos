@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **08/2020** (alegação) Em discurso no Planalto (ago/2020) e em lives, deu indicações, segundo vídeos reunidos pelo Metrópoles, de ter coordenado o grupo de aconselhamento informal a Bolsonaro sobre a pandemia (o chamado 'gabinete paralelo') [fonte](https://www.metropoles.com/brasil/politica-brasil/alvo-da-cpi-arthur-weintraub-mostra-certificado-de-pesquisador)
+- **05/2021** (declaração) Admitiu em entrevista que dava conselhos a Bolsonaro sobre a pandemia e defendeu o uso da cloroquina, sem eficácia comprovada contra a Covid-19 [fonte](https://www.poder360.com.br/governo/arthur-weintraub-admite-conselhos-a-bolsonaro-e-defende-cloroquina/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **05/2021** (fato) CPI da Covid aprovou sua convocação após vídeos indicarem participação no 'gabinete paralelo'; por atuar na OEA (EUA), oitiva poderia ser por videoconferência [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Nega a existência de 'gabinete paralelo'; diz que apenas repassava pesquisas médicas ao presidente, com base em sua formação acadêmica ([fonte](https://jovempan.com.br/noticias/arthur-weintraub-nega-gabinete-paralelo-e-diz-que-apenas-repassava-pesquisas-medicas-a-bolsonaro/))
 
 ## Fontes da ficha
 

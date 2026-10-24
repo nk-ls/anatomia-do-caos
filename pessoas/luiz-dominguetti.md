@@ -15,7 +15,9 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **02/2021** (fato) Apresentou ao Ministério da Saúde, pela Davati, oferta de 400 milhões de doses da AstraZeneca; a AstraZeneca negou ter autorizado Davati ou ele e disse vender no Brasil só via Fiocruz [fonte](https://ictq.com.br/industria-farmaceutica/3022-astrazeneca-nega-atuar-com-empresa-citada-em-suposto-escandalo-de-propina-para-compra-de-vacinas)
+- **01/07/2021** (alegação) Afirmou à CPI que o diretor de Logística Roberto Dias pediu propina de US$ 1 por dose em jantar de 25/02/2021; Dias confirmou o jantar e negou o pedido [fonte](https://www.cnnbrasil.com.br/politica/cpi-ouve-vendedor-que-denunciou-suposta-propina-na-compra-de-vacinas-acompanhe/)
+- **01/07/2021** (fato) Exibiu áudio atribuído ao deputado Luis Miranda como negociação de vacinas; o deputado disse tratar-se de áudio antigo sobre luvas e a CPI apreendeu o celular do depoente [fonte](https://www.jornalopcao.com.br/ultimas-noticias/dominguetti-expoe-audio-do-deputado-luis-miranda-no-qual-indica-negociar-vacinas-celular-e-apreendido-338315/)
 
 ## Na CPI da Covid
 
@@ -29,7 +31,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Reafirmou que o pedido de majoração/propina partiu exclusivamente de Roberto Dias; a Davati depois o descreveu como vendedor autônomo ([fonte](https://www.cnnbrasil.com.br/politica/cpi-ouve-vendedor-que-denunciou-suposta-propina-na-compra-de-vacinas-acompanhe/))
 
 ## Fontes da ficha
 

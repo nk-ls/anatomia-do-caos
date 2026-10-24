@@ -11,11 +11,13 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **02/2021** (alegação) Segundo a Conep, iniciou no Amazonas o ensaio com proxalutamida sem autorização para aquele local (o parecer favorável era para estudo em Brasília) e só depois pediu extensão [fonte](https://agenciacenarium.com.br/in-am-deaths-of-200-patients-in-a-study-done-by-samel-will-be-investigated-by-the-mpf/?lang=en)
+- **06/2022** (fato) Frontiers in Medicine retratou seu artigo sobre proxalutamida por alocação não suficientemente aleatória; ele acusou a revista, sem evidência, de ter recebido propina [fonte](https://retractionwatch.com/2022/06/10/researcher-attacks-journal-for-retracting-his-paper-on-covid-19-drug)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **09/2021** (fato) Conep pediu à PGR investigação de 200 mortes no estudo que liderou; números de óbitos informados mudaram (170, 178, 200) e mortes não teriam sido comunicadas à comissão [fonte](https://www.poder360.com.br/brasil/comissao-de-etica-pede-investigacao-de-mortes-em-estudo-com-proxalutamida/)
+- **09/2021** (fato) Conselho Nacional de Saúde se posicionou contra o estudo, apontando violação de ética em pesquisa; Anvisa suspendeu importação e uso da substância em pesquisas [fonte](https://congressoemfoco.com.br/noticia/13416/cns-se-posiciona-contra-estudo-com-proxalutamida-para-covid-19)
 
 ## Na CPI da Covid
 
@@ -29,7 +31,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Diz que não houve 'nenhuma morte suspeita' nem evento adverso grave causado pela droga; defesa afirma que a Unesco foi induzida por informações distorcidas da Conep e vazamentos ([fonte](https://www.congressoemfoco.com.br/area/governo/unesco-aponta-grave-violacao-etica-em-pesquisa-defendida-por-bolsonaro-autor-nega/))
 
 ## Fontes da ficha
 
