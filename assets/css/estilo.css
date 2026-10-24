@@ -235,10 +235,24 @@ figure details { overflow-x: auto; }
 .decisoes .quando { font-variant-numeric: tabular-nums; color: var(--suave); }
 .caso-dinheiro h4 { margin: 16px 0 6px; font-size: 1rem; }
 .dinheiro-rede-caixa { position: relative; background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 8px; }
-.rede-dinheiro { width: 100%; height: auto; display: block; touch-action: none; }
-.rede-dinheiro text { font-size: 12px; fill: var(--texto); paint-order: stroke; stroke: var(--superficie); stroke-width: 3px; pointer-events: none; }
-.no-dinheiro { cursor: grab; }
-.alvo-liga { cursor: pointer; }
+.rede-rolagem { overflow-x: auto; }
+.rede-dinheiro { width: 100%; min-width: 820px; height: auto; display: block; }
+.rede-dinheiro text { pointer-events: none; }
+.nome-no { font-size: 15px; font-weight: 700; fill: var(--texto); paint-order: stroke; stroke: var(--superficie); stroke-width: 4px; }
+.selo-no { font-size: 12px; font-weight: 700; fill: var(--superficie); }
+.selo-no-fundo { fill: var(--texto); stroke: var(--superficie); stroke-width: 2; }
+.selo-legenda { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 50%; background: var(--texto); color: var(--superficie); font-size: 12px; font-weight: 700; margin-right: 6px; }
+.rotulo-liga text { font-size: 12.5px; fill: var(--texto); }
+.fundo-rotulo { fill: var(--superficie); stroke: var(--borda); }
+.no-dinheiro, .liga { cursor: pointer; transition: opacity .15s; }
+.rotulo-liga { transition: opacity .15s; }
+.no-dinheiro:focus-visible circle, .liga:focus-visible line { outline: none; stroke: var(--texto); }
+.rede-dinheiro-painel { background: var(--superficie); border: 1px solid var(--borda); border-left: 4px solid var(--destaque); border-radius: 0 var(--raio) var(--raio) 0; padding: 10px 16px; margin: 12px 0; }
+.rede-dinheiro-painel h3 { margin: 4px 0; }
+.rede-dinheiro-painel h4 { margin: 10px 0 4px; font-size: .95rem; }
+.rede-dinheiro-painel ul { margin: 0; padding-left: 18px; }
+.so-celular { display: none; }
+@media (max-width: 820px) { .so-celular { display: block; } }
 .rede-legenda { display: flex; flex-wrap: wrap; gap: 4px 16px; padding: 6px 8px 2px; }
 .traco { display: inline-block; width: 18px; height: 3px; border-radius: 2px; margin-right: 6px; vertical-align: middle; }
 .traco.tracejado { background: repeating-linear-gradient(90deg, var(--neutro) 0 5px, transparent 5px 9px); }

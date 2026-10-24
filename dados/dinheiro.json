@@ -564,106 +564,307 @@
   }
  ],
  "rede": {
+  "largura": 1000,
+  "altura": 670,
   "nos": [
    {
     "id": "ms",
     "nome": "Ministério da Saúde",
-    "tipo": "orgao"
-   },
-   {
-    "id": "tcu",
-    "nome": "TCU",
-    "tipo": "controle"
-   },
-   {
-    "id": "cgu",
-    "nome": "CGU",
-    "tipo": "controle"
-   },
-   {
-    "id": "stf",
-    "nome": "STF / Justiça",
-    "tipo": "controle"
-   },
-   {
-    "id": "cpi",
-    "nome": "CPI da Pandemia",
-    "tipo": "controle"
+    "tipo": "orgao",
+    "x": 500,
+    "y": 330,
+    "decisoes": []
    },
    {
     "id": "bharat",
     "nome": "Bharat Biotech",
-    "tipo": "empresa"
+    "tipo": "empresa",
+    "x": 130,
+    "y": 70,
+    "decisoes": []
    },
    {
     "id": "precisa",
-    "nome": "Precisa (OVS)",
-    "tipo": "empresa"
+    "nome": "Precisa (hoje OVS)",
+    "tipo": "empresa",
+    "x": 130,
+    "y": 250,
+    "decisoes": [
+     {
+      "orgao": "TCU",
+      "texto": "Inidônea por 4 anos (2025)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.179/2025",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+      }
+     },
+     {
+      "orgao": "CGU",
+      "texto": "Multa de R$ 3,88 mi e inidoneidade (2024)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.179/2025",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+      }
+     },
+     {
+      "orgao": "TCU",
+      "texto": "Inidônea por 3 anos (2024)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.912/2024",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+      }
+     }
+    ]
    },
    {
     "id": "madison",
     "nome": "Madison Biotech",
-    "tipo": "empresa"
+    "tipo": "empresa",
+    "x": 480,
+    "y": 160,
+    "decisoes": []
    },
    {
     "id": "fib",
     "nome": "FIB Bank",
-    "tipo": "empresa"
-   },
-   {
-    "id": "global",
-    "nome": "Global Gestão em Saúde",
-    "tipo": "empresa"
-   },
-   {
-    "id": "vtclog",
-    "nome": "VTCLog",
-    "tipo": "empresa"
-   },
-   {
-    "id": "davati",
-    "nome": "Davati",
-    "tipo": "empresa"
-   },
-   {
-    "id": "francisco-maximiano",
-    "nome": "Francisco Maximiano",
-    "tipo": "pessoa"
+    "tipo": "empresa",
+    "x": 130,
+    "y": 430,
+    "decisoes": [
+     {
+      "orgao": "TCU",
+      "texto": "Inidôneo por 3 anos (2024)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.912/2024",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+      }
+     }
+    ]
    },
    {
     "id": "marcos-tolentino",
     "nome": "Marcos Tolentino",
-    "tipo": "pessoa"
+    "tipo": "pessoa",
+    "x": 130,
+    "y": 610,
+    "decisoes": [
+     {
+      "orgao": "CPI",
+      "texto": "Pedido de indiciamento (não é condenação)",
+      "doc": {
+       "nome": "Relatório final da CPI",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+      }
+     }
+    ]
    },
    {
-    "id": "roberto-dias",
-    "nome": "Roberto Dias",
-    "tipo": "pessoa"
+    "id": "francisco-maximiano",
+    "nome": "Francisco Maximiano",
+    "tipo": "pessoa",
+    "x": 300,
+    "y": 440,
+    "decisoes": [
+     {
+      "orgao": "CPI",
+      "texto": "Pedido de indiciamento (não é condenação)",
+      "doc": {
+       "nome": "Relatório final da CPI",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+      }
+     },
+     {
+      "orgao": "STF",
+      "texto": "Caso enviado à Justiça Federal do DF (Pet 10.063)",
+      "doc": {
+       "nome": "Remessa ao TRF1",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10063_remessa_TRF1_2025-02-13.pdf"
+      }
+     }
+    ]
    },
    {
-    "id": "elcio-franco",
-    "nome": "Élcio Franco",
-    "tipo": "pessoa"
+    "id": "global",
+    "nome": "Global Gestão em Saúde",
+    "tipo": "empresa",
+    "x": 300,
+    "y": 630,
+    "decisoes": [
+     {
+      "orgao": "CGU",
+      "texto": "Multa de R$ 21,7 mi (2024)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.912/2024",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+      }
+     },
+     {
+      "orgao": "TCU",
+      "texto": "Inidônea por 3 anos (2024)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.912/2024",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+      }
+     }
+    ]
    },
    {
     "id": "ricardo-barros",
     "nome": "Ricardo Barros",
-    "tipo": "pessoa"
+    "tipo": "pessoa",
+    "x": 620,
+    "y": 590,
+    "decisoes": [
+     {
+      "orgao": "CPI",
+      "texto": "Pedido de indiciamento (não é condenação)",
+      "doc": {
+       "nome": "Relatório final da CPI",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+      }
+     },
+     {
+      "orgao": "PGR",
+      "texto": "Pediu arquivamento (2022)",
+      "doc": {
+       "nome": "Manifestação da PGR",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/pfizer_desvios/b1/pgr_ricardo_barros_2022-06_copia_migalhas.pdf"
+      }
+     },
+     {
+      "orgao": "STF",
+      "texto": "Pet 10.063 arquivada para ele",
+      "doc": {
+       "nome": "Baixa da Pet 10.063",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10063_baixa_2026-07-20.pdf"
+      }
+     }
+    ]
    },
    {
-    "id": "luis-miranda",
-    "nome": "Luis Miranda",
-    "tipo": "pessoa"
+    "id": "elcio-franco",
+    "nome": "Élcio Franco",
+    "tipo": "pessoa",
+    "x": 760,
+    "y": 150,
+    "decisoes": [
+     {
+      "orgao": "TCU",
+      "texto": "Multa de R$ 70 mil (Covaxin, 2025)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.179/2025",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+      }
+     },
+     {
+      "orgao": "CPI",
+      "texto": "Pedido de indiciamento (não é condenação)",
+      "doc": {
+       "nome": "Relatório final da CPI",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+      }
+     }
+    ]
+   },
+   {
+    "id": "roberto-dias",
+    "nome": "Roberto Dias",
+    "tipo": "pessoa",
+    "x": 760,
+    "y": 430,
+    "decisoes": [
+     {
+      "orgao": "TCU",
+      "texto": "Multa de R$ 79 mil e inabilitação por 5 anos (VTCLog, 2023)",
+      "doc": {
+       "nome": "TCU, Acórdão 651/2023",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
+      }
+     },
+     {
+      "orgao": "TCU",
+      "texto": "Multa de R$ 40 mil (Covaxin, 2025)",
+      "doc": {
+       "nome": "TCU, Acórdão 1.179/2025",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+      }
+     },
+     {
+      "orgao": "CPI",
+      "texto": "Pedido de indiciamento (não é condenação)",
+      "doc": {
+       "nome": "Relatório final da CPI",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+      }
+     }
+    ]
+   },
+   {
+    "id": "vtclog",
+    "nome": "VTCLog",
+    "tipo": "empresa",
+    "x": 930,
+    "y": 280,
+    "decisoes": [
+     {
+      "orgao": "TCU",
+      "texto": "Aditivo suspenso; justificativas da empresa aceitas (2023)",
+      "doc": {
+       "nome": "TCU, Acórdão 651/2023",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
+      }
+     }
+    ]
+   },
+   {
+    "id": "davati",
+    "nome": "Davati",
+    "tipo": "empresa",
+    "x": 790,
+    "y": 630,
+    "decisoes": []
    },
    {
     "id": "luiz-dominguetti",
     "nome": "Luiz Dominguetti",
-    "tipo": "pessoa"
+    "tipo": "pessoa",
+    "x": 940,
+    "y": 530,
+    "decisoes": [
+     {
+      "orgao": "CPI",
+      "texto": "Pedido de indiciamento (não é condenação)",
+      "doc": {
+       "nome": "Relatório final da CPI",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+      }
+     }
+    ]
+   },
+   {
+    "id": "luis-miranda",
+    "nome": "Luis Miranda",
+    "tipo": "pessoa",
+    "x": 330,
+    "y": 40,
+    "decisoes": []
    },
    {
     "id": "jair-bolsonaro",
     "nome": "Jair Bolsonaro",
-    "tipo": "pessoa"
+    "tipo": "pessoa",
+    "x": 660,
+    "y": 40,
+    "decisoes": [
+     {
+      "orgao": "STF",
+      "texto": "Pet 10.065 (prevaricação no caso Covaxin): pendente",
+      "doc": {
+       "nome": "Despacho",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10065_despacho_2022-07-29.pdf"
+      }
+     }
+    ]
    }
   ],
   "ligacoes": [
@@ -671,211 +872,163 @@
     "de": "ms",
     "para": "bharat",
     "tipo": "contrato",
-    "rotulo": "Contrato 29/2021, R$ 1,6 bi (rescindido, nada pago)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+    "curto": "contrato R$ 1,6 bi · nada pago",
+    "rotulo": "Contrato 29/2021: 20 milhões de doses a US$ 15; rescindido em 27/08/2021, sem pagamento",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "precisa",
     "para": "bharat",
     "tipo": "intermediação",
-    "rotulo": "Representante da Bharat no contrato",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+    "curto": "representante",
+    "rotulo": "A Precisa representava a Bharat no contrato",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "madison",
     "para": "ms",
     "tipo": "cobrança",
-    "rotulo": "Invoice de US$ 45,9 mi com pagamento antecipado (barrada)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+    "curto": "invoice US$ 45,9 mi · barrada",
+    "rotulo": "Invoice com pagamento 100% antecipado, de empresa de Cingapura fora do contrato; servidores barraram",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf",
+    "pos_rotulo": 0.4
    },
    {
     "de": "fib",
     "para": "precisa",
     "tipo": "garantia",
-    "rotulo": "Carta de fiança de R$ 80,7 mi",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "fiança R$ 80,7 mi",
+    "rotulo": "Carta de fiança da garantia do contrato; o FIB Bank não é banco nem tem autorização do Banco Central",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "marcos-tolentino",
     "para": "fib",
     "tipo": "sócio",
-    "rotulo": "Apontado pela CPI como dono do FIB Bank",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "dono, segundo a CPI",
+    "rotulo": "A CPI aponta Marcos Tolentino como dono do FIB Bank",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "francisco-maximiano",
     "para": "precisa",
     "tipo": "sócio",
+    "curto": "sócio",
     "rotulo": "Sócio da Precisa",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "global",
     "para": "precisa",
     "tipo": "sócio",
-    "rotulo": "Sócia majoritária da Precisa",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "sócia majoritária",
+    "rotulo": "A Global era sócia majoritária da Precisa",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "francisco-maximiano",
     "para": "global",
     "tipo": "sócio",
-    "rotulo": "Dono da Global",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "dono",
+    "rotulo": "Maximiano é dono da Global",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.3
    },
    {
     "de": "ms",
     "para": "global",
     "tipo": "pagamento",
-    "rotulo": "R$ 19,9 mi adiantados em 2017, sem entrega",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+    "curto": "R$ 19,9 mi adiantados · sem entrega",
+    "rotulo": "Em 2017 o ministério pagou adiantado por remédios de doenças raras que nunca chegaram",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf",
+    "pos_rotulo": 0.78
    },
    {
     "de": "ricardo-barros",
     "para": "ms",
     "tipo": "cargo",
-    "rotulo": "Ministro da Saúde em 2016–2018",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "ministro em 2016–2018",
+    "rotulo": "Ministro da Saúde quando a Global recebeu adiantado",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.3
    },
    {
     "de": "ms",
     "para": "vtclog",
     "tipo": "contrato",
-    "rotulo": "Contrato 59/2018, R$ 1,01 bi atualizado",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
+    "curto": "contrato R$ 1,01 bi",
+    "rotulo": "Contrato 59/2018 de logística, valor total atualizado segundo o TCU",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "roberto-dias",
     "para": "vtclog",
     "tipo": "pagamento",
-    "rotulo": "Aditivo de R$ 18,98 mi (barrado)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
+    "curto": "aditivo R$ 19 mi · barrado",
+    "rotulo": "O \"meio-termo\" que permitia pagar R$ 18,98 mi; os técnicos calculavam R$ 1 mi. O TCU suspendeu",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "roberto-dias",
     "para": "ms",
     "tipo": "cargo",
-    "rotulo": "Diretor de Logística",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "diretor de Logística",
+    "rotulo": "Diretor de Logística do ministério até 2021",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.4
    },
    {
     "de": "elcio-franco",
     "para": "ms",
     "tipo": "cargo",
-    "rotulo": "Secretário-executivo",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "secretário-executivo",
+    "rotulo": "Secretário-executivo do ministério",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.35
    },
    {
     "de": "davati",
     "para": "ms",
     "tipo": "oferta",
-    "rotulo": "400 mi de doses oferecidas, nada comprado",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "oferta de 400 mi de doses · nada comprado",
+    "rotulo": "Oferta de vacinas AstraZeneca por intermediários; nenhuma dose foi comprada",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.25
    },
    {
     "de": "luiz-dominguetti",
     "para": "davati",
     "tipo": "vendedor",
-    "rotulo": "Vendedor da Davati",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "vendedor",
+    "rotulo": "Apresentava-se como vendedor da Davati",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.5
    },
    {
     "de": "luiz-dominguetti",
     "para": "roberto-dias",
     "tipo": "acusação",
-    "rotulo": "Acusa Dias de pedir US$ 1/dose (alegação)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/pfizer_desvios/b1/istoe_propina_1dolar.html"
+    "curto": "acusa: propina de US$ 1/dose",
+    "rotulo": "Alegação de Dominguetti à imprensa e à CPI; Dias nega; não provada em juízo",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/pfizer_desvios/b1/istoe_propina_1dolar.html",
+    "pos_rotulo": 0.5
    },
    {
     "de": "luis-miranda",
     "para": "jair-bolsonaro",
     "tipo": "denúncia",
-    "rotulo": "Relata a invoice irregular em 20/03/2021",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
-   },
-   {
-    "de": "tcu",
-    "para": "precisa",
-    "tipo": "sanção",
-    "rotulo": "Inidônea por 4 anos (1.179/2025)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
-   },
-   {
-    "de": "tcu",
-    "para": "fib",
-    "tipo": "sanção",
-    "rotulo": "Inidôneo por 3 anos (1.912/2024)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
-   },
-   {
-    "de": "tcu",
-    "para": "global",
-    "tipo": "sanção",
-    "rotulo": "Inidônea por 3 anos (1.912/2024)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
-   },
-   {
-    "de": "tcu",
-    "para": "roberto-dias",
-    "tipo": "sanção",
-    "rotulo": "Multas e inabilitação por 5 anos (651/2023)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
-   },
-   {
-    "de": "tcu",
-    "para": "elcio-franco",
-    "tipo": "sanção",
-    "rotulo": "Multa de R$ 70 mil (1.179/2025)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
-   },
-   {
-    "de": "cgu",
-    "para": "precisa",
-    "tipo": "sanção",
-    "rotulo": "Multa de R$ 3,88 mi e inidoneidade (2024)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
-   },
-   {
-    "de": "cgu",
-    "para": "global",
-    "tipo": "sanção",
-    "rotulo": "Multa de R$ 21,7 mi (2024)",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
-   },
-   {
-    "de": "stf",
-    "para": "ricardo-barros",
-    "tipo": "arquivamento",
-    "rotulo": "Pet 10.063 arquivada para Barros",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10063_baixa_2026-07-20.pdf"
-   },
-   {
-    "de": "stf",
-    "para": "jair-bolsonaro",
-    "tipo": "investigação",
-    "rotulo": "Pet 10.065 (prevaricação), pendente",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10065_despacho_2022-07-29.pdf"
-   },
-   {
-    "de": "cpi",
-    "para": "roberto-dias",
-    "tipo": "investigação",
-    "rotulo": "Pedido de indiciamento",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
-   },
-   {
-    "de": "cpi",
-    "para": "francisco-maximiano",
-    "tipo": "investigação",
-    "rotulo": "Pedido de indiciamento",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
-   },
-   {
-    "de": "cpi",
-    "para": "ricardo-barros",
-    "tipo": "investigação",
-    "rotulo": "Pedido de indiciamento",
-    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+    "curto": "relata a invoice em 20/03/2021",
+    "rotulo": "O deputado e o irmão, servidor, relatam a pressão e a invoice; segundo eles, a PF não foi acionada",
+    "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf",
+    "pos_rotulo": 0.5
    }
   ]
  }

@@ -89,93 +89,88 @@ document.getElementById("lista-casos").innerHTML = dados.casos.map((c) => `
     ${c.pessoas.length ? `<p class="nota">Fichas: ${c.pessoas.map((id) => `<a href="envolvidos.html?id=${encodeURIComponent(id)}">${esc(nomes[id] || id)}</a>`).join(" · ")}</p>` : ""}
   </article>`).join("");
 
-// 5. Rede do dinheiro (SVG, simulação de forças simples, sem dependências)
-const COR_NO = { orgao: "var(--cat1)", controle: "var(--cat2)", empresa: "var(--cat3)", pessoa: "var(--cat4)" };
-const NOME_TIPO = { orgao: "Governo (quem paga)", controle: "Controle e Justiça", empresa: "Empresa", pessoa: "Pessoa" };
-const COR_LIGA = { sanção: "var(--favor)", arquivamento: "var(--neutro)", investigação: "var(--neutro)", acusação: "var(--alerta)", denúncia: "var(--alerta)" };
+// 5. Rede do dinheiro: posições fixas por caso (legível, sem linhas cruzando o miolo).
+// Decisões de controle aparecem como selo ⚖️ no nó e no painel, não como linhas.
+const COR_NO = { orgao: "var(--cat1)", empresa: "var(--cat3)", pessoa: "var(--cat4)" };
+const NOME_TIPO = { orgao: "Governo (quem paga)", empresa: "Empresa", pessoa: "Pessoa" };
+const TRACEJADA = new Set(["acusação", "denúncia"]);
+const COR_LIGA = (t) => (TRACEJADA.has(t) ? "var(--alerta)" : ["cargo", "sócio", "intermediação", "vendedor"].includes(t) ? "var(--neutro)" : "var(--contra)");
 document.getElementById("rede-dinheiro-legenda").innerHTML =
   Object.entries(NOME_TIPO).map(([k, n]) => `<span class="chip"><span class="ponto" style="background:${COR_NO[k]}"></span>${n}</span>`).join("") +
-  `<span class="chip"><span class="traco" style="background:var(--contra)"></span>Dinheiro, contrato, sociedade</span><span class="chip"><span class="traco" style="background:var(--favor)"></span>Sanção</span><span class="chip"><span class="traco tracejado"></span>Investigação ou acusação</span>`;
+  `<span class="chip"><span class="traco" style="background:var(--contra)"></span>Dinheiro: contrato, pagamento, garantia</span>` +
+  `<span class="chip"><span class="traco" style="background:var(--neutro)"></span>Cargo ou sociedade</span>` +
+  `<span class="chip"><span class="traco tracejado"></span>Acusação ou denúncia</span>` +
+  `<span class="chip"><span class="selo-legenda">3</span>decisões do TCU, CGU, STF ou pedidos da CPI (clique para ver)</span>`;
 
-const W = 900, H = 560;
-const NS = "http://www.w3.org/2000/svg";
+const R = dados.rede, W = R.largura, H = R.altura, NS = "http://www.w3.org/2000/svg";
 const el = (t, a, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); if (p) p.appendChild(e); return e; };
 const caixa = document.getElementById("rede-dinheiro-svg");
-const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, class: "rede-dinheiro", role: "img", "aria-label": "Rede de empresas, pessoas e órgãos ligados pelo dinheiro" }, caixa);
-const gl = el("g", {}, svg), gn = el("g", {}, svg);
-const dicaR = document.createElement("div"); dicaR.className = "rede-dica"; dicaR.hidden = true; caixa.appendChild(dicaR);
+const svg = el("svg", { viewBox: `-20 -10 ${W + 40} ${H + 50}`, class: "rede-dinheiro", role: "img", "aria-label": "Rede de empresas, pessoas e o Ministério da Saúde ligados pelo dinheiro" }, caixa);
+el("defs", {}, svg).innerHTML = `<marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/></marker>`;
+const gl = el("g", {}, svg), gr = el("g", {}, svg), gn = el("g", {}, svg);
+const porId = Object.fromEntries(R.nos.map((n) => [n.id, n]));
+const grau = {}; R.ligacoes.forEach((l) => { grau[l.de] = (grau[l.de] || 0) + 1; grau[l.para] = (grau[l.para] || 0) + 1; });
+R.nos.forEach((n) => { n.r = n.tipo === "orgao" ? 30 : 13 + Math.min(grau[n.id] || 0, 5) * 2; });
 
-const ANCORA = { orgao: [0.5, 0.5], controle: [0.5, 0.1], empresa: [0.3, 0.62], pessoa: [0.72, 0.72] };
-const nos = dados.rede.nos.map((n, i) => ({ ...n, x: W * ANCORA[n.tipo][0] + Math.cos(i * 2.4) * 120, y: H * ANCORA[n.tipo][1] + Math.sin(i * 2.4) * 90, vx: 0, vy: 0 }));
-const porId = Object.fromEntries(nos.map((n) => [n.id, n]));
-const ligs = dados.rede.ligacoes.map((l) => ({ ...l, a: porId[l.de], b: porId[l.para] }));
-const grau = {}; ligs.forEach((l) => { grau[l.de] = (grau[l.de] || 0) + 1; grau[l.para] = (grau[l.para] || 0) + 1; });
-
-const mostrar = (ev, texto) => {
-  const r = caixa.getBoundingClientRect();
-  dicaR.textContent = texto; dicaR.hidden = false;
-  dicaR.style.left = Math.min(ev.clientX - r.left + 12, r.width - 240) + "px";
-  dicaR.style.top = ev.clientY - r.top + 12 + "px";
-};
-ligs.forEach((l) => {
-  const cor = COR_LIGA[l.tipo] || "var(--contra)";
-  const tracejada = ["investigação", "acusação", "denúncia", "arquivamento"].includes(l.tipo);
-  l.vis = el("line", { stroke: cor, "stroke-width": 2, "stroke-opacity": 0.6, "stroke-linecap": "round", ...(tracejada ? { "stroke-dasharray": "5 5" } : {}) }, gl);
-  l.alvo = el("line", { stroke: "transparent", "stroke-width": 14, class: "alvo-liga" }, gl);
-  l.alvo.addEventListener("pointermove", (ev) => mostrar(ev, `${l.a.nome} → ${l.b.nome}: ${l.rotulo}`));
-  l.alvo.addEventListener("pointerleave", () => { dicaR.hidden = true; });
-  l.alvo.addEventListener("click", () => window.open(l.doc, "_blank", "noopener"));
+const ligs = R.ligacoes.map((l) => {
+  const a = porId[l.de], b = porId[l.para];
+  const dx = b.x - a.x, dy = b.y - a.y, d = Math.hypot(dx, dy);
+  const x1 = a.x + (dx / d) * (a.r + 3), y1 = a.y + (dy / d) * (a.r + 3), x2 = b.x - (dx / d) * (b.r + 6), y2 = b.y - (dy / d) * (b.r + 6);
+  const g = el("g", { class: "liga", tabindex: 0 }, gl);
+  const vis = el("line", { x1, y1, x2, y2, stroke: COR_LIGA(l.tipo), "stroke-width": 2.2, "marker-end": "url(#seta)", ...(TRACEJADA.has(l.tipo) ? { "stroke-dasharray": "6 5" } : {}) }, g);
+  el("line", { x1, y1, x2, y2, stroke: "transparent", "stroke-width": 16 }, g);
+  // rótulo no meio da linha, sempre na horizontal, com fundo para não brigar com as linhas
+  const f = l.pos_rotulo ?? 0.5, mx = x1 + (x2 - x1) * f, my = y1 + (y2 - y1) * f;
+  const rg = el("g", { class: "rotulo-liga", transform: `translate(${mx},${my})` }, gr);
+  const t = el("text", { "text-anchor": "middle", dy: "0.35em" }, rg); t.textContent = l.curto;
+  const item = { ...l, a, b, g, vis, rg };
+  g.addEventListener("click", () => mostrarLiga(item));
+  g.addEventListener("keydown", (ev) => { if (ev.key === "Enter") mostrarLiga(item); });
+  return item;
 });
-nos.forEach((n) => {
-  n.r = 7 + Math.min(grau[n.id] || 0, 10) * 1.3;
-  n.g = el("g", { class: "no-dinheiro", tabindex: 0 }, gn);
-  el("circle", { r: n.r, fill: COR_NO[n.tipo], stroke: "var(--superficie)", "stroke-width": 2 }, n.g);
-  const t = el("text", { y: n.r + 14, "text-anchor": "middle" }, n.g); t.textContent = n.nome;
-  n.g.addEventListener("pointermove", (ev) => {
-    if (arrasto) return;
-    const lig = ligs.filter((l) => l.a === n || l.b === n);
-    ligs.forEach((l) => l.vis.setAttribute("stroke-opacity", lig.includes(l) ? 0.95 : 0.12));
-    mostrar(ev, `${n.nome} · ${NOME_TIPO[n.tipo]} · ${lig.length} ligações`);
+// fundo dos rótulos depois de medir o texto
+requestAnimationFrame(() => ligs.forEach((l) => {
+  const t = l.rg.querySelector("text"), bb = t.getBBox();
+  const r = el("rect", { x: bb.x - 4, y: bb.y - 2, width: bb.width + 8, height: bb.height + 4, rx: 4, class: "fundo-rotulo" }, l.rg);
+  l.rg.insertBefore(r, t);
+}));
+
+R.nos.forEach((n) => {
+  n.g = el("g", { class: "no-dinheiro", tabindex: 0, transform: `translate(${n.x},${n.y})` }, gn);
+  el("circle", { r: n.r, fill: COR_NO[n.tipo], stroke: "var(--superficie)", "stroke-width": 3 }, n.g);
+  const t = el("text", { y: n.r + 17, "text-anchor": "middle", class: "nome-no" }, n.g); t.textContent = n.nome;
+  if (n.decisoes.length) {
+    const bx = n.r * 0.75, by = -n.r * 0.75;
+    el("circle", { cx: bx, cy: by, r: 10, class: "selo-no-fundo" }, n.g);
+    const s = el("text", { x: bx, y: by + 4, "text-anchor": "middle", class: "selo-no" }, n.g); s.textContent = n.decisoes.length;
+  }
+  n.g.addEventListener("click", () => mostrarNo(n));
+  n.g.addEventListener("keydown", (ev) => { if (ev.key === "Enter") mostrarNo(n); });
+  n.g.addEventListener("pointerenter", () => destacar(n));
+  n.g.addEventListener("pointerleave", () => destacar(null));
+});
+function destacar(n) {
+  ligs.forEach((l) => {
+    const on = !n || l.a === n || l.b === n;
+    l.g.style.opacity = on ? 1 : 0.15; l.rg.style.opacity = on ? 1 : 0.15;
   });
-  n.g.addEventListener("pointerleave", () => { ligs.forEach((l) => l.vis.setAttribute("stroke-opacity", 0.6)); dicaR.hidden = true; });
-  n.g.addEventListener("dblclick", () => { if (nomes[n.id]) location.href = `envolvidos.html?id=${encodeURIComponent(n.id)}`; });
-  n.g.addEventListener("keydown", (ev) => { if (ev.key === "Enter" && nomes[n.id]) location.href = `envolvidos.html?id=${encodeURIComponent(n.id)}`; });
-});
-
-let arrasto = null, calor = 1;
-const ponto = (ev) => { const p = svg.createSVGPoint(); p.x = ev.clientX; p.y = ev.clientY; return p.matrixTransform(svg.getScreenCTM().inverse()); };
-svg.addEventListener("pointerdown", (ev) => {
-  const alvo = nos.find((n) => n.g.contains(ev.target));
-  if (!alvo) return;
-  arrasto = alvo; svg.setPointerCapture(ev.pointerId); calor = Math.max(calor, 0.5);
-});
-svg.addEventListener("pointermove", (ev) => { if (!arrasto) return; const p = ponto(ev); arrasto.x = p.x; arrasto.y = p.y; arrasto.vx = arrasto.vy = 0; calor = Math.max(calor, 0.3); });
-svg.addEventListener("pointerup", () => { arrasto = null; });
-
-function passo() {
-  for (const a of nos) {
-    for (const b of nos) {
-      if (a === b) continue;
-      let dx = a.x - b.x, dy = a.y - b.y, d2 = dx * dx + dy * dy || 1;
-      const f = 2600 / d2; a.vx += (dx / Math.sqrt(d2)) * f; a.vy += (dy / Math.sqrt(d2)) * f;
-    }
-    a.vx += (W * ANCORA[a.tipo][0] - a.x) * 0.004; a.vy += (H * ANCORA[a.tipo][1] - a.y) * 0.004;
-  }
-  for (const l of ligs) {
-    const dx = l.b.x - l.a.x, dy = l.b.y - l.a.y, d = Math.hypot(dx, dy) || 1, f = (d - 130) * 0.012;
-    l.a.vx += (dx / d) * f; l.a.vy += (dy / d) * f; l.b.vx -= (dx / d) * f; l.b.vy -= (dy / d) * f;
-  }
-  for (const n of nos) {
-    if (n === arrasto) continue;
-    n.x = Math.min(W - 60, Math.max(60, n.x + n.vx * calor)); n.y = Math.min(H - 30, Math.max(20, n.y + n.vy * calor));
-    n.vx *= 0.6; n.vy *= 0.6;
-  }
+  R.nos.forEach((m) => { m.g.style.opacity = !n || m === n || ligs.some((l) => (l.a === n && l.b === m) || (l.b === n && l.a === m)) ? 1 : 0.3; });
 }
-function desenhar() {
-  for (const l of ligs) for (const e of [l.vis, l.alvo]) { e.setAttribute("x1", l.a.x); e.setAttribute("y1", l.a.y); e.setAttribute("x2", l.b.x); e.setAttribute("y2", l.b.y); }
-  for (const n of nos) n.g.setAttribute("transform", `translate(${n.x},${n.y})`);
+const painel = document.getElementById("rede-dinheiro-painel");
+const linkDoc = (u, t = "documento") => `<a href="${esc(u)}">${esc(t)}</a>`;
+function mostrarNo(n) {
+  destacar(n);
+  const lig = ligs.filter((l) => l.a === n || l.b === n);
+  painel.innerHTML = `<h3><span class="ponto" style="background:${COR_NO[n.tipo]}"></span>${esc(n.nome)}</h3>
+    <h4>Ligações</h4><ul>${lig.map((l) => `<li><strong>${esc(l.a.nome)} → ${esc(l.b.nome)}</strong>: ${esc(l.rotulo)}. 📄 ${linkDoc(l.doc)}</li>`).join("")}</ul>
+    ${n.decisoes.length ? `<h4>⚖️ Decisões e pedidos</h4><ul>${n.decisoes.map((d) => `<li><strong>${esc(d.orgao)}</strong>: ${esc(d.texto)}. 📄 ${linkDoc(d.doc.url, d.doc.nome)}</li>`).join("")}</ul>` : ""}
+    ${nomes[n.id] ? `<p><a href="envolvidos.html?id=${encodeURIComponent(n.id)}">Ficha completa, com a defesa →</a></p>` : ""}`;
 }
-for (let i = 0; i < 300; i++) passo();
-desenhar();
-calor = 0.2;
-(function laco() { if (calor > 0.01) { passo(); desenhar(); calor *= 0.985; } requestAnimationFrame(laco); })();
+function mostrarLiga(l) {
+  destacar(null);
+  painel.innerHTML = `<h3>${esc(l.a.nome)} → ${esc(l.b.nome)}</h3><p>${esc(l.rotulo)}.</p><p>📄 ${linkDoc(l.doc, "Abrir o documento")}</p>`;
+}
+painel.innerHTML = `<p class="nota">Clique numa pessoa, empresa ou ligação para ver os detalhes e os documentos aqui.</p>`;
+
+// versão em lista, para leitor de tela e celular
+document.getElementById("rede-dinheiro-lista").innerHTML = `<ul>${ligs.map((l) => `<li><strong>${esc(l.a.nome)} → ${esc(l.b.nome)}</strong>: ${esc(l.rotulo)}. 📄 ${linkDoc(l.doc)}</li>`).join("")}</ul>`;

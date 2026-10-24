@@ -101,50 +101,63 @@ CASOS = [
  }
 ]
 
-# Rede do dinheiro: entidades e ligações, cada uma com documento.
+# Rede do dinheiro: posição fixa por caso (x, y numa tela de 1000 x 640), para ler sem cruzar linhas.
+# As decisões de controle (TCU, CGU, STF, CPI) ficam no próprio nó, não como linhas.
+T1179 = doc("TCU, Acórdão 1.179/2025", C + "TCU_Acordao_1179-2025_Plenario.pdf")
+T1912 = doc("TCU, Acórdão 1.912/2024", C + "TCU_Acordao_1912-2024_Plenario.pdf")
+T651 = doc("TCU, Acórdão 651/2023", C + "TCU_Acordao_651-2023_Plenario.pdf")
+RELD = doc("Relatório final da CPI", REL)
 NOS = [
- ("ms", "Ministério da Saúde", "orgao"), ("tcu", "TCU", "controle"), ("cgu", "CGU", "controle"), ("stf", "STF / Justiça", "controle"), ("cpi", "CPI da Pandemia", "controle"),
- ("bharat", "Bharat Biotech", "empresa"), ("precisa", "Precisa (OVS)", "empresa"), ("madison", "Madison Biotech", "empresa"), ("fib", "FIB Bank", "empresa"), ("global", "Global Gestão em Saúde", "empresa"), ("vtclog", "VTCLog", "empresa"), ("davati", "Davati", "empresa"),
- ("francisco-maximiano", "Francisco Maximiano", "pessoa"), ("marcos-tolentino", "Marcos Tolentino", "pessoa"), ("roberto-dias", "Roberto Dias", "pessoa"), ("elcio-franco", "Élcio Franco", "pessoa"), ("ricardo-barros", "Ricardo Barros", "pessoa"), ("luis-miranda", "Luis Miranda", "pessoa"), ("luiz-dominguetti", "Luiz Dominguetti", "pessoa"), ("jair-bolsonaro", "Jair Bolsonaro", "pessoa"),
+ # id, nome, tipo, x, y, decisões [(órgão, texto, doc)]
+ ("ms", "Ministério da Saúde", "orgao", 500, 330, []),
+ ("bharat", "Bharat Biotech", "empresa", 130, 70, []),
+ ("precisa", "Precisa (hoje OVS)", "empresa", 130, 250, [("TCU", "Inidônea por 4 anos (2025)", T1179), ("CGU", "Multa de R$ 3,88 mi e inidoneidade (2024)", T1179), ("TCU", "Inidônea por 3 anos (2024)", T1912)]),
+ ("madison", "Madison Biotech", "empresa", 480, 160, []),
+ ("fib", "FIB Bank", "empresa", 130, 430, [("TCU", "Inidôneo por 3 anos (2024)", T1912)]),
+ ("marcos-tolentino", "Marcos Tolentino", "pessoa", 130, 610, [("CPI", "Pedido de indiciamento (não é condenação)", RELD)]),
+ ("francisco-maximiano", "Francisco Maximiano", "pessoa", 300, 440, [("CPI", "Pedido de indiciamento (não é condenação)", RELD), ("STF", "Caso enviado à Justiça Federal do DF (Pet 10.063)", doc("Remessa ao TRF1", C + "STF_Pet10063_remessa_TRF1_2025-02-13.pdf"))]),
+ ("global", "Global Gestão em Saúde", "empresa", 300, 630, [("CGU", "Multa de R$ 21,7 mi (2024)", T1912), ("TCU", "Inidônea por 3 anos (2024)", T1912)]),
+ ("ricardo-barros", "Ricardo Barros", "pessoa", 620, 590, [("CPI", "Pedido de indiciamento (não é condenação)", RELD), ("PGR", "Pediu arquivamento (2022)", doc("Manifestação da PGR", PD + "b1/pgr_ricardo_barros_2022-06_copia_migalhas.pdf")), ("STF", "Pet 10.063 arquivada para ele", doc("Baixa da Pet 10.063", C + "STF_Pet10063_baixa_2026-07-20.pdf"))]),
+ ("elcio-franco", "Élcio Franco", "pessoa", 760, 150, [("TCU", "Multa de R$ 70 mil (Covaxin, 2025)", T1179), ("CPI", "Pedido de indiciamento (não é condenação)", RELD)]),
+ ("roberto-dias", "Roberto Dias", "pessoa", 760, 430, [("TCU", "Multa de R$ 79 mil e inabilitação por 5 anos (VTCLog, 2023)", T651), ("TCU", "Multa de R$ 40 mil (Covaxin, 2025)", T1179), ("CPI", "Pedido de indiciamento (não é condenação)", RELD)]),
+ ("vtclog", "VTCLog", "empresa", 930, 280, [("TCU", "Aditivo suspenso; justificativas da empresa aceitas (2023)", T651)]),
+ ("davati", "Davati", "empresa", 790, 630, []),
+ ("luiz-dominguetti", "Luiz Dominguetti", "pessoa", 940, 530, [("CPI", "Pedido de indiciamento (não é condenação)", RELD)]),
+ ("luis-miranda", "Luis Miranda", "pessoa", 330, 40, []),
+ ("jair-bolsonaro", "Jair Bolsonaro", "pessoa", 660, 40, [("STF", "Pet 10.065 (prevaricação no caso Covaxin): pendente", doc("Despacho", C + "STF_Pet10065_despacho_2022-07-29.pdf"))]),
 ]
 LIGACOES = [
- ("ms", "bharat", "contrato", "Contrato 29/2021, R$ 1,6 bi (rescindido, nada pago)", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
- ("precisa", "bharat", "intermediação", "Representante da Bharat no contrato", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
- ("madison", "ms", "cobrança", "Invoice de US$ 45,9 mi com pagamento antecipado (barrada)", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
- ("fib", "precisa", "garantia", "Carta de fiança de R$ 80,7 mi", REL),
- ("marcos-tolentino", "fib", "sócio", "Apontado pela CPI como dono do FIB Bank", REL),
- ("francisco-maximiano", "precisa", "sócio", "Sócio da Precisa", REL),
- ("global", "precisa", "sócio", "Sócia majoritária da Precisa", REL),
- ("francisco-maximiano", "global", "sócio", "Dono da Global", REL),
- ("ms", "global", "pagamento", "R$ 19,9 mi adiantados em 2017, sem entrega", C + "TCU_Acordao_1912-2024_Plenario.pdf"),
- ("ricardo-barros", "ms", "cargo", "Ministro da Saúde em 2016–2018", REL),
- ("ms", "vtclog", "contrato", "Contrato 59/2018, R$ 1,01 bi atualizado", C + "TCU_Acordao_651-2023_Plenario.pdf"),
- ("roberto-dias", "vtclog", "pagamento", "Aditivo de R$ 18,98 mi (barrado)", C + "TCU_Acordao_651-2023_Plenario.pdf"),
- ("roberto-dias", "ms", "cargo", "Diretor de Logística", REL),
- ("elcio-franco", "ms", "cargo", "Secretário-executivo", REL),
- ("davati", "ms", "oferta", "400 mi de doses oferecidas, nada comprado", REL),
- ("luiz-dominguetti", "davati", "vendedor", "Vendedor da Davati", REL),
- ("luiz-dominguetti", "roberto-dias", "acusação", "Acusa Dias de pedir US$ 1/dose (alegação)", PD + "b1/istoe_propina_1dolar.html"),
- ("luis-miranda", "jair-bolsonaro", "denúncia", "Relata a invoice irregular em 20/03/2021", REL),
- ("tcu", "precisa", "sanção", "Inidônea por 4 anos (1.179/2025)", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
- ("tcu", "fib", "sanção", "Inidôneo por 3 anos (1.912/2024)", C + "TCU_Acordao_1912-2024_Plenario.pdf"),
- ("tcu", "global", "sanção", "Inidônea por 3 anos (1.912/2024)", C + "TCU_Acordao_1912-2024_Plenario.pdf"),
- ("tcu", "roberto-dias", "sanção", "Multas e inabilitação por 5 anos (651/2023)", C + "TCU_Acordao_651-2023_Plenario.pdf"),
- ("tcu", "elcio-franco", "sanção", "Multa de R$ 70 mil (1.179/2025)", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
- ("cgu", "precisa", "sanção", "Multa de R$ 3,88 mi e inidoneidade (2024)", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
- ("cgu", "global", "sanção", "Multa de R$ 21,7 mi (2024)", C + "TCU_Acordao_1912-2024_Plenario.pdf"),
- ("stf", "ricardo-barros", "arquivamento", "Pet 10.063 arquivada para Barros", C + "STF_Pet10063_baixa_2026-07-20.pdf"),
- ("stf", "jair-bolsonaro", "investigação", "Pet 10.065 (prevaricação), pendente", C + "STF_Pet10065_despacho_2022-07-29.pdf"),
- ("cpi", "roberto-dias", "investigação", "Pedido de indiciamento", REL),
- ("cpi", "francisco-maximiano", "investigação", "Pedido de indiciamento", REL),
- ("cpi", "ricardo-barros", "investigação", "Pedido de indiciamento", REL),
+ # de, para, tipo, rótulo curto (na linha), explicação, documento
+ ("ms", "bharat", "contrato", "contrato R$ 1,6 bi · nada pago", "Contrato 29/2021: 20 milhões de doses a US$ 15; rescindido em 27/08/2021, sem pagamento", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
+ ("precisa", "bharat", "intermediação", "representante", "A Precisa representava a Bharat no contrato", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
+ ("madison", "ms", "cobrança", "invoice US$ 45,9 mi · barrada", "Invoice com pagamento 100% antecipado, de empresa de Cingapura fora do contrato; servidores barraram", C + "TCU_Acordao_1179-2025_Plenario.pdf"),
+ ("fib", "precisa", "garantia", "fiança R$ 80,7 mi", "Carta de fiança da garantia do contrato; o FIB Bank não é banco nem tem autorização do Banco Central", REL),
+ ("marcos-tolentino", "fib", "sócio", "dono, segundo a CPI", "A CPI aponta Marcos Tolentino como dono do FIB Bank", REL),
+ ("francisco-maximiano", "precisa", "sócio", "sócio", "Sócio da Precisa", REL),
+ ("global", "precisa", "sócio", "sócia majoritária", "A Global era sócia majoritária da Precisa", REL),
+ ("francisco-maximiano", "global", "sócio", "dono", "Maximiano é dono da Global", REL),
+ ("ms", "global", "pagamento", "R$ 19,9 mi adiantados · sem entrega", "Em 2017 o ministério pagou adiantado por remédios de doenças raras que nunca chegaram", C + "TCU_Acordao_1912-2024_Plenario.pdf"),
+ ("ricardo-barros", "ms", "cargo", "ministro em 2016–2018", "Ministro da Saúde quando a Global recebeu adiantado", REL),
+ ("ms", "vtclog", "contrato", "contrato R$ 1,01 bi", "Contrato 59/2018 de logística, valor total atualizado segundo o TCU", C + "TCU_Acordao_651-2023_Plenario.pdf"),
+ ("roberto-dias", "vtclog", "pagamento", "aditivo R$ 19 mi · barrado", "O \"meio-termo\" que permitia pagar R$ 18,98 mi; os técnicos calculavam R$ 1 mi. O TCU suspendeu", C + "TCU_Acordao_651-2023_Plenario.pdf"),
+ ("roberto-dias", "ms", "cargo", "diretor de Logística", "Diretor de Logística do ministério até 2021", REL),
+ ("elcio-franco", "ms", "cargo", "secretário-executivo", "Secretário-executivo do ministério", REL),
+ ("davati", "ms", "oferta", "oferta de 400 mi de doses · nada comprado", "Oferta de vacinas AstraZeneca por intermediários; nenhuma dose foi comprada", REL),
+ ("luiz-dominguetti", "davati", "vendedor", "vendedor", "Apresentava-se como vendedor da Davati", REL),
+ ("luiz-dominguetti", "roberto-dias", "acusação", "acusa: propina de US$ 1/dose", "Alegação de Dominguetti à imprensa e à CPI; Dias nega; não provada em juízo", PD + "b1/istoe_propina_1dolar.html"),
+ ("luis-miranda", "jair-bolsonaro", "denúncia", "relata a invoice em 20/03/2021", "O deputado e o irmão, servidor, relatam a pressão e a invoice; segundo eles, a PF não foi acionada", REL),
 ]
+
+# Onde fica o rótulo ao longo da linha (0 = origem, 1 = destino), para não se sobreporem perto do ministério.
+POS_ROTULO = {("ricardo-barros", "ms"): 0.3, ("elcio-franco", "ms"): 0.35, ("madison", "ms"): 0.4,
+              ("ms", "global"): 0.78, ("roberto-dias", "ms"): 0.4, ("francisco-maximiano", "global"): 0.3, ("davati", "ms"): 0.25}
 
 saida = {
  "atualizado": "2026-10-24",
  "casos": CASOS,
- "rede": {"nos": [{"id": i, "nome": n, "tipo": t} for i, n, t in NOS],
-          "ligacoes": [{"de": a, "para": b, "tipo": t, "rotulo": r, "doc": d} for a, b, t, r, d in LIGACOES]},
+ "rede": {"largura": 1000, "altura": 670,
+          "nos": [{"id": i, "nome": n, "tipo": t, "x": x, "y": y, "decisoes": [{"orgao": o, "texto": tx, "doc": d} for o, tx, d in dec]} for i, n, t, x, y, dec in NOS],
+          "ligacoes": [{"de": a, "para": b, "tipo": t, "curto": c, "rotulo": r, "doc": d, "pos_rotulo": POS_ROTULO.get((a, b), 0.5)} for a, b, t, c, r, d in LIGACOES]},
 }
 ids = {n["id"] for n in saida["rede"]["nos"]}
 for l in saida["rede"]["ligacoes"]:
