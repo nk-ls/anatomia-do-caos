@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Estados — Anatomia do Caos</title>
-<meta name="description" content="A Covid-19 em cada estado: mortes, mortes por 100 mil habitantes, quem de cada estado aparece no levantamento e como votaram os senadores na CPI.">
+<meta name="description" content="A Covid-19 em cada estado: mortes, mortes por 100 mil habitantes, vacinação, quem de cada estado aparece no levantamento e como votaram os senadores na CPI.">
 <link rel="stylesheet" href="assets/css/estilo.css">
 </head>
 <body>
@@ -27,12 +27,27 @@
 <main class="conteiner">
 <section>
   <h1>Por estado</h1>
-  <p>Escolha um estado para ver as mortes registradas, a comparação com o resto do país, quem daquele estado aparece no levantamento e como votaram os seus senadores na CPI.</p>
+  <p>Escolha um estado para ver as mortes registradas, a vacinação, a comparação com o resto do país, quem daquele estado aparece no levantamento e como votaram os seus senadores na CPI.</p>
   <div class="filtros">
     <label for="uf">Estado</label>
     <select id="uf"></select>
   </div>
   <div id="painel-uf" aria-live="polite"></div>
+</section>
+
+<section id="vacinacao">
+  <h2>Vacinação por estado</h2>
+  <div class="filtros"><label for="corte-vac">Data</label>
+    <select id="corte-vac">
+      <option value="2021_06">30/06/2021 (metade de 2021)</option>
+      <option value="2021_12">31/12/2021</option>
+      <option value="2022_09" selected>30/09/2022: última data da série</option>
+    </select></div>
+  <figure>
+    <figcaption><strong>Pessoas com o esquema vacinal completo, em % da população</strong> · duas doses ou dose única, com ou sem reforço. Clique numa barra para escolher o estado.</figcaption>
+    <div id="grafico-vac" class="grafico-barras grafico-uf" role="img" aria-label="Percentual da população com esquema vacinal completo em cada estado"></div>
+  </figure>
+  <p class="nota">Fonte: microdados oficiais do SI-PNI (Ministério da Saúde), somados por estado pelo Observatório Covid-19 BR (<a href="https://github.com/covid19br/dados-vacinas">covid19br/dados-vacinas</a>); <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos/vacinacao_uf">cópia arquivada</a>. O agregado do próprio Ministério (LocalizaSUS e OpenDataSUS) não pôde ser baixado para conferência, então estes números são <strong>conferidos pela fonte, não na íntegra</strong>. A vacina é contada no estado onde foi aplicada, o que pode passar de 100% em estados que vacinam moradores vizinhos. População: TCU 2019.</p>
 </section>
 
 <section id="ranking">
