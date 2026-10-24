@@ -27,4 +27,6 @@ Toda afirmação deste levantamento tem um estado de verificação. O estado só
 
 ## Estado atual (24/10/2026)
 
-Os dados globais (planilha e gráficos) vêm de bases públicas e são reproduzíveis pelo script. Os documentos sobre o governo federal estão em 🔎: a coleta e o arquivamento das fontes (📄) estão em andamento.
+- Dados globais (planilha e gráficos): reproduzíveis pelo script.
+- Documentos e fichas: 🔎 conferidos pela busca, e **159 das 182 fontes** já têm cópia datada (📄) no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/manifesto.csv).
+- [Revisão independente](revisao.md) por amostra feita, com correções registradas.

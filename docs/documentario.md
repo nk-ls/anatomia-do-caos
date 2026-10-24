@@ -58,7 +58,7 @@ Sinopse da descrição oficial do vídeo: *"o documentário revisita um dos per�
 
 ### "Não temas" (00:30–00:33)
 - **00:30:30** Minuto de silêncio na CPI pelas *"mais de 500.000 mortes"* (o senador cita 502.817 famílias).
-- **00:31:30** O presidente: *"Chega de frescura, de mimimi. Vamos ficar chorando até quando? […] A própria Bíblia diz que em 365 citações ela diz: 'Não temas'."* Fala de **04/03/2021**, um dia depois de um recorde de mortes ([Sul21](https://sul21.com.br/?p=16141); [Brasil 247](https://www.brasil247.com/?p=614443); checagem do coletivo Bereia via [Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/brasil/coletivo-faz-checagem-de-temas-religiosos-e-ve-politicos-como-propagadores-de-noticias-falsas/)). As fontes divergem sobre o local: encontro com produtores rurais ou inauguração de trecho da Ferrovia Norte-Sul em São Simão (GO). A checagem do Bereia lembra que, na Bíblia, a ideia de "não temas" está ligada a *proteção*, inclusive no relato dos hebreus abrigados em casa durante as pragas do Egito.
+- **00:31:30** O presidente: *"Chega de frescura, de mimimi. Vão ficar chorando até quando? […] A própria Bíblia diz que em 365 citações ela diz: 'Não temas'."* Fala de **04/03/2021**, um dia depois de um recorde de mortes ([Sul21](https://sul21.com.br/?p=16141); [Brasil 247](https://www.brasil247.com/?p=614443); checagem do coletivo Bereia via [Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/brasil/coletivo-faz-checagem-de-temas-religiosos-e-ve-politicos-como-propagadores-de-noticias-falsas/)). As fontes divergem sobre o local: encontro com produtores rurais ou inauguração de trecho da Ferrovia Norte-Sul em São Simão (GO). A checagem do Bereia lembra que, na Bíblia, a ideia de "não temas" está ligada a *proteção*, inclusive no relato dos hebreus abrigados em casa durante as pragas do Egito.
 
 ### Osmar Terra, Hallal, Werneck (00:33–00:38)
 - **00:33:00–00:35:30** Depoimento de Osmar Terra (22/06/2021). O filme reproduz previsões dele em 2020: a epidemia seria *"menor […] que a epidemia do H1N1"*, com pico *"na terceira semana de abril"*. Senadores o chamam de *"autor intelectual"* de parte dos problemas. Ele mantém: *"falei por convicção"*.
@@ -98,7 +98,7 @@ Sinopse da descrição oficial do vídeo: *"o documentário revisita um dos per�
 - **01:21:00** Perguntado sobre como o pai receberia o pedido de indiciamento, o senador Flávio Bolsonaro responde: *"Você conhece aquela gargalhada dele?"* (identificação segundo a cobertura).
 - **01:22:00** Leitura de trechos duros do relatório e da sessão final.
 - **01:23:00** Entrega do relatório ao procurador-geral Augusto Aras.
-- **01:24:00** *"A seis meses das eleições, a Procuradoria-Geral da República pediu o arquivamento da maioria das apurações."* ✅ (jul/2022, [CPI](cpi.md)). Reação: *"mais de 670.000 vítimas"*.
+- **01:24:00** *"A seis meses das eleições, a Procuradoria-Geral da República pediu o arquivamento da maioria das apurações."* O pedido de arquivamento está confirmado ✅, mas foi em jul/2022, cerca de 2,5 meses antes da eleição, e não seis ([CPI](cpi.md)). Reação: *"mais de 670.000 vítimas"*.
 - **01:25:00–01:30:14** Créditos. Segundo resenhas, o filme termina com uma cartela: *"mais de 700 mil mortos, nenhuma condenação, nenhuma prisão, nenhum pedido de desculpas"* (texto na tela, que a legenda não captura; não conferido aqui).
 
 ## O que o filme mostra e este levantamento confirma

@@ -2,7 +2,7 @@
 
 > ⚖️ **Leia antes:** *pedido de indiciamento* de uma CPI é uma **recomendação** enviada à PGR, ao Ministério Público, à PF e a outros órgãos. **Não é denúncia nem condenação.** Até a data desta pesquisa (24/10/2026), nenhuma das pessoas listadas foi condenada por fatos originados nesse relatório, até onde as fontes mostram. Todas têm direito à presunção de inocência.
 
-> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. A próxima etapa — abrir cada link na íntegra e guardar uma cópia datada no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes) — está em andamento. Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
+> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 159 das 182 fontes já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
 
 ## Pedidos de indiciamento do relatório final
 

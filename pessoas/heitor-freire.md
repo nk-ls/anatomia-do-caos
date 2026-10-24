@@ -3,7 +3,7 @@
 **Cargo à época:** Subchefe de Articulação e Monitoramento da Casa Civil; coordenador do Centro de Operações do Comitê de Crise  
 **Grupo:** Outros ministérios e órgãos federais
 
-> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 

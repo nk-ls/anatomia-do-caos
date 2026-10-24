@@ -3,11 +3,11 @@
 **Cargo à época:** Senador (PSD-BA), médico; membro da CPI  
 **Grupo:** Atuaram a favor da população
 
-> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **01/06/2021** (fato) Na CPI, como médico, confrontou Nise Yamaguchi com perguntas de infectologia e mostrou que o estudo da Henry Ford citado por ela havia sido encerrado sem demonstrar evidências; lembrou que contra o SARS de 2003 o tratamento foi isolamento e máscara. [fonte](https://www.agazeta.com.br/brasil/senador-confronta-nise-yamaguchi-e-questiona-seu-conhecimento-de-infectologia-0621) · [no documentário, 00:17:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1050s)
+- **01/06/2021** (fato) Na CPI, como médico, confrontou Nise Yamaguchi com perguntas básicas de infectologia (a família do vírus; a diferença entre antiviral e antiprotozoário) e concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [no documentário, 00:17:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1050s)
 
 ## 🔴 O que fez contra o combate à pandemia
 

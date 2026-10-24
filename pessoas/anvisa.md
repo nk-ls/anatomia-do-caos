@@ -3,7 +3,7 @@
 **Cargo à época:** Agência reguladora federal  
 **Grupo:** Atuaram a favor da população
 
-> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **05/2021** (fato) Negou a importação da Sputnik V, criticada por governadores; a agência alegou motivos técnicos. [fonte](https://sbtnews.sbt.com.br/noticia/category/167652-stf-da-48h-para-anvisa-detalhar-o-que-falta-para-analise-da-sputnik-v)
+- **26/04/2021** (fato) Negou a importação da Sputnik V, criticada por governadores; a agência alegou motivos técnicos. [fonte](https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/anvisa-nega-autorizacao-para-ceara-e-outros-estados-importarem-vacina-sputnik-v-1.3078019)
 
 ## Na CPI da Covid
 

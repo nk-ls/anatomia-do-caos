@@ -17,7 +17,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Jair Messias Bolsonaro](jair-bolsonaro.md) | Presidente da República (2019–2022) | 2 | 15 | sim |
+| [Jair Messias Bolsonaro](jair-bolsonaro.md) | Presidente da República (2019–2022) | 1 | 15 | sim |
 | [Flávio Bolsonaro](flavio-bolsonaro.md) | Senador (RJ); filho do presidente | 2 | 2 | sim |
 | [Eduardo Bolsonaro](eduardo-bolsonaro.md) | Deputado federal (SP); filho do presidente | 2 | 4 | sim |
 | [Carlos Bolsonaro](carlos-bolsonaro.md) | Vereador no Rio de Janeiro; filho do presidente | 0 | 1 | sim |

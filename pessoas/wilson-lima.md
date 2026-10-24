@@ -3,7 +3,7 @@
 **Cargo à época:** Governador do Amazonas  
 **Grupo:** Governo do Amazonas
 
-> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
@@ -19,7 +19,7 @@
 ## ⚪ Fatos processuais e neutros
 
 - **06/2021** (decisão judicial) Ministra Rosa Weber autorizou que não comparecesse à CPI, por ser investigado por desvio de recursos na pandemia [fonte](https://www.noticiasagricolas.com.br/noticia/290029)
-- **2022** (decisão judicial) STJ aceitou denúncia da PGR sobre a compra de respiradores e o tornou réu [fonte](https://istoe.com.br/pf-apura-superfaturamento-na-compra-de-respiradores-envolvendo-governador-e-vice-do-amazonas/)
+- **20/09/2021** (decisão judicial) STJ aceitou denúncia da PGR sobre a compra de respiradores e o tornou réu (ser réu não é condenação). [fonte](https://www.poder360.com.br/justica/por-unanimidade-stj-recebe-denuncia-contra-wilson-lima-por-respiradores/)
 
 ## Na CPI da Covid
 

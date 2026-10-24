@@ -3,12 +3,12 @@
 **Cargo à época:** Ministro da Saúde (desde 23/03/2021)  
 **Grupo:** Ministério da Saúde
 
-> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
 - **14/05/2021** (fato) Confirmou a assinatura do segundo contrato com a Pfizer, de 100 milhões de doses [fonte](https://forbes.com.br/negocios/2021/05/queiroga-anuncia-assinatura-de-contrato-com-pfizer-para-100-milhoes-de-doses-de-vacinas/)
-- **20/09/2021** (declaração) Afirmou que evento adverso "não invalida" a vacinação de adolescentes [fonte](https://www.poder360.com.br/governo/queiroga-diz-que-evento-adverso-nao-invalida-vacinacao-de-adolescentes/)
+- **20/09/2021** (declaração) Afirmou que evento adverso "não invalida" a vacinação de adolescentes. Dias antes, ele próprio havia suspendido a vacinação de adolescentes sem comorbidades (ver ato contra). [fonte](https://www.poder360.com.br/governo/queiroga-diz-que-evento-adverso-nao-invalida-vacinacao-de-adolescentes/)
 - **10/2021** (fato) Convidou o pneumologista Carlos Carvalho para elaborar estudo da Conitec, que não recomendou o "kit covid" [fonte](https://www.metropoles.com/brasil/estudo-encomendado-por-queiroga-nao-recomenda-uso-do-kit-covid)
 - **16/11/2021** (fato) Anunciou dose de reforço para todos os adultos cinco meses após a segunda dose [fonte](https://abcdoabc.com.br/ministerio-anuncia-dose-de-reforco-contra-a-covid-a-todos-com-mais-de-18-anos/)
 

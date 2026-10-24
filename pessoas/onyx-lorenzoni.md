@@ -3,11 +3,11 @@
 **Cargo à época:** Ministro (Cidadania; Secretaria-Geral; Trabalho e Previdência)  
 **Grupo:** Outros ministérios e órgãos federais
 
-> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **01/04/2020** (fato) Anunciou o início do pagamento do auxílio emergencial de R$ 600 a beneficiários do Bolsa Família em 10 de abril [fonte](https://www.opovo.com.br/coronavirus/2020/04/01/amp/auxilio-de-r--600-comecara-a-ser-pago-dia-10-de-abril-para-beneficiarios-do-bolsa-familia--diz-onyx.html)
+- **01/04/2020** (fato) Anunciou o início do pagamento do auxílio emergencial de R$ 600 a beneficiários do Bolsa Família em 10 de abril; a data foi alterada e o pagamento a esse grupo começou em 16/04/2020. [fonte](https://www.opovo.com.br/coronavirus/2020/04/01/amp/auxilio-de-r--600-comecara-a-ser-pago-dia-10-de-abril-para-beneficiarios-do-bolsa-familia--diz-onyx.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

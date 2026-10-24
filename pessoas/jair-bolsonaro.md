@@ -3,11 +3,10 @@
 **Cargo à época:** Presidente da República (2019–2022)  
 **Grupo:** Presidência da República e família
 
-> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **17/01/2021** (fato) Início da vacinação nacional pelo SUS, com as vacinas do Butantan e da Fiocruz/AstraZeneca contratadas pelo Ministério da Saúde. Quando abastecido, o PNI vacinou rápido: 66,6% com esquema completo em 31/12/2021, acima dos EUA (63,4%). [fonte](https://github.com/owid/covid-19-data)
 - **19/03/2021** (fato) O governo assinou o contrato de 100 milhões de doses da Pfizer (e 38 milhões da Janssen), sete meses depois da primeira oferta. [fonte](https://olhardigital.com.br/2021/03/19/medicina-e-saude/governo-federal-compra-vacinas-da-pfizer-e-da-janssen-mas-maior-parte-chega-so-no-2o-semestre/)
 
 ## 🔴 O que fez contra o combate à pandemia
@@ -23,8 +22,8 @@
 - **10/11/2020** (declaração) Sobre a suspensão temporária dos testes da CoronaVac pela Anvisa: "Mais uma que Jair Bolsonaro ganha". [fonte](https://www.agazeta.com.br/brasil/mais-uma-que-jair-bolsonaro-ganha-diz-presidente-sobre-suspensao-de-testes-1120)
 - **10/11/2020** (declaração) "Tem que deixar de ser um país de maricas", sobre a pandemia. [fonte](https://www.agazeta.com.br/brasil/tem-que-deixar-de-ser-um-pais-de-maricas-diz-bolsonaro-sobre-covid-19-1120) · [no documentário, 00:23:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1380s)
 - **15/12/2020** (declaração) "Eu não vou tomar vacina e ponto final". [fonte](https://www.poder360.com.br/governo/bolsonaro-diz-que-nao-tomara-vacina-contra-covid-19-e-ponto-final/)
-- **17/12/2020** (declaração) Sobre a vacina da Pfizer: "se você virar um jacaré, é problema seu" (em 2022 pediu desculpas e chamou a fala de "hipérbole"). [fonte](https://www.bahianoticias.com.br/noticia/255260-video-bolsonaro-diz-que-vacina-contra-covid-19-pode-transformar-pessoas-em-jacares) · [no documentário, 00:22:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1350s)
-- **04/03/2021** (declaração) Um dia depois de recorde de mortes: "Chega de frescura, de mimimi. Vamos ficar chorando até quando? […] A própria Bíblia diz que em 365 citações ela diz: 'Não temas'." [fonte](https://sul21.com.br/?p=16141) · [no documentário, 00:31:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1890s)
+- **17/12/2020** (declaração) Sobre a vacina da Pfizer: "se você virar um jacaré, é problema seu". Em jul/2021 disse que a frase era "hipérbole"; em out/2022 pediu desculpas. [fonte](https://www.bahianoticias.com.br/noticia/255260-video-bolsonaro-diz-que-vacina-contra-covid-19-pode-transformar-pessoas-em-jacares) · [no documentário, 00:22:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1350s)
+- **04/03/2021** (declaração) Um dia depois de recorde de mortes: "Chega de frescura, de mimimi. Vão ficar chorando até quando? […] A própria Bíblia diz que em 365 citações ela diz: 'Não temas'." [fonte](https://sul21.com.br/?p=16141) · [no documentário, 00:31:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1890s)
 - **18/03/2021** (fato) Imitou, em live, uma pessoa com falta de ar ao criticar Mandetta; repetiu o gesto em 06/05/2021. [fonte](https://www.poder360.com.br/governo/bolsonaro-imita-pessoa-com-falta-de-ar-e-critica-mandetta)
 - **21/10/2021** (declaração) Em live, leu texto falso associando a vacina da Covid à aids; o vídeo foi removido por Facebook, Instagram e YouTube. [fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-10/facebook-remove-live-em-que-presidente-associa-vacina-de-covid-aids)
 
@@ -33,6 +32,7 @@
 - **05/04/2020** (fato) Convocou (02/04) e realizou um jejum religioso nacional contra o coronavírus. [fonte](https://www.cartacapital.com.br/politica/bolsonaro-convoca-jejum-religioso-no-domingo-e-e-apoiado-por-pastores/)
 - **26/10/2021** (conclusão da CPI) A CPI aprovou o pedido de indiciamento por 9 crimes. [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia)
+- **11/09/2025** (decisão judicial) Condenado pelo STF a 27 anos e 3 meses no processo da trama golpista (decisão definitiva em nov/2025). É um caso alheio à CPI da Covid: por fatos apontados pela CPI, não há condenação. [fonte](https://www.bloomberglinea.com.br/brasil/jair-bolsonaro-e-considerado-culpado-pelo-stf-por-golpe-de-estado-e-mais-quatro-crimes/)
 
 ## Na CPI da Covid
 

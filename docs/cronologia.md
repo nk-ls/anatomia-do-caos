@@ -1,6 +1,6 @@
 # Cronologia: o governo federal e a pandemia (2020–2021)
 
-> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. A próxima etapa — abrir cada link na íntegra e guardar uma cópia datada no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes) — está em andamento. Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
+> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 159 das 182 fontes já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
 
 **Como ler a coluna Tipo:** *fato* = aconteceu e está documentado; *declaração* = fala pública registrada; *alegação* = o que alguém afirmou em depoimento, sem ter sido provado; *conclusão da CPI* = posição do relatório do Senado, que não é decisão judicial.
 
@@ -90,7 +90,7 @@
 | "E daí? Lamento. Quer que eu faça o quê?" | 28/04/2020 | Saída do Alvorada; Brasil com 5.017 mortes, acima da China |
 | "país de maricas" | 10/11/2020 | Evento do turismo no Planalto |
 | "Não vou tomar vacina e ponto final… problema meu" | 15/12/2020 | Entrevista à TV Band (Datena) |
-| "jacaré" | 17/12/2020 | Evento em Porto Seguro (BA). Em 2022 ele pediu desculpas e chamou a fala de "hipérbole" |
+| "jacaré" | 17/12/2020 | Evento em Porto Seguro (BA). Em jul/2021 disse que era "hipérbole" ([Estado de Minas](https://www.em.com.br/app/noticia/politica/2021/07/21/interna_politica,1288605/bolsonaro-era-hiperbole-quando-falei-de-virar-jacare-podia-virar-bambi.shtml)); em out/2022 pediu desculpas |
 | imitação de falta de ar | 18/03/2021 e 06/05/2021 | Lives. Negou no JN em ago/2022 |
 | vacina–aids | 21/10/2021 | Live. Removida por FB/IG e, em 25/10, pelo YouTube (canal suspenso 7 dias). Aos Fatos e G1 desmentiram. A PF abriu inquérito (A Gazeta, mar/2022: https://www.agazeta.com.br/brasil/pf-abre-inquerito-sobre-falso-elo-feito-por-bolsonaro-entre-aids-e-vacina-0322) |
 
@@ -113,7 +113,7 @@
 - Foi interino a partir de 15/05/2020. Em 22/10/2020 disse "Um manda e o outro obedece".
 - Na crise de Manaus, os alertas vieram em 07, 08 ou 10/01/2021, conforme a fonte. Inquérito da PF indica que Pazuello e o comando militar na Amazônia foram avisados cinco dias antes do colapso (Metrópoles: https://www.metropoles.com/brasil/pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus). Pazuello disse que a falta de oxigênio foi "surpresa" (Poder360: https://www.poder360.com.br/governo/pazuello-diz-que-falta-de-oxigenio-em-manaus-foi-surpresa/). A PGR pediu ao STF abertura de inquérito.
 - Depôs na CPI em 19-20/05/2021, com HC parcial do STF (Lewandowski, 14/05/2021).
-- **Data da saída do ministério:** ainda não verificada (LACUNA).
+- **Saída do ministério:** a troca foi anunciada em 15/03/2021; Pazuello foi exonerado e Marcelo Queiroga tomou posse em 23/03/2021 ([Correio Braziliense](https://www.correiobraziliense.com.br/politica/2021/03/amp/4913551-em-evento-fechado-bolsonaro-da-posse-a-queiroga-como-ministro-da-saude.html)).
 
 ### Item 7: Símbolos religiosos e bandeira
 - **Salmo 23 / "não temerei mal algum":** **nenhum registro encontrado** em duas buscas, uma delas estendida (LACUNA). Por isso essa atribuição **não é feita** neste levantamento.
@@ -144,7 +144,7 @@
 7. **Quem redigiu ou apresentou a minuta de decreto da bula**: Barra Torres atribui a sugestão a Nise Yamaguchi, e ela nega a minuta. A autoria do papel não está estabelecida.
 8. **Data exata de lançamento do TrateCov**: 11/01 ou 14/01/2021.
 9. **Data do primeiro alerta formal sobre o oxigênio em Manaus**: 07, 08 ou 10/01/2021, conforme a fonte.
-10. **Data de saída de Pazuello do ministério** e posse de Queiroga: ainda não verificadas.
+10. ~~Data de saída de Pazuello~~: resolvida (23/03/2021, ver item 6).
 11. **Fontes primárias ausentes**: notas taquigráficas da CPI, texto oficial do relatório final, texto oficial das orientações do MS de 20/05/2020, publicações originais do Recovery, do Solidarity e do NEJM. Tudo foi verificado só por imprensa, exceto o que está marcado como primária.
 12. **Datas de publicação**: várias matérias aparecem como "pub. n/c". Algumas páginas (Mais Goiás, Bahia Notícias) mostram banners com data de 2026 que não correspondem à publicação original.
 13. **Data em que o YouTube removeu a live** e detalhe da remoção pelo Facebook: o fato está confirmado (FB/IG antes; YouTube em 25/10/2021); uma fonte diz que o Facebook removeu "no domingo".
