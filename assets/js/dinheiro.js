@@ -1,4 +1,4 @@
-// Aba Corrupção: o caminho do dinheiro. Lê dados/dinheiro.json (gerado por scripts/gerar_dinheiro.py).
+// Aba Caminho do dinheiro. Lê dados/dinheiro.json (gerado por scripts/gerar_dinheiro.py).
 import { carregarCSV, esc, fmt } from "./csv.js";
 
 // Situação do dinheiro: cor de estado + ícone + rótulo (nunca só cor).
