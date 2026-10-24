@@ -60,7 +60,8 @@ img { max-width: 100%; height: auto; display: block; }
 .topo { border-bottom: 1px solid var(--borda); background: color-mix(in srgb, var(--fundo) 92%, transparent); backdrop-filter: blur(8px); position: sticky; top: 0; z-index: 10; }
 .topo .conteiner { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 64px; flex-wrap: wrap; }
 .marca { font-size: 1.25rem; text-decoration: none; color: var(--texto); }
-.marca::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: var(--destaque); margin-right: 10px; vertical-align: middle; }
+.marca { display: inline-flex; align-items: center; gap: 10px; }
+.marca::before { content: ""; width: 24px; height: 24px; flex: none; background: var(--destaque); -webkit-mask: url("../marca/lupa.svg") center / contain no-repeat; mask: url("../marca/lupa.svg") center / contain no-repeat; }
 .nav { display: flex; gap: 18px; flex-wrap: wrap; font-size: .95rem; }
 .nav a { text-decoration: none; color: var(--suave); }
 .nav a[aria-current="page"], .nav a:hover { color: var(--texto); }
@@ -308,3 +309,4 @@ button.barra-linha { width: 100%; background: none; border: 0; font: inherit; te
 .memoria p { line-height: 1.7; }
 .provas li::before { font-family: var(--serifa); }
 .botao-claro, .botao { border-radius: 999px; }
+.rede-topo .marca::before { background: #e08a6b; }
