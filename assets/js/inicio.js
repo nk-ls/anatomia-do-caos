@@ -19,7 +19,7 @@ async function iniciar() {
   const posAmericas = americas.findIndex((p) => p.pais === "Brazil") + 1;
 
   document.getElementById("numeros").innerHTML = [
-    numero("715.295", "mortes registradas pelo Ministério da Saúde (11/03/2025)"),
+    numero("716.626", "mortes registradas pelo Ministério da Saúde (até 30/08/2025)"),
     numero(fmt(br.mortes_100k), "mortes por 100 mil habitantes (série OMS)"),
     numero(`${fmt(br.rank_mortes_100k)}º`, `pior resultado entre ${grandes.length} países e territórios`),
     numero(`${posAmericas}º`, "pior das Américas"),

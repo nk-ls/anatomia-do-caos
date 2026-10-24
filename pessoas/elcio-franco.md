@@ -26,7 +26,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Set/2022: alvo da apuração de prevaricação (Pet 10065).
+Set/2022: alvo da apuração preliminar de prevaricação mantida por Rosa Weber (Poder360); a CPI não lhe imputou esse crime.
 
 ## O que a pessoa diz
 
@@ -36,6 +36,7 @@ Na CPI, disse que a Pfizer era inflexível quanto às cláusulas do contrato e c
 
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
 - https://noticias.stf.jus.br/postsnoticias/ministra-rosa-weber-rejeita-pedido-da-pgr-para-arquivar-investigacoes-requeridas-pela-cpi-da-pandemia/
+- https://www.poder360.com.br/justica/rosa-mantem-investigacoes-contra-bolsonaro-sobre-a-pandemia/
 
 ---
 [← Todos os envolvidos](README.md)

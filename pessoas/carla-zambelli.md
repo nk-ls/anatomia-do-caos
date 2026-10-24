@@ -29,7 +29,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação até out/2026.
+Investigada no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação por fatos apontados pela CPI até out/2026, até onde as fontes mostram. Em processo alheio à CPI, foi condenada pelo STF em mai/2025 (invasão dos sistemas do CNJ).
 
 ## O que a pessoa diz
 
@@ -39,6 +39,7 @@ Sobre o caso Alphonso Davies, disse em nota que "jamais afirmou" que a miocardit
 
 - https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros
 - https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
+- https://www.congressoemfoco.com.br/noticia/108530/zambelli-e-condenada-a-10-anos-de-prisao-por-invasao-ao-sistema-do-cnj
 
 ---
 [← Todos os envolvidos](README.md)

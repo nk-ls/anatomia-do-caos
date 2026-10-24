@@ -32,11 +32,11 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Marcelo Queiroga](marcelo-queiroga.md) | Ministro da Saúde (desde 23/03/2021) | 4 | 5 | sim |
 | [Antônio Élcio Franco Filho](elcio-franco.md) | Secretário-executivo do Ministério da Saúde | 1 | 0 | sim |
 | [Mayra Pinheiro ("capitã cloroquina")](mayra-pinheiro.md) | Secretária de Gestão do Trabalho e da Educação na Saúde (MS) | 0 | 3 | sim |
-| [Hélio Angotti Neto](helio-angotti.md) | Secretário de Ciência, Tecnologia e Insumos Estratégicos (MS) | 0 | 2 | sim |
+| [Hélio Angotti Neto](helio-angotti.md) | Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (MS) | 0 | 2 | sim |
 | [Roberto Ferreira Dias](roberto-dias.md) | Diretor de Logística do Ministério da Saúde | 0 | 2 | sim |
 | [Marcelo Blanco da Costa](marcelo-blanco.md) | Ex-assessor do Departamento de Logística do MS | 0 | 1 | sim |
 | [Airton Antonio Soligo](airton-soligo.md) | Ex-assessor especial do Ministério da Saúde | 0 | 1 | sim |
-| [Marcelo Bento Pires](marcelo-bento-pires.md) | Coronel; ex-diretor de Programas do MS | 0 | 1 | sim |
+| [Marcelo Bento Pires](marcelo-bento-pires.md) | Coronel; assessor do Ministério da Saúde | 0 | 1 | sim |
 | [Alex Lial Marinho](alex-lial-marinho.md) | Ex-coordenador de Logística de Insumos Estratégicos do MS | 0 | 2 | sim |
 | [Thiago Fernandes da Costa](thiago-fernandes-costa.md) | Assessor técnico do MS | 0 | 0 | sim |
 | [Regina Célia Oliveira](regina-celia-oliveira.md) | Fiscal do contrato da Covaxin no MS | 1 | 0 | sim |

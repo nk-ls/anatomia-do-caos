@@ -27,7 +27,7 @@
 
 ## O que aconteceu depois
 
-Nenhum desdobramento localizado neste levantamento.
+Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, set/2025), sob sigilo, segundo o Correio Braziliense.
 
 ## O que a pessoa diz
 
@@ -37,6 +37,7 @@ Manteve que o deputado Luis Miranda fez denunciação caluniosa sobre a compra d
 
 - https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros
 - https://www.em.com.br/app/noticia/politica/2021/10/26/interna_politica,1317224/cpi-da-covid-veja-a-lista-dos-81-indiciados-no-relatorio-final.shtml
+- https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
 
 ---
 [← Todos os envolvidos](README.md)

@@ -1,6 +1,6 @@
 # Hélio Angotti Neto
 
-**Cargo à época:** Secretário de Ciência, Tecnologia e Insumos Estratégicos (MS)  
+**Cargo à época:** Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (MS)  
 **Grupo:** Ministério da Saúde
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
@@ -22,7 +22,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
-**Crimes apontados no relatório final (26/10/2021):** epidemia com resultado morte (CP art. 267 §1º) e incitação ao crime (CP art. 286), segundo a maioria das fontes (uma lista traz só o art. 286)
+**Crimes apontados no relatório final (26/10/2021):** epidemia com resultado morte (CP art. 267 §1º); incitação ao crime (art. 286)
 
 ## O que aconteceu depois
 

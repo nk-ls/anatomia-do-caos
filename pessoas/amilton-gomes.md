@@ -22,7 +22,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
-**Crimes apontados no relatório final (26/10/2021):** tráfico de influência (art. 332), segundo a maioria das fontes; há divergência
+**Crimes apontados no relatório final (26/10/2021):** tráfico de influência (art. 332)
 
 ## O que aconteceu depois
 

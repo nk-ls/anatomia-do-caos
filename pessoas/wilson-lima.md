@@ -25,7 +25,7 @@
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
-**Crimes apontados no relatório final (26/10/2021):** epidemia com resultado morte (art. 267); prevaricação (art. 319); crimes de responsabilidade (Lei 1.079/50)
+**Crimes apontados no relatório final (26/10/2021):** epidemia com resultado morte (art. 267 §1º); prevaricação (art. 319); crimes de responsabilidade (Lei 1.079/50)
 
 ## O que aconteceu depois
 

@@ -23,11 +23,11 @@
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
-**Crimes apontados no relatório final (26/10/2021):** epidemia com resultado morte (CP art. 267 §1º); incitação ao crime (CP art. 286)
+**Crimes apontados no relatório final (26/10/2021):** epidemia com resultado morte (CP art. 267 §1º); incitação ao crime (CP art. 286), c/c art. 29
 
 ## O que aconteceu depois
 
-Nenhum desdobramento localizado neste levantamento.
+Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, set/2025), sob sigilo, segundo o Correio Braziliense.
 
 ## O que a pessoa diz
 
@@ -37,6 +37,7 @@ Na CPI, negou ataques à China e atraso de insumos por suas falas, e atribuiu ao
 
 - https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
+- https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
 
 ---
 [← Todos os envolvidos](README.md)

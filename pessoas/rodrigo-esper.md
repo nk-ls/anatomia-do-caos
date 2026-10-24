@@ -29,7 +29,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-A empresa nega as acusações.
+Posição pessoal não localizada; a Prevent Senior nega as acusações.
 
 ## Fontes da ficha
 

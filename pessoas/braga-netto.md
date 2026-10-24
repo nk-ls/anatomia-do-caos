@@ -26,7 +26,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Mar/2023: Toffoli arquivou apuração por epidemia que o incluía.
+Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 

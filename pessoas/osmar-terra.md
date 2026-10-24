@@ -31,7 +31,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação até out/2026.
+Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação por fatos apontados pela CPI até out/2026, até onde as fontes mostram.
 
 ## O que a pessoa diz
 

@@ -28,7 +28,26 @@ Antes da divulgação, dois revisores que não participaram da redação tentara
 | Ficha do SUS | Vacinação nacional em 17/01/2021 com CoronaVac e AstraZeneca | Campanha nacional em 18/01/2021 com a CoronaVac; AstraZeneca a partir de 22/01 |
 | Ficha de Queiroga | Fala de 20/09/2021 a favor da vacinação de adolescentes, sem contexto | Acrescentado que ele próprio havia suspendido essa vacinação dias antes |
 | Outras fichas | Datas e fontes imprecisas (Anvisa/Sputnik, busca na Precisa, auxílio emergencial, "hipérbole") | Datas e fontes corrigidas |
-| Documentário | "a seis meses das eleições" marcado como confirmado | O pedido da PGR foi em jul/2022, cerca de 2,5 meses antes da eleição |
+| Documentário | "a seis meses das eleições" marcado como confirmado | O pedido da PGR foi no fim de jul/2022, pouco mais de dois meses antes da eleição |
+
+## Auditoria completa (24/10/2026)
+
+Depois da revisão por amostra, uma auditoria conferiu os documentos, a página inicial e as 107 linhas de `dados/pessoas.csv` contra o [relatório final aprovado da CPI](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) (páginas impressas), o contrato Pfizer nº 52/2021, a Nota Informativa MS 9/2020 e as cópias arquivadas das fontes. Principais correções:
+
+| Onde | Antes | Depois |
+|---|---|---|
+| Ficha de Daniella de Aguiar | Pedido por perigo para a vida ou saúde de outrem (art. 132) | Pedido por tentativa de homicídio (art. 121, c/c arts. 13, § 2º, b, e 14), item 57 do resumo, p. 1120 (fundamentação na p. 1035) |
+| Fichas de Bolsonaro, filhos e deputados investigados | "Nenhuma denúncia ou condenação até out/2026" | "…por fatos apontados pela CPI…, até onde as fontes mostram", com os fatos judiciais alheios à CPI registrados à parte (Bolsonaro, Zambelli, Eduardo Bolsonaro) |
+| docs/cpi.md | Onyx só com o art. 286; crimes de Wilson Lima e Campêlo como lacuna; VTCLog com improbidade só para Andreia Lima | Crimes conforme o resumo dos indiciamentos (itens 4, 51 a 54, 69 e 70) |
+| Wagner Rosário | Desfecho em aberto | Arquivamento por Lewandowski (Pet 10.062), em 01/08/2022, a pedido da PGR |
+| Covaxin | "Pagamento antecipado de R$ 221,4 milhões" | Invoice de cerca de US$ 45 milhões pedindo pagamento antecipado; o pagamento não foi feito |
+| docs/estudos.md | 120 mil como "medidas + vacinação"; 127 mil "não confirmado"; 95,5 mil e 145 mil como números do relatório | 120 mil só para medidas não farmacológicas (p. 1021); 127 mil para vacinas (Amaku et al., p. 1015-1016); 95,5 mil e 145 mil não constam do relatório |
+| Contrato Pfizer | Assinado em 19/03/2021 | Assinatura eletrônica do MS em 18/03/2021, 20:59; 19/03 é a data de impressão no SEI |
+| Datas | Suspensão da CoronaVac em 10/11/2020; Sputnik negada em mai/2021; Toffoli em mar/2023 | 09/11/2020; 26/04/2021; 28/02/2023 (sem atribuir a Pazuello, Queiroga e Braga Netto o que a fonte não diz) |
+| Nota Informativa 9/2020 | Citação não literal | Texto do termo de consentimento, conforme o PDF |
+| Selo do README | "todos os erros encontrados corrigidos" | Revisão por amostra e auditoria completa, com correções registradas aqui |
+
+A lista completa, com antes, depois e página de cada correção, acompanha o histórico de alterações do repositório.
 
 ## O que continua em aberto
 

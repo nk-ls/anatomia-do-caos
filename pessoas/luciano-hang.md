@@ -26,7 +26,7 @@
 
 ## O que aconteceu depois
 
-Citado no pedido de arquivamento da PGR de 07/11/2022.
+Citado no pedido de arquivamento da PGR de 07/11/2022. Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, set/2025), sob sigilo, segundo o Correio Braziliense.
 
 ## O que a pessoa diz
 
@@ -36,6 +36,7 @@ Na CPI defendeu a "autonomia médica" e disse ter autorizado a Prevent Senior a 
 
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
 - https://static.poder360.com.br/2022/11/pgr-arquivamento-apuracao-bolsonaro-aliados-incitacao-crime-7-nov-2022.pdf
+- https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
 
 ---
 [← Todos os envolvidos](README.md)

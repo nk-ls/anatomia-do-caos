@@ -28,7 +28,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Nenhum desdobramento localizado neste levantamento.
+Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, set/2025), sob sigilo, segundo o Correio Braziliense.
 
 ## O que a pessoa diz
 
@@ -37,6 +37,7 @@ Na CPI, citou passagens bíblicas sobre sua família e permaneceu em silêncio d
 ## Fontes da ficha
 
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
+- https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
 
 ---
 [← Todos os envolvidos](README.md)

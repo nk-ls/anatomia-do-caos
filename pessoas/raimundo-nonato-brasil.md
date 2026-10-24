@@ -21,7 +21,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
-**Crimes apontados no relatório final (26/10/2021):** corrupção ativa (art. 333); improbidade
+**Crimes apontados no relatório final (26/10/2021):** corrupção ativa (art. 333); improbidade (Lei 8.429/92, art. 11, I, c/c art. 3º)
 
 ## O que aconteceu depois
 

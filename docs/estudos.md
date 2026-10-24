@@ -21,12 +21,12 @@
 | 2 | G. Werneck, L. Bahia, J. P. L. Moreira (IESC/UFRJ) e M. Scheffer (FMUSP), nota técnica "Mortes evitáveis por Covid-19 no Brasil", encomendada pelo Movimento Alerta | **Ampla/intermediária** (medidas não farmacológicas em geral) | Excesso de óbitos por causas naturais em mar/2020–mar/2021 contra 2015–2019 (~305 mil). Aplica uma redução de ~40% da transmissão tirada da literatura (estudos na Science e na Nature) sobre medidas não farmacológicas | ≥ ~120 mil | Mar/2020–mar/2021 | Nota técnica sem revisão por pares. O efeito de 40% vem de outros contextos. Mede só causas naturais | IHU: https://ihu.unisinos.br/610538-covid-19-estudo-revela-que-medidas-preventivas-teriam-evitado-120-mil-mortes ; Poder360: https://www.poder360.com.br/brasil/com-mais-restricoes-brasil-teria-evitado-ate-120-mil-mortes-diz-estudo/ |
 | 3 | Hallal, cálculo apresentado à CPI (24/06/2021) | **Estreita** | Doses que, segundo os depoimentos de Pfizer (C. Murillo) e Butantan (D. Covas) à CPI, teriam chegado antes: 4,5 mi Pfizer até março e 49 mi CoronaVac até maio de 2021. Convertidas em mortes evitadas | 95,5 mil | 1º semestre de 2021 | Não publicado. Os cronogramas vêm dos próprios laboratórios. O próprio Hallal disse que o estudo da USP (#4) é "mais robusto" | Crusoé: https://crusoe.com.br/?p=158471 ; CUT/RBA: https://www.cut.org.br/noticias/400-mil-mortes-por-covid-19-poderiam-ter-sido-evitadas-no-brasil-diz-pesquisador-1198/ |
 | 4 | Pesquisadores da USP, citados por Hallal (segundo a Radis/ENSP: Amaku, Coutinho, Azevedo, Massad, com Dimas Covas) | **Estreita** | Contrafactual: ofertas Pfizer e Butantan aceitas, vacinação a partir de 21/01 a 2 mi de doses/dia (a RBA acrescenta adesão de 50% ao Covax em vez de 10%) | ~145 mil | 2021 | **O escopo diverge entre as fontes** (com ou sem Covax). Documento primário não localizado | Informe ENSP/Radis: https://informe.ensp.fiocruz.br/noticias/51870 ; CUT: link acima |
-| 4b | Amaku M., Covas D.T., Coutinho F.A.B., Azevedo R.S., Massad E. *Theor Biol Med Model* 2021 | **Estreita** (modelo de atraso) | Modelo do efeito do atraso da vacinação no Brasil e em SP, supondo oferta ilimitada de vacinas | Sem vacina: >350 mil mortes no Brasil em 2021 (FAPESP: 352,9 mil). Os números por data de início não foram confirmados nesta busca | 2021 | Supõe "oferta ilimitada", premissa contestável no começo de 2021 | DOI 10.1186/s12976-021-00143-0 ; PMC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8319712/ ; preprint: https://www.medrxiv.org/content/10.1101/2021.02.22.21252189.full.pdf |
+| 4b | Amaku M., Covas D.T., Coutinho F.A.B., Azevedo R.S., Massad E. *Theor Biol Med Model* 2021 | **Estreita** (modelo de atraso) | Modelo do efeito do atraso da vacinação no Brasil e em SP, supondo oferta ilimitada de vacinas | Sem vacina: ~350 mil mortes no Brasil em 2021 (FAPESP: 352,9 mil); vacinação à taxa máxima (70% da população em 9 meses, 544 mil pessoas/dia) evitaria ~127 mil (preprint citado pelo relatório final da CPI, p. 1015-1016) | 2021 | Supõe "oferta ilimitada", premissa contestável no começo de 2021 | DOI 10.1186/s12976-021-00143-0 ; PMC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8319712/ ; preprint: https://www.medrxiv.org/content/10.1101/2021.02.22.21252189.full.pdf |
 | 5 | Ferreira L.S. et al., *Lancet Regional Health – Americas* v.17, 2023 (Fiocruz/Unesp/Observatório Covid-19 BR, segundo a imprensa) | **Estreita** (ritmo e início da vacinação, ≥60 anos) | Modelo bayesiano com cenários contrafactuais: sem vacina e com rollout mais rápido/precoce | ~58 mil vidas ≥60 anos salvas pela vacina. **~47 mil adicionais** com início/ritmo mais rápido. ~104 mil internações evitáveis. Os autores chamam de **limite inferior** | Jan–ago/2021 (7–8 meses) | Só idosos. **O artigo não atribui o atraso a decisões do governo federal** (a atribuição é da imprensa e de partidos) | DOI 10.1016/j.lana.2022.100397 ; PMC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9676113/ ; preprint 10.1101/2021.12.24.21268384 |
 | 6 | Xavier D.R. et al., *Lancet Regional Health – Americas* 2022 (Fiocruz) | **Associação** | Mortes por município (5.570), fev/2020–jun/2021, árvores de regressão com variáveis socioeconômicas + voto no 2º turno de 2018 | Municípios pró-Bolsonaro com a maior mortalidade, sobretudo na 2ª onda (2021), mesmo controlando desigualdades estruturais. Tamanho do efeito não confirmado | Fev/2020–jun/2021 | Ecológico. Confusão residual possível. Não estima mortes evitáveis | DOI 10.1016/j.lana.2022.100221 ; PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC8918677 |
 | 7 | Lima E.E.C., Costa L.C.C., Souza R.F., Rocha C.O.E., Ichihara M.Y.T., *Cad. Saúde Pública* 40(5), 2024 | **Associação** | Atestados de óbito municipais (MS) × voto no 1º turno de 2018 e 2022 | Proporção de votos em Bolsonaro associada aos picos de excesso de óbitos de 2020 e 2021 | 2020–2021 | Ecológico (falácia ecológica). Não estima mortes evitáveis | DOI 10.1590/0102-311XEN194723 ; https://scielosp.org/pdf/csp/2024.v40n5/e00194723/en |
 | 8 | Ajzenman N., Cavalcanti T., Da Mata D., "More than Words: Leaders' Speech and Risky Behavior during a Pandemic", *AEJ: Economic Policy* 15(3): 351–371, 2023 | **Associação quase-causal** (comportamento, não mortes) | Diferenças em diferenças com geolocalização de ~60 milhões de celulares (In Loco) + cartão de crédito. Municípios pró e não pró-Bolsonaro antes e depois de 15/03 e 24/03/2020 | Queda do distanciamento em municípios pró-Bolsonaro depois dos eventos, **sem tendência prévia**. Magnitude: Aos Fatos, sobre versão anterior, fala em 1–3 p.p.; A Gazeta fala em 10–20% (relativo) — **não confirmado no texto final** | Mar–abr/2020 | Mede distanciamento, não óbitos. Não dá número de mortes | DOI 10.1257/pol.20210284 ; SSRN: https://papers.ssrn.com/abstract=3582908 ; Aos Fatos: https://aosfatos.org/noticias/falas-de-bolsonaro-levaram-a-queda-no-isolamento-social-entre-seus-apoiadores-aponta-estudo/ |
-| 9 | Relatório final da CPI da Pandemia (relator Renan Calheiros, lido em 20/10/2021, aprovado por 7×4 em 26/10/2021) | Peça político-jurídica (adota estimativas de terceiros) | Incorpora depoimentos e estudos. Segundo o Congresso em Foco, o texto diz que medidas sanitárias e vacinação, aplicadas corretamente e antes, poderiam ter salvo **120 mil vidas até março de 2021** (o número da nota técnica #2) | ~120 mil (até mar/2021). Também citados: 95,5 mil e 145 mil (vacinas); "64 milhões de doses a mais" disponíveis no fim de 2020/jan-2021 (leitura do G7) | Até mar/2021 | Não é estudo. **Trecho exato não verificado na íntegra** (ver LACUNAS) | Congresso em Foco: https://www.congressoemfoco.com.br/noticia/13424/cpi-da-covid-veja-os-principais-pontos-do-relatorio-de-renan ; Senado: https://www12.senado.leg.br/noticias/materias/2021/10/20/cpi-da-pandemia-principais-pontos-do-relatorio |
+| 9 | Relatório final da CPI da Pandemia (relator Renan Calheiros, lido em 20/10/2021, aprovado por 7×4 em 26/10/2021) | Peça político-jurídica (adota estimativas de terceiros) | Incorpora depoimentos e estudos. Atribui os **120 mil vidas até março de 2021** só a medidas não farmacológicas (nota técnica #2, p. 1021) e, para vacinas, usa o modelo de Amaku et al. (#4b, p. 1015-1016) | ~120 mil (medidas não farmacológicas, até mar/2021); ~127 mil (vacinação à taxa máxima, Amaku et al.); 400 mil (Hallal, citado). Os 95,5 mil e os 145 mil (#3 e #4) **não constam do relatório**: foram falas e estudos citados em depoimento | Até mar/2021 (NPIs); 2021 (vacinas) | Não é estudo. Trechos conferidos no PDF oficial (p. impressas 683, 1015-1016, 1020-1021) | Relatório final aprovado (PDF): https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf ; Congresso em Foco: https://www.congressoemfoco.com.br/noticia/13424/cpi-da-covid-veja-os-principais-pontos-do-relatorio-de-renan ; Senado: https://www12.senado.leg.br/noticias/materias/2021/10/20/cpi-da-pandemia-principais-pontos-do-relatorio |
 
 ---
 
@@ -73,11 +73,14 @@
   A. B. Coutinho, Raymundo S. Azevedo, Eduardo Massad e Dimas T. Covas**. O cenário: ofertas
   aceitas, vacinação desde **21/01** a **2 milhões de doses/dia**, resultando em ~145 mil mortes a
   menos em 2021. A RBA/CUT diz que o cenário também supunha **50% (e não 10%) de adesão ao
-  Covax**. **Escopo divergente; documento primário não localizado.**
+  Covax**. **Escopo divergente; documento primário não localizado.** O número de 145 mil **não
+  consta do relatório final da CPI**, que, para vacinas, usa os ~127 mil de Amaku et al. (ver 2b e seção 5).
 - Trabalho publicado e relacionado do mesmo grupo: Amaku et al., *Theoretical Biology and Medical
   Modelling* (29/07/2021), DOI **10.1186/s12976-021-00143-0**. Supõe **oferta ilimitada de
-  vacinas**. Sem vacinação, projeta >350 mil mortes no Brasil em 2021 (FAPESP: 352,9 mil).
-  **Não confirmei que os 145 mil saiam deste artigo.**
+  vacinas**. Sem vacinação, projeta ~350 mil mortes no Brasil em 2021 (FAPESP: 352,9 mil). Na
+  versão em preprint, citada pelo relatório final da CPI (p. 1015-1016), uma campanha "à taxa
+  máxima" (70% da população em 9 meses, 544 mil pessoas/dia) teria evitado **cerca de 127 mil
+  mortes**. **Não confirmei que os 145 mil saiam deste artigo.**
 
 ### 2c. Ferreira et al. 2023 (Lancet Reg Health Am): 47 mil idosos
 - **Autor principal:** Leonardo Souto Ferreira. A lista completa de coautores **não foi confirmada**
@@ -144,18 +147,24 @@
 ## 5. Relatório final da CPI
 
 - O relator Renan Calheiros leu o relatório em 20/10/2021, e ele foi aprovado por **7 a 4** em
-  26/10/2021. A cobertura cita entre 78 e 80 pedidos de indiciamento, incluindo o presidente por
+  26/10/2021. O relatório aprovado tem 80 pedidos de indiciamento (78 pessoas e 2 empresas), incluindo o presidente por
   nove crimes (entre eles epidemia com resultado morte e crimes contra a humanidade).
-- **Número de mortes evitáveis:** segundo o Congresso em Foco, o relatório diz que medidas
-  sanitárias e vacinação aplicadas corretamente e antes poderiam ter salvo **120 mil vidas até
-  março de 2021**. É o número da nota técnica Werneck/Bahia/Moreira/Scheffer, mas a frase o
-  aplica a "medidas + vacinação", misturando as duas linhas. Os 400 mil de Hallal aparecem como
-  depoimento, **não como conclusão formal** (segundo a cobertura).
+- **Número de mortes evitáveis (conferido no PDF oficial):** o relatório (item 13.1, p. 1015-1016
+  e 1021) atribui **120 mil vidas, até mar/2021, a medidas não farmacológicas** (nota técnica
+  Werneck et al.: "poderiam ter reduzido os níveis de transmissão da covid-19 em cerca de 40%, o
+  que significa que 120 mil vidas poderiam ter sido salvas até o final de março de 2021"). Para
+  vacinas, cita o modelo de Amaku et al. (preprint): vacinação "à taxa máxima" teria evitado
+  **cerca de 127 mil mortes** em 2021. E reproduz os "4 de cada 5" de Hallal (p. 683 e 1020) como
+  dado trazido à CPI, **não como conclusão formal**. A frase do Congresso em Foco que juntava
+  "medidas + vacinação" nos 120 mil não corresponde ao texto do relatório.
+- Os números **95,5 mil e 145 mil não constam do relatório**: foram falas e estudos citados em
+  depoimento (ver 2a e 2b).
 - Uma leitura do G7 citada pela imprensa diz que o governo poderia ter tido **64 milhões de doses a
   mais** no fim de 2020/jan-2021.
 - **Base:** depoimentos (Pfizer, Butantan, Hallal, Werneck) e a nota técnica. A CPI não fez estudo
   próprio.
-- **Status de verificação:** não li a íntegra. **Trecho e página exatos = LACUNA.**
+- **Status de verificação:** trechos conferidos no [relatório final aprovado](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
+  (páginas impressas citadas acima).
 
 ## 6. Contra-argumentos e limitações documentados
 
@@ -198,11 +207,12 @@
 
 ## 7. Dados oficiais de 2021 (pico)
 
-- **8/04/2021: 4.249 óbitos registrados em 24h** (recorde). Total acumulado 345.025; média móvel de
-  7 dias 2.820 (Conass/Ministério da Saúde). Em 6/04/2021 foram 4.195. Agência Brasil:
+- **8/04/2021: 4.249 óbitos registrados em 24h** (recorde). Total acumulado 345.025. Em 6/04/2021
+  foram 4.195. Agência Brasil:
   https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas
 - **Março/2021:** ~**66.573** óbitos por data de notificação. O parcial de 31/03 era 62.918.
-  Por **data real do óbito** os números diferem (Poder360).
+  Por **data real do óbito** os números diferem (Poder360). (Totais mensais de março e abril sem URL
+  arquivada nesta pesquisa → LACUNA.)
 - **Abril/2021:** **82.266** (DW/IHU) ou 82.336 (CUT/Conass) → o mês mais letal. Antes, o recorde
   mensal era jul/2020 (>32 mil).
 - **Atenção metodológica:** "mortes registradas no dia" ≠ "mortes ocorridas no dia". A série por
@@ -216,7 +226,8 @@
   dizer "estudo provou que o governo matou 400 mil".
 - Estimativas **estreitas** ligadas a decisões federais (compra de vacinas): **~47 mil** (idosos,
   revisado por pares, limite inferior, sem atribuição explícita), **95,5 mil** (cálculo de Hallal,
-  não publicado), **~145 mil** (USP, escopo divergente). Faixa defensável: "dezenas de milhares a
+  não publicado), **~127 mil** (Amaku et al., vacinação à taxa máxima, preprint citado pelo
+  relatório da CPI), **~145 mil** (USP, escopo divergente). Faixa defensável: "dezenas de milhares a
   ~145 mil, conforme as premissas".
 - Medidas não farmacológicas: **~120 mil** (nota técnica, 1º ano), parcialmente federal.
 - Voto × mortalidade e discurso × distanciamento: **associação** (o segundo é quase-causal sobre
@@ -224,10 +235,10 @@
 
 ## Lacunas — o que NÃO foi confirmado
 
-1. Íntegra do relatório final da CPI: trecho e página com "120 mil" e eventuais outros números
-   **não verificados**.
+1. (Resolvida: o relatório final foi conferido no PDF oficial; ver seção 5.)
 2. Documento primário do "estudo da USP" (145 mil): título, data, se inclui Covax 50% → **não
-   localizado**. Nem a ligação exata com Amaku et al. 2021.
+   localizado**. A ligação de Amaku et al. com os **127 mil** está confirmada no relatório da CPI
+   (p. 1015-1016); com os 145 mil, não.
 3. Lista completa de autores de Ferreira et al. 2023 → só o primeiro autor confirmado.
 4. Magnitude exata do efeito em Ajzenman et al. (versão publicada) → não confirmada.
 5. Tamanho do efeito (coeficientes) em Xavier et al. 2022 → não confirmado.
@@ -240,5 +251,5 @@
    consultadas diretamente.
 10. Checagem metodológica independente (Lupa, Aos Fatos, Comprova) do número de 400 mil → não
     localizada.
-11. Estimativa de 127 mil (vacinação "à taxa máxima"), mencionada em resumo de busca como citada
-    em artigo da *Saúde em Debate* → **não confirmada** e por isso não usada.
+11. (Resolvida: a estimativa de 127 mil, vacinação "à taxa máxima", está no relatório final da
+    CPI, p. 1015-1016, citando Amaku et al.; ver 2b e seção 5.)

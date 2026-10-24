@@ -72,8 +72,8 @@ Sinopse da descrição oficial do vídeo: *"o documentário revisita um dos per�
 - **00:42:00** Um senador responde com Mateus 23:27-28 (*"sepulcros caiados"*).
 
 ### Covaxin (00:43–00:57)
-- **00:43:30–00:46:30** Telejornais: o deputado Luís Miranda diz ter avisado o presidente sobre irregularidades na Covaxin. Contrato de 25/02/2021, **20 milhões de doses, R$ 1,614 bilhão, R$ 80,70 por dose**, *"quatro vezes mais cara"* que a AstraZeneca da Fiocruz ⚠️ (valores a conferir).
-- **00:47:00–00:50:00** Depoimento dos irmãos Miranda (25/06/2021): pagamento antecipado de *"45 milhões de dólares"* a uma offshore, que não estava no contrato; o deputado acaba dizendo que o nome citado pelo presidente foi *"o Ricardo Barros"*. ✅ [Cronologia](cronologia.md). Barros nega.
+- **00:43:30–00:46:30** Telejornais: o deputado Luís Miranda diz ter avisado o presidente sobre irregularidades na Covaxin. Contrato nº 29/2021, de 25/02/2021: **20 milhões de doses a US$ 15 a dose** (R$ 1,6 bilhão no relatório da CPI; a reportagem dá R$ 1,614 bilhão, R$ 80,70 por dose) ✅ [relatório da CPI, p. 250 e 328](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf). A comparação *"quatro vezes mais cara"* que a AstraZeneca da Fiocruz ⚠️ não foi conferida.
+- **00:47:00–00:50:00** Depoimento dos irmãos Miranda (25/06/2021): pagamento antecipado de *"45 milhões de dólares"* a uma offshore, que não estava no contrato (era uma invoice da Madison Biotech pedindo pagamento antecipado; o pagamento não foi feito); o deputado acaba dizendo que o nome citado pelo presidente foi *"o Ricardo Barros"*. ✅ [Cronologia](cronologia.md). Barros nega.
 - **00:53:00** Ricardo Barros na CPI: *"O presidente nunca afirmou"* que ele estava envolvido.
 - **00:56:30** *"A CPI […] antecipou vacina no braço do povo brasileiro."* A Covaxin nunca foi comprada ([CPI](cpi.md)).
 
@@ -98,7 +98,7 @@ Sinopse da descrição oficial do vídeo: *"o documentário revisita um dos per�
 - **01:21:00** Perguntado sobre como o pai receberia o pedido de indiciamento, o senador Flávio Bolsonaro responde: *"Você conhece aquela gargalhada dele?"* (identificação segundo a cobertura).
 - **01:22:00** Leitura de trechos duros do relatório e da sessão final.
 - **01:23:00** Entrega do relatório ao procurador-geral Augusto Aras.
-- **01:24:00** *"A seis meses das eleições, a Procuradoria-Geral da República pediu o arquivamento da maioria das apurações."* O pedido de arquivamento está confirmado ✅, mas foi em jul/2022, cerca de 2,5 meses antes da eleição, e não seis ([CPI](cpi.md)). Reação: *"mais de 670.000 vítimas"*.
+- **01:24:00** *"A seis meses das eleições, a Procuradoria-Geral da República pediu o arquivamento da maioria das apurações."* O pedido de arquivamento está confirmado ✅, mas foi no fim de jul/2022, pouco mais de dois meses antes da eleição, e não seis ([CPI](cpi.md)). Reação: *"mais de 670.000 vítimas"*.
 - **01:25:00–01:30:14** Créditos. Segundo resenhas, o filme termina com uma cartela: *"mais de 700 mil mortos, nenhuma condenação, nenhuma prisão, nenhum pedido de desculpas"* (texto na tela, que a legenda não captura; não conferido aqui).
 
 ## O que o filme mostra e este levantamento confirma

@@ -1,6 +1,6 @@
 # Marcelo Bento Pires
 
-**Cargo à época:** Coronel; ex-diretor de Programas do MS  
+**Cargo à época:** Coronel; assessor do Ministério da Saúde  
 **Grupo:** Ministério da Saúde
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.

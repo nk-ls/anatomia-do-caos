@@ -30,7 +30,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Set/2022: alvo das apurações de verbas (Pet 10060) e prevaricação (Pet 10065) mantidas por Rosa Weber. Mar/2023: Toffoli arquivou apuração por epidemia que o incluía. Ficou fora do inquérito de 2025 (Agência Pública). Deputado federal.
+Set/2022: alvo das apurações de emprego irregular de verbas e de prevaricação mantidas por Rosa Weber (Poder360). Ficou fora do inquérito de 2025 (Agência Pública). Deputado federal.
 
 ## O que a pessoa diz
 
@@ -42,6 +42,7 @@ Na CPI (19–20/05/2021): "Nunca o presidente da República mandou eu desfazer q
 - https://noticias.stf.jus.br/postsnoticias/ministra-rosa-weber-rejeita-pedido-da-pgr-para-arquivar-investigacoes-requeridas-pela-cpi-da-pandemia/
 - https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/dias-toffoli-arquiva-investigacoes-contra-bolsonaro
 - https://apublica.org/2026/09/recordar-e-votar-13-investigados-pela-cpi-da-covid-disputam-eleicoes-neste-ano/
+- https://www.poder360.com.br/justica/rosa-mantem-investigacoes-contra-bolsonaro-sobre-a-pandemia/
 
 ---
 [← Todos os envolvidos](README.md)

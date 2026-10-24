@@ -21,7 +21,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
-**Crimes apontados no relatório final (26/10/2021):** perigo para a vida ou saúde de outrem
+**Crimes apontados no relatório final (26/10/2021):** tentativa de homicídio (CP art. 121, caput, c/c arts. 13, § 2º, b, e 14)
 
 ## O que aconteceu depois
 
@@ -29,11 +29,12 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-A empresa nega as acusações.
+Posição pessoal não localizada; a Prevent Senior nega as acusações.
 
 ## Fontes da ficha
 
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
+- https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf
 
 ---
 [← Todos os envolvidos](README.md)

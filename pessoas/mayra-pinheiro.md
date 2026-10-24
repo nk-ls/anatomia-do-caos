@@ -27,7 +27,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Ficou fora do inquérito de 2025 (Agência Pública).
+Ficou fora do inquérito de 2025 (Agência Pública). Eleita deputada estadual no Ceará em 2026 (Agência Pública).
 
 ## O que a pessoa diz
 
@@ -37,6 +37,7 @@ Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com 
 
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
 - https://apublica.org/2026/09/recordar-e-votar-13-investigados-pela-cpi-da-covid-disputam-eleicoes-neste-ano/
+- https://apublica.org/nota/recordar-e-votar-7-dos-13-investigados-pela-cpi-da-covid-saem-eleitos-das-urnas/
 
 ---
 [← Todos os envolvidos](README.md)

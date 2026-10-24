@@ -42,11 +42,11 @@
 
 ## O que aconteceu depois
 
-Jul/2022: a PGR pediu o arquivamento de 7 das 10 petições. Set/2022: a ministra Rosa Weber negou arquivar as apurações de charlatanismo, prevaricação e verbas (Pets 10060, 10061, 10065) e mandou a PF investigar. Caso Covaxin (prevaricação): arquivado em 2022. Live vacina–aids (Inq 4888): a PF viu crime; a PGR pediu arquivamento (2023); desfecho não localizado. Mar/2023: Toffoli arquivou duas apurações (máscara; epidemia). Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação até out/2026.
+Fim de jul/2022: a PGR pediu o arquivamento de 7 das 10 apurações preliminares abertas depois da CPI (Poder360). Set/2022: a ministra Rosa Weber negou arquivar as apurações de charlatanismo e de emprego irregular de verbas, em que ele é alvo, e a de prevaricação, que mira Pazuello, Queiroga e Élcio Franco, e mandou a PF investigar. Caso Covaxin (prevaricação): arquivado em 2022. Live vacina–aids (Inq 4888): a PF viu crime; a PGR pediu arquivamento (fev/2023); desfecho não localizado. 28/02/2023: o ministro Dias Toffoli arquivou, a pedido da PGR, as apurações de infração de medida sanitária e de epidemia com resultado morte. Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação por fatos apontados pela CPI até out/2026, até onde as fontes mostram. Em processo alheio à CPI, foi condenado pelo STF em set/2025 no processo da trama golpista (Agência Pública).
 
 ## O que a pessoa diz
 
-Em 21/10/2020 justificou a recusa da CoronaVac: "O povo brasileiro NÃO SERÁ COBAIA DE NINGUÉM" e exigiu comprovação científica e certificação da Anvisa. Em 2022 pediu desculpas pela fala do "jacaré", que chamou de "hipérbole".
+Em 21/10/2020 justificou a recusa da CoronaVac: "O povo brasileiro NÃO SERÁ COBAIA DE NINGUÉM" e exigiu comprovação científica e certificação da Anvisa. Em jul/2021 disse que a fala do "jacaré" era "hipérbole"; em out/2022 pediu desculpas.
 
 ## Fontes da ficha
 
@@ -55,6 +55,9 @@ Em 21/10/2020 justificou a recusa da CoronaVac: "O povo brasileiro NÃO SERÁ CO
 - https://noticias.stf.jus.br/postsnoticias/ministra-rosa-weber-rejeita-pedido-da-pgr-para-arquivar-investigacoes-requeridas-pela-cpi-da-pandemia/
 - https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/dias-toffoli-arquiva-investigacoes-contra-bolsonaro
 - https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
+- https://www.poder360.com.br/justica/rosa-mantem-investigacoes-contra-bolsonaro-sobre-a-pandemia/
+- https://www.poder360.com.br/justica/toffoli-arquiva-acoes-contra-bolsonaro-feitas-pela-cpi-da-covid/
+- https://apublica.org/2026/09/recordar-e-votar-13-investigados-pela-cpi-da-covid-disputam-eleicoes-neste-ano/
 
 ---
 [← Todos os envolvidos](README.md)

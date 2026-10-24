@@ -32,7 +32,7 @@
 
 ## O que aconteceu depois
 
-Set/2022: alvo da apuração de prevaricação (Pet 10065). Mar/2023: Toffoli arquivou apuração por epidemia que o incluía. Ficou fora do inquérito de 2025.
+Set/2022: alvo da apuração de prevaricação mantida por Rosa Weber (Poder360). Ficou fora do inquérito de 2025.
 
 ## O que a pessoa diz
 
@@ -44,6 +44,7 @@ Sobre a nota a favor da hidroxicloroquina, disse que era "posição do secretár
 - https://noticias.stf.jus.br/postsnoticias/ministra-rosa-weber-rejeita-pedido-da-pgr-para-arquivar-investigacoes-requeridas-pela-cpi-da-pandemia/
 - https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/dias-toffoli-arquiva-investigacoes-contra-bolsonaro
 - https://apublica.org/2026/09/recordar-e-votar-13-investigados-pela-cpi-da-covid-disputam-eleicoes-neste-ano/
+- https://www.poder360.com.br/justica/rosa-mantem-investigacoes-contra-bolsonaro-sobre-a-pandemia/
 
 ---
 [← Todos os envolvidos](README.md)

@@ -17,9 +17,10 @@ e gera `dados/covid_paises.csv` e os gráficos em `graficos/`.
 - **Mortes por 100 mil** = mortes confirmadas ÷ população × 100.000.
 - **Ranks** consideram só países com 1 milhão de habitantes ou mais (157 com dado de mortes),
   para evitar distorção de microestados.
-- **Dias após o Reino Unido**: o Reino Unido aplicou a primeira dose fora de ensaio clínico
-  em 08/12/2020; a Rússia registra doses desde 05/12/2020 (campanha em Moscou com a Sputnik V,
-  antes do fim da fase 3).
+- **Dias após o Reino Unido**: o Reino Unido abriu em 08/12/2020 a primeira campanha nacional,
+  fora de ensaio clínico, com vacina aprovada por agência reguladora ocidental; a Rússia registra
+  doses desde 05/12/2020 (campanha em Moscou com a Sputnik V, antes do fim da fase 3), e a China
+  já aplicava doses por uso emergencial. O Reino Unido é a régua, não o "primeiro do mundo".
 
 ## Limitações
 
@@ -28,4 +29,4 @@ e gera `dados/covid_paises.csv` e os gráficos em `graficos/`.
   as causas acima do esperado), que é uma estimativa de modelo, com intervalo de incerteza.
 - População de referência: 2022 (OWID).
 - Comparar países não isola o efeito de governo: idade da população, densidade, desigualdade,
-  variantes e sistema de saúde também pesam. O relatório trata isso explicitamente.
+  variantes e sistema de saúde também pesam. O README e docs/estudos.md tratam disso explicitamente.

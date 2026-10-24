@@ -2,9 +2,9 @@
 
 ## Memória, verdade e reparação
 
-Este trabalho é dedicado às **mais de 715 mil pessoas** cuja morte por Covid-19 foi registrada pelo Ministério da Saúde, e às vidas que a pandemia levou além da contagem oficial: pela estimativa de excesso de mortes, a perda total chega a cerca de **934 mil**.
+Este trabalho é dedicado às **mais de 716 mil pessoas** cuja morte por Covid-19 foi registrada pelo Ministério da Saúde, e às vidas que a pandemia levou além da contagem oficial: as estimativas de mortes acima do esperado passam de **850 mil** só em 2020 e 2021 e chegam a cerca de **934 mil** até 2024.
 
-Estima-se que cada morte por Covid deixe cerca de **nove parentes próximos** de luto: avós, pais, irmãos, cônjuges e filhos. Aplicada ao Brasil, essa conta chega a algo entre **6,4 e 8,4 milhões de brasileiros** que perderam alguém que amavam. Só em 2020 e 2021, cerca de **149 mil crianças e adolescentes** perderam o pai, a mãe ou os dois.
+Estima-se que cada morte por Covid deixe cerca de **nove parentes próximos** de luto: avós, pais, irmãos, cônjuges e filhos. Aplicada só às mortes registradas, essa conta chega a **pelo menos 6,4 milhões de brasileiros** que perderam alguém que amavam. Só em 2020 e 2021, cerca de **149 mil crianças e adolescentes** perderam o pai, a mãe ou os dois.
 
 **A Bandeira do Brasil é do povo.** Ela pertence a todos os brasileiros e não deve servir a nenhum lado político. O Brasil é do seu povo.
 
@@ -14,11 +14,11 @@ O povo judeu repete *Zachor*, "lembra-te", e mantém viva a memória do Holocaus
 
 **Pelo povo e para o povo brasileiro.** Dados abertos, gráficos e fontes que qualquer pessoa pode conferir, baixar e reproduzir.
 
-<sub>Números: mortes registradas pelo Ministério da Saúde, 715.295 em 11/03/2025 ([Poder360](https://www.poder360.com.br/poder-saude/5-anos-apos-decreto-de-pandemia-brasil-tem-715-mil-mortes-por-covid/)); as comparações entre países abaixo usam a série da OMS/Our World in Data (702.116, até ago/2024). Excesso de mortes: estimativa do modelo do The Economist, com margem de incerteza (≈ 934 mil); ele inclui mortes indiretas da pandemia, como as causadas por falta de atendimento. "Nove parentes por morte" é o multiplicador de luto calculado para os EUA por [Verdery et al., PNAS, 2020](https://ideas.repec.org/a/nas/journl/v117y2020p17695-17701.html), usado aqui como aproximação, pois não há estudo equivalente para o Brasil (9 × 715 mil ≈ 6,4 milhões; 9 × 934 mil ≈ 8,4 milhões). Órfãos: estudo divulgado em out/2025 ([Arpen-SP](https://arpensp.org.br/noticia/covid-19-deixou-149-mil-criancas-e-adolescentes-orfaos-em-2020-e-2021)). Definição de profanação: [Dicio](https://www.dicio.com.br/profanacao/). Este texto é a posição do autor; ver [Posicionamento do autor](docs/posicionamento-do-autor.md).</sub>
+<sub>Números: mortes registradas pelo Ministério da Saúde, 716.626 até 30/08/2025, última atualização do painel oficial ([covid.saude.gov.br](https://covid.saude.gov.br/)); as comparações entre países abaixo usam a série da OMS/Our World in Data (702.116, até ago/2024). Excesso de mortes (mortes de qualquer causa acima do esperado, inclusive as indiretas, como por falta de atendimento): ≈ 934 mil pelo modelo do The Economist (até jun/2024) e 851.606 em 2020–2021 (299.324 em 2020 e 552.282 em 2021) pelo [painel do Conass com a Vital Strategies e os cartórios](https://cieges.conass.org.br/paineis/d6966d83-1709-4956-abb2-3d2ceb2b7b0d), que conta só causas naturais; são estimativas, com métodos e períodos diferentes (o painel também traz 2022, mas com o número esperado de mortes repetido de 2021, por isso não usamos esse ano). "Nove parentes por morte" é o multiplicador de luto calculado para os EUA por [Verdery et al., PNAS, 2020](https://ideas.repec.org/a/nas/journl/v117y2020p17695-17701.html), usado aqui como aproximação, pois não há estudo equivalente para o Brasil (9 × 716 mil ≈ 6,4 milhões). Órfãos: Steyn et al., *Lancet Regional Health – Americas*, 29/09/2025, DOI [10.1016/j.lana.2025.101252](https://doi.org/10.1016/j.lana.2025.101252) (149 mil perderam pai ou mãe; 284 mil contando outros cuidadores da família). Definição de profanação: [Dicio](https://www.dicio.com.br/profanacao/). Este texto é a posição do autor; ver [Posicionamento do autor](docs/posicionamento-do-autor.md).</sub>
 
-> ✅ **Revisado.** Dados e gráficos reproduzíveis; caso brasileiro conferido, com cópias datadas de 157 das 182 fontes e dos documentos oficiais no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes); [revisão independente](docs/revisao.md) feita em 24/10/2026, com todos os erros encontrados corrigidos.
+> ✅ **Revisado.** Dados e gráficos reproduzíveis; caso brasileiro conferido, com cópias datadas de 157 das 182 fontes e dos documentos oficiais no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes); revisão independente por amostra e auditoria completa em 24/10/2026; correções registradas em [docs/revisao.md](docs/revisao.md). Erros remanescentes podem ser apontados por *issue*.
 
-**Site:** [nk-ls.github.io/anatomia-do-caos](https://nk-ls.github.io/anatomia-do-caos/) (HTML, CSS e JavaScript, sem dependências; lê as mesmas planilhas deste repositório)
+**Site:** [nk-ls.github.io/anatomia-do-caos](https://nk-ls.github.io/anatomia-do-caos/) · **[Investigação aberta](https://nk-ls.github.io/anatomia-do-caos/investigacao.html)**: rede de conexões, achados com provas, votos da CPI e seus efeitos (HTML, CSS e JavaScript, sem dependências; lê as mesmas planilhas deste repositório)
 
 **Referências:** [todas as 433 fontes](https://nk-ls.github.io/anatomia-do-caos/referencias.html), com cópia arquivada e onde cada uma é usada
 
@@ -80,8 +80,8 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 | México | 24/12/2020 | +16 | 15,3% | 57,1% | 20/11/2021 |
 | Itália | 27/12/2020 | +19 | 32,1% | 75,7% | 26/07/2021 |
 | Alemanha | 27/12/2020 | +19 | 37,6% | 71,0% | 26/07/2021 |
-| Argentina | 29/12/2020 | +21 | 9,5% | 67,6% | 16/10/2021 |
 | Portugal | 27/12/2020 | +19 | 32,5% | 83,2% | 23/07/2021 |
+| Argentina | 29/12/2020 | +21 | 9,5% | 67,6% | 16/10/2021 |
 | Índia | 16/01/2021 | +39 | 4,1% | 42,6% | 31/01/2022 |
 | **Brasil** | **17/01/2021** | **+40** | **12,4%** | **66,6%** | **21/10/2021** |
 | Equador | 21/01/2021 | +44 | 8,1% | 70,5% | 08/09/2021 |
@@ -93,14 +93,14 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 
 ## 6. O caso brasileiro: decisões do governo federal
 
-> 🔎 **Conferido pela busca** (24/10/2026). As cópias datadas das fontes estão sendo arquivadas. Detalhes, citações e todos os links nos documentos indicados. [Como verificamos](docs/verificacao.md).
+> 🔎 **Conferido pela busca** (24/10/2026). Cópias datadas de 157 das 182 fontes estão no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Detalhes, citações e todos os links nos documentos indicados. [Como verificamos](docs/verificacao.md).
 
 **Vacinas oferecidas e não respondidas** ([cronologia completa](docs/cronologia.md))
 - **30/07/2020** — o Instituto Butantan ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020. Segundo Dimas Covas à CPI, não houve resposta.
 - **Agosto de 2020** — a Pfizer fez três ofertas (14, 18 e 26/08), com pelo menos 1,5 milhão de doses ainda em dezembro de 2020. Em 12/09/2020, o presidente da empresa escreveu ao governo: *"até o momento não recebemos uma resposta"*.
 - **21/10/2020** — um dia depois de o ministro Pazuello anunciar a compra de 46 milhões de doses da CoronaVac, o presidente Bolsonaro escreveu: *"NÃO SERÁ COMPRADA"*. Em 22/10, Pazuello: *"Um manda e o outro obedece"*.
-- **10/11/2020** — quando a Anvisa suspendeu temporariamente os testes da CoronaVac, o presidente escreveu: *"Mais uma que Jair Bolsonaro ganha"*.
-- **Janeiro de 2021** — contrato da CoronaVac em 07/01; primeira vacinada, a enfermeira Mônica Calazans, em 17/01. Contrato da Pfizer só em 19/03/2021; o primeiro lote chegou em 29/04/2021.
+- **10/11/2020** — um dia depois de a Anvisa suspender temporariamente os testes da CoronaVac, o presidente escreveu: *"Mais uma que Jair Bolsonaro ganha"*.
+- **Janeiro de 2021** — contrato da CoronaVac em 07/01; primeira vacinada, a enfermeira Mônica Calazans, em 17/01. Contrato da Pfizer só em março de 2021 (anunciado em 15/03, assinado em 18/03); o primeiro lote chegou em 29/04/2021.
 - **O Brasil poderia ter sido o primeiro?** Dimas Covas disse à CPI que o Brasil *"poderia ser o primeiro país do mundo a começar a vacinação não fossem os percalços"*. É a avaliação dele, condicional, sobre começar a vacinar.
 
 **Falas do presidente** — *"Chega de frescura, de mimimi […] A própria Bíblia diz […] 'Não temas'"* (04/03/2021, um dia depois de um recorde de mortes); *"gripezinha"* (20 e 24/03/2020); *"E daí? Lamento. Quer que eu faça o quê?"* (28/04/2020); *"país de maricas"* (10/11/2020); *"não vou tomar vacina e ponto final"* (15/12/2020); *"se você virar um jacaré, é problema seu"* (17/12/2020); imitação de pessoa com falta de ar (18/03/2021); live associando falsamente a vacina à aids (21/10/2021), removida pelas plataformas.
@@ -117,7 +117,7 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 
 Nenhum desses números é exato, e cada um depende de premissas explicadas no documento. Nenhum deles mede só o efeito do governo federal: o estudo da Lancet, por exemplo, não atribui o atraso a ninguém, e o documento original do estudo da USP (145 mil) não foi localizado. Também há contra-argumentos documentados: vacinas escassas no mundo no fim de 2020, papel de estados e municípios, variante Gama.
 
-**A CPI da Covid** ([quem foi apontado e o que aconteceu depois](docs/cpi.md)) — o relatório final, aprovado em 26/10/2021 por 7 votos a 4, pediu o indiciamento de **78 pessoas e 2 empresas**, entre elas o presidente da República por 9 crimes. Em 2022 a Procuradoria-Geral da República pediu o arquivamento da maior parte; em setembro de 2025 o STF autorizou um inquérito da Polícia Federal com 24 investigados, que segue sob sigilo. ⚖️ **Pedido de indiciamento não é condenação**, e até hoje ninguém foi condenado pelos fatos apontados pela CPI.
+**A CPI da Covid** ([quem foi apontado e o que aconteceu depois](docs/cpi.md)) — o relatório final, aprovado em 26/10/2021 por 7 votos a 4, pediu o indiciamento de **78 pessoas e 2 empresas**, entre elas o presidente da República por 9 crimes. Em 2022 a Procuradoria-Geral da República pediu o arquivamento da maior parte; em setembro de 2025 o STF autorizou um inquérito da Polícia Federal com 24 investigados (segundo o Correio Braziliense; o Poder360 fala em 22), que segue sob sigilo. ⚖️ **Pedido de indiciamento não é condenação**, e até out/2026, até onde as fontes mostram, ninguém foi condenado pelos fatos apontados pela CPI.
 
 **Todos os envolvidos, um por um** — [ficha de cada pessoa](pessoas/README.md) com o que fez **a favor** e **contra** o combate à pandemia, o pedido da CPI, o que aconteceu depois e o que ela diz em sua defesa. São 107 fichas, entre elas as 78 pessoas e 2 empresas apontadas pela CPI.
 
@@ -130,7 +130,7 @@ Nenhum desses números é exato, e cada um depende de premissas explicadas no do
 1. **Fonte primária primeiro**: Senado (CPI da Covid), Anvisa, Ministério da Saúde, STF, Diário Oficial, artigos científicos revisados.
 2. **Cada afirmação com link e data.** O que não tem fonte verificável sai ou fica marcado como lacuna.
 3. **Fato ≠ alegação ≠ estimativa ≠ opinião.** Pedido de indiciamento não é condenação. Estimativa vem com método e limitação. Opinião do autor fica em seção própria.
-4. **Só figuras públicas e atos públicos documentados.**
+4. **Só figuras públicas ou pessoas com atuação pública documentada, e só atos públicos documentados.** Dado público é público: o acesso à informação é a prioridade, sempre com a fonte ao lado.
 5. **Reprodutível**: `python scripts/gerar_graficos.py` refaz os gráficos e o CSV a partir da planilha.
 
 Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 2026), sobre os bastidores da CPI da Covid.

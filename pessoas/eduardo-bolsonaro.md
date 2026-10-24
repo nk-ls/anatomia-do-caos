@@ -31,7 +31,7 @@
 
 ## O que aconteceu depois
 
-Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação até out/2026.
+Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação por fatos apontados pela CPI até out/2026, até onde as fontes mostram. Em processo alheio à CPI, é réu no STF por coação no curso do processo desde nov/2025.
 
 ## O que a pessoa diz
 
@@ -41,6 +41,7 @@ Chamou o relatório de "peça de ficção" com intenção política, acusou Rena
 
 - https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros
 - https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
+- https://diariodonordeste.verdesmares.com.br/pontopoder/stf-torna-eduardo-bolsonaro-reu-por-coacao-no-curso-do-processo-1.3713034
 
 ---
 [← Todos os envolvidos](README.md)

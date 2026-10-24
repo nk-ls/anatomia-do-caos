@@ -26,7 +26,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação até out/2026.
+Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 10.064, set/2025), sob sigilo. Nenhuma denúncia ou condenação por fatos apontados pela CPI até out/2026, até onde as fontes mostram. Eleito senador por Santa Catarina em 2026 (Agência Pública).
 
 ## O que a pessoa diz
 
@@ -36,6 +36,7 @@ Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com 
 
 - https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros
 - https://www.correiobraziliense.com.br/politica/2025/09/7251426-dino-abre-inquerito-contra-bolsonaro-e-23-investigados-da-cpi-da-covid.html
+- https://apublica.org/nota/recordar-e-votar-7-dos-13-investigados-pela-cpi-da-covid-saem-eleitos-das-urnas/
 
 ---
 [← Todos os envolvidos](README.md)

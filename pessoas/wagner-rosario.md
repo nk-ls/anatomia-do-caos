@@ -26,7 +26,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Nenhum desdobramento localizado neste levantamento.
+Ago/2022: o ministro Ricardo Lewandowski (STF) arquivou, em 01/08/2022, a apuração preliminar por prevaricação (Pet 10.062), a pedido da PGR.
 
 ## O que a pessoa diz
 
@@ -35,6 +35,8 @@ Afirmou que a CGU atuou adequadamente no controle da compra da Covaxin e que o c
 ## Fontes da ficha
 
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
+- https://www.cnnbrasil.com.br/nacional/lewandowski-arquiva-investigacao-contra-ministro-da-cgu/
+- https://www.poder360.com.br/cpi-da-covid/stf-arquiva-acao-da-cpi-da-covid-contra-ministro-da-cgu/
 
 ---
 [← Todos os envolvidos](README.md)
