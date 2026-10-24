@@ -11,12 +11,12 @@
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (alegação) Segundo o gerente-geral da Pfizer, Carlos Murillo, tratou diretamente com a farmacêutica durante as ofertas de doses não aceitas em 2020 [fonte](https://diariodonordeste.verdesmares.com.br/politica/cpi-da-covid-19-ouve-elcio-franco-numero-2-do-ministerio-da-saude-em-gestao-de-pazuello-1.3095515)
+Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
+- **2020** (alegação) Segundo o gerente-geral da Pfizer, Carlos Murillo, tratou diretamente com a farmacêutica durante as ofertas de doses não aceitas em 2020 [fonte](https://www.correiobraziliense.com.br/politica/2021/05/4924437-cpi-da-covid-diretor-da-pfizer-diz-que-governo-ignorou-ofertas-de-vacina.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/correiobraziliense-com-br-politica-2021-05-4924437-cpi-da-covid-diretor-da-pfizer-diz-que--a22e2c29/2026-10-24.html)
 - **23/06/2021** (fato) Esteve ao lado de Onyx Lorenzoni em pronunciamento no Planalto contra as denúncias dos irmãos Miranda sobre a Covaxin, com documentos preparados por ele [fonte](https://www.metropoles.com/colunas/guilherme-amado/ex-numero-dois-da-saude-fez-documentos-para-rebater-denuncia-sobre-covaxin)
-- **23/06/2021** (fato) Em pronunciamento no Planalto, anunciou que a PF investigaria o deputado Luis Miranda e o irmão, autores da denúncia sobre a Covaxin [fonte](https://www.brasildefato.com.br/2021/06/23/bolsonaro-manda-pf-investigar-deputado-que-denunciou-corrupcao-em-compra-de-vacina)
 
 ## Na CPI da Covid
 

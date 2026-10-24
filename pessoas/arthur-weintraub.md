@@ -11,12 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **08/2020** (alegação) Em discurso no Planalto (ago/2020) e em lives, deu indicações, segundo vídeos reunidos pelo Metrópoles, de ter coordenado o grupo de aconselhamento informal a Bolsonaro sobre a pandemia (o chamado 'gabinete paralelo') [fonte](https://www.metropoles.com/brasil/politica-brasil/alvo-da-cpi-arthur-weintraub-mostra-certificado-de-pesquisador)
+- **08/2020** (alegação) Em discurso no Planalto (ago/2020) e em lives, deu indicações, segundo vídeos reunidos pelo Metrópoles, de ter coordenado o grupo de aconselhamento informal a Bolsonaro sobre a pandemia (o chamado 'gabinete paralelo') [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo)
 - **05/2021** (declaração) Admitiu em entrevista que dava conselhos a Bolsonaro sobre a pandemia e defendeu o uso da cloroquina, sem eficácia comprovada contra a Covid-19 [fonte](https://www.poder360.com.br/governo/arthur-weintraub-admite-conselhos-a-bolsonaro-e-defende-cloroquina/)
 
 ## ⚪ Fatos processuais e neutros
 
-- **05/2021** (fato) CPI da Covid aprovou sua convocação após vídeos indicarem participação no 'gabinete paralelo'; por atuar na OEA (EUA), oitiva poderia ser por videoconferência [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo)
+- **05/2021** (fato) Senadores da CPI da Covid (Alessandro Vieira e Humberto Costa) protocolaram requerimentos de convocação após vídeos indicarem participação no 'gabinete paralelo'; por atuar na OEA (EUA), oitiva poderia ser por videoconferência [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo)
 
 ## Na CPI da Covid
 

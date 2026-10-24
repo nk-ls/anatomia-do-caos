@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (declaração) Defendeu publicamente a cloroquina como "tratamento precoce" e criticou a OMS. [fonte](https://www.correiobraziliense.com.br/brasil/2021/01/4898512-medico-que-defendia-cloroquina-e-criticava-oms-morre-de-covid-19.html)
+- **2020** (declaração) Defendia publicamente o uso da cloroquina e criticava a OMS. [fonte](https://www.correiobraziliense.com.br/brasil/2021/01/4898512-medico-que-defendia-cloroquina-e-criticava-oms-morre-de-covid-19.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **02/01/2021** (fato) Morreu aos 68 anos, no Rio de Janeiro, depois de quase quatro meses internado com complicações da Covid. A UFRJ lamentou a morte em nota. [fonte](https://www.em.com.br/app/noticia/nacional/2021/01/05/interna_nacional,1226042/medico-que-defendia-cloroquina-e-criticava-oms-morre-de-covid-19.html)
+- **02/01/2021** (fato) Morreu aos 68 anos, no Rio de Janeiro, depois de cerca de dois meses internado com complicações da Covid (um mês em Macaé e cerca de três semanas no Hospital Copa D'Or). A UFRJ lamentou a morte em nota. [fonte](https://www.em.com.br/app/noticia/nacional/2021/01/05/interna_nacional,1226042/medico-que-defendia-cloroquina-e-criticava-oms-morre-de-covid-19.html)
 
 ## Na CPI da Covid
 

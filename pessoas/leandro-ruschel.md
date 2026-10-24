@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **08/2021** (conclusão da CPI) Documento da CPI cita tuíte dele questionando vacinas como produto da indústria farmacêutica e o inclui em rede de desinformação [fonte](https://legis.senado.leg.br/sdleg-getter/documento?dm=9002377)
+Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 

@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **16/02/2021** (fato) Vitamedic (do grupo José Alves) pagou R$ 717 mil por anúncios em jornais do grupo Médicos pela Vida defendendo "tratamento precoce" com ivermectina e outros [fonte](https://www.folhape.com.br/politica/diretor-de-farmaceutica-diz-a-cpi-que-gastou-r-717-mil-em-anuncios-de/193441/)
+- **16/02/2021** (fato) Vitamedic (do grupo José Alves) pagou R$ 717 mil por anúncios do grupo Médicos pela Vida em grandes jornais, defendendo "tratamento precoce" com ivermectina e outros remédios [fonte](https://www.folhape.com.br/politica/diretor-de-farmaceutica-diz-a-cpi-que-gastou-r-717-mil-em-anuncios-de/193441/)
 
 ## ⚪ Fatos processuais e neutros
 

@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## ⚪ Fatos processuais e neutros
 
 - **02/2021** (fato) Presidente da Senah, foi autorizado pelo Ministério da Saúde a negociar 400 milhões de doses da AstraZeneca por meio da Davati [fonte](https://diariodonordeste.verdesmares.com.br/pontopoder/cpi-da-covid-retorna-apos-recesso-e-ouve-reverendo-amilton-gomes-de-paula-1.3117540)
-- **03/08/2021** (fato) Confrontado com e-mails sobre oferta de vacinas a municípios, chorou e não explicou o contato próximo com o ministério [fonte](https://congressoemfoco.com.br/legislativo/reverendo-chora-e-confrontado-sobre-venda-de-vacinas-a-municipios)
+- **03/08/2021** (fato) Confrontado com reportagem sobre oferta de vacinas da Senah a municípios, primeiro negou e depois atribuiu a negociação a um diretor da entidade; chorou ao dizer que foi enganado pela Davati [fonte](https://congressoemfoco.com.br/legislativo/reverendo-chora-e-confrontado-sobre-venda-de-vacinas-a-municipios)
 
 ## Na CPI da Covid
 

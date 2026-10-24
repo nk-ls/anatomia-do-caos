@@ -13,11 +13,11 @@
 ## 🔴 O que fez contra o combate à pandemia
 
 - **03/2020** (checagem) Compartilhou foto de paciente com enfisema pulmonar usada para promover suposta cura da covid-19; o Facebook marcou o conteúdo como distorcido [fonte](https://www.aosfatos.org/noticias/bolsonaristas-usam-foto-de-paciente-com-enfisema-pulmonar-para-promover-cura-da-covid-19/)
-- **25/08/2020** (declaração) Ao anunciar diagnóstico de covid-19, informou tratar-se com hidroxicloroquina e azitromicina, medicamentos sem eficácia comprovada contra a doença [fonte](https://www.agazeta.com.br/brasil/flavio-bolsonaro-e-diagnosticado-com-covid-19-senador-esta-sem-sintomas-0820)
+- **24/08/2020** (declaração) Ao anunciar diagnóstico de covid-19, informou tratar-se com hidroxicloroquina e azitromicina, medicamentos sem eficácia comprovada contra a doença [fonte](https://www.agazeta.com.br/brasil/flavio-bolsonaro-e-diagnosticado-com-covid-19-senador-esta-sem-sintomas-0820)
 
 ## ⚪ Fatos processuais e neutros
 
-- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
 
 ## Na CPI da Covid

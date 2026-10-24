@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **2020** (alegação) Afirma que a Havan destinou mais de R$ 5 milhões à saúde em 2020 (respiradores, macas, máscaras) e comprou 200 cilindros de oxigênio para Manaus (dados declarados pela empresa) [fonte](https://www.nsctotal.com.br/?p=2952123)
+- **06/2021** (alegação) Afirma que a Havan destinou mais de R$ 5 milhões à saúde em 2020 (respiradores, macas, máscaras) e comprou 200 cilindros de oxigênio para Manaus (dados declarados pela empresa) [fonte](https://www.nsctotal.com.br/?p=2952123)
 
 ## 🔴 O que fez contra o combate à pandemia
 
@@ -15,7 +15,7 @@
 
 ## ⚪ Fatos processuais e neutros
 
-- **29/09/2021** (alegação) A CPI mostrou que o atestado de óbito da mãe dele, tratada com "kit Covid" pela Prevent Senior, omitiu a Covid como causa. [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 01:07:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=4050s)
+- **29/09/2021** (alegação) A CPI mostrou que o atestado de óbito da mãe dele, tratada com "kit Covid" pela Prevent Senior, omitiu a Covid como causa. [fonte](https://www.poder360.com.br/congresso/hang-confirma-morte-da-mae-por-covid-e-fala-em-possivel-erro-do-plantonista/) · [no documentário, 01:07:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=4050s)
 - **29/09/2021** (fato) Depôs à CPI; negou ter financiado fake news e integrar o "gabinete paralelo" [fonte](https://www.poder360.com.br/congresso/hang-nega-ter-financiado-fake-news-e-participado-de-gabinete-paralelo-a-cpi/)
 
 ## Na CPI da Covid

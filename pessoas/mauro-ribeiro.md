@@ -12,11 +12,11 @@
 ## 🔴 O que fez contra o combate à pandemia
 
 - **04/2020** (fato) Relatou o Parecer CFM 4/2020, que permitiu ao médico considerar cloroquina e hidroxicloroquina em pacientes com Covid-19 [fonte](https://medicinasa.com.br/cfm-cloroquina/)
-- **2021** (declaração) Disse que médicos "não têm de seguir" a orientação da AMB pelo banimento dos medicamentos do "kit covid" [fonte](https://jovempan.com.br/noticias/medicos-nao-tem-de-seguir-o-que-a-associacao-medica-esta-orientando-diz-presidente-do-cfm/)
+- **25/03/2021** (declaração) Disse que médicos "não têm de seguir" a orientação da AMB pelo banimento dos medicamentos do "kit covid" [fonte](https://jovempan.com.br/noticias/medicos-nao-tem-de-seguir-o-que-a-associacao-medica-esta-orientando-diz-presidente-do-cfm/)
 
 ## ⚪ Fatos processuais e neutros
 
-- **2021** (fato) MPF em São Paulo abriu inquérito civil sobre a atuação do CFM no chamado tratamento precoce [fonte](https://www.poder360.com.br/coronavirus/mpf-vai-investigar-conselho-federal-de-medicina-sobre-uso-do-kit-covid/)
+- **10/2021** (fato) MPF em São Paulo abriu inquérito civil sobre a atuação do CFM no chamado tratamento precoce [fonte](https://www.poder360.com.br/coronavirus/mpf-vai-investigar-conselho-federal-de-medicina-sobre-uso-do-kit-covid/)
 
 ## Na CPI da Covid
 

@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **24/06/2021** (fato) Entregou à CPI documento em que recomendou a rescisão da compra da Covaxin [fonte](https://www.folhavitoria.com.br/politica/fiscal-diz-que-sugeriu-barrar-covaxin/)
+- **24/06/2021** (fato) Recomendou em 24/06/2021, como fiscal do contrato, a rescisão da compra da Covaxin — três meses após o descumprimento das entregas e depois de o caso vir a público; entregou o documento à CPI [fonte](https://www.folhavitoria.com.br/politica/fiscal-diz-que-sugeriu-barrar-covaxin/)
 
 ## 🔴 O que fez contra o combate à pandemia
 
@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **22/03/2021** (fato) Foi designada fiscal do contrato da Covaxin quase um mês após a assinatura [fonte](https://www.opovo.com.br/noticias/politica/2021/07/06/regina-celia-diz-que-suspensao-do-contrato-so-veio-apos-relatorio-de-junho.html)
+- **22/03/2021** (fato) Foi designada fiscal do contrato da Covaxin quase um mês após a assinatura [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/ao-ouvir-servidora-cpi-da-covid-ve-novos-indicios-de-falhas-em-compra-da-covaxin/)
 - **06/07/2021** (declaração) Disse à CPI não ter visto nada "atípico" no processo; senadores apontaram indícios de falhas de fiscalização [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/ao-ouvir-servidora-cpi-da-covid-ve-novos-indicios-de-falhas-em-compra-da-covaxin/)
 
 ## Na CPI da Covid

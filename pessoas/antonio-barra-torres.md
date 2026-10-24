@@ -11,7 +11,7 @@
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **15/03/2020** (fato) Foi, sem máscara, a ato pró-governo ao lado do presidente; disse à CPI que se arrependeu. [fonte](https://www.poder360.com.br/congresso/barra-torres-se-diz-arrependido-por-ter-ido-a-manifestacao-com-bolsonaro/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-barra-torres-se-diz-arrependido-por-ter-ido-a-manifestacao-com-b-01acc0d2/2026-10-24.html)
+- **15/03/2020** (fato) Foi, como presidente da Anvisa, a ato pró-governo com aglomeração ao lado do presidente; disse à CPI que se arrependeu. [fonte](https://www.poder360.com.br/congresso/barra-torres-se-diz-arrependido-por-ter-ido-a-manifestacao-com-bolsonaro/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-barra-torres-se-diz-arrependido-por-ter-ido-a-manifestacao-com-b-01acc0d2/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

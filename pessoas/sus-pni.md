@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **18/01/2021** (fato) Início da campanha nacional de vacinação pelo SUS, com a CoronaVac do Butantan (a primeira dose foi aplicada em SP em 17/01; as doses da AstraZeneca/Fiocruz chegaram em 22/01). Abastecido, o PNI vacinou rápido: 66,6% da população com esquema completo em 31/12/2021, contra 63,4% nos EUA (dados do Our World in Data). [fonte](https://www.correiobraziliense.com.br/brasil/2021/01/4900334-pazuello-diz-a-prefeitos-que-vacinacao-deve-comecar-em-20-de-janeiro.html)
+- **18/01/2021** (fato) Início da campanha nacional de vacinação pelo SUS, com a CoronaVac do Butantan (a primeira dose foi aplicada em SP em 17/01; as doses da AstraZeneca/Fiocruz chegaram em 22/01). Abastecido, o PNI vacinou rápido: 66,6% da população com esquema completo em 31/12/2021, contra 63,4% nos EUA (dados do Our World in Data). [fonte](https://www.poder360.com.br/governo/com-governadores-pazuello-da-inicio-a-distribuicao-da-coronavac-historico/ https://ourworldindata.org/covid-vaccinations)
 
 ## 🔴 O que fez contra o combate à pandemia
 

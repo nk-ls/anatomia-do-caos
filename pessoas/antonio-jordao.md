@@ -11,12 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **05/2020** (fato) Coordenou, com Cristiana Altino de Almeida, protocolo de tratamento pré-hospitalar da Covid-19 com drogas sem eficácia comprovada, assinado por 42 médicos (Médicos pela Vida) [fonte](https://istoe.com.br/entidade-que-defende-terapia-vem-ganhando-espaco-via-web/)
 - **23/02/2021** (fato) Associação Médicos pela Vida, que preside, publicou em grandes jornais anúncio pago ('Manifesto pela Vida') defendendo 'tratamento precoce' com hidroxicloroquina, azitromicina e ivermectina [fonte](https://www.congressoemfoco.com.br/noticia/22289/jornais-publicam-anuncio-pago-de-tratamento-ineficaz-contra-covid-19)
 
 ## ⚪ Fatos processuais e neutros
 
-- **2021** (fato) Médicos pela Vida recorreu ao STF para preservar seu sigilo diante da CPI da Covid [fonte](https://blogs.correiobraziliense.com.br/servidor/medicos-pela-vida-recorre-ao-stf-para-preservar-sigilo-na-cpi/)
+- **11/06/2021** (fato) Médicos pela Vida recorreu ao STF para preservar seu sigilo diante da CPI da Covid [fonte](https://blogs.correiobraziliense.com.br/servidor/medicos-pela-vida-recorre-ao-stf-para-preservar-sigilo-na-cpi/)
 
 ## Na CPI da Covid
 

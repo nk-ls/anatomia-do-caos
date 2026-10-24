@@ -11,12 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **01/07/2021** (alegação) Luiz Paulo Dominguetti reafirmou à CPI que Dias pediu propina de US$ 1 por dose de AstraZeneca em jantar em Brasília [fonte](https://www12.senado.leg.br/radio/1/noticia/2021/07/01/dominguetti-confirma-proposta-de-propina)
 - **04/08/2021** (alegação) Senadores apontaram que buscava vender vacinas ao setor privado antes de lei que o autorizasse [fonte](https://www.em.com.br/app/noticia/politica/2021/08/04/interna_politica,1292700/senadores-apontam-ilegalidade-de-coronel-blanco-em-negociacao-de-vacinas.shtml)
 
 ## ⚪ Fatos processuais e neutros
 
-- **25/02/2021** (declaração) Levou Luiz Paulo Dominguetti ao jantar com Roberto Dias em Brasília, segundo o próprio Blanco; negou ter ouvido pedido de propina [fonte](https://jovempan.com.br/politica/blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-com-dominguetti/)
+- **04/08/2021** (declaração) Levou Luiz Paulo Dominguetti ao jantar com Roberto Dias em Brasília, segundo o próprio Blanco; negou ter ouvido pedido de propina [fonte](https://jovempan.com.br/politica/blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-com-dominguetti/)
 
 ## Na CPI da Covid
 

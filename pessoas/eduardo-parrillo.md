@@ -11,7 +11,6 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **04/2020** (fato) Prevent Senior iniciou em 06/04/2020 estudo com o 'kit covid' sem autorização da Conep; os resultados divulgados pela empresa foram usados por Bolsonaro como indício de eficácia [fonte](https://www.congressoemfoco.com.br/legislativo/cpi-da-covid-ouve-diretor-executivo-prevent-senior)
 - **09/2021** (alegação) Dossiê de médicos entregue à CPI acusa a operadora de ocultar mortes no estudo (planilha com 9 óbitos, só 2 relatados), dar hidroxicloroquina sem informar pacientes e alterar atestados de óbito [fonte](https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/prevent-senior-ocultou-mortes-em-estudo-sobre-cloroquina-apoiado-por-bolsonaro-1.3136702)
 - **28/09/2021** (alegação) Segundo dossiê de ex-médicos e depoimento da advogada Bruna Morato, a operadora distribuiu "kit Covid" para conter internações e alterou o código da Covid em prontuários; a empresa nega. [fonte](https://istoedinheiro.com.br/advogada-aponta-pacto-entre-governo-e-prevent-senior-por-kit-covid) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/istoedinheiro-com-br-advogada-aponta-pacto-entre-governo-e-prevent-senior-por-kit-covid-9831044a/2026-10-24.html) · [no documentário, 01:09:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=4140s)
 

@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (fato) Requereu na Câmara um debate sobre "imunidade de rebanho por transmissão". [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 00:10:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=630s)
+- **2020** (fato) Como líder do governo, defendeu na Câmara (out/2020), em reunião sobre estratégias contra a Covid, a volta à normalidade e a busca da "imunidade de rebanho". [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 00:10:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=630s)
 
 ## ⚪ Fatos processuais e neutros
 
@@ -19,7 +19,7 @@ Nenhum ato registrado ainda neste levantamento.
 - **04/02/2021** (declaração) Disse que iria "enquadrar a Anvisa" para acelerar aprovação de vacinas; Bolsonaro desautorizou e a Anvisa cobrou retratação [fonte](https://www.poder360.com.br/governo/lider-do-governo-fala-em-enquadrar-anvisa-e-registrar-11-vacinas/)
 - **25/06/2021** (alegação) O deputado Luis Miranda disse à CPI que o presidente citou o nome de Ricardo Barros ao ouvir as suspeitas da Covaxin. Barros nega. [fonte](https://www.correiobraziliense.com.br/politica/2021/06/amp/4933866-cpi-da-covid-irmaos-miranda-reforcam-indicios-de-corrupcao-na-covaxin.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/correiobraziliense-com-br-politica-2021-06-amp-4933866-cpi-da-covid-irmaos-miranda-reforca-e26fd3ea/2026-10-24.html) · [no documentário, 00:49:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2940s)
 - **12/08/2021** (fato) Em depoimento à CPI, afirmou que a comissão "afastou muitas empresas interessadas em vender vacina"; senadores disseram que mentiu e o reconvocaram [fonte](https://www.correiobraziliense.com.br/politica/2021/08/4943406-cpi-da-covid-confira-principais-trechos-do-depoimento-de-ricardo-barros.html)
-- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
 
 ## Na CPI da Covid

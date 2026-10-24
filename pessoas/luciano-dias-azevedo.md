@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **04/2020** (alegação) Apontado por Mandetta e Nise Yamaguchi como autor da minuta que mudaria a bula da cloroquina; a mudança foi abortada após recusa do presidente da Anvisa, Barra Torres [fonte](https://ictq.com.br/politica-farmaceutica/tenente-da-marinha-preparou-mudanca-na-bula-da-cloroquina)
+- **04/2020** (alegação) Apontado pelo Correio Braziliense, com base nas investigações sobre o 'gabinete paralelo', como autor da minuta de decreto que mudaria a bula da cloroquina citada por Mandetta na CPI; a mudança foi abortada após recusa do presidente da Anvisa, Barra Torres [fonte](https://ictq.com.br/politica-farmaceutica/tenente-da-marinha-preparou-mudanca-na-bula-da-cloroquina)
 - **06/04/2020** (fato) Enviou a Nise Yamaguchi minuta de decreto presidencial para disponibilizar cloroquina, hidroxicloroquina e azitromicina a toda a rede de saúde; ela respondeu que o texto 'exporia muito o presidente' (mensagens registradas em cartório e entregues à CPI) [fonte](https://www.agazeta.com.br/brasil/nise-decreto-sobre-cloroquina-nao-deveria-avancar-porque-exporia-bolsonaro-0621)
 
 ## ⚪ Fatos processuais e neutros

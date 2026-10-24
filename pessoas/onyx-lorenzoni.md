@@ -17,7 +17,7 @@
 ## ⚪ Fatos processuais e neutros
 
 - **23/06/2021** (fato) Em pronunciamento no Planalto, anunciou que a PF investigaria o deputado Luis Miranda e o irmão, autores da denúncia sobre a Covaxin [fonte](https://www.brasildefato.com.br/2021/06/23/bolsonaro-manda-pf-investigar-deputado-que-denunciou-corrupcao-em-compra-de-vacina)
-- **11/2021** (decisão judicial) Ministro Luís Roberto Barroso (STF) suspendeu a portaria que impedia demissão de não vacinados [fonte](https://www.poder360.com.br/economia/governo-vai-recorrer-de-decisao-que-permite-demissao-de-nao-vacinados/)
+- **11/2021** (decisão judicial) Ministro Luís Roberto Barroso (STF) suspendeu trechos da portaria que impedia a demissão de não vacinados, permitindo que empresas exijam comprovante de vacinação [fonte](https://www.poder360.com.br/economia/governo-vai-recorrer-de-decisao-que-permite-demissao-de-nao-vacinados/)
 
 ## Na CPI da Covid
 

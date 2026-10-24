@@ -8,7 +8,6 @@
 ## 🟢 O que fez a favor do combate à pandemia
 
 - **12/03/2021** (declaração) Postou imagem do Zé Gotinha empunhando seringa como fuzil com a legenda "Nossa arma é a vacina" [fonte](https://www.correiobraziliense.com.br/politica/2021/03/4911632-eduardo-bolsonaro-posta-ze-gotinha-apontando-seringa-como-fuzil.html)
-- **09/2021** (declaração) Ao testar positivo, disse ter tomado a 1ª dose da Pfizer e que a infecção não tornava a vacina "inútil" [fonte](https://www.correiobraziliense.com.br/politica/2021/09/4951411-eduardo-bolsonaro-testa-positivo-para-covid-19-e-defende-vacina.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
@@ -20,7 +19,8 @@
 ## ⚪ Fatos processuais e neutros
 
 - **18/03/2020** (fato) Publicou mensagem atribuindo a pandemia ao Partido Comunista Chinês e comparando-a a Chernobyl, provocando crise diplomática com a China [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/postagem-de-eduardo-bolsonaro-causa-crise-diplomatica-com-a-china/)
-- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
+- **09/2021** (declaração) Ao testar positivo (24/09/2021), disse ter tomado a 1ª dose da Pfizer e que a infecção não tornava a vacina "inútil", mas usou o caso para argumentar contra o passaporte sanitário [fonte](https://www.correiobraziliense.com.br/politica/2021/09/4951411-eduardo-bolsonaro-testa-positivo-para-covid-19-e-defende-vacina.html)
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
 
 ## Na CPI da Covid

@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## ⚪ Fatos processuais e neutros
 
 - **26/08/2021** (fato) Depôs à CPI; disse estar no jantar com Roberto Dias e não ter presenciado pedido de vantagem indevida; CPI o acusou de atuar como lobista da Precisa [fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/ricardo-santana-diz-cpi-que-trabalhou-sem-remuneracao-em-ministerio)
-- **26/08/2021** (fato) Relator Renan Calheiros o incluiu na lista de investigados e chamou o depoimento de "cínico" [fonte](https://www.poder360.com.br/congresso/cinico-diz-renan-calheiros-sobre-depoimento-de-ricardo-santana/)
+- **26/08/2021** (fato) Relator Renan Calheiros o incluiu na lista de investigados e chamou o depoimento de "cínico" [fonte](https://www.poder360.com.br/congresso/cinico-diz-renan-calheiros-sobre-depoimento-de-ricardo-santana/ https://congressoemfoco.com.br/noticia/13799/ao-vivo-cpi-da-covid-ouve-participante-do-jantar-da-propina)
 
 ## Na CPI da Covid
 

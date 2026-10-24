@@ -9,20 +9,20 @@
 
 - **14/05/2021** (fato) Confirmou a assinatura do segundo contrato com a Pfizer, de 100 milhões de doses [fonte](https://forbes.com.br/negocios/2021/05/queiroga-anuncia-assinatura-de-contrato-com-pfizer-para-100-milhoes-de-doses-de-vacinas/)
 - **20/09/2021** (declaração) Afirmou que evento adverso "não invalida" a vacinação de adolescentes. Dias antes, ele próprio havia suspendido a vacinação de adolescentes sem comorbidades (ver ato contra). [fonte](https://www.poder360.com.br/governo/queiroga-diz-que-evento-adverso-nao-invalida-vacinacao-de-adolescentes/)
-- **10/2021** (fato) Convidou o pneumologista Carlos Carvalho para elaborar estudo da Conitec, que não recomendou o "kit covid" [fonte](https://www.metropoles.com/brasil/estudo-encomendado-por-queiroga-nao-recomenda-uso-do-kit-covid)
+- **10/2021** (fato) Convidou o pneumologista Carlos Carvalho para elaborar estudo da Conitec, que não recomendou o "kit covid" [fonte](https://www.metropoles.com/brasil/estudo-encomendado-por-queiroga-nao-recomenda-uso-do-kit-covid https://www.correiobraziliense.com.br/politica/2021/10/4954904-cpi-quer-ouvir-medico-que-condenou-kit-covid.html)
 - **16/11/2021** (fato) Anunciou dose de reforço para todos os adultos cinco meses após a segunda dose [fonte](https://abcdoabc.com.br/ministerio-anuncia-dose-de-reforco-contra-a-covid-a-todos-com-mais-de-18-anos/)
 
 ## 🔴 O que fez contra o combate à pandemia
 
 - **08/2021** (declaração) Declarou-se contra o uso obrigatório de máscara, preferindo campanha de conscientização a multas [fonte](https://www.poder360.com.br/governo/queiroga-diz-ser-contra-uso-obrigatorio-de-mascara/)
 - **25/08/2021** (declaração) Disse que o ministério estudava, a pedido de Bolsonaro, desobrigar o uso de máscara [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/queiroga-a-pedido-de-bolsonaro-pasta-estuda-possibilidade-de-desobrigar-mascara/)
-- **15/09/2021** (fato) Ministério suspendeu por nota informativa a vacinação de adolescentes de 12 a 17 anos sem comorbidades; governo de SP disse que a morte citada não tinha relação causal com a vacina [fonte](https://www.poder360.com.br/brasil/queiroga-critica-estados-e-cidades-por-adiantarem-vacinacao-de-adolescentes/)
-- **10/2021** (alegação) Votação das diretrizes da Conitec contra o "kit covid" foi suspensa; segundo a CPI, por determinação do ministro [fonte](https://www.cartacapital.com.br/?p=233744)
+- **15/09/2021** (fato) Ministério suspendeu por nota informativa a vacinação de adolescentes de 12 a 17 anos sem comorbidades; governo de SP disse que a morte citada não tinha relação causal com a vacina [fonte](https://www.poder360.com.br/brasil/queiroga-critica-estados-e-cidades-por-adiantarem-vacinacao-de-adolescentes/ https://www.poder360.com.br/governo/queiroga-diz-que-evento-adverso-nao-invalida-vacinacao-de-adolescentes/)
+- **10/2021** (alegação) O parecer da Conitec contra o "kit covid", que seria votado em 7/10/2021, foi retirado de pauta; o ministério atribuiu a retirada a pedido do relator, Carlos Carvalho, e senadores da CPI suspeitaram de interferência do ministro. [fonte](https://www.cartacapital.com.br/?p=233744)
 - **10/2021** (checagem) Aos Fatos o listou entre citados no relatório da CPI que deram declarações falsas ou distorcidas à comissão [fonte](https://www.aosfatos.org/noticias/citados-em-relatorio-da-cpi-da-covid-19-deram-ao-menos-85-declaracoes-enganosas-a-comissao/)
 
 ## ⚪ Fatos processuais e neutros
 
-- **19/10/2021** (declaração) Na CPI, recusou-se a dizer se é a favor do tratamento com cloroquina, alegando não poder fazer "juízo de valor" [fonte](https://www.poder360.com.br/congresso/em-cerca-de-9h-de-fala-a-cpi-queiroga-evita-cloroquina-e-irrita-senadores/)
+- **06/05/2021** (declaração) Na CPI, recusou-se a dizer se é a favor do tratamento com cloroquina, alegando não poder fazer "juízo de valor" [fonte](https://www.poder360.com.br/congresso/em-cerca-de-9h-de-fala-a-cpi-queiroga-evita-cloroquina-e-irrita-senadores/)
 
 ## Na CPI da Covid
 

@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## ⚪ Fatos processuais e neutros
 
 - **14/07/2021** (fato) Na CPI, sustentou que a primeira invoice da Covaxin chegou ao ministério em 22/03, contradizendo depoentes (18/03) e versão anterior dela própria [fonte](https://www12.senado.leg.br/noticias/materias/2021/07/14/diretora-da-precisa-contradiz-outros-depoentes-sobre-data-de-fatura-da-covaxin)
-- **14/07/2021** (declaração) Negou que a Precisa tenha ofertado a Covaxin a US$ 10 por dose e chamou de 'mentirosa' a ata do ministério que registrava essa proposta [fonte](https://www.congressoemfoco.com.br/noticia/21701/cpi-da-covid-depimentos-14-de-julho)
+- **14/07/2021** (declaração) Negou que a Precisa tenha ofertado a Covaxin a US$ 10 por dose e disse que as informações da ata do ministério que registrava essa proposta eram 'imprecisas' [fonte](https://www.congressoemfoco.com.br/noticia/21701/cpi-da-covid-depimentos-14-de-julho)
 
 ## Na CPI da Covid
 

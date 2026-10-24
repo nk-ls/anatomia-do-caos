@@ -15,8 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **07/2021** (fato) CPI aprovou sua convocação como apontado por pressionar no negócio da Covaxin [fonte](https://www.bemparana.com.br/noticia/em-meio-a-novas-denuncias-cpi-convoca-ricardo-barros)
-- **08/2021** (fato) Recebeu cargo de assessoria técnica no Exército após ser investigado pela CPI [fonte](https://apublica.org/2021/08/envolvido-em-negociacoes-paralelas-de-vacina-ganha-cargo-no-exercito/)
+- **30/06/2021** (fato) CPI aprovou sua convocação como apontado por pressionar no negócio da Covaxin [fonte](https://www.bemparana.com.br/noticia/em-meio-a-novas-denuncias-cpi-convoca-ricardo-barros)
+- **08/2021** (fato) Foi nomeado em 1º/07/2021 para cargo de assessoria técnica no Exército (Comando Militar do Leste), depois de acusado de pressão no caso Covaxin e de ter a convocação aprovada pela CPI; em 30/08 passou a investigado [fonte](https://apublica.org/2021/08/envolvido-em-negociacoes-paralelas-de-vacina-ganha-cargo-no-exercito/)
 
 ## Na CPI da Covid
 

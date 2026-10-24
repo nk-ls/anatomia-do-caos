@@ -7,19 +7,20 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **11/2021** (declaração) Declarou ter sempre sido a favor das vacinas, embora as chamasse de "pouco testadas" [fonte](https://www.poder360.com.br/congresso/osmar-terra-se-diz-pro-vacina-mas-ja-criticou-eficacia-dos-imunizantes/)
+Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (declaração) Previu que a epidemia seria menor que a do H1N1 e terminaria no fim de maio de 2020; a CPI o apontou como influência nas posições do presidente. [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 00:33:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1980s)
-- **2020** (checagem) Publicou 610 tweets com dados e previsões errados sobre covid-19 (3,2 milhões de interações), 135 deles sobre imunidade de rebanho [fonte](https://www.aosfatos.org/noticias/osmar-terra-teve-32-milhoes-de-interacoes-em-610-tweets-com-dados-e-previsoes-errados-sobre-covid-19/)
+- **2020** (declaração) Previu que a epidemia mataria menos que a H1N1 (18/03/2020) e que "termina em junho" (02/06/2020); a CPI o apontou como influência nas posições do presidente. [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 00:33:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1980s)
 - **04/04/2020** (declaração) Previu: "Com a quarentena ou não, chegaremos ao pico da epidemia antes do final de abril"; casos e mortes seguiram crescendo [fonte](https://www.poder360.com.br/congresso/cpi-da-covid-relembre-as-previsoes-erradas-de-osmar-terra-sobre-a-pandemia/)
+- **06/2021** (checagem) Publicou 610 tweets com dados e previsões errados sobre covid-19 (3,2 milhões de interações), 135 deles sobre imunidade de rebanho [fonte](https://www.aosfatos.org/noticias/osmar-terra-teve-32-milhoes-de-interacoes-em-610-tweets-com-dados-e-previsoes-errados-sobre-covid-19/)
 - **22/06/2021** (declaração) Na CPI, admitiu ter errado projeções de mortes e duração da pandemia e disse ter tomado cloroquina e que tomaria de novo [fonte](https://www.agazeta.com.br/brasil/terra-diz-ter-tomado-cloroquina-contra-covid-e-tomaria-de-novo-se-preciso-0621)
 - **22/06/2021** (checagem) Aos Fatos conclui que mentiu à CPI ao negar ter defendido imunidade de rebanho [fonte](https://www.aosfatos.org/noticias/osmar-terra-mente-cpi-ao-falar-de-imunidade-de-rebanho-e-decisoes-do-stf/)
 
 ## ⚪ Fatos processuais e neutros
 
-- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
+- **11/2021** (declaração) Declarou ter sempre sido a favor das vacinas, embora as chamasse de "pouco testadas" [fonte](https://www.poder360.com.br/congresso/osmar-terra-se-diz-pro-vacina-mas-ja-criticou-eficacia-dos-imunizantes/)
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
 
 ## Na CPI da Covid

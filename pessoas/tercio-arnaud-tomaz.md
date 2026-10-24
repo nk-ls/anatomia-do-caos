@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (alegação) Integrou no Twitter grupo de ataques a Mandetta, a quem chamou de "genocida" por recomendar que pessoas com sintomas leves ficassem em casa [fonte](https://outraspalavras.net/outrasmidias/comecam-a-aparecer-os-membros-do-gabinete-do-odio/)
+- **2020** (alegação) Integrou no Twitter grupo de ataques a Mandetta, a quem chamou de "genocida" por recomendar que pessoas com sintomas leves ficassem em casa [fonte](https://www.campograndenews.com.br/politica/cpi-da-covid-confirma-convocacao-e-mandetta-sera-ouvido-na-terca-que-vem)
 
 ## ⚪ Fatos processuais e neutros
 

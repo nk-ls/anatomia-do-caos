@@ -68,7 +68,7 @@ Sinopse da descrição oficial do vídeo: *"o documentário revisita um dos per�
 
 ### Carlos Wizard (00:38–00:43)
 - **00:39:00** O empresário Carlos Wizard, *"apontado como um dos membros do gabinete paralelo"*, cita versículos bíblicos e fica em silêncio às perguntas.
-- **00:40:00** Vídeo de Wizard: em Porto Feliz (SP), com tratamento precoce, *"ninguém vai morrer"*, e os que morreram *"ficaram em casa"*. O relator responde com os dados: *"8.932 infectados, 122 mortos"* ⚠️.
+- **00:40:00** Vídeo de Wizard: em Porto Feliz (SP), com tratamento precoce, *"ninguém vai morrer"*, e os que morreram *"ficaram em casa"*. O senador Randolfe Rodrigues responde com os dados acumulados até jun/2021: *"8.932 infectados, 122 mortos"* ⚠️.
 - **00:42:00** Um senador responde com Mateus 23:27-28 (*"sepulcros caiados"*).
 
 ### Covaxin (00:43–00:57)

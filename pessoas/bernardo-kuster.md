@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2021** (checagem) Coletivo Bereia classificou como enganosa publicação dele com argumentos de medo contra a vacinação [fonte](https://coletivobereia.com.br/etiquetas/bernardo-kuster/)
+- **2021** (checagem) Coletivo Bereia classificou como enganosa publicação dele com argumentos de medo contra a vacinação [fonte](https://coletivobereia.com.br/youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-para-propagar-medo-de-efeitos/)
 
 ## ⚪ Fatos processuais e neutros
 

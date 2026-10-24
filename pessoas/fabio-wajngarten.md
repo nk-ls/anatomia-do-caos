@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **09/11/2020** (declaração) Afirmou à CPI que a carta da Pfizer de 12/09/2020 ficou sem resposta até 9 de novembro, quando ele a respondeu [fonte](https://exame.com/brasil/governo-ignorou-carta-da-pfizer-por-dois-meses-diz-wajngarten)
+Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
@@ -16,7 +16,8 @@
 
 ## ⚪ Fatos processuais e neutros
 
-- **23/04/2021** (declaração) Disse à revista Veja que "abriu as portas do Palácio" à Pfizer e atribuiu o atraso a "incompetência" no Ministério da Saúde [fonte](https://www.poder360.com.br/governo/wajngarten-joga-culpa-por-atraso-na-vacinacao-em-pazuello-incompetencia/)
+- **22/04/2021** (declaração) Disse à revista Veja que "abriu as portas do Palácio" à Pfizer e atribuiu o atraso a "incompetência" no Ministério da Saúde [fonte](https://www.poder360.com.br/governo/wajngarten-joga-culpa-por-atraso-na-vacinacao-em-pazuello-incompetencia/)
+- **12/05/2021** (declaração) Afirmou à CPI que a carta da Pfizer de 12/09/2020 ficou sem resposta até 9 de novembro, quando ele a respondeu [fonte](https://exame.com/brasil/governo-ignorou-carta-da-pfizer-por-dois-meses-diz-wajngarten)
 
 ## Na CPI da Covid
 

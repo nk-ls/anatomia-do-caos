@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **01/06/2021** (fato) Na CPI, como médico, confrontou Nise Yamaguchi com perguntas básicas de infectologia (a família do vírus; a diferença entre antiviral e antiprotozoário) e concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [no documentário, 00:17:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1050s)
+- **01/06/2021** (fato) Na CPI, como médico, confrontou Nise Yamaguchi com perguntas básicas de infectologia (a diferença entre protozoário e vírus; a família do vírus da Covid-19) e concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [no documentário, 00:17:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1050s)
 
 ## 🔴 O que fez contra o combate à pandemia
 

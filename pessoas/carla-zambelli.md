@@ -11,14 +11,14 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **30/04/2020** (checagem) Afirmou em entrevista à Band que caixões vazios eram enterrados no Ceará para inflar mortes por covid; o governo do CE anunciou ação judicial [fonte](https://www.aosfatos.org/noticias/como-desinformacao-sobre-caixoes-vazios-impulsionou-desmentidos-em-massa-contra-carla-zambelli-no-twitter/)
+- **04/2020** (checagem) Afirmou em entrevista à Band que caixões vazios eram enterrados no Ceará para inflar mortes por covid; o governo do CE anunciou ação judicial [fonte](https://www.aosfatos.org/noticias/como-desinformacao-sobre-caixoes-vazios-impulsionou-desmentidos-em-massa-contra-carla-zambelli-no-twitter/)
 - **08/2020** (fato) Apagou post em que dizia ter sido curada da covid com cloroquina, após boletim hospitalar indicar que nunca teve a doença [fonte](https://congressoemfoco.com.br/noticia/16778/zambelli-apaga-mensagem-em-que-diz-estar-curada-da-covid-por-uso-de-cloroquina)
 - **01/2021** (fato) Twitter marcou como "enganosa e potencialmente prejudicial" publicação dela sobre suposto estudo que comprovaria o "tratamento precoce" [fonte](https://www.nsctotal.com.br/?p=2601477)
 - **01/2022** (checagem) Comprova classificou como enganosa montagem que associava miocardite do jogador Alphonso Davies à vacina (ele teve miocardite pela covid) [fonte](https://www.correiobraziliense.com.br/politica/2022/01/4981132-deputada-engana-com-montagem-que-associa-miocardite-de-jogador-a-vacina-contra-covid.html)
 
 ## ⚪ Fatos processuais e neutros
 
-- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
 
 ## Na CPI da Covid

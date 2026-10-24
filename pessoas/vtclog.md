@@ -11,12 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2021** (fato) Obteve aditivo de R$ 18 milhões aprovado por Roberto Dias, quando o parecer técnico estimava R$ 1 milhão (a empresa pedia R$ 57 milhões); o TCU suspendeu o aditivo [fonte](https://www.cnnbrasil.com.br/politica/tcu-suspende-contrato-que-aumentou-repasse-a-vtclog/)
-- **2021** (fato) TCU apontou que o governo pagou à VTCLog por voos que a empresa não realizou [fonte](https://congressoemfoco.com.br/area/governo/exclusivo-governo-pagou-vtclog-por-voos-que-a-empresa-nao-realizou-diz-tcu)
+- **2021** (fato) Obteve aditivo de cerca de R$ 18 milhões aprovado por Roberto Dias, quando a área técnica do ministério recomendava cerca de R$ 1 milhão; o TCU suspendeu o aditivo [fonte](https://www.cnnbrasil.com.br/politica/tcu-suspende-contrato-que-aumentou-repasse-a-vtclog/)
+- **03/2022** (fato) TCU apontou que o governo pagou à VTCLog por voos que a empresa não realizou [fonte](https://congressoemfoco.com.br/area/governo/exclusivo-governo-pagou-vtclog-por-voos-que-a-empresa-nao-realizou-diz-tcu)
 
 ## ⚪ Fatos processuais e neutros
 
-- **08/2021** (fato) Dados do Coaf indicaram saques de mais de R$ 4,7 milhões em espécie pelo motoboy Ivanildo Gonçalves em nome da empresa, que também pagou boletos em nome de Roberto Dias; a empresa nega propina [fonte](https://www.cnnbrasil.com.br/politica/motoboy-relata-saques-de-empresa-alvo-da-cpi/)
+- **08/2021** (fato) Relatório do Coaf apontou saques de cerca de R$ 4,8 milhões em espécie pela empresa em Brasília entre 2018 e julho de 2021, feitos por motoboys como Marcio Queiroz de Morais e Ivanildo Gonçalves; a CPI apontou pagamento de boletos de Roberto Dias pelo motoboy; a empresa nega propina [fonte](https://www.cnnbrasil.com.br/politica/motoboy-relata-saques-de-empresa-alvo-da-cpi/)
 
 ## Na CPI da Covid
 

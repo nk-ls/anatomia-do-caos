@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **27/05/2021** (declaração) Na CPI: o Brasil "poderia ser o primeiro país do mundo a começar a vacinação não fossem os percalços". [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-05-27-brasil-poderia-ter-sido-primeiro-do-mundo-a-vac-b656a248/2026-10-24.html) · [no documentário, 00:29:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1770s)
+- **27/05/2021** (declaração) Na CPI: "O Brasil poderia ter sido o primeiro país do mundo a iniciar a vacinação, se não fossem esses percalços". [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-05-27-brasil-poderia-ter-sido-primeiro-do-mundo-a-vac-b656a248/2026-10-24.html) · [no documentário, 00:29:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1770s)
 
 ## Na CPI da Covid
 

@@ -19,7 +19,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 |---|---|---:|---:|---|
 | [Jair Messias Bolsonaro](jair-bolsonaro.md) | Presidente da República (2019–2022) | 1 | 15 | sim |
 | [Flávio Bolsonaro](flavio-bolsonaro.md) | Senador (RJ); filho do presidente | 2 | 2 | sim |
-| [Eduardo Bolsonaro](eduardo-bolsonaro.md) | Deputado federal (SP); filho do presidente | 2 | 4 | sim |
+| [Eduardo Bolsonaro](eduardo-bolsonaro.md) | Deputado federal (SP); filho do presidente | 1 | 4 | sim |
 | [Carlos Bolsonaro](carlos-bolsonaro.md) | Vereador no Rio de Janeiro; filho do presidente | 0 | 1 | sim |
 | [Filipe G. Martins](filipe-martins.md) | Assessor especial para Assuntos Internacionais da Presidência | 0 | 0 | sim |
 | [Tércio Arnaud Tomaz](tercio-arnaud-tomaz.md) | Assessor especial da Presidência | 0 | 1 | sim |
@@ -30,11 +30,11 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 |---|---|---:|---:|---|
 | [Eduardo Pazuello](eduardo-pazuello.md) | Ministro da Saúde (interino a partir de 15/05/2020; exonerado em 23/03/2021) | 2 | 5 | sim |
 | [Marcelo Queiroga](marcelo-queiroga.md) | Ministro da Saúde (desde 23/03/2021) | 4 | 5 | sim |
-| [Antônio Élcio Franco Filho](elcio-franco.md) | Secretário-executivo do Ministério da Saúde | 1 | 1 | sim |
+| [Antônio Élcio Franco Filho](elcio-franco.md) | Secretário-executivo do Ministério da Saúde | 1 | 0 | sim |
 | [Mayra Pinheiro ("capitã cloroquina")](mayra-pinheiro.md) | Secretária de Gestão do Trabalho e da Educação na Saúde (MS) | 0 | 3 | sim |
 | [Hélio Angotti Neto](helio-angotti.md) | Secretário de Ciência, Tecnologia e Insumos Estratégicos (MS) | 0 | 2 | sim |
 | [Roberto Ferreira Dias](roberto-dias.md) | Diretor de Logística do Ministério da Saúde | 0 | 2 | sim |
-| [Marcelo Blanco da Costa](marcelo-blanco.md) | Ex-assessor do Departamento de Logística do MS | 0 | 2 | sim |
+| [Marcelo Blanco da Costa](marcelo-blanco.md) | Ex-assessor do Departamento de Logística do MS | 0 | 1 | sim |
 | [Airton Antonio Soligo](airton-soligo.md) | Ex-assessor especial do Ministério da Saúde | 0 | 1 | sim |
 | [Marcelo Bento Pires](marcelo-bento-pires.md) | Coronel; ex-diretor de Programas do MS | 0 | 1 | sim |
 | [Alex Lial Marinho](alex-lial-marinho.md) | Ex-coordenador de Logística de Insumos Estratégicos do MS | 0 | 2 | sim |
@@ -49,7 +49,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Ernesto Araújo](ernesto-araujo.md) | Ministro das Relações Exteriores (até mar/2021) | 1 | 3 | sim |
 | [Walter Braga Netto](braga-netto.md) | Ministro da Casa Civil (coordenador do comitê de crise) e depois da Defesa | 0 | 2 | sim |
 | [Wagner Rosário](wagner-rosario.md) | Ministro-chefe da Controladoria-Geral da União | 1 | 0 | sim |
-| [Fabio Wajngarten](fabio-wajngarten.md) | Chefe da Secretaria de Comunicação (Secom) | 1 | 2 | sim |
+| [Fabio Wajngarten](fabio-wajngarten.md) | Chefe da Secretaria de Comunicação (Secom) | 0 | 2 | sim |
 | [Heitor Freire de Abreu](heitor-freire.md) | Subchefe de Articulação e Monitoramento da Casa Civil; coordenador do Centro de Operações do Comitê de Crise | 0 | 1 | sim |
 | [Roberto Goidanich](roberto-goidanich.md) | Ex-presidente da Funag | 0 | 2 | sim |
 | [José Ricardo Santana](jose-ricardo-santana.md) | Ex-secretário da Anvisa | 0 | 0 | sim |
@@ -59,21 +59,21 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Ricardo Barros](ricardo-barros.md) | Deputado federal (PP-PR); líder do governo na Câmara | 0 | 1 | sim |
-| [Osmar Terra](osmar-terra.md) | Deputado federal (MDB-RS); ex-ministro da Cidadania | 1 | 5 | sim |
+| [Osmar Terra](osmar-terra.md) | Deputado federal (MDB-RS); ex-ministro da Cidadania | 0 | 5 | sim |
 | [Bia Kicis](bia-kicis.md) | Deputada federal | 0 | 5 | sim |
 | [Carla Zambelli](carla-zambelli.md) | Deputada federal | 0 | 4 | sim |
 | [Carlos Jordy](carlos-jordy.md) | Deputado federal | 0 | 3 | sim |
-| [Roberto Jefferson](roberto-jefferson.md) | Presidente do PTB; ex-deputado | 0 | 3 | sim |
+| [Roberto Jefferson](roberto-jefferson.md) | Presidente do PTB; ex-deputado | 0 | 2 | sim |
 
 ## "Gabinete paralelo" e médicos
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Nise Yamaguchi](nise-yamaguchi.md) | Médica oncologista; apontada pela CPI como integrante do "gabinete paralelo" | 0 | 5 | sim |
+| [Nise Yamaguchi](nise-yamaguchi.md) | Médica oncologista; apontada pela CPI como integrante do "gabinete paralelo" | 0 | 4 | sim |
 | [Arthur Weintraub](arthur-weintraub.md) | Ex-assessor da Presidência; "gabinete paralelo" | 0 | 2 | sim |
 | [Paolo Marinho de Andrade Zanotto](paolo-zanotto.md) | Virologista (USP); "gabinete paralelo" | 0 | 3 | sim |
 | [Luciano Dias Azevedo](luciano-dias-azevedo.md) | Médico anestesista; "gabinete paralelo" | 0 | 2 | sim |
-| [Antônio Jordão de Oliveira Neto](antonio-jordao.md) | Médico; presidente da associação Médicos pela Vida | 0 | 2 | sim |
+| [Antônio Jordão de Oliveira Neto](antonio-jordao.md) | Médico; presidente da associação Médicos pela Vida | 0 | 1 | sim |
 | [Mauro Luiz de Brito Ribeiro](mauro-ribeiro.md) | Presidente do Conselho Federal de Medicina | 1 | 2 | sim |
 | [Flávio Adsuara Cadegiani](flavio-cadegiani.md) | Médico; estudo com proxalutamida | 0 | 2 | sim |
 
@@ -85,11 +85,11 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Luciano Hang](luciano-hang.md) | Empresário (Havan) | 1 | 1 | sim |
 | [Otávio Oscar Fakhoury](otavio-fakhoury.md) | Empresário | 0 | 2 | sim |
 | [Allan Lopes dos Santos](allan-dos-santos.md) | Blogueiro (Terça Livre) | 0 | 2 | sim |
-| [Paulo de Oliveira Eneas](paulo-eneas.md) | Editor do site Crítica Nacional | 0 | 1 | sim |
+| [Paulo de Oliveira Eneas](paulo-eneas.md) | Editor do site Crítica Nacional | 0 | 0 | sim |
 | [Bernardo Kuster](bernardo-kuster.md) | Diretor do jornal Brasil Sem Medo | 0 | 1 | sim |
 | [Oswaldo Eustáquio](oswaldo-eustaquio.md) | Blogueiro | 0 | 0 | sim |
 | [Richards Pozzer](richards-pozzer.md) | Artista gráfico | 0 | 1 | sim |
-| [Leandro Ruschel](leandro-ruschel.md) | Jornalista | 0 | 1 | sim |
+| [Leandro Ruschel](leandro-ruschel.md) | Jornalista | 0 | 0 | sim |
 | [Hélcio Bruno de Almeida](helcio-bruno.md) | Coronel; presidente do Instituto Força Brasil | 0 | 0 | sim |
 | [José Alves Filho](jose-alves-filho.md) | Dono do grupo José Alves (Vitamedic) | 0 | 1 | sim |
 
@@ -97,7 +97,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Francisco Emerson Maximiano](francisco-maximiano.md) | Sócio da Precisa Medicamentos | 0 | 2 | sim |
+| [Francisco Emerson Maximiano](francisco-maximiano.md) | Sócio da Precisa Medicamentos | 0 | 1 | sim |
 | [Emanuela Batista de Souza Medrades](emanuela-medrades.md) | Diretora-executiva da Precisa | 0 | 1 | sim |
 | [Túlio Silveira](tulio-silveira.md) | Consultor jurídico da Precisa | 0 | 0 | sim |
 | [Danilo Berndt Trento](danilo-trento.md) | Diretor de relações institucionais da Precisa | 0 | 1 | sim |
@@ -117,8 +117,8 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Fernando Parrillo](fernando-parrillo.md) | Dono da Prevent Senior | 0 | 3 | sim |
-| [Eduardo Parrillo](eduardo-parrillo.md) | Dono da Prevent Senior | 0 | 3 | sim |
+| [Fernando Parrillo](fernando-parrillo.md) | Dono da Prevent Senior | 0 | 2 | sim |
+| [Eduardo Parrillo](eduardo-parrillo.md) | Dono da Prevent Senior | 0 | 2 | sim |
 | [Pedro Benedito Batista Júnior](pedro-benedito-batista.md) | Diretor-executivo da Prevent Senior | 0 | 4 | sim |
 | [Daniella de Aguiar Moreira da Silva](daniella-aguiar.md) | Médica da Prevent Senior | 0 | 0 | sim |
 | [Paola Werneck](paola-werneck.md) | Médica da Prevent Senior | 0 | 0 | sim |
@@ -134,7 +134,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Wilson Lima](wilson-lima.md) | Governador do Amazonas | 3 | 2 | sim |
-| [Marcellus Campêlo](marcellus-campelo.md) | Secretário de Saúde do Amazonas | 1 | 1 | sim |
+| [Marcellus Campêlo](marcellus-campelo.md) | Secretário de Saúde do Amazonas | 0 | 0 | sim |
 
 ## Empresas (pessoa jurídica)
 
