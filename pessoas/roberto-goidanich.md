@@ -11,7 +11,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **2020** (fato) Sob sua gestão, a Funag transmitiu palestras com influenciadores bolsonaristas críticos ao isolamento social; foi substituído em 2021 [fonte](https://www.congressoemfoco.com.br/saude/governo-edita-video-que-critica-mascaras-mas-esquece-de-trocar-endereco/)
+- **14/10/2020** (fato) YouTube removeu vídeo da Funag (então presidida por ele) "A nocividade do uso de máscaras", por risco de danos graves [fonte](https://olhardigital.com.br/2020/10/14/noticias/youtube-exclui-video-de-fundacao-do-itamaraty-que-contraria-o-uso-de-mascaras/)
 
 ## ⚪ Fatos processuais e neutros
 

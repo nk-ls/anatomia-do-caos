@@ -11,7 +11,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **06/2021** (checagem) Tuitou que Christian Eriksen tinha se vacinado antes do mal súbito; Comprova classificou como falso (a Inter negou) [fonte](https://www.opovo.com.br/noticias/checagemopovo/2021/06/15/e-falso-que-jogador-dinamarques-tenha-se-vacinado-antes-de-sofrer-mal-subito.html)
+- **10/2021** (conclusão da CPI) Relatório da CPI o cita 16 vezes como figura central de produção de fake news, com posts pró-cloroquina, contra medidas restritivas e contra a segurança das vacinas [fonte](https://www.cnnbrasil.com.br/politica/allan-dos-santos-e-citado-16-vezes-em-relatorio-final-da-cpi-da-pandemia/)
 
 ## ⚪ Fatos processuais e neutros
 

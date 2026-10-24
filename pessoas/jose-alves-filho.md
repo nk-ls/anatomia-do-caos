@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **16/02/2021** (fato) Vitamedic (do grupo José Alves) pagou R$ 717 mil por anúncios em jornais do grupo Médicos pela Vida defendendo "tratamento precoce" com ivermectina e outros [fonte](https://www.folhape.com.br/politica/diretor-de-farmaceutica-diz-a-cpi-que-gastou-r-717-mil-em-anuncios-de/193441/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **08/2021** (fato) Convocado pela CPI, não compareceu; a Vitamedic enviou o diretor Jailton Batista, que reconheceu não haver estudo de eficácia e alta de vendas de ivermectina em 2020 [fonte](https://oimparcial.com.br/politica/2021/08/farmaceutica-afirma-que-nao-vendeu-ivermectina-ao-governo-federal/)
+- **26/08/2021** (fato) CPI aprova incluí-lo no rol de investigados [fonte](https://www.em.com.br/app/noticia/politica/2021/08/26/interna_politica,1299756/cpi-aprova-incluir-jose-alves-filho-e-jose-ricardo-santana-no-rol-de-invest.shtml)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Em ofício à CPI, alegou que como acionista só poderia responder sobre investimentos fabris; a Vitamedic disse não ter interferido no conteúdo dos anúncios ([fonte](https://oimparcial.com.br/politica/2021/08/farmaceutica-afirma-que-nao-vendeu-ivermectina-ao-governo-federal/))
 
 ## Fontes da ficha
 

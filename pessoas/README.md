@@ -18,9 +18,9 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Jair Messias Bolsonaro](jair-bolsonaro.md) | Presidente da República (2019–2022) | 2 | 15 | sim |
-| [Flávio Bolsonaro](flavio-bolsonaro.md) | Senador (RJ); filho do presidente | 0 | 0 | sim |
-| [Eduardo Bolsonaro](eduardo-bolsonaro.md) | Deputado federal (SP); filho do presidente | 0 | 0 | sim |
-| [Carlos Bolsonaro](carlos-bolsonaro.md) | Vereador no Rio de Janeiro; filho do presidente | 0 | 0 | sim |
+| [Flávio Bolsonaro](flavio-bolsonaro.md) | Senador (RJ); filho do presidente | 2 | 2 | sim |
+| [Eduardo Bolsonaro](eduardo-bolsonaro.md) | Deputado federal (SP); filho do presidente | 2 | 4 | sim |
+| [Carlos Bolsonaro](carlos-bolsonaro.md) | Vereador no Rio de Janeiro; filho do presidente | 0 | 1 | sim |
 | [Filipe G. Martins](filipe-martins.md) | Assessor especial para Assuntos Internacionais da Presidência | 0 | 0 | sim |
 | [Tércio Arnaud Tomaz](tercio-arnaud-tomaz.md) | Assessor especial da Presidência | 0 | 1 | sim |
 
@@ -51,7 +51,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Wagner Rosário](wagner-rosario.md) | Ministro-chefe da Controladoria-Geral da União | 1 | 0 | sim |
 | [Fabio Wajngarten](fabio-wajngarten.md) | Chefe da Secretaria de Comunicação (Secom) | 1 | 2 | sim |
 | [Heitor Freire de Abreu](heitor-freire.md) | Subchefe de Articulação e Monitoramento da Casa Civil; coordenador do Centro de Operações do Comitê de Crise | 0 | 1 | sim |
-| [Roberto Goidanich](roberto-goidanich.md) | Ex-presidente da Funag | 0 | 0 | sim |
+| [Roberto Goidanich](roberto-goidanich.md) | Ex-presidente da Funag | 0 | 2 | sim |
 | [José Ricardo Santana](jose-ricardo-santana.md) | Ex-secretário da Anvisa | 0 | 0 | sim |
 
 ## Parlamentares
@@ -59,11 +59,11 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Ricardo Barros](ricardo-barros.md) | Deputado federal (PP-PR); líder do governo na Câmara | 0 | 1 | sim |
-| [Osmar Terra](osmar-terra.md) | Deputado federal (MDB-RS); ex-ministro da Cidadania | 0 | 1 | sim |
-| [Bia Kicis](bia-kicis.md) | Deputada federal | 0 | 0 | sim |
-| [Carla Zambelli](carla-zambelli.md) | Deputada federal | 0 | 0 | sim |
-| [Carlos Jordy](carlos-jordy.md) | Deputado federal | 0 | 0 | sim |
-| [Roberto Jefferson](roberto-jefferson.md) | Presidente do PTB; ex-deputado | 0 | 0 | sim |
+| [Osmar Terra](osmar-terra.md) | Deputado federal (MDB-RS); ex-ministro da Cidadania | 1 | 5 | sim |
+| [Bia Kicis](bia-kicis.md) | Deputada federal | 0 | 5 | sim |
+| [Carla Zambelli](carla-zambelli.md) | Deputada federal | 0 | 4 | sim |
+| [Carlos Jordy](carlos-jordy.md) | Deputado federal | 0 | 3 | sim |
+| [Roberto Jefferson](roberto-jefferson.md) | Presidente do PTB; ex-deputado | 0 | 3 | sim |
 
 ## "Gabinete paralelo" e médicos
 
@@ -82,16 +82,16 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Carlos Wizard Martins](carlos-wizard.md) | Empresário; apontado pela CPI como integrante do "gabinete paralelo" | 0 | 2 | sim |
-| [Luciano Hang](luciano-hang.md) | Empresário (Havan) | 0 | 0 | sim |
-| [Otávio Oscar Fakhoury](otavio-fakhoury.md) | Empresário | 0 | 0 | sim |
-| [Allan Lopes dos Santos](allan-dos-santos.md) | Blogueiro (Terça Livre) | 0 | 0 | sim |
-| [Paulo de Oliveira Eneas](paulo-eneas.md) | Editor do site Crítica Nacional | 0 | 0 | sim |
-| [Bernardo Kuster](bernardo-kuster.md) | Diretor do jornal Brasil Sem Medo | 0 | 0 | sim |
+| [Luciano Hang](luciano-hang.md) | Empresário (Havan) | 1 | 1 | sim |
+| [Otávio Oscar Fakhoury](otavio-fakhoury.md) | Empresário | 0 | 2 | sim |
+| [Allan Lopes dos Santos](allan-dos-santos.md) | Blogueiro (Terça Livre) | 0 | 2 | sim |
+| [Paulo de Oliveira Eneas](paulo-eneas.md) | Editor do site Crítica Nacional | 0 | 1 | sim |
+| [Bernardo Kuster](bernardo-kuster.md) | Diretor do jornal Brasil Sem Medo | 0 | 1 | sim |
 | [Oswaldo Eustáquio](oswaldo-eustaquio.md) | Blogueiro | 0 | 0 | sim |
-| [Richards Pozzer](richards-pozzer.md) | Artista gráfico | 0 | 0 | sim |
-| [Leandro Ruschel](leandro-ruschel.md) | Jornalista | 0 | 0 | sim |
+| [Richards Pozzer](richards-pozzer.md) | Artista gráfico | 0 | 1 | sim |
+| [Leandro Ruschel](leandro-ruschel.md) | Jornalista | 0 | 1 | sim |
 | [Hélcio Bruno de Almeida](helcio-bruno.md) | Coronel; presidente do Instituto Força Brasil | 0 | 0 | sim |
-| [José Alves Filho](jose-alves-filho.md) | Dono do grupo José Alves (Vitamedic) | 0 | 0 | sim |
+| [José Alves Filho](jose-alves-filho.md) | Dono do grupo José Alves (Vitamedic) | 0 | 1 | sim |
 
 ## Contratos de vacina e logística (Covaxin, Davati, VTCLog)
 

@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **2020** (checagem) Levantamento da Aos Fatos (2024) aponta ao menos 12 publicações dele questionando a eficácia das vacinas e difusão de conteúdo pró-hidroxicloroquina [fonte](https://www.aosfatos.org/noticias/abin-paralela-desinformacao-30-opositores/)
 
 ## ⚪ Fatos processuais e neutros
 

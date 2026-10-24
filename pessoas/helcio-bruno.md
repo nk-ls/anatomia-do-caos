@@ -15,7 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **12/03/2021** (fato) Intermediou reunião de representantes da Davati com o secretário-executivo Elcio Franco no Ministério da Saúde sobre oferta de 400 milhões de doses [fonte](https://www.congressoemfoco.com.br/legislativo/apontado-como-elo-entre-davati-e-saude-coronel-helcio-bruno-depoe-a-cpi/)
+- **10/08/2021** (fato) Depôs à CPI amparado por habeas corpus; negou irregularidade e calou-se em várias perguntas [fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/helcio-bruno-nega-envolvimento-em-irregularidade-na-compra-de-vacina)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Negou irregularidade na reunião com a Davati; disse que buscava viabilizar compra de vacinas pelo setor privado e que nada encontrou que desabonasse a empresa ([fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/helcio-bruno-nega-envolvimento-em-irregularidade-na-compra-de-vacina))
 
 ## Fontes da ficha
 

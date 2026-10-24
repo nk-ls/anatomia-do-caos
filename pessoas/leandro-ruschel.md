@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **08/2021** (conclusão da CPI) Documento da CPI cita tuíte dele questionando vacinas como produto da indústria farmacêutica e o inclui em rede de desinformação [fonte](https://legis.senado.leg.br/sdleg-getter/documento?dm=9002377)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **12/05/2020** (fato) Foi palestrante de seminário virtual da Funag sobre o pós-coronavírus; a Funag difundiu nesse período falas de influenciadores críticos ao isolamento [fonte](https://www.intercept.com.br/?p=306886)
 
 ## Na CPI da Covid
 

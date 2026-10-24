@@ -11,7 +11,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **30/09/2021** (declaração) Na CPI foram exibidos vídeos dele atacando a CoronaVac ("não presta") e o uso de máscaras; sustentou que eram opiniões e defendeu o "kit covid" [fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacionista-e-defende-posicao-antivacina/)
+- **30/09/2021** (checagem) Aos Fatos: citou informações falsas ao dizer na CPI que as vacinas são experimentais [fonte](https://www.aosfatos.org/noticias/fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vacinas-sao-experimentais/)
 
 ## ⚪ Fatos processuais e neutros
 
@@ -29,7 +30,7 @@ Citado no pedido de arquivamento da PGR de 07/11/2022.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Disse ser alvo de "calúnias, ataques e campanhas difamatórias", negou financiar ou produzir fake news e classificou falas sobre vacina e máscara como opinião ([fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-09/cpi-empresario-otavio-fakhoury-diz-que-e-alvo-de-campanha-difamatoria))
 
 ## Fontes da ficha
 

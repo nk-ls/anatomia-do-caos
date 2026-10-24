@@ -11,10 +11,13 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **2020** (checagem) Esteve entre os dez parlamentares que mais publicaram desinformação sobre covid-19 no Twitter, segundo a Aos Fatos [fonte](https://www.aosfatos.org/noticias/deputados-governistas-lideram-desinformacao-sobre-covid-19-entre-parlamentares-no-twitter/)
+- **03/2021** (fato) Na CCJ, foi cobrado por deputado a usar máscara; disse estar sem ela para falar e beber café e água [fonte](https://www.folhavitoria.com.br/politica/com-bia-kicis-ccj-se-transforma-em-praca-de-guerra/)
+- **07/2021** (conclusão da CPI) Lista da CPI de políticos que espalharam fake news cita alegação falsa de que nem a China usava a CoronaVac, defesa de remédio sem eficácia e vinculação sem provas do vírus ao PCC [fonte](https://congressoemfoco.com.br/coluna/38037/cpi-lista-26-politicos-que-espalharam-fake-news-sobre-covid-veja-quem-sao)
 
 ## ⚪ Fatos processuais e neutros
 
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia)
 
 ## Na CPI da Covid

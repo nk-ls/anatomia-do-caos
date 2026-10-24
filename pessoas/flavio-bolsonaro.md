@@ -7,14 +7,17 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **03/2021** (fato) Passou a defender a vacinação no Telegram (44 publicações desde 10/03/2021, segundo levantamento do Brasil de Fato) [fonte](https://www.brasildefato.com.br/2021/04/02/efeito-lula-apos-discurso-flavio-bolsonaro-ja-defendeu-vacinas-44-vezes-no-telegram/)
+- **22/07/2021** (fato) Recebeu publicamente a 1ª dose (AstraZeneca), aplicada pelo ministro Marcelo Queiroga, e incentivou a vacinação [fonte](https://www.poder360.com.br/brasil/queiroga-vacina-flavio-bolsonaro-contra-a-covid-assista/)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **03/2020** (checagem) Compartilhou foto de paciente com enfisema pulmonar usada para promover suposta cura da covid-19; o Facebook marcou o conteúdo como distorcido [fonte](https://www.aosfatos.org/noticias/bolsonaristas-usam-foto-de-paciente-com-enfisema-pulmonar-para-promover-cura-da-covid-19/)
+- **25/08/2020** (declaração) Ao anunciar diagnóstico de covid-19, informou tratar-se com hidroxicloroquina e azitromicina, medicamentos sem eficácia comprovada contra a doença [fonte](https://www.agazeta.com.br/brasil/flavio-bolsonaro-e-diagnosticado-com-covid-19-senador-esta-sem-sintomas-0820)
 
 ## ⚪ Fatos processuais e neutros
 
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia)
 
 ## Na CPI da Covid
@@ -29,7 +32,7 @@ Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Desqualificou o relatório da CPI, dizendo que o pai o receberia "com gargalhadas"; atacou o relator Renan Calheiros ([fonte](https://www.poder360.com.br/governo/flavio-bolsonaro-diz-que-pai-recebera-relatorio-da-cpi-com-gargalhadas/))
 
 ## Fontes da ficha
 

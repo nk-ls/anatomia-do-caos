@@ -11,10 +11,15 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **09/2020** (fato) Apresentou o PL 4506/2020 para retirar a vacinação compulsória da Lei 13.979, alegando que a comprovação científica da vacina levaria cerca de dez anos [fonte](https://jovempan.com.br/programas/os-pingos-nos-is/bia-kicis-projeto-que-torna-opcional-vacinacao-contra-a-covid-19.html)
+- **05/01/2021** (fato) Viraliza vídeo em que aparece ensinando "truque" (garrafa d'água) para não usar máscara, obrigatória no DF [fonte](https://www.poder360.com.br/congresso/video-deputada-bia-kicis-ensina-truque-para-burlar-uso-de-mascara/)
+- **06/03/2021** (fato) YouTube removeu vídeo em que entrevistava Alessandro Loiola por "desinformação sobre a Covid-19" [fonte](https://www.correiobraziliense.com.br/brasil/2021/03/4910621-youtube-remove-video-de-deputada-bia-kicis-por-desinformar-sobre-covid-19.html)
+- **10/2021** (declaração) Criticou exigência de comprovante de vacina na Câmara dizendo que a vacina não impede contágio e que o comprovante é "inútil" [fonte](https://www.metropoles.com/colunas/janela-indiscreta/bia-kicis-provoca-lira-por-determinacao-do-passaporte-de-vacina-na-camara)
+- **2022** (fato) YouTube suspendeu novas publicações do canal por 7 dias por conteúdo com desinformação sobre vacinação infantil [fonte](https://www.poder360.com.br/congresso/youtube-suspende-canal-de-bia-kicis-por-uma-semana/)
 
 ## ⚪ Fatos processuais e neutros
 
+- **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando liberdade de manifestação (Pet 10.064) [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia)
 
 ## Na CPI da Covid
@@ -29,7 +34,7 @@ Investigado no inquérito da PF autorizado pelo ministro Flávio Dino (STF, Pet 
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Após remoção de vídeo pelo YouTube, disse que responderia no Parlamento lutando pela liberdade de expressão e criticou serviços de checagem ([fonte](https://www.correiobraziliense.com.br/brasil/2021/03/4910621-youtube-remove-video-de-deputada-bia-kicis-por-desinformar-sobre-covid-19.html))
 
 ## Fontes da ficha
 

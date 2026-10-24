@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **17/12/2020** (alegação) Publicou no Crítica Nacional o texto "Tratamento precoce versus vacinação", que, segundo documento do Senado, desencorajava a vacinação e foi desmentido pela Aos Fatos [fonte](https://legis.senado.leg.br/sdleg-getter/documento?dm=8999350)
 
 ## ⚪ Fatos processuais e neutros
 

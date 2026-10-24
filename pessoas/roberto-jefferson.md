@@ -11,11 +11,13 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **02/04/2021** (fato) Publicou vídeo conclamando cristãos a reagir, com "kit" que incluía arma e porrete, contra o fechamento de igrejas como medida contra o coronavírus [fonte](https://www.congressoemfoco.com.br/governo/arma-e-porrete-roberto-jefferson-prega-reacao-contra-interrupcao-de-cultos/)
+- **04/04/2021** (fato) Twitter removeu o vídeo sobre igrejas por ameaça de violência [fonte](https://www.agazeta.com.br/brasil/twitter-remove-video-de-roberto-jefferson-por-ameaca-de-violencia-0421)
+- **26/10/2021** (conclusão da CPI) Relatório final da CPI pede apuração pelo MP-RJ por incitação ao crime [fonte](https://www.agazeta.com.br/brasil/cpi-da-covid-pede-punicao-a-carlos-bolsonaro-por-fake-news-1121)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **08/2021** (fato) PGR o denunciou ao STF por, entre outros, incitação a crimes contra ministros do STF e senadores da CPI da Covid (incluindo menção a invadir o Senado) [fonte](https://www.correiobraziliense.com.br/politica/2021/08/4946750-roberto-jefferson-e-denunciado-pela-pgr-por-incitar-violencia-e-homofobia.html)
 
 ## Na CPI da Covid
 
