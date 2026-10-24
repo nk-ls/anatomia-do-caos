@@ -136,7 +136,7 @@
 
 ## 3. Lacunas — o que NÃO foi confirmado (e por isso não é afirmado aqui)
 1. **"Vacina chinesa do João Doria"**: a frase literal atribuída a Bolsonaro em 21/10/2020 não apareceu nos trechos de busca. Só "NÃO SERÁ COMPRADA" e "não será cobaia" estão confirmados.
-2. **Salmo 23 / "não temas mal algum"**: nenhum registro de Bolsonaro citando o Salmo 23 no contexto da pandemia. Também não há transcrição datada de discurso sobre a pandemia citando João 8:32.
+2. **Salmo 23**: nenhum registro de Bolsonaro citando o Salmo 23 no contexto da pandemia. **Encontrado depois:** em 04/03/2021 ele disse *"A própria Bíblia diz que em 365 citações ela diz: 'Não temas'"*, junto com *"Chega de frescura, de mimimi"* (documentário, 00:31:30; [Sul21](https://sul21.com.br/?p=16141)). Também não há transcrição datada de discurso sobre a pandemia citando João 8:32.
 3. **Uso da bandeira nacional** pelos manifestantes nos atos de 2020/2021: as fontes encontradas não o descrevem especificamente; só o hasteamento no Alvorada em 07/09/2021.
 4. **Contagem de e-mails da Pfizer**: 9 tentativas (Murillo) e 53 e-mails (Randolfe) são números conflitantes, de fontes e métricas diferentes. Não li o relatório final da CPI para ver qual número ele adota.
 5. **Volume de cada oferta da Pfizer em agosto/2020** (30 ou 70 milhões) e **número total de ofertas** (3 ou 5): as reportagens divergem.

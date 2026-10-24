@@ -2,7 +2,7 @@
 
 **Pelo povo, para o povo brasileiro.** Dados abertos, gráficos e fontes que qualquer pessoa pode conferir, baixar e reproduzir.
 
-> 🚧 **Em construção.** Dados e gráficos: prontos e reproduzíveis. Caso brasileiro (seção 6): conferido pela busca, com o arquivamento das fontes em andamento. Roteiro do documentário: em preparação.
+> 🚧 **Em construção.** Dados e gráficos: prontos e reproduzíveis. Caso brasileiro (seção 6): conferido pela busca, com o arquivamento das fontes em andamento. Roteiro do documentário: pronto, com minutagem.
 
 **Baixe os dados:** [planilha Excel (234 países)](dados/covid_paises.xlsx) · [CSV](dados/covid_paises.csv) · [como os números foram calculados](docs/metodologia.md)
 
@@ -85,7 +85,7 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 - **Janeiro de 2021** — contrato da CoronaVac em 07/01; primeira vacinada, a enfermeira Mônica Calazans, em 17/01. Contrato da Pfizer só em março de 2021; primeiras doses em 29/04/2021.
 - **O Brasil poderia ter sido o primeiro?** Dimas Covas disse à CPI que o Brasil *"poderia ser o primeiro país do mundo a começar a vacinação não fossem os percalços"*. É a avaliação dele, condicional, sobre começar a vacinar.
 
-**Falas do presidente** — *"gripezinha"* (20 e 24/03/2020); *"E daí? Lamento. Quer que eu faça o quê?"* (28/04/2020); *"país de maricas"* (10/11/2020); *"não vou tomar vacina e ponto final"* (15/12/2020); *"se você virar um jacaré, é problema seu"* (17/12/2020); imitação de pessoa com falta de ar (18/03/2021); live associando falsamente a vacina à aids (21/10/2021), removida pelas plataformas.
+**Falas do presidente** — *"Chega de frescura, de mimimi […] A própria Bíblia diz […] 'Não temas'"* (04/03/2021, um dia depois de um recorde de mortes); *"gripezinha"* (20 e 24/03/2020); *"E daí? Lamento. Quer que eu faça o quê?"* (28/04/2020); *"país de maricas"* (10/11/2020); *"não vou tomar vacina e ponto final"* (15/12/2020); *"se você virar um jacaré, é problema seu"* (17/12/2020); imitação de pessoa com falta de ar (18/03/2021); live associando falsamente a vacina à aids (21/10/2021), removida pelas plataformas.
 
 **Cloroquina** — orientação do Ministério da Saúde liberando o uso em casos leves (20/05/2020), mesmo sem evidência de benefício; produção de cerca de 3,2 milhões de comprimidos pelo laboratório do Exército em 2020; app TrateCov (jan/2021). Na CPI, Mandetta e o presidente da Anvisa, Antonio Barra Torres, confirmaram uma reunião no Planalto com proposta de mudar a bula da cloroquina para incluir a Covid. A Anvisa não aceitou.
 
@@ -118,7 +118,7 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 ## Andamento
 
 - [x] 1. Dados globais por país (planilha, CSV e gráficos)
-- [ ] 2. Roteiro do documentário (resumo com minutagem)
+- [x] 2. [Roteiro do documentário](docs/documentario.md) (resumo com minutagem)
 - [x] 3. Cronologia Brasil: Pfizer, Butantan/CoronaVac, cloroquina (🔎)
 - [x] 4. Estudos de mortes evitáveis, com contra-argumentos (🔎)
 - [x] 5. CPI: pedidos de indiciamento e quem atuou no combate à pandemia (🔎)
@@ -140,3 +140,7 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 Pode copiar, compartilhar e republicar, citando a fonte. Texto, análises e gráficos: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt_BR). Código: MIT. Os dados de terceiros seguem as licenças das fontes: Our World in Data (CC BY 4.0) e The Economist (ver repositório do modelo).
 
 Encontrou um erro? Abra uma *issue* com o link da fonte, e a correção entra com registro.
+
+## Agradecimentos
+
+A ideia de coletar fontes públicas com o GitHub Actions veio do [Dossiê Cidadão](https://github.com/herminiotorres/dossie-cidadao), de Herminio Torres. Nenhum código foi copiado.
