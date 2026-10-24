@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Estados — Anatomia do Caos</title>
+<meta name="description" content="A Covid-19 em cada estado: mortes, mortes por 100 mil habitantes, quem de cada estado aparece no levantamento e como votaram os senadores na CPI.">
+<link rel="stylesheet" href="assets/css/estilo.css">
+</head>
+<body>
+<header class="topo">
+  <div class="conteiner">
+    <a class="marca" href="index.html">Anatomia do Caos</a>
+    <nav class="nav" aria-label="Principal">
+      <a href="index.html">Início</a>
+      <a href="investigacao.html">Investigação</a>
+      <a href="corrupcao.html">Corrupção</a>
+      <a href="estados.html" aria-current="page">Estados</a>
+      <a href="rede.html">Rede</a>
+      <a href="envolvidos.html">Envolvidos</a>
+      <a href="referencias.html">Referências</a>
+      <a href="https://github.com/nk-ls/anatomia-do-caos">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main class="conteiner">
+<section>
+  <h1>Por estado</h1>
+  <p>Escolha um estado para ver as mortes registradas, a comparação com o resto do país, quem daquele estado aparece no levantamento e como votaram os seus senadores na CPI.</p>
+  <div class="filtros">
+    <label for="uf">Estado</label>
+    <select id="uf"></select>
+  </div>
+  <div id="painel-uf" aria-live="polite"></div>
+</section>
+
+<section id="ranking">
+  <h2>Mortes por 100 mil habitantes, por estado</h2>
+  <figure>
+    <figcaption><strong>Óbitos por Covid-19 a cada 100 mil habitantes</strong> · do maior para o menor. Clique numa barra para escolher o estado.</figcaption>
+    <div id="grafico-uf" class="grafico-barras grafico-uf" role="img" aria-label="Mortes por 100 mil habitantes em cada estado"></div>
+    <details><summary>Ver como tabela</summary><div id="tabela-uf"></div></details>
+  </figure>
+  <p class="nota">Fonte: painel oficial do Ministério da Saúde (<a href="https://covid.saude.gov.br/">covid.saude.gov.br</a>), mortes acumuladas até a última atualização (716.626 no país), e a população do TCU de 2019, que é a que o próprio painel usa. Os números contam o estado onde a morte foi notificada. Dados: <a href="dados/estados.csv">estados.csv</a>.</p>
+  <p class="nota">Como uma pessoa é ligada a um estado: pelo estado do mandato (deputados e senadores, pelas APIs da Câmara e do Senado) ou do cargo estadual, municipal ou da instituição, conforme a ficha. Quem atuou só no governo federal aparece como "atuação federal". Não usamos naturalidade nem endereço. Dados: <a href="dados/pessoas_uf.csv">pessoas_uf.csv</a>, gerados por <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/scripts/gerar_estados.py">scripts/gerar_estados.py</a>.</p>
+</section>
+</main>
+
+<footer class="rodape">
+  <div class="conteiner">
+    <p>Anatomia do Caos · Nickolas Moretto · com auxílio de inteligência artificial (Claude, da Anthropic), revisão independente e auditoria completa. Encontrou um erro? <a href="https://github.com/nk-ls/anatomia-do-caos/issues">Abra uma issue com a fonte</a>.</p>
+  </div>
+</footer>
+<script type="module" src="assets/js/estados.js"></script>
+</body>
+</html>

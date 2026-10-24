@@ -1,0 +1,28 @@
+uf,estado,regiao,populacao_tcu_2019,obitos,obitos_100k,casos,fonte,coletado_em
+AC,Acre,Norte,881935,2118,240.2,174977,https://covid.saude.gov.br/,2026-10-24
+AL,Alagoas,Nordeste,3337357,7380,221.1,351119,https://covid.saude.gov.br/,2026-10-24
+AM,Amazonas,Norte,4144597,14556,351.2,649618,https://covid.saude.gov.br/,2026-10-24
+AP,Amapá,Norte,845731,2178,257.5,194518,https://covid.saude.gov.br/,2026-10-24
+BA,Bahia,Nordeste,14873064,32147,216.1,1854362,https://covid.saude.gov.br/,2026-10-24
+CE,Ceará,Nordeste,9132078,28215,309.0,1536345,https://covid.saude.gov.br/,2026-10-24
+DF,Distrito Federal,Centro-Oeste,3015268,12051,399.7,965303,https://covid.saude.gov.br/,2026-10-24
+ES,Espírito Santo,Sudeste,4018650,15259,379.7,1402991,https://covid.saude.gov.br/,2026-10-24
+GO,Goiás,Centro-Oeste,7018354,28660,408.4,2076631,https://covid.saude.gov.br/,2026-10-24
+MA,Maranhão,Nordeste,7075181,11109,157.0,503135,https://covid.saude.gov.br/,2026-10-24
+MG,Minas Gerais,Sudeste,21168791,67205,317.5,4374882,https://covid.saude.gov.br/,2026-10-24
+MS,Mato Grosso do Sul,Centro-Oeste,2778986,11355,408.6,641772,https://covid.saude.gov.br/,2026-10-24
+MT,Mato Grosso,Centro-Oeste,3484466,15281,438.5,933832,https://covid.saude.gov.br/,2026-10-24
+PA,Pará,Norte,8602865,19343,224.8,907516,https://covid.saude.gov.br/,2026-10-24
+PB,Paraíba,Nordeste,4018127,10748,267.5,732368,https://covid.saude.gov.br/,2026-10-24
+PE,Pernambuco,Nordeste,9557071,23302,243.8,1244786,https://covid.saude.gov.br/,2026-10-24
+PI,Piauí,Nordeste,3273227,8449,258.1,439260,https://covid.saude.gov.br/,2026-10-24
+PR,Paraná,Sul,11433957,47082,411.8,3041284,https://covid.saude.gov.br/,2026-10-24
+RJ,Rio de Janeiro,Sudeste,17264943,78473,454.5,3000244,https://covid.saude.gov.br/,2026-10-24
+RN,Rio Grande do Norte,Nordeste,3506853,9354,266.7,605445,https://covid.saude.gov.br/,2026-10-24
+RO,Rondônia,Norte,1777225,7527,423.5,505111,https://covid.saude.gov.br/,2026-10-24
+RR,Roraima,Norte,605761,2200,363.2,193116,https://covid.saude.gov.br/,2026-10-24
+RS,Rio Grande do Sul,Sul,11377239,43258,380.2,3167035,https://covid.saude.gov.br/,2026-10-24
+SC,Santa Catarina,Sul,7164788,23250,324.5,2103543,https://covid.saude.gov.br/,2026-10-24
+SE,Sergipe,Nordeste,2298696,6592,286.8,368851,https://covid.saude.gov.br/,2026-10-24
+SP,São Paulo,Sudeste,45919049,185212,403.3,6960637,https://covid.saude.gov.br/,2026-10-24
+TO,Tocantins,Norte,1572866,4322,274.8,389546,https://covid.saude.gov.br/,2026-10-24

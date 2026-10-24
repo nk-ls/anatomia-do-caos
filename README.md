@@ -97,6 +97,8 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 
 **Vacinas oferecidas e não respondidas** ([cronologia completa](docs/cronologia.md) · [as 81 correspondências da Pfizer, doses vencidas e fura-fila](docs/pfizer-e-desvios.md))
 
+**Por estado** — mortes e mortes por 100 mil em cada estado (painel do Ministério da Saúde), quem de cada estado aparece no levantamento e como votaram os senadores na CPI: [aba Estados](https://nk-ls.github.io/anatomia-do-caos/estados.html) · [dados](dados/estados.csv)
+
 **O caminho do dinheiro** — Covaxin (R$ 1,6 bilhão contratado, nada pago), VTCLog, Davati, Global e doses vencidas, com o documento oficial de cada passo e as decisões do TCU, da CGU e do STF: [aba Corrupção](https://nk-ls.github.io/anatomia-do-caos/corrupcao.html) · [dados](dados/dinheiro.json)
 - **30/07/2020** — o Instituto Butantan ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020. Segundo Dimas Covas à CPI, não houve resposta.
 - **Agosto de 2020** — a Pfizer fez três ofertas (14, 18 e 26/08), com pelo menos 1,5 milhão de doses ainda em dezembro de 2020. Em 12/09/2020, o presidente da empresa escreveu ao governo: *"até o momento não recebemos uma resposta"*.

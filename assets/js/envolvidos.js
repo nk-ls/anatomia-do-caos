@@ -43,6 +43,7 @@ function cartao(p) {
       <span class="selo favor">🟢 ${contar(p.id, "a favor")}</span>
       <span class="selo contra">🔴 ${contar(p.id, "contra")}</span>
       ${p.crimes_cpi ? '<span class="etiqueta">pedido da CPI</span>' : ""}
+      ${estado.uf?.get(p.id) && estado.uf.get(p.id).uf !== "Federal" ? `<span class="etiqueta uf">${esc(estado.uf.get(p.id).uf.includes(";") ? "Nordeste" : estado.uf.get(p.id).uf)}</span>` : ""}
     </div></button>`;
 }
 
@@ -50,7 +51,9 @@ function listar() {
   const termo = $("busca").value.trim().toLowerCase();
   const grupo = $("grupo").value;
   const cpi = $("cpi").value;
+  const uf = $("uf").value;
   const lista = estado.pessoas.filter((p) =>
+    (!uf || (estado.uf.get(p.id)?.uf || "Federal").split(";").includes(uf)) &&
     (!termo || `${p.nome} ${p.cargo_epoca}`.toLowerCase().includes(termo)) &&
     (!grupo || p.grupo === grupo) &&
     (!cpi || (cpi === "sim") === Boolean(p.crimes_cpi)));
@@ -74,6 +77,7 @@ function ficha(p) {
   $("ficha").innerHTML = `<article class="ficha" aria-live="polite">
     <button class="voltar" type="button" id="fechar">← voltar à lista</button>
     <div class="ficha-topo">${avatar(p, true)}<h2>${esc(p.nome)}</h2></div>
+    ${estado.uf?.get(p.id) && estado.uf.get(p.id).uf !== "Federal" ? `<p class="nota">📍 Estado: <a href="estados.html?uf=${esc(estado.uf.get(p.id).uf.split(";")[0])}">${esc(estado.uf.get(p.id).uf.replaceAll(";", ", "))}</a> · ${esc(estado.uf.get(p.id).vinculo)}</p>` : ""}
     ${estado.wikidata?.get(p.id) ? `<p class="nota">Também em: <a href="https://www.wikidata.org/wiki/${esc(estado.wikidata.get(p.id).qid)}" target="_blank" rel="noopener">Wikidata (${esc(estado.wikidata.get(p.id).qid)})</a>${estado.wikidata.get(p.id).wikipedia_pt ? ` · <a href="${linkSeguro(estado.wikidata.get(p.id).wikipedia_pt)}" target="_blank" rel="noopener">Wikipédia</a>` : ""}</p>` : ""}
     ${estado.fotos.get(p.id) ? `<p class="nota">${esc(estado.fotos.get(p.id).credito)} · <a href="${linkSeguro(estado.fotos.get(p.id).pagina)}" target="_blank" rel="noopener">origem</a></p>` : ""}
     <p><strong>Cargo à época:</strong> ${esc(p.cargo_epoca)}<br><span class="nota">${esc(p.grupo)}</span></p>
@@ -96,7 +100,11 @@ function mostrar() {
 }
 
 async function iniciar() {
-  const [pessoas, atos, fontes, fotos, wikidata] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv"), carregarCSV("dados/fotos.csv"), carregarCSV("dados/wikidata.csv").catch(() => [])]);
+  const [pessoas, atos, fontes, fotos, wikidata, ufs, estadosUF] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv"), carregarCSV("dados/fotos.csv"), carregarCSV("dados/wikidata.csv").catch(() => []), carregarCSV("dados/pessoas_uf.csv").catch(() => []), carregarCSV("dados/estados.csv").catch(() => [])]);
+  estado.uf = new Map(ufs.map((u) => [u.id, u]));
+  $("uf").insertAdjacentHTML("beforeend", estadosUF.map((e) => `<option value="${esc(e.uf)}">${esc(e.estado)} (${esc(e.uf)})</option>`).join(""));
+  const ufInicial = new URLSearchParams(location.search).get("uf");
+  if (ufInicial) $("uf").value = ufInicial;
   for (const f of fotos) estado.fotos.set(f.id, f);
   estado.wikidata = new Map(wikidata.filter((w) => /^Q\d+$/.test(w.qid)).map((w) => [w.id, w]));
   for (const f of fontes) if (f.copia_arquivada) estado.copias.set(f.url, f.copia_arquivada);
@@ -109,7 +117,7 @@ async function iniciar() {
   }
   const grupos = [...new Set(pessoas.map((p) => p.grupo))];
   $("grupo").insertAdjacentHTML("beforeend", grupos.map((g) => `<option>${esc(g)}</option>`).join(""));
-  for (const id of ["busca", "grupo", "cpi"]) $(id).addEventListener("input", listar);
+  for (const id of ["busca", "grupo", "cpi", "uf"]) $(id).addEventListener("input", listar);
   $("lista").addEventListener("click", (e) => {
     const b = e.target.closest(".cartao");
     if (!b) return;

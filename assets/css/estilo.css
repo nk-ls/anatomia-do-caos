@@ -260,3 +260,11 @@ figure details { overflow-x: auto; }
   .barra-linha { grid-template-columns: 1fr auto; }
   .barra-rotulo { grid-column: 1 / -1; }
 }
+
+/* Página Estados */
+button.barra-linha { width: 100%; background: none; border: 0; font: inherit; text-align: left; cursor: pointer; }
+.grafico-uf .barra { --c: var(--neutro); }
+.grafico-uf .escolhido .barra { --c: var(--destaque); }
+.grafico-uf .escolhido .barra-rotulo { font-weight: 700; color: var(--texto); }
+.linha-brasil { font-size: .88rem; color: var(--suave); padding-top: 6px; border-top: 1px dashed var(--borda); }
+.etiqueta.uf { color: var(--texto); }
