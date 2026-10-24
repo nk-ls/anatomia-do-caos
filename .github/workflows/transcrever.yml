@@ -1,0 +1,41 @@
+name: transcrever-documentario
+
+# Baixa legenda (ou áudio + Whisper) do documentário e publica o texto
+# no ramo `bruto/transcricao`, que NÃO deve ir para a versão pública.
+on:
+  workflow_dispatch:
+    inputs:
+      videos:
+        description: "IDs do YouTube separados por espaço"
+        default: "MG3XZYu0_No 1HhVj0v8Uq0"
+  push:
+    branches: [main]
+    paths: [".github/workflows/transcrever.yml", "scripts/transcrever.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  transcrever:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+      - run: pip install -q -U yt-dlp youtube-transcript-api faster-whisper
+      - name: Transcrever
+        run: python scripts/transcrever.py saida ${{ github.event.inputs.videos || 'MG3XZYu0_No 1HhVj0v8Uq0' }}
+      - name: Publicar no ramo bruto/transcricao
+        if: always()
+        run: |
+          [ -d saida ] || exit 0
+          git config user.name "transcricao-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git checkout --orphan bruto/transcricao
+          git rm -rq --cached .
+          git add saida
+          git commit -qm "Transcrição bruta do documentário (uso interno, não publicar)"
+          git push -f origin bruto/transcricao

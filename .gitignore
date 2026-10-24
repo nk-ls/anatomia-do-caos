@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+saida/
+*.mp3
+*.m4a
+*.webm
