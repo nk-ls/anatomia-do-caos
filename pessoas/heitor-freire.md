@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **04/2021** (alegação) Técnicos do TCU recomendaram processo sobre sua conduta, apontando "graves omissões" no comitê de crise, como falhas no monitoramento de oxigênio e leitos [fonte](https://www.gazetadopovo.com.br/republica/tcu-omissao-braga-netto-covid/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **04/2020** (fato) Coordenou o centro de operações do comitê de crise da Covid-19 como subchefe na Casa Civil [fonte](https://legis.senado.leg.br/sdleg-getter/documento?dm=8976841)
 
 ## Na CPI da Covid
 

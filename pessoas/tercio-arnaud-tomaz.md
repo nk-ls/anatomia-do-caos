@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **2020** (alegação) Integrou no Twitter grupo de ataques a Mandetta, a quem chamou de "genocida" por recomendar que pessoas com sintomas leves ficassem em casa [fonte](https://outraspalavras.net/outrasmidias/comecam-a-aparecer-os-membros-do-gabinete-do-odio/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **2021** (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilo determinada pela CPI, que investigava o chamado "gabinete do ódio" [fonte](https://oantagonista.com.br/?p=604008)
 
 ## Na CPI da Covid
 

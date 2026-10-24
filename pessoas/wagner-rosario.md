@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **07/2021** (fato) Auditoria da CGU sobre a Covaxin não achou sobrepreço, identificou documentos fraudados apresentados pela Precisa e enviou o caso à PF [fonte](https://www.infomoney.com.br/?p=1673206)
 
 ## 🔴 O que fez contra o combate à pandemia
 
@@ -15,7 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **21/09/2021** (fato) Chamou a senadora Simone Tebet de "descontrolada" na CPI e passou à condição de investigado [fonte](https://www.poder360.com.br/cpi-da-covid/wagner-rosario-chama-senadora-de-descontrolada-e-cpi-passa-a-investiga-lo/)
+- **01/08/2022** (decisão judicial) Ministro Ricardo Lewandowski (STF) arquivou, a pedido da PGR, a investigação aberta a partir do relatório da CPI [fonte](https://www.cnnbrasil.com.br/nacional/lewandowski-arquiva-investigacao-contra-ministro-da-cgu/)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Afirmou que a CGU atuou adequadamente no controle da compra da Covaxin e que o cancelamento do contrato mostra que não houve crime ([fonte](https://www.lex.com.br/ministro-lewandowski-atende-pedido-da-pgr-e-arquiva-investigacao-da-cpi-contra-ministro-da-cgu/))
 
 ## Fontes da ficha
 

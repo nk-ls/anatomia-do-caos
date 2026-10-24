@@ -12,10 +12,11 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **2020** (alegação) Segundo Barra Torres, convocou e conduziu a reunião no Planalto em que se propôs mudar a bula da cloroquina. [fonte](https://www.poder360.com.br/congresso/barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cloroquina/)
+- **04/2021** (alegação) Técnicos do TCU recomendaram processo sobre sua conduta, apontando "graves omissões" no comitê de crise, como falhas no monitoramento de oxigênio e leitos [fonte](https://www.gazetadopovo.com.br/republica/tcu-omissao-braga-netto-covid/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **03/2020** (fato) Designado coordenador do comitê de crise da Covid-19 do governo federal [fonte](https://www.cnnbrasil.com.br/politica/bolsonaro-coloca-general-para-comandar-gabinete-de-crise-contra-coronavirus/)
 
 ## Na CPI da Covid
 

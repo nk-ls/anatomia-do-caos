@@ -7,15 +7,17 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **01/04/2020** (fato) Anunciou o início do pagamento do auxílio emergencial de R$ 600 a beneficiários do Bolsa Família em 10 de abril [fonte](https://www.opovo.com.br/coronavirus/2020/04/01/amp/auxilio-de-r--600-comecara-a-ser-pago-dia-10-de-abril-para-beneficiarios-do-bolsa-familia--diz-onyx.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **20/07/2020** (declaração) Anunciou estar com Covid-19 e tratar-se com cloroquina, azitromicina e ivermectina, medicamentos sem eficácia comprovada [fonte](https://www.agazeta.com.br/brasil/onyx-lorenzoni-anuncia-estar-com-coronavirus-e-usando-cloroquina-0720)
+- **01/11/2021** (fato) Editou portaria que proibia a demissão de trabalhadores que recusassem a vacina contra a Covid-19 [fonte](https://www.poder360.com.br/governo/stf-da-5-dias-para-onyx-explicar-portaria-que-proibe-demissao-de-nao-vacinados/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **23/06/2021** (fato) Em pronunciamento no Planalto, anunciou que a PF investigaria o deputado Luis Miranda e o irmão, autores da denúncia sobre a Covaxin [fonte](https://www.brasildefato.com.br/2021/06/23/bolsonaro-manda-pf-investigar-deputado-que-denunciou-corrupcao-em-compra-de-vacina)
+- **11/2021** (decisão judicial) Ministro Luís Roberto Barroso (STF) suspendeu a portaria que impedia demissão de não vacinados [fonte](https://www.poder360.com.br/economia/governo-vai-recorrer-de-decisao-que-permite-demissao-de-nao-vacinados/)
 
 ## Na CPI da Covid
 
@@ -29,7 +31,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Manteve que o deputado Luis Miranda fez denunciação caluniosa sobre a compra da Covaxin ([fonte](https://www.metropoles.com/colunas/janela-indiscreta/treta-da-covaxin-onyx-e-miranda-se-estranham-em-comissao-da-camara))
 
 ## Fontes da ficha
 

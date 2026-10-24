@@ -7,15 +7,22 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **14/05/2021** (fato) Confirmou a assinatura do segundo contrato com a Pfizer, de 100 milhões de doses [fonte](https://forbes.com.br/negocios/2021/05/queiroga-anuncia-assinatura-de-contrato-com-pfizer-para-100-milhoes-de-doses-de-vacinas/)
+- **20/09/2021** (declaração) Afirmou que evento adverso "não invalida" a vacinação de adolescentes [fonte](https://www.poder360.com.br/governo/queiroga-diz-que-evento-adverso-nao-invalida-vacinacao-de-adolescentes/)
+- **10/2021** (fato) Convidou o pneumologista Carlos Carvalho para elaborar estudo da Conitec, que não recomendou o "kit covid" [fonte](https://www.metropoles.com/brasil/estudo-encomendado-por-queiroga-nao-recomenda-uso-do-kit-covid)
+- **16/11/2021** (fato) Anunciou dose de reforço para todos os adultos cinco meses após a segunda dose [fonte](https://abcdoabc.com.br/ministerio-anuncia-dose-de-reforco-contra-a-covid-a-todos-com-mais-de-18-anos/)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **08/2021** (declaração) Declarou-se contra o uso obrigatório de máscara, preferindo campanha de conscientização a multas [fonte](https://www.poder360.com.br/governo/queiroga-diz-ser-contra-uso-obrigatorio-de-mascara/)
+- **25/08/2021** (declaração) Disse que o ministério estudava, a pedido de Bolsonaro, desobrigar o uso de máscara [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/queiroga-a-pedido-de-bolsonaro-pasta-estuda-possibilidade-de-desobrigar-mascara/)
+- **15/09/2021** (fato) Ministério suspendeu por nota informativa a vacinação de adolescentes de 12 a 17 anos sem comorbidades; governo de SP disse que a morte citada não tinha relação causal com a vacina [fonte](https://www.poder360.com.br/brasil/queiroga-critica-estados-e-cidades-por-adiantarem-vacinacao-de-adolescentes/)
+- **10/2021** (alegação) Votação das diretrizes da Conitec contra o "kit covid" foi suspensa; segundo a CPI, por determinação do ministro [fonte](https://www.cartacapital.com.br/?p=233744)
+- **10/2021** (checagem) Aos Fatos o listou entre citados no relatório da CPI que deram declarações falsas ou distorcidas à comissão [fonte](https://www.aosfatos.org/noticias/citados-em-relatorio-da-cpi-da-covid-19-deram-ao-menos-85-declaracoes-enganosas-a-comissao/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **19/10/2021** (declaração) Na CPI, recusou-se a dizer se é a favor do tratamento com cloroquina, alegando não poder fazer "juízo de valor" [fonte](https://www.poder360.com.br/congresso/em-cerca-de-9h-de-fala-a-cpi-queiroga-evita-cloroquina-e-irrita-senadores/)
 
 ## Na CPI da Covid
 
@@ -29,7 +36,7 @@ Set/2022: alvo da apuração de prevaricação (Pet 10065). Mar/2023: Toffoli ar
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Sobre a nota a favor da hidroxicloroquina, disse que era "posição do secretário" Hélio Angotti e que "quem decide é o secretário"; na CPI, afirmou que o presidente apoiava a campanha de vacinação ([fonte](https://www.poder360.com.br/brasil/queiroga-evita-kit-covid-e-atribui-nota-tecnica-a-secretario/))
 
 ## Fontes da ficha
 

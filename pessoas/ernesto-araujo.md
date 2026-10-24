@@ -7,15 +7,17 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **14/01/2021** (fato) Telefonou ao chanceler indiano pedindo a liberação de 2 milhões de doses da vacina AstraZeneca [fonte](https://www.agazeta.com.br/brasil/com-aviao-prestes-a-decolar-ministro-de-bolsonaro-apela-a-indianos-por-vacinas-0121)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **22/04/2020** (declaração) Publicou em blog o texto "Chegou o Comunavírus", dizendo que a pandemia era usada para implantar o comunismo e criticando a OMS [fonte](https://observador.pt/2020/04/22/ministro-brasileiro-diz-que-pandemia-e-usada-para-implantar-o-comunismo-e-ataca-oms/)
+- **18/05/2021** (declaração) Disse à CPI que ajudou na importação de insumos da Índia para produção de cloroquina [fonte](https://www.folhavitoria.com.br/politica/cpi-araujo-diz-que-ajudou-na-importacao-de-insumos-da-india-para-cloroquina/)
+- **18/05/2021** (checagem) Aos Fatos classificou como falsa a afirmação, feita à CPI, de que não provocou atritos com a China [fonte](https://www.aosfatos.org/noticias/na-cpi-ernesto-araujo-mente-ao-dizer-que-nao-provocou-atritos-com-china/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **09/2020** (fato) Brasil aderiu ao Covax Facility pela opção mínima (10% da população); Araújo atribuiu a escolha ao Ministério da Saúde [fonte](https://www.correiobraziliense.com.br/politica/2021/05/amp/4925283-ernesto-araujo-diz-que-foi-decisao-da-saude-aderir-ao-minimo-da-covax-facility.html)
 
 ## Na CPI da Covid
 
@@ -29,7 +31,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Na CPI, negou ataques à China e atraso de insumos por suas falas, e atribuiu ao Ministério da Saúde a adesão mínima ao Covax ([fonte](https://www.poder360.com.br/congresso/em-7-horas-de-cpi-ernesto-nega-falas-contra-china-e-cita-bolsonaro-e-pazuello/))
 
 ## Fontes da ficha
 

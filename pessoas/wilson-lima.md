@@ -7,15 +7,19 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **01/2021** (fato) Assinou ofícios alertando Pazuello e o Exército sobre a iminência de esgotamento do oxigênio, segundo a PF [fonte](https://www.metropoles.com/brasil/pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus)
+- **14/01/2021** (fato) Decretou toque de recolher no estado e transferência de pacientes para hospitais de outros estados [fonte](https://www.congressoemfoco.com.br/saude/venezuela-amazonas-oxigenio-manaus/)
+- **26/01/2021** (fato) Governo estadual reabriu o hospital Nilton Lins para pacientes de Covid-19, com 80 leitos clínicos e 22 de UTI [fonte](https://agenciabrasil.ebc.com.br/saude/noticia/2021-01/hospital-nilton-lins-reabre-para-pacientes-com-covid-19-no-amazonas)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **30/06/2020** (alegação) Alvo de buscas da PF na Operação Sangria, que apura compra de respiradores de uma loja de vinhos com sobrepreço [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/wilson-lima-governador-do-am-e-alvo-de-operacao-da-pf-em-acao-contra-desvios-na-saude/)
+- **23/12/2020** (fato) Decretou fechamento do comércio não essencial; após crítica de Bolsonaro, recuou e autorizou o funcionamento [fonte](https://www.poder360.com.br/coronavirus/a-sucessao-erros-manaus-dw/)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **06/2021** (decisão judicial) Ministra Rosa Weber autorizou que não comparecesse à CPI, por ser investigado por desvio de recursos na pandemia [fonte](https://www.noticiasagricolas.com.br/noticia/290029)
+- **2022** (decisão judicial) STJ aceitou denúncia da PGR sobre a compra de respiradores e o tornou réu [fonte](https://istoe.com.br/pf-apura-superfaturamento-na-compra-de-respiradores-envolvendo-governador-e-vice-do-amazonas/)
 
 ## Na CPI da Covid
 
@@ -29,7 +33,7 @@ Ficou fora do inquérito de 2025 (Agência Pública).
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Pediu ao STF a suspensão do trecho do relatório da CPI, alegando violação da separação de poderes ([fonte](https://crusoe.com.br/?p=183233))
 
 ## Fontes da ficha
 

@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **06/2021** (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilos determinada pela CPI, que apurava sua atuação em suposto boicote à compra de vacinas [fonte](https://www.poder360.com.br/justica/weber-mantem-quebra-de-sigilo-contra-filipe-martins/)
 
 ## Na CPI da Covid
 

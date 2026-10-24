@@ -7,15 +7,16 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **09/09/2020** (declaração) Anunciou que o acordo de desenvolvimento tecnológico com a AstraZeneca, via Fiocruz, havia sido assinado [fonte](https://istoe.com.br/brasil-mantera-contrato-com-astrazeneca)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **2020** (alegação) Segundo o gerente-geral da Pfizer, Carlos Murillo, tratou diretamente com a farmacêutica durante as ofertas de doses não aceitas em 2020 [fonte](https://diariodonordeste.verdesmares.com.br/politica/cpi-da-covid-19-ouve-elcio-franco-numero-2-do-ministerio-da-saude-em-gestao-de-pazuello-1.3095515)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **23/06/2021** (fato) Esteve ao lado de Onyx Lorenzoni em pronunciamento no Planalto contra as denúncias dos irmãos Miranda sobre a Covaxin, com documentos preparados por ele [fonte](https://www.metropoles.com/colunas/guilherme-amado/ex-numero-dois-da-saude-fez-documentos-para-rebater-denuncia-sobre-covaxin)
+- **23/06/2021** (fato) Em pronunciamento no Planalto, anunciou que a PF investigaria o deputado Luis Miranda e o irmão, autores da denúncia sobre a Covaxin [fonte](https://www.brasildefato.com.br/2021/06/23/bolsonaro-manda-pf-investigar-deputado-que-denunciou-corrupcao-em-compra-de-vacina)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Set/2022: alvo da apuração de prevaricação (Pet 10065).
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Na CPI, disse que a Pfizer era inflexível quanto às cláusulas do contrato e criticou a exigência de medida provisória convertida em lei ([fonte](https://www.agazeta.com.br/brasil/franco-critica-exigencias-da-pfizer-para-venda-de-vacina-contra-covid-19-0621))
 
 ## Fontes da ficha
 

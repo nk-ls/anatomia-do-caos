@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **2020** (alegação) Atuou no Ministério da Saúde sob Pazuello como "número 2" informal, reunindo-se com gestores sem cargo formal [fonte](https://www.metropoles.com/brasil/numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **05/08/2021** (declaração) Disse à CPI que, se pudesse, teria comprado antecipadamente as vacinas da Pfizer e da Janssen [fonte](https://revistaoeste.com/brasil/se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacinas/)
 
 ## Na CPI da Covid
 
@@ -29,7 +29,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Negou ter sido "ministro terceirizado" de Pazuello e disse que o convite partiu de Nelson Teich ([fonte](https://www.correiobraziliense.com.br/politica/2021/08/amp/4941935-cascavel-nega-em-cpi-que-tenha-sido-ministro-terceirizado-de-pazuello.html))
 
 ## Fontes da ficha
 

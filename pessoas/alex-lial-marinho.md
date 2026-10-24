@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **03/2021** (alegação) O servidor Luis Ricardo Miranda apontou os três superiores como autores de "pressão atípica" para liberar a importação da Covaxin [fonte](https://www.agazeta.com.br/brasil/covaxin-servidor-disse-que-avisou-bolsonaro-que-tres-superiores-o-pressionaram-0621)
+- **31/03/2021** (alegação) Luis Ricardo Miranda declarou ao MPF ter sofrido "pressão anormal" de Marinho pela importação da Covaxin [fonte](https://www.correiobraziliense.com.br/politica/2021/06/4932723-servidor-relatou-pressao-dentro-da-saude-para-importacao-da-covaxin.html)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **06/2021** (fato) CPI aprovou sua convocação e quebras de sigilo bancário, fiscal, telefônico e telemático [fonte](https://jovempan.com.br/politica/senadores-aprovam-convocacao-de-assessor-de-pazuello-citado-em-depoimento-ao-mpf/)
 
 ## Na CPI da Covid
 

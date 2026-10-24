@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **01/2022** (fato) Assinou nota técnica que rejeitou diretriz da Conitec contra o "kit covid" e trazia tabela apontando hidroxicloroquina como eficaz e vacinas sem eficácia demonstrada [fonte](https://www.correiobraziliense.com.br/brasil/2022/01/amp/4979525-covid-19-hidroxicloroquina-funciona-e-vacina-nao-diz-ministerio-da-saude.html)
+- **01/2022** (fato) Nota foi substituída por nova versão, também assinada por ele; segundo o MPF, a nova versão ainda rejeitava as diretrizes da Conitec [fonte](https://redeondadigital.com.br/saude/ministerio-da-saude-altera-nota-polemica-que-defendia-cloroquina)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **01/2022** (fato) Conass e Conasems pediram ao ministério a revogação da nota técnica [fonte](https://www.poder360.com.br/coronavirus/conass-pede-revogacao-de-portaria-sobre-kit-covid/)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Nenhum desdobramento localizado neste levantamento.
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Defendeu o parecer sobre cloroquina e vacina, sem negar o que estava escrito na nota ([fonte](https://www.metropoles.com/brasil/sem-negar-o-escrito-angotti-defende-parecer-sobre-cloroquina-e-vacina))
 
 ## Fontes da ficha
 

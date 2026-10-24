@@ -11,11 +11,12 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **03/2021** (alegação) O servidor Luis Ricardo Miranda apontou os três superiores como autores de "pressão atípica" para liberar a importação da Covaxin [fonte](https://www.agazeta.com.br/brasil/covaxin-servidor-disse-que-avisou-bolsonaro-que-tres-superiores-o-pressionaram-0621)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **07/2021** (fato) CPI aprovou sua convocação como apontado por pressionar no negócio da Covaxin [fonte](https://www.bemparana.com.br/noticia/em-meio-a-novas-denuncias-cpi-convoca-ricardo-barros)
+- **08/2021** (fato) Recebeu cargo de assessoria técnica no Exército após ser investigado pela CPI [fonte](https://apublica.org/2021/08/envolvido-em-negociacoes-paralelas-de-vacina-ganha-cargo-no-exercito/)
 
 ## Na CPI da Covid
 

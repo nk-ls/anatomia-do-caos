@@ -7,15 +7,16 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **07/01/2021** (declaração) Disse à CPI ter telefonado a Pazuello em 7 de janeiro pedindo apoio logístico para levar oxigênio a Manaus [fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-campelo-contradiz-pazuello-sobre-crise-de-oxigenio-no-amazonas/)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **10/2021** (alegação) Pedido do senador Eduardo Braga o acusou de prevaricação, improbidade, crime contra a humanidade e falso testemunho [fonte](https://congressoemfoco.com.br/noticia/37936/braga-pede-indiciamento-de-governador-do-amazonas-a-cpi)
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **02/06/2021** (fato) Preso temporariamente na Operação Sangria, que apurava contratação suspeita para hospital de campanha [fonte](https://revistaoeste.com/politica/cpi-da-covid-ex-secretario-de-saude-do-am-presta-depoimento-hoje/)
+- **15/06/2021** (declaração) Afirmou à CPI que a falta de oxigênio durou apenas os dias 14 e 15 de janeiro [fonte](https://diariodopoder.com.br/brasil-e-regioes/ex-secretario-de-saude-do-am-diz-que-falta-de-oxigenio-durou-dois-dias)
 
 ## Na CPI da Covid
 
@@ -29,7 +30,7 @@ Ficou fora do inquérito de 2025 (Agência Pública).
 
 ## O que a pessoa diz
 
-Nenhuma manifestação registrada neste levantamento. A defesa ou resposta, com fonte, pode ser enviada por *issue* e será publicada.
+Disse que avisou Pazuello em 7 de janeiro e que o Ministério da Saúde não respondeu a ofícios do governo estadual ([fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-campelo-contradiz-pazuello-sobre-crise-de-oxigenio-no-amazonas/))
 
 ## Fontes da ficha
 
