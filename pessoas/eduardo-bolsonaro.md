@@ -1,5 +1,9 @@
 # Eduardo Bolsonaro
 
+<img src="../assets/fotos/eduardo-bolsonaro.jpg" alt="Foto oficial de Eduardo Bolsonaro" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/92346)</sub>
+
 **Cargo à época:** Deputado federal (SP); filho do presidente  
 **Grupo:** Presidência da República e família
 

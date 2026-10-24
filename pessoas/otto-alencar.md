@@ -1,5 +1,9 @@
 # Otto Alencar
 
+<img src="../assets/fotos/otto-alencar.jpg" alt="Foto oficial de Otto Alencar" width="120" height="120">
+
+<sub>Foto oficial: Senado Federal · [origem](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5523)</sub>
+
 **Cargo à época:** Senador (PSD-BA), médico; membro da CPI  
 **Grupo:** Atuaram a favor da população
 

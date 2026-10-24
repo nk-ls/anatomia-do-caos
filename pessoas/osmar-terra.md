@@ -1,5 +1,9 @@
 # Osmar Terra
 
+<img src="../assets/fotos/osmar-terra.jpg" alt="Foto oficial de Osmar Terra" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/73692)</sub>
+
 **Cargo à época:** Deputado federal (MDB-RS); ex-ministro da Cidadania  
 **Grupo:** Parlamentares
 

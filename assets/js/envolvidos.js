@@ -8,7 +8,7 @@ const TITULOS = [
   ["processual", "⚪ Fatos processuais e neutros"],
 ];
 
-const estado = { pessoas: [], atosPor: new Map(), copias: new Map() };
+const estado = { pessoas: [], atosPor: new Map(), copias: new Map(), fotos: new Map() };
 const $ = (id) => document.getElementById(id);
 
 function segundos(t) {
@@ -24,9 +24,21 @@ function contar(id, av) {
   return (estado.atosPor.get(id) || []).filter((a) => a.avaliacao === av).length;
 }
 
+function iniciais(nome) {
+  return nome.replace(/["“”]/g, "").split(/\s+/).filter((w) => w.length > 2 || /^[A-ZÁÉÍÓÚ]/.test(w)).slice(0, 2).map((w) => w[0]).join("").toUpperCase();
+}
+
+function avatar(p, grande = false) {
+  const f = estado.fotos.get(p.id);
+  const cls = grande ? "avatar grande" : "avatar";
+  return f
+    ? `<img class="${cls}" src="${esc(f.arquivo)}" alt="Foto oficial de ${esc(p.nome)}" title="${esc(f.credito)}" loading="lazy" width="${grande ? 96 : 44}" height="${grande ? 96 : 44}">`
+    : `<span class="${cls} sem-foto" aria-hidden="true">${esc(iniciais(p.nome))}</span>`;
+}
+
 function cartao(p) {
   return `<button class="cartao" type="button" data-id="${esc(p.id)}">
-    <h3>${esc(p.nome)}</h3><p>${esc(p.cargo_epoca)}</p>
+    <div class="cartao-topo">${avatar(p)}<div><h3>${esc(p.nome)}</h3><p>${esc(p.cargo_epoca)}</p></div></div>
     <div class="contagem">
       <span class="selo favor">🟢 ${contar(p.id, "a favor")}</span>
       <span class="selo contra">🔴 ${contar(p.id, "contra")}</span>
@@ -61,7 +73,8 @@ function ficha(p) {
     : "<p>Sem pedido de indiciamento no relatório final.</p>";
   $("ficha").innerHTML = `<article class="ficha" aria-live="polite">
     <button class="voltar" type="button" id="fechar">← voltar à lista</button>
-    <h2>${esc(p.nome)}</h2>
+    <div class="ficha-topo">${avatar(p, true)}<h2>${esc(p.nome)}</h2></div>
+    ${estado.fotos.get(p.id) ? `<p class="nota">${esc(estado.fotos.get(p.id).credito)} · <a href="${linkSeguro(estado.fotos.get(p.id).pagina)}" target="_blank" rel="noopener">origem</a></p>` : ""}
     <p><strong>Cargo à época:</strong> ${esc(p.cargo_epoca)}<br><span class="nota">${esc(p.grupo)}</span></p>
     ${blocos}
     <h3>Na CPI da Covid</h3>${cpi}
@@ -82,7 +95,8 @@ function mostrar() {
 }
 
 async function iniciar() {
-  const [pessoas, atos, fontes] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv")]);
+  const [pessoas, atos, fontes, fotos] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv"), carregarCSV("dados/fotos.csv")]);
+  for (const f of fotos) estado.fotos.set(f.id, f);
   for (const f of fontes) if (f.copia_arquivada) estado.copias.set(f.url, f.copia_arquivada);
   estado.pessoas = pessoas;
   for (const a of atos) {

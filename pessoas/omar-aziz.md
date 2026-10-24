@@ -1,5 +1,9 @@
 # Omar Aziz
 
+<img src="../assets/fotos/omar-aziz.jpg" alt="Foto oficial de Omar Aziz" width="120" height="120">
+
+<sub>Foto oficial: Senado Federal · [origem](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5525)</sub>
+
 **Cargo à época:** Senador (PSD-AM); presidente da CPI  
 **Grupo:** Atuaram a favor da população
 

@@ -1,5 +1,9 @@
 # Eduardo Pazuello
 
+<img src="../assets/fotos/eduardo-pazuello.jpg" alt="Foto oficial de Eduardo Pazuello" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/220611)</sub>
+
 **Cargo à época:** Ministro da Saúde (interino a partir de 15/05/2020; exonerado em 23/03/2021)  
 **Grupo:** Ministério da Saúde
 

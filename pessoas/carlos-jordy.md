@@ -1,5 +1,9 @@
 # Carlos Jordy
 
+<img src="../assets/fotos/carlos-jordy.jpg" alt="Foto oficial de Carlos Jordy" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/204460)</sub>
+
 **Cargo à época:** Deputado federal  
 **Grupo:** Parlamentares
 

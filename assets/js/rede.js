@@ -23,8 +23,9 @@ function el(nome, attrs = {}, pai) {
 }
 
 export async function montarRede(alvo, painel, opcoes = {}) {
-  const [rede, atos, pessoas] = await Promise.all([
-    fetch("dados/rede.json").then((r) => r.json()), carregarCSV("dados/atos.csv"), carregarCSV("dados/pessoas.csv")]);
+  const [rede, atos, pessoas, fotos] = await Promise.all([
+    fetch("dados/rede.json").then((r) => r.json()), carregarCSV("dados/atos.csv"), carregarCSV("dados/pessoas.csv"), carregarCSV("dados/fotos.csv").catch(() => [])]);
+  const fotoDe = new Map(fotos.map((f) => [f.id, f]));
   const fichas = Object.fromEntries(pessoas.map((p) => [p.id, p]));
   const nos = rede.nos.map((n) => ({ ...n, vx: 0, vy: 0 }));
   const porId = new Map(nos.map((n) => [n.id, n]));
@@ -64,7 +65,16 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     n.r = tema ? 18 + Math.sqrt(n.total) * 2.4 : 4 + Math.sqrt(n.total) * 1.5;
     n.g = el("g", { class: "no", tabindex: 0, role: "button", "aria-label": n.nome }, gn);
     const cor = tema ? COR_TEMA[n.id.slice(5)] : COR_GRUPO[n.grupo] || "#93c5fd";
-    el("circle", { r: n.r, fill: cor, stroke: tema ? "#0b0d10" : n.cpi ? "#ef4444" : "#0b0d10", "stroke-width": tema ? 3 : n.cpi ? 2 : 1, filter: tema ? "url(#brilho)" : "" }, n.g);
+    const foto = !tema && fotoDe.get(n.id);
+    if (foto) {
+      n.r = Math.max(n.r, 9);
+      const pid = "foto-" + n.id;
+      const pat = el("pattern", { id: pid, width: 1, height: 1, patternContentUnits: "objectBoundingBox" }, defs);
+      el("image", { href: foto.arquivo, width: 1, height: 1, preserveAspectRatio: "xMidYMid slice" }, pat);
+      el("circle", { r: n.r, fill: `url(#${pid})`, stroke: n.cpi ? "#ef4444" : cor, "stroke-width": 2 }, n.g);
+    } else {
+      el("circle", { r: n.r, fill: cor, stroke: tema ? "#0b0d10" : n.cpi ? "#ef4444" : "#0b0d10", "stroke-width": tema ? 3 : n.cpi ? 2 : 1, filter: tema ? "url(#brilho)" : "" }, n.g);
+    }
     n.rot = el("text", { y: tema ? n.r + 16 : -n.r - 5, "text-anchor": "middle", class: tema ? "rot-tema" : "rot-pessoa" }, n.g);
     n.rot.textContent = n.nome;
   }
@@ -186,7 +196,8 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     }
     const lig = arestas.filter((a) => a.de === n.id && visivel(a));
     const p = fichas[n.id] || {};
-    return `<h3><span class="ponto" style="background:${COR_GRUPO[n.grupo] || "#93c5fd"}"></span>${esc(n.nome)}</h3><p class="nota">${esc(p.cargo_epoca || "")}<br>${esc(n.grupo || "")}</p>
+    const ft = fotoDe.get(n.id);
+    return `${ft ? `<img class="avatar grande" src="${esc(ft.arquivo)}" alt="Foto oficial de ${esc(n.nome)}" width="72" height="72"><p class="nota">${esc(ft.credito)}</p>` : ""}<h3><span class="ponto" style="background:${COR_GRUPO[n.grupo] || "#93c5fd"}"></span>${esc(n.nome)}</h3><p class="nota">${esc(p.cargo_epoca || "")}<br>${esc(n.grupo || "")}</p>
       ${p.crimes_cpi ? '<p class="nota">⚖️ Teve pedido de indiciamento na CPI. Pedido não é condenação.</p>' : ""}
       ${lig.map((a) => `<h4>${esc(a.para_.nome)} <span class="selo ${a.tipo === "ambos" ? "" : a.tipo}">(${NOME_LIGA[a.tipo]})</span></h4><ul class="atos">${a.atos.map(itemAto).join("")}</ul>`).join("")}
       <p><a href="envolvidos.html?id=${encodeURIComponent(n.id)}">Ficha completa, defesa e situação judicial →</a></p>`;

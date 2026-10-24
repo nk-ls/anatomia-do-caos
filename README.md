@@ -130,7 +130,7 @@ Nenhum desses números é exato, e cada um depende de premissas explicadas no do
 1. **Fonte primária primeiro**: Senado (CPI da Covid), Anvisa, Ministério da Saúde, STF, Diário Oficial, artigos científicos revisados.
 2. **Cada afirmação com link e data.** O que não tem fonte verificável sai ou fica marcado como lacuna.
 3. **Fato ≠ alegação ≠ estimativa ≠ opinião.** Pedido de indiciamento não é condenação. Estimativa vem com método e limitação. Opinião do autor fica em seção própria.
-4. **Só figuras públicas ou pessoas com atuação pública documentada, e só atos públicos documentados.** Dado público é público: o acesso à informação é a prioridade, sempre com a fonte ao lado.
+4. **Só figuras públicas ou pessoas com atuação pública documentada, e só atos públicos documentados.** Dado público é público: o acesso à informação é a prioridade, sempre com a fonte ao lado. Fotos só de agentes públicos, as oficiais da Câmara e do Senado, com crédito ([`dados/fotos.csv`](dados/fotos.csv)); quem não tem cargo público aparece com as iniciais, em respeito ao direito de imagem.
 5. **Reprodutível**: `python scripts/gerar_graficos.py` refaz os gráficos e o CSV a partir da planilha.
 
 Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 2026), sobre os bastidores da CPI da Covid.

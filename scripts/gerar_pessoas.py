@@ -53,10 +53,15 @@ def copias():
 
 
 COPIAS = {}
+FOTOS = {}
 
 
 def pagina(p, atos):
-    lin = [f"# {p['nome']}", "", f"**Cargo à época:** {p['cargo_epoca']}  ", f"**Grupo:** {p['grupo']}", ""]
+    lin = [f"# {p['nome']}", ""]
+    if p["id"] in FOTOS:
+        ft = FOTOS[p["id"]]
+        lin += [f'<img src="../{ft["arquivo"]}" alt="Foto oficial de {p["nome"]}" width="120" height="120">', "", f"<sub>{ft['credito']} · [origem]({ft['pagina']})</sub>", ""]
+    lin += [f"**Cargo à época:** {p['cargo_epoca']}  ", f"**Grupo:** {p['grupo']}", ""]
     lin += ["> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). "
             "Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.", ""]
     for titulo, chave in [("🟢 O que fez a favor do combate à pandemia", "a favor"),
@@ -86,6 +91,8 @@ def pagina(p, atos):
 
 def main():
     COPIAS.update(copias())
+    if (RAIZ / "dados" / "fotos.csv").exists():
+        FOTOS.update({r["id"]: r for r in ler("fotos.csv")})
     pessoas = ler("pessoas.csv")
     atos_por = defaultdict(list)
     for a in ler("atos.csv"):

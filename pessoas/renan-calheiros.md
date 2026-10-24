@@ -1,5 +1,9 @@
 # Renan Calheiros
 
+<img src="../assets/fotos/renan-calheiros.jpg" alt="Foto oficial de Renan Calheiros" width="120" height="120">
+
+<sub>Foto oficial: Senado Federal · [origem](https://www25.senado.leg.br/web/senadores/senador/-/perfil/70)</sub>
+
 **Cargo à época:** Senador (MDB-AL); relator da CPI  
 **Grupo:** Atuaram a favor da população
 

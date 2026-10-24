@@ -1,5 +1,9 @@
 # Flávio Bolsonaro
 
+<img src="../assets/fotos/flavio-bolsonaro.jpg" alt="Foto oficial de Flávio Bolsonaro" width="120" height="120">
+
+<sub>Foto oficial: Senado Federal · [origem](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894)</sub>
+
 **Cargo à época:** Senador (RJ); filho do presidente  
 **Grupo:** Presidência da República e família
 

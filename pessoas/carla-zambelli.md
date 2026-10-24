@@ -1,5 +1,9 @@
 # Carla Zambelli
 
+<img src="../assets/fotos/carla-zambelli.jpg" alt="Foto oficial de Carla Zambelli" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/204507)</sub>
+
 **Cargo à época:** Deputada federal  
 **Grupo:** Parlamentares
 

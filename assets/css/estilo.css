@@ -188,3 +188,13 @@ body.tela-cheia { height: 100vh; overflow: hidden; background: #0b0d10; color: #
 .rede-filtros #ajuda h3 { margin-top: 0; }
 @media (max-width: 700px) { .rede-cheia .rede-controles { top: 12px; bottom: auto; left: auto; right: 12px; } }
 .rede-aviso { position: absolute; left: 50%; bottom: 14px; transform: translateX(-50%); background: rgba(27,30,35,.95); border: 1px solid #2e333a; border-radius: 999px; padding: 6px 14px; font-size: .85rem; margin: 0; max-width: calc(100vw - 120px); text-align: center; }
+
+/* Fotos oficiais e iniciais */
+.avatar { width: 44px; height: 44px; border-radius: 50%; object-fit: cover; flex: none; background: var(--borda); }
+.avatar.grande { width: 96px; height: 96px; }
+.rede-painel .avatar.grande { width: 72px; height: 72px; float: left; margin: 0 12px 8px 0; }
+.avatar.sem-foto { display: inline-grid; place-items: center; font-weight: 700; font-size: .95rem; color: var(--suave); border: 1px solid var(--borda); background: var(--fundo); }
+.avatar.grande.sem-foto { font-size: 1.8rem; }
+.cartao-topo { display: flex; gap: 12px; align-items: center; }
+.ficha-topo { display: flex; gap: 16px; align-items: center; }
+.ficha-topo h2 { margin: 0; }

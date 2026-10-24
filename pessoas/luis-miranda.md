@@ -1,5 +1,9 @@
 # Luis Miranda e Luis Ricardo Miranda
 
+<img src="../assets/fotos/luis-miranda.jpg" alt="Foto oficial de Luis Miranda e Luis Ricardo Miranda" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/204381)</sub>
+
 **Cargo à época:** Deputado federal (DEM-DF) e servidor do Ministério da Saúde  
 **Grupo:** Atuaram a favor da população
 

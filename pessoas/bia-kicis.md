@@ -1,5 +1,9 @@
 # Bia Kicis
 
+<img src="../assets/fotos/bia-kicis.jpg" alt="Foto oficial de Bia Kicis" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/204374)</sub>
+
 **Cargo à época:** Deputada federal  
 **Grupo:** Parlamentares
 

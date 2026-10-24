@@ -1,5 +1,9 @@
 # Randolfe Rodrigues
 
+<img src="../assets/fotos/randolfe-rodrigues.jpg" alt="Foto oficial de Randolfe Rodrigues" width="120" height="120">
+
+<sub>Foto oficial: Senado Federal · [origem](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5012)</sub>
+
 **Cargo à época:** Senador (Rede-AP); vice-presidente da CPI  
 **Grupo:** Atuaram a favor da população
 

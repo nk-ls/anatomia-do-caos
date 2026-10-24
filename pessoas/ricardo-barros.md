@@ -1,5 +1,9 @@
 # Ricardo Barros
 
+<img src="../assets/fotos/ricardo-barros.jpg" alt="Foto oficial de Ricardo Barros" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/73788)</sub>
+
 **Cargo à época:** Deputado federal (PP-PR); líder do governo na Câmara  
 **Grupo:** Parlamentares
 

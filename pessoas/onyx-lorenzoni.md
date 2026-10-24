@@ -1,5 +1,9 @@
 # Onyx Lorenzoni
 
+<img src="../assets/fotos/onyx-lorenzoni.jpg" alt="Foto oficial de Onyx Lorenzoni" width="120" height="120">
+
+<sub>Foto oficial: Câmara dos Deputados · [origem](https://www.camara.leg.br/deputados/74399)</sub>
+
 **Cargo à época:** Ministro (Cidadania; Secretaria-Geral; Trabalho e Previdência)  
 **Grupo:** Outros ministérios e órgãos federais
 
