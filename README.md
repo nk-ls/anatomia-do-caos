@@ -154,7 +154,7 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 | [`dados/`](dados/) | Planilha dos 234 países; `pessoas.csv` e `atos.csv` (envolvidos e seus atos, com fonte); `fontes.csv` (todas as fontes, com cópia arquivada e onde são usadas) |
 | [`graficos/`](graficos/) | Gráficos (PNG) |
 | [`pessoas/`](pessoas/README.md) | Uma ficha por envolvido: atos a favor e contra, CPI, desdobramentos, defesa |
-| [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [Pfizer e desvios](docs/pfizer-e-desvios.md), [roteiro de lançamento](docs/roteiro-de-lancamento.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |
+| [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [Pfizer e desvios](docs/pfizer-e-desvios.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |
 | [Arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes) | Cópias datadas de cada fonte citada (repositório separado) |
 | [`scripts/`](scripts/) | Código Python que gera planilhas, gráficos e fichas |
 | `index.html`, `envolvidos.html`, [`assets/`](assets/) | O site (HTML, CSS e JavaScript) |
