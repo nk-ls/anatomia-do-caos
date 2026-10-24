@@ -96,13 +96,18 @@ def main():
     if man.exists():
         for r in csv.DictReader(open(man, encoding="utf-8")):
             if r["status"] == "200":
-                ext = "pdf" if r["tipo"] == "pdf" else "html"
-                bruto = FONTES / "arquivo" / r["id"] / f"{r['coletado_em'][:10]}.{ext}"
+                # a cópia é o arquivo da pasta cuja impressão digital é a registrada no manifesto
+                import hashlib
+                pasta = FONTES / "arquivo" / r["id"]
+                candidatos = [f for f in pasta.glob("*") if f.suffix in (".html", ".pdf")]
+                bruto = next((f for f in candidatos if hashlib.sha256(f.read_bytes()).hexdigest() == r["sha256"]), None)
+                if bruto is None:
+                    continue
                 arquivo[r["url"]] = dict(
                     copia=f"{REPO_FONTES}/arquivo/{r['id']}/{bruto.name}",
-                    texto=f"{REPO_FONTES}/arquivo/{r['id']}/{r['coletado_em'][:10]}.txt",
+                    texto=f"{REPO_FONTES}/arquivo/{r['id']}/{bruto.stem}.txt",
                     data=r["coletado_em"][:10], sha=r["sha256"],
-                    titulo=titulo_arquivado(bruto) if ext == "html" else "")
+                    titulo=titulo_arquivado(bruto) if bruto.suffix == ".html" else "")
 
     # cópias guardadas nas pastas de documentos: cada linha de tabela dos README que tem
     # uma URL de origem e um arquivo da pasta liga a URL ao arquivo (com o SHA-256 do arquivo).
