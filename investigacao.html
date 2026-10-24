@@ -64,12 +64,13 @@
 <section id="rede">
   <h2>2. A rede: quem fez o quê</h2>
   <p>Cada pessoa ou instituição está ligada aos temas em que atuou. A cor da linha mostra o que ela fez naquele tema. Clique para ver os atos e as provas.</p>
-  <p class="filtros"><label for="rede-busca" hidden>Buscar pessoa</label><input id="rede-busca" list="rede-nomes" placeholder="Buscar pessoa ou tema" autocomplete="off"><datalist id="rede-nomes"></datalist></p>
+  <p class="filtros"><label for="rede-busca" hidden>Buscar pessoa</label><input id="rede-busca" list="rede-nomes" placeholder="Buscar pessoa ou tema" autocomplete="off"><datalist id="rede-nomes"></datalist>
+    <label for="rede-uf" hidden>Estado</label><select id="rede-uf"><option value="">Todos os estados</option><option value="Federal">Atuação federal ou nacional</option></select></p>
   <div class="rede">
     <div class="rede-quadro" id="rede-quadro"><p class="nota" style="color:#e5e7eb;padding:16px">Carregando a rede…</p></div>
     <aside class="rede-painel" id="rede-painel" aria-live="polite"></aside>
   </div>
-  <p><a class="botao-claro" href="rede.html"><strong>⤢ Abrir a rede em tela cheia</strong></a> (com filtros por tema, tipo de ato e pedido da CPI)</p>
+  <p><a class="botao-claro" href="rede.html"><strong>⤢ Abrir a rede em tela cheia</strong></a> (com filtros por tema, tipo de ato, estado e pedido da CPI)</p>
   <p class="nota">Cada ato é ligado a um tema por regras de palavras-chave públicas (<a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/scripts/gerar_rede.py">scripts/gerar_rede.py</a>). Dados: <a href="dados/rede.json">rede.json</a> e <a href="dados/atos.csv">atos.csv</a>.</p>
 </section>
 
@@ -146,6 +147,7 @@
 <section id="votos">
   <h2>4. A CPI: os votos e os efeitos dos votos</h2>
   <p>Em 26/10/2021 os 11 senadores titulares votaram o relatório final. Clique em cada nome para ver o voto e a fonte.</p>
+  <p class="filtros"><label for="voto-uf">Estado</label> <select id="voto-uf"><option value="">Todos os estados</option></select></p>
   <div class="plenario" id="plenario"></div>
   <div id="voto-detalhe" class="nota" aria-live="polite"></div>
   <h3>O que aconteceu depois do voto</h3>

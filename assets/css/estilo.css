@@ -281,3 +281,6 @@ button.barra-linha { width: 100%; background: none; border: 0; font: inherit; te
 .empresa-dados dd { margin: 0; }
 .socios { padding-left: 18px; margin: 0; font-size: .9rem; }
 @media (max-width: 400px) { .empresas { grid-template-columns: 1fr; } .empresa-dados { grid-template-columns: 1fr; } }
+
+.uf-cadeira { font-size: .75rem; color: var(--suave); border: 1px solid var(--borda); border-radius: 999px; padding: 0 6px; }
+.cadeira.apagada { opacity: .25; }

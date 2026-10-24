@@ -23,8 +23,11 @@ function el(nome, attrs = {}, pai) {
 }
 
 export async function montarRede(alvo, painel, opcoes = {}) {
-  const [rede, atos, pessoas, fotos] = await Promise.all([
-    fetch("dados/rede.json").then((r) => r.json()), carregarCSV("dados/atos.csv"), carregarCSV("dados/pessoas.csv"), carregarCSV("dados/fotos.csv").catch(() => [])]);
+  const [rede, atos, pessoas, fotos, ufs, estadosUF] = await Promise.all([
+    fetch("dados/rede.json").then((r) => r.json()), carregarCSV("dados/atos.csv"), carregarCSV("dados/pessoas.csv"), carregarCSV("dados/fotos.csv").catch(() => []),
+    carregarCSV("dados/pessoas_uf.csv").catch(() => []), carregarCSV("dados/estados.csv").catch(() => [])]);
+  const ufDe = new Map(ufs.map((u) => [u.id, u]));
+  const ufsDe = (id) => (ufDe.get(id)?.uf || "Federal").split(";");
   const fotoDe = new Map(fotos.map((f) => [f.id, f]));
   const fichas = Object.fromEntries(pessoas.map((p) => [p.id, p]));
   const nos = rede.nos.map((n) => ({ ...n, vx: 0, vy: 0 }));
@@ -45,8 +48,8 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     n.x = cx * 0.7 + L * 0.15 + Math.cos(i) * 20; n.y = cy * 0.7 + A * 0.15 + Math.sin(i) * 20;
   });
 
-  const filtros = { temas: new Set(temas.map((t) => t.id)), ligas: new Set(Object.keys(COR_LIGA)), soCpi: false };
-  const visivel = (a) => filtros.temas.has(a.para) && filtros.ligas.has(a.tipo) && (!filtros.soCpi || a.de_.cpi);
+  const filtros = { temas: new Set(temas.map((t) => t.id)), ligas: new Set(Object.keys(COR_LIGA)), soCpi: false, uf: "" };
+  const visivel = (a) => filtros.temas.has(a.para) && filtros.ligas.has(a.tipo) && (!filtros.soCpi || a.de_.cpi) && (!filtros.uf || ufsDe(a.de).includes(filtros.uf));
 
   alvo.innerHTML = "";
   const svg = el("svg", { viewBox: `0 0 ${L} ${A}`, class: "rede-svg", role: "img", "aria-label": "Rede de conexões entre pessoas e temas da pandemia" }, alvo);
@@ -140,7 +143,7 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   }
   function rotulos() {
     const escala = L / vb.w;
-    for (const n of nos) if (n.tipo !== "tema") n.rot.style.display = n.destaque || escala > 1.8 || n.total >= (escala > 1.2 ? 4 : 8) ? "" : "none";
+    for (const n of nos) if (n.tipo !== "tema") n.rot.style.display = n.destaque || (filtros.uf && n.ativo) || escala > 1.8 || n.total >= (escala > 1.2 ? 4 : 8) ? "" : "none";
   }
 
   // filtros
@@ -198,6 +201,7 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     const p = fichas[n.id] || {};
     const ft = fotoDe.get(n.id);
     return `${ft ? `<img class="avatar grande" src="${esc(ft.arquivo)}" alt="Foto oficial de ${esc(n.nome)}" width="72" height="72"><p class="nota">${esc(ft.credito)}</p>` : ""}<h3><span class="ponto" style="background:${COR_GRUPO[n.grupo] || "#93c5fd"}"></span>${esc(n.nome)}</h3><p class="nota">${esc(p.cargo_epoca || "")}<br>${esc(n.grupo || "")}</p>
+      ${ufDe.get(n.id) && ufDe.get(n.id).uf !== "Federal" ? `<p class="nota">📍 <a href="estados.html?uf=${esc(ufsDe(n.id)[0])}">${esc(ufsDe(n.id).join(", "))}</a> · ${esc(ufDe.get(n.id).vinculo)}</p>` : ""}
       ${p.crimes_cpi ? '<p class="nota">⚖️ Teve pedido de indiciamento na CPI. Pedido não é condenação.</p>' : ""}
       ${lig.map((a) => `<h4>${esc(a.para_.nome)} <span class="selo ${a.tipo === "ambos" ? "" : a.tipo}">(${NOME_LIGA[a.tipo]})</span></h4><ul class="atos">${a.atos.map(itemAto).join("")}</ul>`).join("")}
       <p><a href="envolvidos.html?id=${encodeURIComponent(n.id)}">Ficha completa, defesa e situação judicial →</a></p>`;
@@ -221,6 +225,9 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     alternarTema(id, on) { on ? filtros.temas.add(id) : filtros.temas.delete(id); aplicarFiltros(); },
     alternarLiga(t, on) { on ? filtros.ligas.add(t) : filtros.ligas.delete(t); aplicarFiltros(); },
     soCpi(on) { filtros.soCpi = on; aplicarFiltros(); },
+    // filtro por estado: "" = todos; "Federal" = atuação federal; "SP", "RJ"... Devolve quantas pessoas ficaram.
+    porEstado(uf) { filtros.uf = uf || ""; aplicarFiltros(); return nos.filter((n) => n.tipo !== "tema" && n.ativo).length; },
+    estados: estadosUF.map((e) => ({ uf: e.uf, nome: e.estado, pessoas: ufs.filter((u) => u.uf.split(";").includes(e.uf) && porId.has(u.id)).length })),
     selecionarPorId(id) { const n = porId.get(id); if (n) selecionar(n); return Boolean(n); },
     buscar(t) { t = t.trim().toLowerCase(); const n = nos.find((x) => x.nome.toLowerCase() === t) || nos.find((x) => x.nome.toLowerCase().includes(t)); if (n) selecionar(n); return n; },
   };
