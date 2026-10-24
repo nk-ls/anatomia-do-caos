@@ -95,7 +95,7 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 
 > 🔎 **Conferido pela busca** (24/10/2026). Cópias datadas de 157 das 182 fontes estão no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Detalhes, citações e todos os links nos documentos indicados. [Como verificamos](docs/verificacao.md).
 
-**Vacinas oferecidas e não respondidas** ([cronologia completa](docs/cronologia.md))
+**Vacinas oferecidas e não respondidas** ([cronologia completa](docs/cronologia.md) · [as 81 correspondências da Pfizer, doses vencidas e fura-fila](docs/pfizer-e-desvios.md))
 - **30/07/2020** — o Instituto Butantan ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020. Segundo Dimas Covas à CPI, não houve resposta.
 - **Agosto de 2020** — a Pfizer fez três ofertas (14, 18 e 26/08), com pelo menos 1,5 milhão de doses ainda em dezembro de 2020. Em 12/09/2020, o presidente da empresa escreveu ao governo: *"até o momento não recebemos uma resposta"*.
 - **21/10/2020** — um dia depois de o ministro Pazuello anunciar a compra de 46 milhões de doses da CoronaVac, o presidente Bolsonaro escreveu: *"NÃO SERÁ COMPRADA"*. Em 22/10, Pazuello: *"Um manda e o outro obedece"*.
@@ -152,7 +152,7 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 | [`dados/`](dados/) | Planilha dos 234 países; `pessoas.csv` e `atos.csv` (envolvidos e seus atos, com fonte); `fontes.csv` (todas as fontes, com cópia arquivada e onde são usadas) |
 | [`graficos/`](graficos/) | Gráficos (PNG) |
 | [`pessoas/`](pessoas/README.md) | Uma ficha por envolvido: atos a favor e contra, CPI, desdobramentos, defesa |
-| [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |
+| [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [Pfizer e desvios](docs/pfizer-e-desvios.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |
 | [Arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes) | Cópias datadas de cada fonte citada (repositório separado) |
 | [`scripts/`](scripts/) | Código Python que gera planilhas, gráficos e fichas |
 | `index.html`, `envolvidos.html`, [`assets/`](assets/) | O site (HTML, CSS e JavaScript) |
