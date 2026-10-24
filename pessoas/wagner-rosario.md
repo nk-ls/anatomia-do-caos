@@ -17,6 +17,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 - **21/09/2021** (fato) Chamou a senadora Simone Tebet de "descontrolada" na CPI e passou à condição de investigado [fonte](https://www.poder360.com.br/cpi-da-covid/wagner-rosario-chama-senadora-de-descontrolada-e-cpi-passa-a-investiga-lo/)
 - **01/08/2022** (decisão judicial) Ministro Ricardo Lewandowski (STF) arquivou, a pedido da PGR, a investigação aberta a partir do relatório da CPI [fonte](https://www.cnnbrasil.com.br/nacional/lewandowski-arquiva-investigacao-contra-ministro-da-cgu/)
+- **01/08/2022** (decisão judicial) STF · Decisão de Lewandowski: arquivamento Pet 10.062/DF (prevaricação): Acolhe o arquivamento pedido pela PGR, com a ressalva do art. 18 do CPP. Situação em out/2026: Arquivado. Trânsito em julgado em 09/08/2022. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307910)
 
 ## Na CPI da Covid
 

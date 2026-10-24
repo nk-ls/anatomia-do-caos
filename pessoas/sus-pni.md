@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **21/03/2022** (decisão judicial) STF · Referendo da 16ª tutela provisória incidental (TPI) ADPF 754/DF: Obriga o Ministério da Saúde e o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) a corrigir notas técnicas sobre a vacinação infantil, deixando clara a obrigatoriedade. Situação em out/2026: Trânsito em julgado em 26/09/2023, com processo baixado. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6034102)
 
 ## Na CPI da Covid
 

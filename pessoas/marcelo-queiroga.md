@@ -23,6 +23,10 @@
 ## ⚪ Fatos processuais e neutros
 
 - **06/05/2021** (declaração) Na CPI, recusou-se a dizer se é a favor do tratamento com cloroquina, alegando não poder fazer "juízo de valor" [fonte](https://www.poder360.com.br/congresso/em-cerca-de-9h-de-fala-a-cpi-queiroga-evita-cloroquina-e-irrita-senadores/)
+- **01/12/2021** (decisão de órgão de controle) TCU · Acompanhamento, ciclos 6 a 8 2.878/2021, 2.369/2022 e 1.967/2023, TC 015.125/2021-1 (relator Vital do Rêgo): Avaliação da governança, das despesas e dos contratos de vacina (Pfizer apensada) e do TrateCov. O 7º ciclo cita Pazuello. Situação em out/2026: Encerrados por ciclo. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2878-2021_Plenario.pdf)
+- **12/09/2022** (decisão judicial) STF · Decisão de Rosa Weber; hoje o relator é Fux Pet 10.065/DF (prevaricação no caso Covaxin): Defere a diligência da CPI, "mantido, no entanto, o arquivamento" de parte dos fatos, e envia à PF. Situação em out/2026: Pendente. A última movimentação é de 19/03/2024 (conclusos). [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307907)
+- **28/02/2023** (decisão judicial) STF · Decisão de Dias Toffoli: extingue o feito Pet 10.059/DF (epidemia com resultado morte, art. 267): Extingue o feito a pedido da PGR. Situação em out/2026: Arquivado, com o mesmo agravo pendente no Plenário desde 2023/2024. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307914)
+- **03/09/2025** (decisão de órgão de controle) TCU · Acórdão (Nota Informativa 17/2020 sobre cloroquina) 2.010/2025, TC 019.895/2020-8 (relator Zymler): Representações procedentes. Determina ao Ministério da Saúde, em 15 dias, anular a NI 17/2020-SE/GAB/SE/MS, de 10/08/2020 (orientação sobre cloroquina/hidroxicloroquina), por violação aos motivos determinantes. Não conhece da parte sobre o presidente do CFM. Cópia enviada ao Senado. Situação em out/2026: Encerrado, com determinação de anulação. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2010-2025_Plenario.pdf)
 
 ## Na CPI da Covid
 

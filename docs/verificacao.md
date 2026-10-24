@@ -22,6 +22,7 @@ Toda afirmação deste levantamento tem um estado de verificação. O estado só
 - **Declaração:** fala pública registrada (vídeo, transcrição, publicação).
 - **Alegação:** o que alguém afirmou em depoimento, sem ter sido provado.
 - **Conclusão da CPI:** posição do relatório do Senado. **Não é decisão judicial.**
+- **Decisão judicial / decisão de órgão de controle:** decisões do STF, STJ, Justiça Federal, TCU, CGU e Ministério Público, com o documento oficial arquivado em [documentos/controle](https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos/controle).
 - **Estimativa:** número de modelo ou estudo, sempre com método e limitação.
 - **Opinião:** posição do autor, só na página [Posicionamento do autor](posicionamento-do-autor.md).
 

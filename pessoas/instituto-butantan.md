@@ -16,7 +16,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **01/12/2021** (decisão de órgão de controle) TCU · Acompanhamento, ciclos 6 a 8 2.878/2021, 2.369/2022 e 1.967/2023, TC 015.125/2021-1 (relator Vital do Rêgo): Avaliação da governança, das despesas e dos contratos de vacina (Pfizer apensada) e do TrateCov. O 7º ciclo cita Pazuello. Situação em out/2026: Encerrados por ciclo. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2878-2021_Plenario.pdf)
+- **22/04/2026** (decisão de órgão de controle) TCU · Acórdão (CoronaVac 2023: perda de doses) 1.006/2026 (relator Bruno Dantas): Audiência de 2 gestores pela demora de 7 meses no contrato 221/2023 com o Butantan. É a gestão posterior a 2022. Situação em out/2026: Em curso. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1006-2026_Plenario.pdf)
 
 ## Na CPI da Covid
 

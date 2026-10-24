@@ -19,6 +19,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## ⚪ Fatos processuais e neutros
 
 - **10/2021** (fato) ANS anunciou regime de direção técnica na Prevent Senior após as denúncias à CPI [fonte](https://www.correiobraziliense.com.br/politica/2021/10/4953784-ans-vai-implementar-direcao-tecnica-na-prevent-senior.html)
+- **22/10/2021** (decisão de órgão de controle) MP-SP · Termo de Ajustamento de Conduta (TAC) com a Prevent Senior —: Proíbe o "kit covid" e pesquisas sem aval da Anvisa e da Conep, exige comunicado em jornais e cria conselho de supervisão, com multa de R$ 10 mil a R$ 100 mil por ocorrência. A empresa admitiu que os "resultados" não eram pesquisa científica. Situação em out/2026: Acordo firmado. O cumprimento não foi verificado. [fonte](https://www.brasildefato.com.br/2021/11/29/prevent-senior-assina-acordo-com-mp-e-afirma-que-publicou-inverdades-sobre-a-cloroquina/)
 - **11/2021** (fato) Prevent Senior admitiu que os resultados de eficácia que divulgou não eram pesquisa científica, mas dados internos para fins estatísticos [fonte](https://www.brasildefato.com.br/2021/11/29/prevent-senior-assina-acordo-com-mp-e-afirma-que-publicou-inverdades-sobre-a-cloroquina)
 
 ## Na CPI da Covid

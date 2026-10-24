@@ -17,6 +17,7 @@
 ## ⚪ Fatos processuais e neutros
 
 - **10/2021** (fato) MPF em São Paulo abriu inquérito civil sobre a atuação do CFM no chamado tratamento precoce [fonte](https://www.poder360.com.br/coronavirus/mpf-vai-investigar-conselho-federal-de-medicina-sobre-uso-do-kit-covid/)
+- **03/09/2025** (decisão de órgão de controle) TCU · Acórdão (Nota Informativa 17/2020 sobre cloroquina) 2.010/2025, TC 019.895/2020-8 (relator Zymler): Representações procedentes. Determina ao Ministério da Saúde, em 15 dias, anular a NI 17/2020-SE/GAB/SE/MS, de 10/08/2020 (orientação sobre cloroquina/hidroxicloroquina), por violação aos motivos determinantes. Não conhece da parte sobre o presidente do CFM. Cópia enviada ao Senado. Situação em out/2026: Encerrado, com determinação de anulação. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2010-2025_Plenario.pdf)
 
 ## Na CPI da Covid
 

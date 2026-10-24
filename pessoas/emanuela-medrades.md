@@ -17,6 +17,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 - **14/07/2021** (fato) Na CPI, sustentou que a primeira invoice da Covaxin chegou ao ministério em 22/03, contradizendo depoentes (18/03) e versão anterior dela própria [fonte](https://www12.senado.leg.br/noticias/materias/2021/07/14/diretora-da-precisa-contradiz-outros-depoentes-sobre-data-de-fatura-da-covaxin)
 - **14/07/2021** (declaração) Negou que a Precisa tenha ofertado a Covaxin a US$ 10 por dose e disse que as informações da ata do ministério que registrava essa proposta eram 'imprecisas' [fonte](https://www.congressoemfoco.com.br/noticia/21701/cpi-da-covid-depimentos-14-de-julho)
+- **28/05/2025** (decisão de órgão de controle) TCU · Acórdão (Covaxin) 1.179/2025, TC 006.789/2021-8 (relator Zymler): A representação foi julgada procedente: procuração forjada e invoices fora do contrato 29/2021. A OVS Importadora (ex-Precisa) foi declarada inidônea por 4 anos. Multas a Élcio Franco (R$ 70 mil), Roberto Dias (R$ 40 mil) e Regina Célia (R$ 30 mil). As justificativas da Bharat foram aceitas. Situação em out/2026: Há embargos de Élcio e Regina pendentes (informado em nov/2025). [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf)
 
 ## Na CPI da Covid
 

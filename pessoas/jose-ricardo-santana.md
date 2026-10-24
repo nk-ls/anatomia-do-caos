@@ -17,6 +17,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 - **26/08/2021** (fato) Depôs à CPI; disse estar no jantar com Roberto Dias e não ter presenciado pedido de vantagem indevida; CPI o acusou de atuar como lobista da Precisa [fonte](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/ricardo-santana-diz-cpi-que-trabalhou-sem-remuneracao-em-ministerio)
 - **26/08/2021** (fato) Relator Renan Calheiros o incluiu na lista de investigados e chamou o depoimento de "cínico" [fonte](https://www.poder360.com.br/congresso/cinico-diz-renan-calheiros-sobre-depoimento-de-ricardo-santana/ https://congressoemfoco.com.br/noticia/13799/ao-vivo-cpi-da-covid-ouve-participante-do-jantar-da-propina)
+- **15/06/2023** (decisão judicial) STF · Decisão de Nunes Marques, depois acórdão da 2ª Turma Pet 10.063/DF (Covaxin/Precisa): Arquiva em relação ao deputado Ricardo Barros e envia o restante à Justiça Federal do DF. A 2ª Turma negou, por unanimidade, o agravo do Senado. Os autos foram remetidos ao TRF1 em 13/02/2025, e o processo foi arquivado no STF em 20/07/2026. Situação em out/2026: No STF: arquivado para Barros. Os demais seguem na 1ª instância federal, sem andamento público localizado. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307909)
 
 ## Na CPI da Covid
 

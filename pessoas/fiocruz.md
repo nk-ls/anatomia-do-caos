@@ -15,7 +15,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-Nenhum ato registrado ainda neste levantamento.
+- **01/12/2021** (decisão de órgão de controle) TCU · Acompanhamento, ciclos 6 a 8 2.878/2021, 2.369/2022 e 1.967/2023, TC 015.125/2021-1 (relator Vital do Rêgo): Avaliação da governança, das despesas e dos contratos de vacina (Pfizer apensada) e do TrateCov. O 7º ciclo cita Pazuello. Situação em out/2026: Encerrados por ciclo. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2878-2021_Plenario.pdf)
+- **17/04/2024** (decisão de órgão de controle) TCU · Acórdão (falhas na aquisição de vacinas: Fiocruz/Fiotec) 737/2024: Representação improcedente ("fato do príncipe"). Situação em out/2026: Arquivado. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_737-2024_Plenario.pdf)
 
 ## Na CPI da Covid
 

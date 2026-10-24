@@ -17,6 +17,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## ⚪ Fatos processuais e neutros
 
 - **03/2020** (fato) Designado coordenador do comitê de crise da Covid-19 do governo federal [fonte](https://www.cnnbrasil.com.br/politica/bolsonaro-coloca-general-para-comandar-gabinete-de-crise-contra-coronavirus/)
+- **28/02/2023** (decisão judicial) STF · Decisão de Dias Toffoli: extingue o feito Pet 10.059/DF (epidemia com resultado morte, art. 267): Extingue o feito a pedido da PGR. Situação em out/2026: Arquivado, com o mesmo agravo pendente no Plenário desde 2023/2024. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307914)
 
 ## Na CPI da Covid
 

@@ -17,6 +17,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 - **22/03/2021** (fato) Foi designada fiscal do contrato da Covaxin quase um mês após a assinatura [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/ao-ouvir-servidora-cpi-da-covid-ve-novos-indicios-de-falhas-em-compra-da-covaxin/)
 - **06/07/2021** (declaração) Disse à CPI não ter visto nada "atípico" no processo; senadores apontaram indícios de falhas de fiscalização [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/ao-ouvir-servidora-cpi-da-covid-ve-novos-indicios-de-falhas-em-compra-da-covaxin/)
+- **28/05/2025** (decisão de órgão de controle) TCU · Acórdão (Covaxin) 1.179/2025, TC 006.789/2021-8 (relator Zymler): A representação foi julgada procedente: procuração forjada e invoices fora do contrato 29/2021. A OVS Importadora (ex-Precisa) foi declarada inidônea por 4 anos. Multas a Élcio Franco (R$ 70 mil), Roberto Dias (R$ 40 mil) e Regina Célia (R$ 30 mil). As justificativas da Bharat foram aceitas. Situação em out/2026: Há embargos de Élcio e Regina pendentes (informado em nov/2025). [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf)
+- **05/11/2025** (decisão de órgão de controle) TCU · Acórdão: resposta ao Senado sobre o relatório final da CPI 2.598/2025, TC 042.888/2021-2 (relator Bruno Dantas): Faz o balanço consolidado dos processos de Covaxin e VTCLog. Cita os Acórdãos 651/2023, 1.861/2024 e 1.161/2024. Situação em out/2026: Arquivado (solicitação atendida). [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2598-2025_Plenario.pdf)
 
 ## Na CPI da Covid
 

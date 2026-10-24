@@ -20,6 +20,7 @@
 
 - **06/2021** (decisão judicial) Ministra Rosa Weber autorizou que não comparecesse à CPI, por ser investigado por desvio de recursos na pandemia [fonte](https://www.noticiasagricolas.com.br/noticia/290029)
 - **20/09/2021** (decisão judicial) STJ aceitou denúncia da PGR sobre a compra de respiradores e o tornou réu (ser réu não é condenação). [fonte](https://www.poder360.com.br/justica/por-unanimidade-stj-recebe-denuncia-contra-wilson-lima-por-respiradores/)
+- **20/09/2021** (decisão judicial) STJ · Ação Penal (Operação Sangria: 28 respiradores comprados de loja de vinhos) APn 993/DF: A Corte Especial recebeu a denúncia por unanimidade (peculato, dispensa e fraude em licitação, organização criminosa, embaraço). Em 17/06/2026 houve redistribuição a Nancy Andrighi. Em 08/09/2026 a Corte Especial negou, por unanimidade, os agravos de Wilson Lima e de Gutemberg Alencar (voto de Raul Araújo). Embargos de declaração estão conclusos desde 23/10/2026. O caso continua no STJ mesmo depois de Lima deixar o governo em abril de 2026. Situação em out/2026: Réu, sem sentença. Não houve condenação nem absolvição até 24/10/2026. [fonte](https://processo.stj.jus.br/processo/pesquisa/?num_registro=202000928826&aplicacao=processos.ea)
 
 ## Na CPI da Covid
 

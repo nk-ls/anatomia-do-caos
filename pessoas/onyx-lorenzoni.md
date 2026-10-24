@@ -18,6 +18,7 @@
 
 - **23/06/2021** (fato) Em pronunciamento no Planalto, anunciou que a PF investigaria o deputado Luis Miranda e o irmão, autores da denúncia sobre a Covaxin [fonte](https://www.brasildefato.com.br/2021/06/23/bolsonaro-manda-pf-investigar-deputado-que-denunciou-corrupcao-em-compra-de-vacina)
 - **11/2021** (decisão judicial) Ministro Luís Roberto Barroso (STF) suspendeu trechos da portaria que impedia a demissão de não vacinados, permitindo que empresas exijam comprovante de vacinação [fonte](https://www.poder360.com.br/economia/governo-vai-recorrer-de-decisao-que-permite-demissao-de-nao-vacinados/)
+- **18/09/2025** (decisão judicial) STF · Decisão do ministro Flávio Dino Pet 10.064/DF: Acolhe pedido da PF contra a posição da PGR. Converte a Pet em inquérito policial, com prazo inicial de 60 dias e sigilo nível 3. A Pet consta como "processo findo" em 19/09/2025 e foi baixada em 18/02/2026, porque virou inquérito sob outro número, não divulgado. Em jan/2026 a PF pediu mais prazo. Situação em out/2026: Em investigação sob sigilo. Nenhum relatório final, denúncia ou arquivamento foi localizado até 24/10/2026. [fonte](https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-determina-abertura-de-inquerito-para-investigar-resultados-da-cpi-da-pandemia/)
 
 ## Na CPI da Covid
 

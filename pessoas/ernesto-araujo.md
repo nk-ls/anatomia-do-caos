@@ -18,6 +18,7 @@
 ## ⚪ Fatos processuais e neutros
 
 - **09/2020** (fato) Brasil aderiu ao Covax Facility pela opção mínima (10% da população); Araújo atribuiu a escolha ao Ministério da Saúde [fonte](https://www.correiobraziliense.com.br/politica/2021/05/amp/4925283-ernesto-araujo-diz-que-foi-decisao-da-saude-aderir-ao-minimo-da-covax-facility.html)
+- **18/09/2025** (decisão judicial) STF · Decisão do ministro Flávio Dino Pet 10.064/DF: Acolhe pedido da PF contra a posição da PGR. Converte a Pet em inquérito policial, com prazo inicial de 60 dias e sigilo nível 3. A Pet consta como "processo findo" em 19/09/2025 e foi baixada em 18/02/2026, porque virou inquérito sob outro número, não divulgado. Em jan/2026 a PF pediu mais prazo. Situação em out/2026: Em investigação sob sigilo. Nenhum relatório final, denúncia ou arquivamento foi localizado até 24/10/2026. [fonte](https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-determina-abertura-de-inquerito-para-investigar-resultados-da-cpi-da-pandemia/)
 
 ## Na CPI da Covid
 

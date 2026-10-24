@@ -18,6 +18,7 @@ Nenhum ato registrado ainda neste levantamento.
 - **02/06/2021** (fato) Preso temporariamente na Operação Sangria, que apurava contratação suspeita para hospital de campanha [fonte](https://revistaoeste.com/politica/cpi-da-covid-ex-secretario-de-saude-do-am-presta-depoimento-hoje/)
 - **15/06/2021** (declaração) Disse à CPI ter telefonado a Pazuello em 7 de janeiro pedindo apoio logístico para levar oxigênio a Manaus [fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-campelo-contradiz-pazuello-sobre-crise-de-oxigenio-no-amazonas/)
 - **15/06/2021** (declaração) Afirmou à CPI que a falta de oxigênio durou apenas os dias 14 e 15 de janeiro [fonte](https://diariodopoder.com.br/brasil-e-regioes/ex-secretario-de-saude-do-am-diz-que-falta-de-oxigenio-durou-dois-dias)
+- **2022** (decisão judicial) JF-AM (9ª Vara) · Sentença em ação de improbidade do MPF (crise do oxigênio em Manaus) — (número não localizado): A ação foi rejeitada com base na nova Lei de Improbidade (Lei 14.230/2021), por falta de dolo. A decisão beneficiou todos os réus. Situação em out/2026: Rejeitada em 1ª instância. O resultado de eventual recurso não foi localizado. [fonte](https://www.cartacapital.com.br/saude/justica-do-amazonas-absolve-pazuello-pelo-colapso-de-oxigenio-em-manaus/)
 
 ## Na CPI da Covid
 

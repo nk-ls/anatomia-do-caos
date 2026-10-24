@@ -20,6 +20,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 - **07/11/2022** (fato) PGR (vice-PGR Lindôra Araújo) pede ao STF o arquivamento da apuração preliminar de incitação ao crime aberta com base na CPI, alegando que as publicações não extrapolaram a liberdade de opinião [fonte](https://www.poder360.com.br/justica/pgr-pede-arquivamento-de-apuracao-da-cpi-da-covid-contra-bolsonaro/)
 - **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
+- **18/09/2025** (decisão judicial) STF · Decisão do ministro Flávio Dino Pet 10.064/DF: Acolhe pedido da PF contra a posição da PGR. Converte a Pet em inquérito policial, com prazo inicial de 60 dias e sigilo nível 3. A Pet consta como "processo findo" em 19/09/2025 e foi baixada em 18/02/2026, porque virou inquérito sob outro número, não divulgado. Em jan/2026 a PF pediu mais prazo. Situação em out/2026: Em investigação sob sigilo. Nenhum relatório final, denúncia ou arquivamento foi localizado até 24/10/2026. [fonte](https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-determina-abertura-de-inquerito-para-investigar-resultados-da-cpi-da-pandemia/)
 
 ## Na CPI da Covid
 
