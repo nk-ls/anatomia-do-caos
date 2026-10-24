@@ -1,37 +1,41 @@
 /* Anatomia do Caos — estilo do site. Sem dependências externas. */
+/* Identidade visual: papel claro e quente, tinta quase preta, destaque terracota,
+   títulos com serifa. Só fontes do sistema (sem downloads). Contraste AA conferido. */
 :root {
-  --fundo: #f7f6f2;
+  --fundo: #faf9f5;
   --superficie: #ffffff;
-  --texto: #1d1f23;
-  --suave: #5b616b;
-  --borda: #dcdad3;
-  --destaque: #1f5fa8;
-  --favor: #1d7a46;
+  --texto: #141413;
+  --suave: #5e5d59;
+  --borda: #e6e3d8;
+  --destaque: #b5502f;
+  --favor: #2f7a4a;
   --contra: #b3261e;
-  --neutro: #6b7280;
-  --alerta: #b45309;
+  --neutro: #6b6a64;
+  --alerta: #a3530f;
   --cat1: #1f5fa8; --cat2: #0e8a6e; --cat3: #c2410c; --cat4: #8b5cf6;
-  --aviso-fundo: #fff7e0;
-  --aviso-borda: #e3c56b;
-  --raio: 10px;
+  --aviso-fundo: #f6efe3;
+  --aviso-borda: #dfc9a8;
+  --raio: 14px;
   --largura: 1080px;
+  --serifa: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --fundo: #121417;
-    --superficie: #1b1e23;
-    --texto: #e8e6e1;
-    --suave: #a3a8b0;
-    --borda: #2e333a;
-    --destaque: #6ea2e6;
-    --favor: #4cbf7f;
-    --contra: #ef6b62;
-    --neutro: #9aa0a8;
+    --fundo: #1f1e1d;
+    --superficie: #2a2927;
+    --texto: #f0eee6;
+    --suave: #b7b5ab;
+    --borda: #3a3936;
+    --destaque: #e08a6b;
+    --favor: #6fc28f;
+    --contra: #ef7a70;
+    --neutro: #a3a19a;
     --alerta: #f0a33a;
     --cat1: #4f86cf; --cat2: #17997a; --cat3: #d9692a; --cat4: #8f74e6;
-    --aviso-fundo: #2a2412;
-    --aviso-borda: #6b5a22;
+    --aviso-fundo: #2f2a22;
+    --aviso-borda: #5c4a30;
     color-scheme: dark;
   }
 }
@@ -41,34 +45,41 @@ body {
   margin: 0;
   background: var(--fundo);
   color: var(--texto);
-  font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font: 17px/1.65 var(--sans);
 }
+h1, h2, h3, .marca { font-family: var(--serifa); font-weight: 500; letter-spacing: -0.01em; }
+h1 { font-size: clamp(2rem, 4.5vw, 3rem); line-height: 1.15; }
+a { text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+::selection { background: color-mix(in srgb, var(--destaque) 25%, transparent); }
 a { color: var(--destaque); }
 img { max-width: 100%; height: auto; display: block; }
 .conteiner { max-width: var(--largura); margin: 0 auto; padding: 0 16px; }
 
 /* Cabeçalho e navegação */
-.topo { border-bottom: 1px solid var(--borda); background: var(--superficie); position: sticky; top: 0; z-index: 10; }
-.topo .conteiner { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 56px; flex-wrap: wrap; }
-.marca { font-weight: 700; text-decoration: none; color: var(--texto); letter-spacing: .01em; }
+.topo { border-bottom: 1px solid var(--borda); background: color-mix(in srgb, var(--fundo) 92%, transparent); backdrop-filter: blur(8px); position: sticky; top: 0; z-index: 10; }
+.topo .conteiner { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 64px; flex-wrap: wrap; }
+.marca { font-size: 1.25rem; text-decoration: none; color: var(--texto); }
+.marca::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: var(--destaque); margin-right: 10px; vertical-align: middle; }
 .nav { display: flex; gap: 18px; flex-wrap: wrap; font-size: .95rem; }
 .nav a { text-decoration: none; color: var(--suave); }
 .nav a[aria-current="page"], .nav a:hover { color: var(--texto); }
+.nav a[aria-current="page"] { text-decoration: underline; text-decoration-color: var(--destaque); text-decoration-thickness: 2px; text-underline-offset: 6px; }
 
 /* Dedicatória */
 .memoria { padding: 56px 0 40px; border-bottom: 1px solid var(--borda); }
-.memoria h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); line-height: 1.2; margin: 0 0 20px; }
+.memoria h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.1; margin: 0 0 24px; }
 .memoria p { max-width: 760px; font-size: 1.08rem; }
 .memoria .assinatura { color: var(--suave); font-size: .95rem; }
 
 /* Números */
 .numeros { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px; margin: 28px 0; }
 .numero { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 18px; }
-.numero strong { display: block; font-size: 1.9rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.numero strong { display: block; font-family: var(--serifa); font-weight: 500; font-size: 2.1rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
 .numero span { color: var(--suave); font-size: .92rem; }
 
 section { padding: 36px 0; }
-section h2 { font-size: 1.55rem; margin: 0 0 12px; }
+section h2 { font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.2; margin: 0 0 14px; }
 .nota { color: var(--suave); font-size: .88rem; }
 .aviso { background: var(--aviso-fundo); border: 1px solid var(--aviso-borda); border-radius: var(--raio); padding: 12px 16px; margin: 16px 0; }
 figure { margin: 20px 0; background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 12px; }
@@ -290,3 +301,10 @@ button.barra-linha { width: 100%; background: none; border: 0; font: inherit; te
 .opiniao-rotulo { font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); margin: 0 0 6px; }
 
 .esfera-caso { margin: 0 0 2px; font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); }
+
+/* Acabamento da identidade: superfícies mais leves, bordas suaves */
+.numero, .cartao, figure, .achado, .empresa, .passo-dinheiro, .rede-dinheiro-painel, .dinheiro-rede-caixa { box-shadow: 0 1px 2px rgba(20, 20, 19, .04); }
+.memoria { padding: 72px 0 48px; }
+.memoria p { line-height: 1.7; }
+.provas li::before { font-family: var(--serifa); }
+.botao-claro, .botao { border-radius: 999px; }
