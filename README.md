@@ -1,6 +1,20 @@
 # Anatomia do Caos — a Covid-19 no Brasil em dados públicos
 
-**Pelo povo, para o povo brasileiro.** Dados abertos, gráficos e fontes que qualquer pessoa pode conferir, baixar e reproduzir.
+## Memória, verdade e reparação
+
+Este trabalho é dedicado às **702.116 pessoas** cuja morte por Covid-19 foi confirmada no Brasil e às cerca de **230 mil** que, pelas estimativas de excesso de mortes, morreram da pandemia sem entrar na contagem oficial: perto de **934 mil vidas** ao todo.
+
+Cada morte deixou, em média, cerca de **nove parentes próximos** de luto: avós, pais, irmãos, cônjuges e filhos. São entre **6 e 8 milhões de brasileiros** que perderam alguém que amavam. Só em 2020 e 2021, cerca de **149 mil crianças e adolescentes** perderam o pai, a mãe ou os dois.
+
+**A Bandeira do Brasil é do povo.** Ela pertence a todos os brasileiros e não deve servir a nenhum lado político. O Brasil é do seu povo.
+
+**O nome de D'us não deve ser profanado,** nem as Escrituras. *Profanar* é desrespeitar o que é sagrado: tratá-lo sem reverência, rebaixá-lo ou usá-lo para fins que o desonram. Usar o nome de D'us ou passagens bíblicas para justificar o descaso com a vida é uma forma de profanação.
+
+O povo judeu repete *Zachor*, "lembra-te", e mantém viva a memória do Holocausto para que ele nunca se repita. Lembrar não é reabrir feridas: é proteger quem vem depois. Este levantamento existe pelo mesmo motivo.
+
+**Pelo povo e para o povo brasileiro.** Dados abertos, gráficos e fontes que qualquer pessoa pode conferir, baixar e reproduzir.
+
+<sub>Números: mortes confirmadas segundo o Our World in Data (até ago/2024); excesso de mortes pelo modelo do The Economist (≈ 934 mil até jun/2024; a diferença para as confirmadas é estimativa). "Nove parentes por morte" é o multiplicador de luto calculado para os EUA por [Verdery et al., PNAS, 2020](https://ideas.repec.org/a/nas/journl/v117y2020p17695-17701.html), aplicado aqui como aproximação (9 × 702 mil ≈ 6,3 milhões; 9 × 934 mil ≈ 8,4 milhões). Órfãos: estudo divulgado em out/2025 ([Arpen-SP](https://arpensp.org.br/noticia/covid-19-deixou-149-mil-criancas-e-adolescentes-orfaos-em-2020-e-2021)). Definição de profanação: [Dicio](https://www.dicio.com.br/profanacao/). Este texto é a posição do autor; ver [Posicionamento do autor](docs/posicionamento-do-autor.md).</sub>
 
 > 🚧 **Em construção.** Dados e gráficos: prontos e reproduzíveis. Caso brasileiro (seção 6): conferido pela busca, com o arquivamento das fontes em andamento. Roteiro do documentário: pronto, com minutagem.
 

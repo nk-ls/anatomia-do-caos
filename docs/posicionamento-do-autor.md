@@ -3,9 +3,11 @@
 > Esta página é **opinião**, não fato. Está separada do levantamento para que o leitor
 > distinga o que é dado verificável do que é posição pessoal.
 
-**A bandeira do Brasil é do povo.** Ela pertence a todos os brasileiros e não deve ser usada como palanque de campanha política.
+**A Bandeira do Brasil é do povo.** Ela pertence a todos os brasileiros e não deve servir a nenhum lado político. O Brasil é do seu povo.
 
-**O nome de D'us não deve ser profanado,** nem as passagens bíblicas usadas para fins políticos.
+**O nome de D'us não deve ser profanado,** nem as Escrituras. *Profanar* é desrespeitar o que é sagrado: tratá-lo sem reverência, rebaixá-lo ou usá-lo para fins que o desonram ([Dicio](https://www.dicio.com.br/profanacao/): profanação é "ação ou efeito de profanar; sacrilégio"). Usar o nome de D'us ou passagens bíblicas para justificar o descaso com a vida é uma forma de profanação.
+
+**Lembrar para que não se repita.** O povo judeu repete *Zachor*, "lembra-te", e mantém viva a memória do Holocausto para que ele nunca se repita. Lembrar não é reabrir feridas: é proteger quem vem depois. Este levantamento existe pelo mesmo motivo: memória, verdade e reparação.
 
 ## O que os registros mostram
 
