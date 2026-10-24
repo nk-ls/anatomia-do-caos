@@ -1,6 +1,6 @@
 # Cronologia: o governo federal e a pandemia (2020–2021)
 
-> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 159 das 182 fontes já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
+> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 157 das 182 fontes e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
 
 **Como ler a coluna Tipo:** *fato* = aconteceu e está documentado; *declaração* = fala pública registrada; *alegação* = o que alguém afirmou em depoimento, sem ter sido provado; *conclusão da CPI* = posição do relatório do Senado, que não é decisão judicial.
 
@@ -140,7 +140,7 @@
 3. **Uso da bandeira nacional** pelos manifestantes nos atos de 2020/2021: as fontes encontradas não o descrevem especificamente; só o hasteamento no Alvorada em 07/09/2021.
 4. **Contagem de e-mails da Pfizer**: 9 tentativas (Murillo) e 53 e-mails (Randolfe) são números conflitantes, de fontes e métricas diferentes. Não li o relatório final da CPI para ver qual número ele adota.
 5. **Volume de cada oferta da Pfizer em agosto/2020** (30 ou 70 milhões) e **número total de ofertas** (3 ou 5): as reportagens divergem.
-6. **Data da assinatura do contrato Pfizer**: 19/03/2021 na maioria das fontes; 15/03/2021 em uma.
+6. ~~Data da assinatura do contrato Pfizer~~: resolvida pelo próprio contrato nº 52/2021 ([íntegra](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contrato_pfizer_2021-03-19.pdf)): o texto diz "Em 18 de março de 2021" e a assinatura eletrônica tem data de 19/03/2021; 15/03 foi o anúncio.
 7. **Quem redigiu ou apresentou a minuta de decreto da bula**: Barra Torres atribui a sugestão a Nise Yamaguchi, e ela nega a minuta. A autoria do papel não está estabelecida.
 8. **Data exata de lançamento do TrateCov**: 11/01 ou 14/01/2021.
 9. **Data do primeiro alerta formal sobre o oxigênio em Manaus**: 07, 08 ou 10/01/2021, conforme a fonte.

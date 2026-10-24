@@ -33,7 +33,7 @@ Antes da divulgação, dois revisores que não participaram da redação tentara
 ## O que continua em aberto
 
 - A data exata de corte do modelo de excesso de mortes do The Economist e o andamento do inquérito da PF autorizado em 2025 (sob sigilo).
-- 23 das 182 fontes não puderam ser arquivadas automaticamente (sites que bloqueiam robôs ou links quebrados); a lista está no [manifesto do arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/manifesto.csv).
+- 25 das 182 fontes não puderam ser arquivadas automaticamente (sites que bloqueiam robôs ou links quebrados); a lista está no [manifesto do arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/manifesto.csv).
 - 13 fichas ainda só têm o pedido da CPI, sem atos documentados.
 
 Uma revisão por amostra não garante a ausência de erros. Encontrou um? Abra uma *issue* com a fonte, e a correção entra com registro.

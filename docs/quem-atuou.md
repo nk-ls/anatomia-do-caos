@@ -1,6 +1,6 @@
 # Quem atuou a favor da população
 
-> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 159 das 182 fontes já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
+> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 157 das 182 fontes e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
 
 **Critério declarado:** entra quem é figura pública ou instituição e tem **ato concreto documentado** de combate à pandemia, com data e fonte. A coluna "Ressalvas" registra críticas e controvérsias relevantes, para evitar hagiografia. Estar nesta lista não é endosso político.
 
