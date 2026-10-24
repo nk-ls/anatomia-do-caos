@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## ⚪ Fatos processuais e neutros
 
 - **11/2021** (fato) Cúpula da CPI entrega acusações ao MP-RJ, que encaminha o caso (vereador sem foro no STF) a promotoria criminal [fonte](https://www.bandab.com.br/politica/no-mp-do-rio-cpi-da-covid-pede-punicao-a-carlos-bolsonaro-por-fake-news/amp/)
-- **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia)
+- **09/2025** (decisão judicial) O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo. [fonte](https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agenciabrasil-ebc-com-br-justica-noticia-2025-09-dino-determina-que-pf-investigue-conduta--17dcbea8/2026-10-24.html)
 
 ## Na CPI da Covid
 

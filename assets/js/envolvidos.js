@@ -8,7 +8,7 @@ const TITULOS = [
   ["processual", "⚪ Fatos processuais e neutros"],
 ];
 
-const estado = { pessoas: [], atosPor: new Map() };
+const estado = { pessoas: [], atosPor: new Map(), copias: new Map() };
 const $ = (id) => document.getElementById(id);
 
 function segundos(t) {
@@ -51,7 +51,7 @@ function ficha(p) {
   const blocos = TITULOS.map(([av, titulo]) => {
     const itens = atos.filter((a) => a.avaliacao === av).map((a) => `<li class="${CLASSE[av]}">
       <span class="data">${dataBR(a.data)}</span> <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)}
-      <a href="${linkSeguro(a.fonte)}" target="_blank" rel="noopener">fonte</a>
+      <a href="${linkSeguro(a.fonte)}" target="_blank" rel="noopener">fonte</a>${estado.copias.get(a.fonte) ? ` · <a href="${linkSeguro(estado.copias.get(a.fonte))}" target="_blank" rel="noopener">cópia arquivada</a>` : ""}
       ${a.no_documentario ? ` · <a href="${VIDEO}&t=${segundos(a.no_documentario)}s" target="_blank" rel="noopener">no documentário, ${esc(a.no_documentario)}</a>` : ""}
     </li>`).join("");
     return `<h3>${titulo}</h3>${itens ? `<ul class="atos">${itens}</ul>` : '<p class="nota">Nenhum ato registrado ainda neste levantamento.</p>'}`;
@@ -82,7 +82,8 @@ function mostrar() {
 }
 
 async function iniciar() {
-  const [pessoas, atos] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv")]);
+  const [pessoas, atos, fontes] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv")]);
+  for (const f of fontes) if (f.copia_arquivada) estado.copias.set(f.url, f.copia_arquivada);
   estado.pessoas = pessoas;
   for (const a of atos) {
     for (const id of a.pessoas.split(";").map((s) => s.trim())) {

@@ -45,6 +45,16 @@ def fontes(txt):
     return "\n".join(f"- {u}" for u in txt.split() if u.startswith("http"))
 
 
+def copias():
+    caminho = RAIZ / "dados" / "fontes.csv"
+    if not caminho.exists():
+        return {}
+    return {r["url"]: r["copia_arquivada"] for r in ler("fontes.csv") if r["copia_arquivada"]}
+
+
+COPIAS = {}
+
+
 def pagina(p, atos):
     lin = [f"# {p['nome']}", "", f"**Cargo à época:** {p['cargo_epoca']}  ", f"**Grupo:** {p['grupo']}", ""]
     lin += ["> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). "
@@ -58,7 +68,7 @@ def pagina(p, atos):
             lin += ["Nenhum ato registrado ainda neste levantamento.", ""]
             continue
         for a in sorted(lista, key=lambda x: x["data"]):
-            lin.append(f"- **{data_br(a['data'])}** ({a['tipo']}) {a['ato']} [fonte]({a['fonte']}){link_filme(a['no_documentario'])}")
+            lin.append(f"- **{data_br(a['data'])}** ({a['tipo']}) {a['ato']} [fonte]({a['fonte']}){f" · [cópia arquivada]({COPIAS[a['fonte']]})" if a['fonte'] in COPIAS else ''}{link_filme(a['no_documentario'])}")
         lin.append("")
     lin += ["## Na CPI da Covid", ""]
     if p["crimes_cpi"]:
@@ -75,6 +85,7 @@ def pagina(p, atos):
 
 
 def main():
+    COPIAS.update(copias())
     pessoas = ler("pessoas.csv")
     atos_por = defaultdict(list)
     for a in ler("atos.csv"):

@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **25/02/2021** (alegação) Contrato da Covaxin (intermediado pela Precisa): 20 milhões de doses, cerca de R$ 1,6 bilhão; investigado por pedido de pagamento antecipado a offshore não previsto no contrato. A vacina nunca foi entregue e o contrato foi cancelado. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [no documentário, 00:46:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2760s)
+- **25/02/2021** (alegação) Contrato da Covaxin (intermediado pela Precisa): 20 milhões de doses, cerca de R$ 1,6 bilhão; investigado por pedido de pagamento antecipado a offshore não previsto no contrato. A vacina nunca foi entregue e o contrato foi cancelado. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsona-bb731065/2026-10-24.html) · [no documentário, 00:46:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2760s)
 - **07/2021** (fato) CGU concluiu que a Precisa entregou ao Ministério da Saúde documentos fraudados (procuração da Bharat e declaração); a Bharat Biotech negou autoria e rompeu com a Precisa [fonte](https://crusoe.com.br/diario/cgu-conclui-que-precisa-usou-documentos-falsos-em-negociacao-de-vacina)
 
 ## ⚪ Fatos processuais e neutros

@@ -7,8 +7,8 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **10/06/2020** (fato) Acordo com a Sinovac para testar e produzir a CoronaVac no Brasil. [fonte](https://www.poder360.com.br/brasil/sp-deve-produzir-vacina-contra-coronavirus-ate-junho-de-2021-diz-doria/)
-- **30/07/2020** (alegação) Ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020; segundo Dimas Covas, não houve resposta. Em outubro a oferta subiu para 100 milhões. [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi)
+- **10/06/2020** (fato) Acordo com a Sinovac para testar e produzir a CoronaVac no Brasil. [fonte](https://www.poder360.com.br/brasil/sp-deve-produzir-vacina-contra-coronavirus-ate-junho-de-2021-diz-doria/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-sp-deve-produzir-vacina-contra-coronavirus-ate-junho-de-2021-diz-do-e69d8b4e/2026-10-24.html)
+- **30/07/2020** (alegação) Ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020; segundo Dimas Covas, não houve resposta. Em outubro a oferta subiu para 100 milhões. [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-05-27-brasil-poderia-ter-sido-primeiro-do-mundo-a-vac-b656a248/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

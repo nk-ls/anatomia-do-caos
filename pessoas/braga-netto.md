@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2020** (alegação) Segundo Barra Torres, convocou e conduziu a reunião no Planalto em que se propôs mudar a bula da cloroquina. [fonte](https://www.poder360.com.br/congresso/barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cloroquina/)
+- **2020** (alegação) Segundo Barra Torres, convocou e conduziu a reunião no Planalto em que se propôs mudar a bula da cloroquina. [fonte](https://www.poder360.com.br/congresso/barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cloroquina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cl-15f58cce/2026-10-24.html)
 - **04/2021** (alegação) Técnicos do TCU recomendaram processo sobre sua conduta, apontando "graves omissões" no comitê de crise, como falhas no monitoramento de oxigênio e leitos [fonte](https://www.gazetadopovo.com.br/republica/tcu-omissao-braga-netto-covid/)
 
 ## ⚪ Fatos processuais e neutros

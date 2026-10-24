@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **15/05/2020** (fato) Pediu demissão após 29 dias no cargo; a divergência sobre a cloroquina aparece entre os motivos. [fonte](https://www.poder360.com.br/governo/ministro-da-saude-nelson-teich-pede-demissao-do-governo-bolsonaro/)
+- **15/05/2020** (fato) Pediu demissão após 29 dias no cargo; a divergência sobre a cloroquina aparece entre os motivos. [fonte](https://www.poder360.com.br/governo/ministro-da-saude-nelson-teich-pede-demissao-do-governo-bolsonaro/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-ministro-da-saude-nelson-teich-pede-demissao-do-governo-bolsonaro-8fdc596b/2026-10-24.html)
 
 ## Na CPI da Covid
 

@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **17/01/2021** (fato) Bancou a CoronaVac com o Butantan e promoveu a primeira vacinação do país; em dez/2020 viajou a Miami logo após decretar fase vermelha e pediu desculpas. [fonte](https://www.poder360.com.br/brasil/no-hospital-das-clinicas-doria-aguarda-anvisa-para-vacinar-1a-brasileira/)
+- **17/01/2021** (fato) Bancou a CoronaVac com o Butantan e promoveu a primeira vacinação do país; em dez/2020 viajou a Miami logo após decretar fase vermelha e pediu desculpas. [fonte](https://www.poder360.com.br/brasil/no-hospital-das-clinicas-doria-aguarda-anvisa-para-vacinar-1a-brasileira/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-no-hospital-das-clinicas-doria-aguarda-anvisa-para-vacinar-1a-brasi-586b3105/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

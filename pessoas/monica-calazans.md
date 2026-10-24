@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **17/01/2021** (fato) Primeira pessoa vacinada contra a Covid no Brasil (CoronaVac, HC-SP). [fonte](https://www.nsctotal.com.br/cotidiano/primeira-vacinada-coronavirus-brasil)
+- **17/01/2021** (fato) Primeira pessoa vacinada contra a Covid no Brasil (CoronaVac, HC-SP). [fonte](https://www.nsctotal.com.br/cotidiano/primeira-vacinada-coronavirus-brasil) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/nsctotal-com-br-cotidiano-primeira-vacinada-coronavirus-brasil-3ead58f9/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

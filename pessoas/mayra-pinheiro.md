@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **2021** (conclusão da CPI) A CPI a apontou como defensora do "tratamento precoce" no Ministério da Saúde (apelido "capitã cloroquina"). [fonte](https://www.agazeta.com.br/brasil/cpi-da-covid-pede-indiciamento-de-81-veja-quem-e-quem-e-seus-possiveis-crimes-1021)
+- **2021** (conclusão da CPI) A CPI a apontou como defensora do "tratamento precoce" no Ministério da Saúde (apelido "capitã cloroquina"). [fonte](https://www.agazeta.com.br/brasil/cpi-da-covid-pede-indiciamento-de-81-veja-quem-e-quem-e-seus-possiveis-crimes-1021) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-cpi-da-covid-pede-indiciamento-de-81-veja-quem-e-quem-e-seus-possive-4ed09919/2026-10-24.html)
 - **07/01/2021** (fato) Documento do Ministério da Saúde enviado à Secretaria de Saúde de Manaus orientou o uso do "kit Covid", no início da crise de oxigênio; ela reconheceu o documento na CPI. Segundo Pazuello, a ideia do app TrateCov, que receitava cloroquina, partiu dela. [fonte](https://outraspalavras.net/outrasaude/mayra-pinheiro-na-cpi/)
 - **25/05/2021** (declaração) Na CPI, negou ter recomendado cloroquina, ivermectina e azitromicina em Manaus; foi confrontada com vídeos e estudos. Obteve no STF o direito de ficar em silêncio sobre dez/2020–jan/2021. [fonte](https://www.poder360.com.br/governo/secretaria-do-ministerio-da-saude-pede-ao-stf-para-ficar-em-silencio-na-cpi-da-covid/)
 

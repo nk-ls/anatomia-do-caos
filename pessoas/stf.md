@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **15/04/2020** (decisão judicial) ADI 6341: confirmou a competência concorrente de União, estados e municípios para medidas sanitárias (não impediu a União de agir). [fonte](https://www.stf.jus.br/arquivo/cms/publicacaoBOInternet/anexo/link_download/casos_relevantes/pt/ADI_6341_MC_Ref.pdf)
+- **15/04/2020** (decisão judicial) ADI 6341: confirmou a competência concorrente de União, estados e municípios para medidas sanitárias (não impediu a União de agir). [fonte](https://www.stf.jus.br/arquivo/cms/publicacaoBOInternet/anexo/link_download/casos_relevantes/pt/ADI_6341_MC_Ref.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/stf-jus-br-arquivo-cms-publicacaoBOInternet-anexo-link-download-casos-relevantes-pt-ADI-63-59c8dcd0/2026-10-24.pdf)
 
 ## 🔴 O que fez contra o combate à pandemia
 

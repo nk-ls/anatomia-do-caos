@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **26/10/2021** (fato) Conduziram a CPI (instalada em 27/04/2021) e aprovaram o relatório final; em 2024 recorreram contra arquivamentos. Governistas acusaram a CPI de uso político. [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/)
+- **26/10/2021** (fato) Conduziram a CPI (instalada em 27/04/2021) e aprovaram o relatório final; em 2024 recorreram contra arquivamentos. Governistas acusaram a CPI de uso político. [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

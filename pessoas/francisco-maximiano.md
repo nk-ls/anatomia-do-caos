@@ -12,7 +12,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **2017** (alegação) Global Gestão em Saúde, presidida por ele, recebeu adiantamento de cerca de R$ 20 milhões do Ministério da Saúde por remédios de alto custo que não foram entregues; MPF move ação de improbidade (caso anterior à pandemia) [fonte](https://www.bemparana.com.br/noticia/mpf-pede-bloqueio-de-bens-de-ricardo-barros)
-- **25/02/2021** (alegação) Contrato da Covaxin (intermediado pela Precisa): 20 milhões de doses, cerca de R$ 1,6 bilhão; investigado por pedido de pagamento antecipado a offshore não previsto no contrato. A vacina nunca foi entregue e o contrato foi cancelado. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [no documentário, 00:46:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2760s)
+- **25/02/2021** (alegação) Contrato da Covaxin (intermediado pela Precisa): 20 milhões de doses, cerca de R$ 1,6 bilhão; investigado por pedido de pagamento antecipado a offshore não previsto no contrato. A vacina nunca foi entregue e o contrato foi cancelado. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsona-bb731065/2026-10-24.html) · [no documentário, 00:46:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2760s)
 
 ## ⚪ Fatos processuais e neutros
 

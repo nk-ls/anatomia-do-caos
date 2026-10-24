@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **25/06/2021** (alegação) Relataram à CPI "pressão anormal" na compra da Covaxin e que levaram as suspeitas ao presidente. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [no documentário, 00:47:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2820s)
+- **25/06/2021** (alegação) Relataram à CPI "pressão anormal" na compra da Covaxin e que levaram as suspeitas ao presidente. [fonte](https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsona-bb731065/2026-10-24.html) · [no documentário, 00:47:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2820s)
 
 ## 🔴 O que fez contra o combate à pandemia
 

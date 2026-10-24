@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **02/2020** (fato) Sequenciaram em cerca de 48 horas o genoma do vírus do primeiro caso brasileiro. [fonte](https://agencia.fapesp.br/tecnologia-que-sequenciou-coronavirus-em-48-horas-permitira-monitorar-epidemia-em-tempo-real/32637)
+- **02/2020** (fato) Sequenciaram em cerca de 48 horas o genoma do vírus do primeiro caso brasileiro. [fonte](https://agencia.fapesp.br/tecnologia-que-sequenciou-coronavirus-em-48-horas-permitira-monitorar-epidemia-em-tempo-real/32637) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agencia-fapesp-br-tecnologia-que-sequenciou-coronavirus-em-48-horas-permitira-monitorar-ep-e6ce8d96/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

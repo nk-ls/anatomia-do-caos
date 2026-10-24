@@ -7,12 +7,12 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **03/2020** (fato) Defendeu publicamente o distanciamento social e cautela com a cloroquina, contra a posição do presidente, até ser demitido em 16/04/2020. [fonte](https://www.correio24horas.com.br/noticia/nid/apos-confrontos-ministro-mandetta-e-demitido-em-meio-a-crise-do-coronavirus/)
-- **04/05/2021** (alegação) Na CPI, revelou ter visto no Planalto uma minuta de decreto para mudar a bula da cloroquina e incluir a Covid. [fonte](https://istoe.com.br/mandetta-havia-decreto-presidencial-para-que-se-mudasse-a-bula-da-cloroquina) · [no documentário, 00:09:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=540s)
+- **03/2020** (fato) Defendeu publicamente o distanciamento social e cautela com a cloroquina, contra a posição do presidente, até ser demitido em 16/04/2020. [fonte](https://www.correio24horas.com.br/noticia/nid/apos-confrontos-ministro-mandetta-e-demitido-em-meio-a-crise-do-coronavirus/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/correio24horas-com-br-noticia-nid-apos-confrontos-ministro-mandetta-e-demitido-em-meio-a-c-65a8e5c7/2026-10-24.html)
+- **04/05/2021** (alegação) Na CPI, revelou ter visto no Planalto uma minuta de decreto para mudar a bula da cloroquina e incluir a Covid. [fonte](https://istoe.com.br/mandetta-havia-decreto-presidencial-para-que-se-mudasse-a-bula-da-cloroquina) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/istoe-com-br-mandetta-havia-decreto-presidencial-para-que-se-mudasse-a-bula-da-cloroquina-01a1aee9/2026-10-24.html) · [no documentário, 00:09:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=540s)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **04/05/2021** (checagem) A Aos Fatos apontou como falsa sua afirmação, na CPI, de ter entregue 15 mil respiradores; governistas o acusaram de demora no início da pandemia. [fonte](https://www.aosfatos.org/noticias/mandetta-falseia-fatos-sobre-sua-gestao-na-saude-em-depoimento-cpi-da-covid-19/)
+- **04/05/2021** (checagem) A Aos Fatos apontou como falsa sua afirmação, na CPI, de ter entregue 15 mil respiradores; governistas o acusaram de demora no início da pandemia. [fonte](https://www.aosfatos.org/noticias/mandetta-falseia-fatos-sobre-sua-gestao-na-saude-em-depoimento-cpi-da-covid-19/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-mandetta-falseia-fatos-sobre-sua-gestao-na-saude-em-depoimento-cpi-d-f6a48be1/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **17/01/2021** (fato) Aprovou por unanimidade o uso emergencial da CoronaVac e da AstraZeneca/Fiocruz. [fonte](https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121)
+- **17/01/2021** (fato) Aprovou por unanimidade o uso emergencial da CoronaVac e da AstraZeneca/Fiocruz. [fonte](https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-7a91c1f9/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

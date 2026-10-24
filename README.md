@@ -20,6 +20,8 @@ O povo judeu repete *Zachor*, "lembra-te", e mantém viva a memória do Holocaus
 
 **Site:** [nk-ls.github.io/anatomia-do-caos](https://nk-ls.github.io/anatomia-do-caos/) (HTML, CSS e JavaScript, sem dependências; lê as mesmas planilhas deste repositório)
 
+**Referências:** [todas as 433 fontes](https://nk-ls.github.io/anatomia-do-caos/referencias.html), com cópia arquivada e onde cada uma é usada
+
 **Baixe os dados:** [planilha Excel (234 países)](dados/covid_paises.xlsx) · [CSV](dados/covid_paises.csv) · [como os números foram calculados](docs/metodologia.md)
 
 ---
@@ -147,7 +149,7 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 
 | Pasta | Conteúdo |
 |---|---|
-| [`dados/`](dados/) | Planilha dos 234 países; `pessoas.csv` e `atos.csv` (envolvidos e seus atos, com fonte) |
+| [`dados/`](dados/) | Planilha dos 234 países; `pessoas.csv` e `atos.csv` (envolvidos e seus atos, com fonte); `fontes.csv` (todas as fontes, com cópia arquivada e onde são usadas) |
 | [`graficos/`](graficos/) | Gráficos (PNG) |
 | [`pessoas/`](pessoas/README.md) | Uma ficha por envolvido: atos a favor e contra, CPI, desdobramentos, defesa |
 | [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |

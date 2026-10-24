@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **01/2021** (fato) Assinou ofícios alertando Pazuello e o Exército sobre a iminência de esgotamento do oxigênio, segundo a PF [fonte](https://www.metropoles.com/brasil/pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus)
+- **01/2021** (fato) Assinou ofícios alertando Pazuello e o Exército sobre a iminência de esgotamento do oxigênio, segundo a PF [fonte](https://www.metropoles.com/brasil/pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/metropoles-com-brasil-pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus-88914726/2026-10-24.html)
 - **14/01/2021** (fato) Decretou toque de recolher no estado e transferência de pacientes para hospitais de outros estados [fonte](https://www.congressoemfoco.com.br/saude/venezuela-amazonas-oxigenio-manaus/)
 - **26/01/2021** (fato) Governo estadual reabriu o hospital Nilton Lins para pacientes de Covid-19, com 80 leitos clínicos e 22 de UTI [fonte](https://agenciabrasil.ebc.com.br/saude/noticia/2021-01/hospital-nilton-lins-reabre-para-pacientes-com-covid-19-no-amazonas)
 

@@ -58,7 +58,7 @@ img { max-width: 100%; height: auto; display: block; }
 .memoria .assinatura { color: var(--suave); font-size: .95rem; }
 
 /* Números */
-.numeros { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 14px; margin: 28px 0; }
+.numeros { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px; margin: 28px 0; }
 .numero { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 18px; }
 .numero strong { display: block; font-size: 1.9rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
 .numero span { color: var(--suave); font-size: .92rem; }
