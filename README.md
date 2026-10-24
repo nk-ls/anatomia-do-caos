@@ -2,7 +2,7 @@
 
 **Pelo povo, para o povo brasileiro.** Dados abertos, gráficos e fontes que qualquer pessoa pode conferir, baixar e reproduzir.
 
-> 🚧 **Em construção.** Os dados e gráficos desta página já estão prontos. O relatório sobre as decisões do governo federal (Pfizer, Butantan, cloroquina, CPI) está sendo escrito e só entra depois de cada afirmação ser conferida na fonte.
+> 🚧 **Em construção.** Dados e gráficos: prontos e reproduzíveis. Caso brasileiro (seção 6): conferido pela busca, com o arquivamento das fontes em andamento. Roteiro do documentário: em preparação.
 
 **Baixe os dados:** [planilha Excel (234 países)](dados/covid_paises.xlsx) · [CSV](dados/covid_paises.csv) · [como os números foram calculados](docs/metodologia.md)
 
@@ -73,6 +73,36 @@ Em 30/06/2021, o Brasil tinha 12% da população com esquema completo, contra ce
 
 **Leitura honesta:** começar cedo não garantiu cobertura (Rússia e México começaram antes e vacinaram menos), e começar tarde não impediu cobertura alta (Uruguai). Comparar países também não isola o efeito de um governo: idade da população, desigualdade, variantes e sistema de saúde pesam. O relatório trata disso com as fontes.
 
+## 6. O caso brasileiro: decisões do governo federal
+
+> 🔎 **Conferido pela busca** (24/10/2026). As cópias datadas das fontes estão sendo arquivadas. Detalhes, citações e todos os links nos documentos indicados. [Como verificamos](docs/verificacao.md).
+
+**Vacinas oferecidas e não respondidas** ([cronologia completa](docs/cronologia.md))
+- **30/07/2020** — o Instituto Butantan ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020. Segundo Dimas Covas à CPI, não houve resposta.
+- **Agosto de 2020** — a Pfizer fez três ofertas (14, 18 e 26/08), com pelo menos 1,5 milhão de doses ainda em dezembro de 2020. Em 12/09/2020, o presidente da empresa escreveu ao governo: *"até o momento não recebemos uma resposta"*.
+- **21/10/2020** — um dia depois de o ministro Pazuello anunciar a compra de 46 milhões de doses da CoronaVac, o presidente Bolsonaro escreveu: *"NÃO SERÁ COMPRADA"*. Em 22/10, Pazuello: *"Um manda e o outro obedece"*.
+- **10/11/2020** — quando a Anvisa suspendeu temporariamente os testes da CoronaVac, o presidente escreveu: *"Mais uma que Jair Bolsonaro ganha"*.
+- **Janeiro de 2021** — contrato da CoronaVac em 07/01; primeira vacinada, a enfermeira Mônica Calazans, em 17/01. Contrato da Pfizer só em março de 2021; primeiras doses em 29/04/2021.
+- **O Brasil poderia ter sido o primeiro?** Dimas Covas disse à CPI que o Brasil *"poderia ser o primeiro país do mundo a começar a vacinação não fossem os percalços"*. É a avaliação dele, condicional, sobre começar a vacinar.
+
+**Falas do presidente** — *"gripezinha"* (20 e 24/03/2020); *"E daí? Lamento. Quer que eu faça o quê?"* (28/04/2020); *"país de maricas"* (10/11/2020); *"não vou tomar vacina e ponto final"* (15/12/2020); *"se você virar um jacaré, é problema seu"* (17/12/2020); imitação de pessoa com falta de ar (18/03/2021); live associando falsamente a vacina à aids (21/10/2021), removida pelas plataformas.
+
+**Cloroquina** — orientação do Ministério da Saúde liberando o uso em casos leves (20/05/2020), mesmo sem evidência de benefício; produção de cerca de 3,2 milhões de comprimidos pelo laboratório do Exército em 2020; app TrateCov (jan/2021). Na CPI, Mandetta e o presidente da Anvisa, Antonio Barra Torres, confirmaram uma reunião no Planalto com proposta de mudar a bula da cloroquina para incluir a Covid. A Anvisa não aceitou.
+
+**Quantas mortes poderiam ter sido evitadas?** ([estudos e contra-argumentos](docs/estudos.md))
+
+| Estimativa | O que mede | Quem | Tipo |
+|---|---|---|---|
+| ~400 mil (4 em cada 5 mortes até jun/2021) | Diferença entre o Brasil e a média mundial | Pedro Hallal (UFPel), depoimento à CPI | Ampla: atribui toda a diferença à gestão |
+| ~120 mil (1º ano) | Efeito de medidas como distanciamento e máscara | Nota técnica UFRJ/USP | Parte federal, parte estadual e municipal |
+| ~47 mil idosos (piso) a ~145 mil | Vacinação mais cedo e mais rápida | Lancet Regional Health Americas (2023); pesquisadores da USP | Estreita: decisão específica |
+
+Nenhum desses números é exato, e cada um depende de premissas explicadas no documento. Também há contra-argumentos documentados: vacinas escassas no mundo no fim de 2020, papel de estados e municípios, variante Gama.
+
+**A CPI da Covid** ([quem foi apontado e o que aconteceu depois](docs/cpi.md)) — o relatório final, aprovado em 26/10/2021 por 7 votos a 4, pediu o indiciamento de **78 pessoas e 2 empresas**, entre elas o presidente da República por 9 crimes. Em 2022 a Procuradoria-Geral da República pediu o arquivamento da maior parte; em setembro de 2025 o STF autorizou um inquérito da Polícia Federal com 24 investigados, que segue sob sigilo. ⚖️ **Pedido de indiciamento não é condenação**, e até hoje não há condenação.
+
+**Quem atuou a favor da população** — Butantan, Fiocruz, SUS e profissionais de saúde, cientistas, Anvisa, imprensa e outros, com ato, data e ressalvas: [lista aberta](docs/quem-atuou.md).
+
 ---
 
 ## Como este trabalho é feito
@@ -89,9 +119,9 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 
 - [x] 1. Dados globais por país (planilha, CSV e gráficos)
 - [ ] 2. Roteiro do documentário (resumo com minutagem)
-- [ ] 3. Cronologia Brasil: Pfizer, Butantan/CoronaVac, cloroquina
-- [ ] 4. Estudos de mortes evitáveis, com contra-argumentos
-- [ ] 5. CPI: pedidos de indiciamento e quem atuou no combate à pandemia
+- [x] 3. Cronologia Brasil: Pfizer, Butantan/CoronaVac, cloroquina (🔎)
+- [x] 4. Estudos de mortes evitáveis, com contra-argumentos (🔎)
+- [x] 5. CPI: pedidos de indiciamento e quem atuou no combate à pandemia (🔎)
 - [ ] 6. Relatório final
 - [ ] 7. Revisão independente de cada afirmação
 
@@ -101,7 +131,8 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 |---|---|
 | [`dados/`](dados/) | Planilha e CSV com os 234 países e territórios |
 | [`graficos/`](graficos/) | Gráficos (PNG) |
-| [`docs/`](docs/) | Metodologia, e em breve relatório, cronologia e fontes |
+| [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |
+| [Arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes) | Cópias datadas de cada fonte citada (repositório separado) |
 | [`scripts/`](scripts/) | Código que gera tudo |
 
 ## Licença e uso
