@@ -18,6 +18,8 @@ O povo judeu repete *Zachor*, "lembra-te", e mantém viva a memória do Holocaus
 
 > ✅ **Revisado.** Dados e gráficos reproduzíveis; caso brasileiro conferido, com cópias datadas de 159 das 182 fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes); [revisão independente](docs/revisao.md) feita em 24/10/2026, com todos os erros encontrados corrigidos.
 
+**Site:** [nk-ls.github.io/anatomia-do-caos](https://nk-ls.github.io/anatomia-do-caos/) (HTML, CSS e JavaScript, sem dependências; lê as mesmas planilhas deste repositório)
+
 **Baixe os dados:** [planilha Excel (234 países)](dados/covid_paises.xlsx) · [CSV](dados/covid_paises.csv) · [como os números foram calculados](docs/metodologia.md)
 
 ---
@@ -150,13 +152,20 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 | [`pessoas/`](pessoas/README.md) | Uma ficha por envolvido: atos a favor e contra, CPI, desdobramentos, defesa |
 | [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |
 | [Arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes) | Cópias datadas de cada fonte citada (repositório separado) |
-| [`scripts/`](scripts/) | Código que gera tudo |
+| [`scripts/`](scripts/) | Código Python que gera planilhas, gráficos e fichas |
+| `index.html`, `envolvidos.html`, [`assets/`](assets/) | O site (HTML, CSS e JavaScript) |
 
 ## Licença e uso
 
 Pode copiar, compartilhar e republicar, citando a fonte. Texto, análises e gráficos: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt_BR). Código: MIT. Os dados de terceiros seguem as licenças das fontes: Our World in Data (CC BY 4.0) e The Economist (ver repositório do modelo).
 
 Encontrou um erro? Abra uma *issue* com o link da fonte, e a correção entra com registro.
+
+## Autoria
+
+**Nickolas Moretto** — idealização, direção da pesquisa e posicionamento do autor.
+
+Pesquisa, redação e código feitos com auxílio de inteligência artificial (Claude, da Anthropic), sob direção do autor, com [revisão independente](docs/revisao.md) e fontes conferíveis.
 
 ## Agradecimentos
 
