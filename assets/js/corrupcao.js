@@ -72,6 +72,18 @@ g.addEventListener("pointerleave", () => { dica.hidden = true; });
 document.getElementById("tabela-valores").innerHTML = `<table><thead><tr><th>Caso</th><th>O quê</th><th>Valor</th><th>Situação</th><th>Documento</th></tr></thead><tbody>${
   barras.map(({ caso, e }) => `<tr><td>${esc(caso.titulo.split(":")[0])}</td><td>${esc(e.o_que)}</td><td>${reais(e.valor_reais)}</td><td>${selo(e.situacao)}</td><td>${docs(e.docs)}</td></tr>`).join("")}</tbody></table>`;
 
+// 3b. Preço por dose dos contratos de vacina (uma série, uma unidade)
+const comp = [...dados.comparacao].sort((a, b) => b.preco_dose_reais - a.preco_dose_reais);
+const maxDose = Math.max(...comp.map((c) => c.preco_dose_reais));
+const brl = (v) => `R$ ${fmt(v, 2)}`;
+document.getElementById("grafico-dose").innerHTML = comp.map((c) => `
+  <a class="barra-linha" href="${esc(c.doc)}" title="${esc(c.calculo)}">
+    <span class="barra-rotulo">${esc(c.vacina)} · ${esc(c.contrato)}</span>
+    <span class="barra-trilho"><span class="barra" style="width:${(c.preco_dose_reais / maxDose) * 100}%;--c:${c.contrato === "CT 29/2021" ? "var(--alerta)" : "var(--destaque)"}"></span></span>
+    <span class="barra-valor">${brl(c.preco_dose_reais)}${c.contrato === "CT 29/2021" ? " ⚠️" : ""}</span></a>`).join("");
+document.getElementById("tabela-dose").innerHTML = `<table><thead><tr><th>Vacina</th><th>Contrato</th><th>Data</th><th>Doses</th><th>Valor</th><th>Por dose</th><th>Como calculado</th><th>Pago</th></tr></thead><tbody>${
+  dados.comparacao.map((c) => `<tr><td>${esc(c.vacina)}</td><td><a href="${esc(c.doc)}">${esc(c.contrato)}</a></td><td>${esc(c.data)}</td><td>${fmt(c.doses)}</td><td>${reais(c.valor_reais)}</td><td>${brl(c.preco_dose_reais)}</td><td>${esc(c.calculo)}</td><td>${esc(c.pago)}</td></tr>`).join("")}</tbody></table>`;
+
 // 4. Casos passo a passo
 document.getElementById("lista-casos").innerHTML = dados.casos.map((c) => `
   <article class="achado caso-dinheiro" id="caso-${esc(c.id)}">

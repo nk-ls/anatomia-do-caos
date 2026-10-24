@@ -30,12 +30,12 @@
      "tipo": "fato",
      "docs": [
       {
-       "nome": "TCU, Acórdão 1.179/2025",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+       "nome": "Contrato 29/2021 (íntegra)",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/vacinas/MS_DLOG_ct-029-2021-vacina-covid.pdf"
       },
       {
-       "nome": "Relatório da CPI, seção 6.8",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+       "nome": "TCU, Acórdão 1.179/2025",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
       }
      ]
     },
@@ -218,12 +218,12 @@
      "tipo": "fato",
      "docs": [
       {
-       "nome": "TCU, Acórdão 651/2023",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
+       "nome": "Contrato 59/2018 (íntegra)",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/logistica/VTCLog_Contrato_59-2018_SEI0015829533.pdf"
       },
       {
-       "nome": "Relatório da CPI, seção 6.10",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+       "nome": "TCU, Acórdão 651/2023",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
       }
      ]
     },
@@ -237,6 +237,10 @@
      "situacao": "irregular",
      "tipo": "decisão de órgão de controle",
      "docs": [
+      {
+       "nome": "1º termo aditivo",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/logistica/VTCLog_CT59-2018_1oTA_SEI0019148149.html"
+      },
       {
        "nome": "TCU, Acórdão 651/2023",
        "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
@@ -254,12 +258,12 @@
      "tipo": "decisão de órgão de controle",
      "docs": [
       {
-       "nome": "TCU, Acórdão 651/2023",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
+       "nome": "2º termo aditivo",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/logistica/VTCLog_CT59-2018_2oTA_SEI0020553781.html"
       },
       {
-       "nome": "Relatório da CPI, seção 6.10",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
+       "nome": "TCU, Acórdão 651/2023",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
       }
      ]
     },
@@ -355,6 +359,10 @@
      "situacao": "não pago",
      "tipo": "fato",
      "docs": [
+      {
+       "nome": "Processo da oferta no Ministério (CPI, DOC 1954)",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/cpi/CPI_DOC1954_MS_Davati_1.pdf"
+      },
       {
        "nome": "Relatório da CPI, seção 6.8.2",
        "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf"
@@ -561,6 +569,74 @@
      ]
     }
    ]
+  }
+ ],
+ "comparacao": [
+  {
+   "vacina": "CoronaVac (Butantan)",
+   "contrato": "CT 5/2021",
+   "data": "07/01/2021",
+   "doses": 46000000,
+   "valor_reais": 2677200000,
+   "preco_dose_reais": 58.2,
+   "calculo": "preço do contrato",
+   "pago": "R$ 931 mi até 31/03/2021 (dias cobertos)",
+   "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/vacinas/MS_DLOG_ct-5-2021-vacina-covid-25000-002031-2021-69-07-01-2021-fundacao-butantan.pdf"
+  },
+  {
+   "vacina": "CoronaVac (Butantan)",
+   "contrato": "CT 14/2021",
+   "data": "16/02/2021",
+   "doses": 54000000,
+   "valor_reais": 3142800000,
+   "preco_dose_reais": 58.2,
+   "calculo": "preço do contrato",
+   "pago": "R$ 129 mi até 25/06/2021 (dias cobertos)",
+   "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/vacinas/MS_DLOG_ct-14-2021-vacina-covid-25000-013174-2021-04-15-02-2021-fundacao-butantan.pdf"
+  },
+  {
+   "vacina": "Covaxin (Bharat, via Precisa)",
+   "contrato": "CT 29/2021",
+   "data": "25/02/2021",
+   "doses": 20000000,
+   "valor_reais": 1614000000,
+   "preco_dose_reais": 80.7,
+   "calculo": "US$ 15 × R$ 5,38 (câmbio do contrato)",
+   "pago": "nada (rescindido)",
+   "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/vacinas/MS_DLOG_ct-029-2021-vacina-covid.pdf"
+  },
+  {
+   "vacina": "Sputnik V (União Química)",
+   "contrato": "CT 42/2021",
+   "data": "12/03/2021",
+   "doses": 10000000,
+   "valor_reais": 693600000,
+   "preco_dose_reais": 69.36,
+   "calculo": "preço do contrato",
+   "pago": "nada encontrado (sem aval da Anvisa, sem entrega)",
+   "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/vacinas/MS_DLOG_sei_ms-0019515441-contrato-42-uniao-quimica.pdf"
+  },
+  {
+   "vacina": "Pfizer/BioNTech",
+   "contrato": "CT 52/2021",
+   "data": "18/03/2021",
+   "doses": 100001070,
+   "valor_reais": 3635347074.8,
+   "preco_dose_reais": 36.35,
+   "calculo": "empenhos de 22/03/2021 ÷ doses",
+   "pago": "R$ 1,78 bi até 16/06/2021 (dias cobertos)",
+   "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contrato_pfizer_2021-03-19.pdf"
+  },
+  {
+   "vacina": "Janssen (J&J)",
+   "contrato": "CT 51/2021",
+   "data": "22/03/2021",
+   "doses": 38000000,
+   "valor_reais": 1198727720.7,
+   "preco_dose_reais": 31.55,
+   "calculo": "empenho de 22/03/2021 ÷ doses",
+   "pago": "R$ 537 mi em 25/03/2021",
+   "doc": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contratos/dados/despesas/despesas_Janssen_J_J.csv"
   }
  ],
  "rede": {
