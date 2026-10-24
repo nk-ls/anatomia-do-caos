@@ -9,6 +9,8 @@
   --favor: #1d7a46;
   --contra: #b3261e;
   --neutro: #6b7280;
+  --alerta: #b45309;
+  --cat1: #1f5fa8; --cat2: #0e8a6e; --cat3: #c2410c; --cat4: #8b5cf6;
   --aviso-fundo: #fff7e0;
   --aviso-borda: #e3c56b;
   --raio: 10px;
@@ -26,6 +28,8 @@
     --favor: #4cbf7f;
     --contra: #ef6b62;
     --neutro: #9aa0a8;
+    --alerta: #f0a33a;
+    --cat1: #4f86cf; --cat2: #17997a; --cat3: #d9692a; --cat4: #8f74e6;
     --aviso-fundo: #2a2412;
     --aviso-borda: #6b5a22;
     color-scheme: dark;
@@ -198,3 +202,47 @@ body.tela-cheia { height: 100vh; overflow: hidden; background: #0b0d10; color: #
 .cartao-topo { display: flex; gap: 12px; align-items: center; }
 .ficha-topo { display: flex; gap: 16px; align-items: center; }
 .ficha-topo h2 { margin: 0; }
+
+/* Aba Corrupção: o caminho do dinheiro */
+.situacoes { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 10px 18px; }
+.situacao { display: flex; flex-direction: column; gap: 2px; }
+.selo-sit { display: inline-flex; align-items: center; gap: 4px; width: fit-content; font-size: .8rem; font-weight: 600; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--c); color: var(--texto); background: color-mix(in srgb, var(--c) 12%, transparent); }
+.numero .selo-sit { display: flex; margin: 6px 0 4px; }
+.grafico-barras { display: grid; gap: 6px; margin: 10px 0; }
+.barra-linha { display: grid; grid-template-columns: minmax(120px, 38%) 1fr auto; gap: 10px; align-items: center; text-decoration: none; color: var(--texto); padding: 4px 0; border-radius: 6px; }
+.barra-linha:hover .barra-rotulo { color: var(--destaque); }
+.barra-rotulo { font-size: .86rem; line-height: 1.25; }
+.barra-trilho { height: 16px; border-bottom: 1px solid var(--borda); }
+.barra { display: block; height: 14px; min-width: 4px; background: var(--c); border-radius: 0 4px 4px 0; }
+.barra-valor { font-size: .86rem; font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--suave); }
+figure table, .caso-dinheiro table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+figure th, figure td { white-space: normal; text-align: left; padding: 6px; border-bottom: 1px solid var(--borda); vertical-align: top; }
+figure details { overflow-x: auto; }
+.trilha { list-style: none; padding: 0; margin: 10px 0 18px; }
+.passo-dinheiro { position: relative; border: 1px solid var(--borda); border-left: 4px solid var(--c); border-radius: 0 var(--raio) var(--raio) 0; padding: 10px 14px; background: var(--fundo); }
+.passo-dinheiro + .passo-dinheiro { margin-top: 26px; }
+.passo-dinheiro + .passo-dinheiro::before { content: "↓"; position: absolute; top: -24px; left: 10px; color: var(--suave); font-size: 18px; }
+.passo-topo { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.passo-topo .quando { font-weight: 700; font-variant-numeric: tabular-nums; color: var(--destaque); }
+.tipo-info { font-size: .78rem; color: var(--suave); text-transform: uppercase; letter-spacing: .04em; }
+.passo-rota { margin-top: 4px; }
+.passo-dinheiro p { margin: 4px 0; }
+.passo-pe { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 14px; align-items: baseline; }
+.passo-valor { font-weight: 700; font-variant-numeric: tabular-nums; }
+.decisoes { padding-left: 18px; }
+.decisoes li { margin: 6px 0; }
+.decisoes .orgao { font-weight: 700; }
+.decisoes .quando { font-variant-numeric: tabular-nums; color: var(--suave); }
+.caso-dinheiro h4 { margin: 16px 0 6px; font-size: 1rem; }
+.dinheiro-rede-caixa { position: relative; background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 8px; }
+.rede-dinheiro { width: 100%; height: auto; display: block; touch-action: none; }
+.rede-dinheiro text { font-size: 12px; fill: var(--texto); paint-order: stroke; stroke: var(--superficie); stroke-width: 3px; pointer-events: none; }
+.no-dinheiro { cursor: grab; }
+.alvo-liga { cursor: pointer; }
+.rede-legenda { display: flex; flex-wrap: wrap; gap: 4px 16px; padding: 6px 8px 2px; }
+.traco { display: inline-block; width: 18px; height: 3px; border-radius: 2px; margin-right: 6px; vertical-align: middle; }
+.traco.tracejado { background: repeating-linear-gradient(90deg, var(--neutro) 0 5px, transparent 5px 9px); }
+@media (max-width: 600px) {
+  .barra-linha { grid-template-columns: 1fr auto; }
+  .barra-rotulo { grid-column: 1 / -1; }
+}
