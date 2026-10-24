@@ -16,7 +16,7 @@ ORDEM_GRUPOS = [
     "Presidência da República e família", "Ministério da Saúde", "Outros ministérios e órgãos federais",
     "Parlamentares", "\"Gabinete paralelo\" e médicos", "Empresários, comunicadores e influenciadores",
     "Contratos de vacina e logística (Covaxin, Davati, VTCLog)", "Prevent Senior", "Governo do Amazonas",
-    "Empresas (pessoa jurídica)", "Atuaram a favor da população",
+    "Empresas (pessoa jurídica)", "Médicos defensores do \"tratamento precoce\" que morreram de Covid", "Atuaram a favor da população",
 ]
 SELO = {"a favor": "🟢", "contra": "🔴", "processual": "⚪"}
 AVISO_CPI = ("> ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de "

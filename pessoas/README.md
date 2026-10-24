@@ -7,7 +7,7 @@ Cada pessoa ou instituição tem uma página com **o que fez a favor e contra o 
 - 🔴 **contra**: ato contrário à evidência disponível na época ou que dificultou a resposta à pandemia (recusar ou atrasar vacina, promover remédio sem eficácia, desinformar, irregularidade em contrato);
 - ⚪ **processual**: decisões, pedidos e fatos neutros.
 
-Hoje: **104 fichas**, das quais **80** com pedido de indiciamento da CPI (78 pessoas e 2 empresas). Muitas fichas ainda só têm a imputação da CPI: os atos de cada pessoa estão sendo levantados.
+Hoje: **107 fichas**, das quais **80** com pedido de indiciamento da CPI (78 pessoas e 2 empresas). Muitas fichas ainda só têm a imputação da CPI: os atos de cada pessoa estão sendo levantados.
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
@@ -31,7 +31,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Eduardo Pazuello](eduardo-pazuello.md) | Ministro da Saúde (interino a partir de 15/05/2020; exonerado em 23/03/2021) | 2 | 5 | sim |
 | [Marcelo Queiroga](marcelo-queiroga.md) | Ministro da Saúde (desde 23/03/2021) | 0 | 0 | sim |
 | [Antônio Élcio Franco Filho](elcio-franco.md) | Secretário-executivo do Ministério da Saúde | 0 | 0 | sim |
-| [Mayra Pinheiro ("capitã cloroquina")](mayra-pinheiro.md) | Secretária de Gestão do Trabalho e da Educação na Saúde (MS) | 0 | 1 | sim |
+| [Mayra Pinheiro ("capitã cloroquina")](mayra-pinheiro.md) | Secretária de Gestão do Trabalho e da Educação na Saúde (MS) | 0 | 3 | sim |
 | [Hélio Angotti Neto](helio-angotti.md) | Secretário de Ciência, Tecnologia e Insumos Estratégicos (MS) | 0 | 0 | sim |
 | [Roberto Ferreira Dias](roberto-dias.md) | Diretor de Logística do Ministério da Saúde | 0 | 0 | sim |
 | [Marcelo Blanco da Costa](marcelo-blanco.md) | Ex-assessor do Departamento de Logística do MS | 0 | 0 | sim |
@@ -69,7 +69,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Nise Yamaguchi](nise-yamaguchi.md) | Médica oncologista; apontada pela CPI como integrante do "gabinete paralelo" | 0 | 2 | sim |
+| [Nise Yamaguchi](nise-yamaguchi.md) | Médica oncologista; apontada pela CPI como integrante do "gabinete paralelo" | 0 | 5 | sim |
 | [Arthur Weintraub](arthur-weintraub.md) | Ex-assessor da Presidência; "gabinete paralelo" | 0 | 0 | sim |
 | [Paolo Marinho de Andrade Zanotto](paolo-zanotto.md) | Virologista (USP); "gabinete paralelo" | 0 | 0 | sim |
 | [Luciano Dias Azevedo](luciano-dias-azevedo.md) | Médico anestesista; "gabinete paralelo" | 0 | 0 | sim |
@@ -143,6 +143,13 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Precisa Comercialização de Medicamentos Ltda.](precisa-medicamentos.md) | Intermediária da vacina Covaxin | 0 | 1 | sim |
 | [VTC Operadora Logística Ltda. (VTCLog)](vtclog.md) | Empresa de logística do Ministério da Saúde | 0 | 0 | sim |
 
+## Médicos defensores do "tratamento precoce" que morreram de Covid
+
+| Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
+|---|---|---:|---:|---|
+| [Guido Céspedes](guido-cespedes.md) | Médico em Sinop (MT); responsável técnico pelo "Kit Covid-19" adotado pela prefeitura | 0 | 1 | — |
+| [Lécio Patrocínio](lecio-patrocinio.md) | Médico; professor de Medicina da UFRJ (campus Macaé) | 0 | 1 | — |
+
 ## Atuaram a favor da população
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
@@ -171,3 +178,4 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Mônica Calazans](monica-calazans.md) | Enfermeira de UTI; primeira vacinada no Brasil | 1 | 0 | — |
 | [Luis Miranda e Luis Ricardo Miranda](luis-miranda.md) | Deputado federal (DEM-DF) e servidor do Ministério da Saúde | 1 | 0 | — |
 | [Supremo Tribunal Federal](stf.md) | Poder Judiciário | 1 | 0 | — |
+| [Otto Alencar](otto-alencar.md) | Senador (PSD-BA), médico; membro da CPI | 1 | 0 | — |

@@ -12,7 +12,10 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **2020** (alegação) Segundo Barra Torres, apoiou a proposta de mudar a bula da cloroquina; ela nega a minuta. [fonte](https://www.poder360.com.br/congresso/barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cloroquina/)
+- **2020** (declaração) Em sessão da comissão externa da Câmara sobre "imunidade de rebanho por transmissão", disse que "não é necessário vacinar aleatoriamente uma população inteira" e que a imunidade das vacinas seria inferior à natural. [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 00:12:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=720s)
 - **01/06/2021** (declaração) Na CPI, defendeu hidroxicloroquina e ivermectina com o estudo da Henry Ford, que havia sido encerrado sem demonstrar benefício; disse não saber disso. [fonte](https://www.agazeta.com.br/brasil/cpi-da-covid-pede-indiciamento-de-81-veja-quem-e-quem-e-seus-possiveis-crimes-1021) · [no documentário, 00:15:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=930s)
+- **01/06/2021** (fato) Na CPI, não respondeu a perguntas básicas de infectologia feitas pelo senador Otto Alencar, médico (a que família pertence o vírus; antiviral ou antiprotozoário); ele concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [no documentário, 00:18:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1080s)
+- **01/06/2021** (declaração) Na CPI, negou integrar um "gabinete paralelo", mas relatou várias reuniões com integrantes do governo e com o presidente sobre cloroquina. A Aos Fatos classificou como enganosas informações dela sobre o "tratamento precoce". [fonte](https://www.aosfatos.org/noticias/na-cpi-nise-yamaguchi-defende-tratamento-precoce-com-informacoes-enganosas/)
 
 ## ⚪ Fatos processuais e neutros
 
