@@ -74,6 +74,7 @@ function ficha(p) {
   $("ficha").innerHTML = `<article class="ficha" aria-live="polite">
     <button class="voltar" type="button" id="fechar">← voltar à lista</button>
     <div class="ficha-topo">${avatar(p, true)}<h2>${esc(p.nome)}</h2></div>
+    ${estado.wikidata?.get(p.id) ? `<p class="nota">Também em: <a href="https://www.wikidata.org/wiki/${esc(estado.wikidata.get(p.id).qid)}" target="_blank" rel="noopener">Wikidata (${esc(estado.wikidata.get(p.id).qid)})</a>${estado.wikidata.get(p.id).wikipedia_pt ? ` · <a href="${linkSeguro(estado.wikidata.get(p.id).wikipedia_pt)}" target="_blank" rel="noopener">Wikipédia</a>` : ""}</p>` : ""}
     ${estado.fotos.get(p.id) ? `<p class="nota">${esc(estado.fotos.get(p.id).credito)} · <a href="${linkSeguro(estado.fotos.get(p.id).pagina)}" target="_blank" rel="noopener">origem</a></p>` : ""}
     <p><strong>Cargo à época:</strong> ${esc(p.cargo_epoca)}<br><span class="nota">${esc(p.grupo)}</span></p>
     ${blocos}
@@ -95,8 +96,9 @@ function mostrar() {
 }
 
 async function iniciar() {
-  const [pessoas, atos, fontes, fotos] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv"), carregarCSV("dados/fotos.csv")]);
+  const [pessoas, atos, fontes, fotos, wikidata] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv"), carregarCSV("dados/fotos.csv"), carregarCSV("dados/wikidata.csv").catch(() => [])]);
   for (const f of fotos) estado.fotos.set(f.id, f);
+  estado.wikidata = new Map(wikidata.filter((w) => /^Q\d+$/.test(w.qid)).map((w) => [w.id, w]));
   for (const f of fontes) if (f.copia_arquivada) estado.copias.set(f.url, f.copia_arquivada);
   estado.pessoas = pessoas;
   for (const a of atos) {
