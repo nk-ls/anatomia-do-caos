@@ -1,0 +1,2881 @@
+{
+"nos": [
+{
+"id": "tema:prevent",
+"tipo": "tema",
+"nome": "Prevent Senior"
+},
+{
+"id": "tema:contratos",
+"tipo": "tema",
+"nome": "Covaxin e contratos"
+},
+{
+"id": "tema:manaus",
+"tipo": "tema",
+"nome": "Manaus e oxigênio"
+},
+{
+"id": "tema:cloroquina",
+"tipo": "tema",
+"nome": "Cloroquina e \"tratamento precoce\""
+},
+{
+"id": "tema:vacinas",
+"tipo": "tema",
+"nome": "Vacinas"
+},
+{
+"id": "tema:distanciamento",
+"tipo": "tema",
+"nome": "Distanciamento e máscara"
+},
+{
+"id": "tema:desinformacao",
+"tipo": "tema",
+"nome": "Discurso e desinformação"
+},
+{
+"id": "tema:gestao",
+"tipo": "tema",
+"nome": "Gestão da crise e dados"
+},
+{
+"id": "tema:justica",
+"tipo": "tema",
+"nome": "CPI e Justiça"
+},
+{
+"id": "tema:outros",
+"tipo": "tema",
+"nome": "Outros atos"
+},
+{
+"id": "airton-soligo",
+"tipo": "pessoa",
+"nome": "Airton Antonio Soligo",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "alex-lial-marinho",
+"tipo": "pessoa",
+"nome": "Alex Lial Marinho",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "allan-dos-santos",
+"tipo": "pessoa",
+"nome": "Allan Lopes dos Santos",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "amilton-gomes",
+"tipo": "pessoa",
+"nome": "Amilton Gomes de Paula (\"Reverendo Amilton\")",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "andreia-lima",
+"tipo": "pessoa",
+"nome": "Andreia da Silva Lima",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "antonio-barra-torres",
+"tipo": "pessoa",
+"nome": "Antonio Barra Torres",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "antonio-jordao",
+"tipo": "pessoa",
+"nome": "Antônio Jordão de Oliveira Neto",
+"grupo": "\"Gabinete paralelo\" e médicos",
+"cpi": true
+},
+{
+"id": "anvisa",
+"tipo": "pessoa",
+"nome": "Anvisa (diretoria colegiada e corpo técnico)",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "arthur-weintraub",
+"tipo": "pessoa",
+"nome": "Arthur Weintraub",
+"grupo": "\"Gabinete paralelo\" e médicos",
+"cpi": true
+},
+{
+"id": "bernardo-kuster",
+"tipo": "pessoa",
+"nome": "Bernardo Kuster",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "bia-kicis",
+"tipo": "pessoa",
+"nome": "Bia Kicis",
+"grupo": "Parlamentares",
+"cpi": true
+},
+{
+"id": "braga-netto",
+"tipo": "pessoa",
+"nome": "Walter Braga Netto",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "carla-zambelli",
+"tipo": "pessoa",
+"nome": "Carla Zambelli",
+"grupo": "Parlamentares",
+"cpi": true
+},
+{
+"id": "carlos-bolsonaro",
+"tipo": "pessoa",
+"nome": "Carlos Bolsonaro",
+"grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "carlos-jordy",
+"tipo": "pessoa",
+"nome": "Carlos Jordy",
+"grupo": "Parlamentares",
+"cpi": true
+},
+{
+"id": "carlos-wizard",
+"tipo": "pessoa",
+"nome": "Carlos Wizard Martins",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "claudio-maierovitch",
+"tipo": "pessoa",
+"nome": "Claudio Maierovitch",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "consorcio-imprensa",
+"tipo": "pessoa",
+"nome": "Consórcio de veículos de imprensa",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "consorcio-nordeste",
+"tipo": "pessoa",
+"nome": "Consórcio Nordeste",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "cristiano-carvalho",
+"tipo": "pessoa",
+"nome": "Cristiano Alberto Hossri Carvalho",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "danilo-trento",
+"tipo": "pessoa",
+"nome": "Danilo Berndt Trento",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "dimas-covas",
+"tipo": "pessoa",
+"nome": "Dimas Covas",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "eduardo-bolsonaro",
+"tipo": "pessoa",
+"nome": "Eduardo Bolsonaro",
+"grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "eduardo-parrillo",
+"tipo": "pessoa",
+"nome": "Eduardo Parrillo",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
+"id": "eduardo-pazuello",
+"tipo": "pessoa",
+"nome": "Eduardo Pazuello",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "elcio-franco",
+"tipo": "pessoa",
+"nome": "Antônio Élcio Franco Filho",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "emanuela-medrades",
+"tipo": "pessoa",
+"nome": "Emanuela Batista de Souza Medrades",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "ernesto-araujo",
+"tipo": "pessoa",
+"nome": "Ernesto Araújo",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "ester-sabino",
+"tipo": "pessoa",
+"nome": "Ester Sabino",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "fabio-wajngarten",
+"tipo": "pessoa",
+"nome": "Fabio Wajngarten",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "fernando-parrillo",
+"tipo": "pessoa",
+"nome": "Fernando Parrillo",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
+"id": "filipe-martins",
+"tipo": "pessoa",
+"nome": "Filipe G. Martins",
+"grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "fiocruz",
+"tipo": "pessoa",
+"nome": "Fiocruz",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "flavio-bolsonaro",
+"tipo": "pessoa",
+"nome": "Flávio Bolsonaro",
+"grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "flavio-cadegiani",
+"tipo": "pessoa",
+"nome": "Flávio Adsuara Cadegiani",
+"grupo": "\"Gabinete paralelo\" e médicos",
+"cpi": true
+},
+{
+"id": "francisco-maximiano",
+"tipo": "pessoa",
+"nome": "Francisco Emerson Maximiano",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "guido-cespedes",
+"tipo": "pessoa",
+"nome": "Guido Céspedes",
+"grupo": "Médicos defensores do \"tratamento precoce\" que morreram de Covid",
+"cpi": false
+},
+{
+"id": "heitor-freire",
+"tipo": "pessoa",
+"nome": "Heitor Freire de Abreu",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "helcio-bruno",
+"tipo": "pessoa",
+"nome": "Hélcio Bruno de Almeida",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "helio-angotti",
+"tipo": "pessoa",
+"nome": "Hélio Angotti Neto",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "instituto-butantan",
+"tipo": "pessoa",
+"nome": "Instituto Butantan",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "jair-bolsonaro",
+"tipo": "pessoa",
+"nome": "Jair Messias Bolsonaro",
+"grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "jaqueline-goes",
+"tipo": "pessoa",
+"nome": "Jaqueline Goes de Jesus",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "joao-doria",
+"tipo": "pessoa",
+"nome": "João Doria",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "jose-alves-filho",
+"tipo": "pessoa",
+"nome": "José Alves Filho",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "jose-ricardo-santana",
+"tipo": "pessoa",
+"nome": "José Ricardo Santana",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "jurema-werneck",
+"tipo": "pessoa",
+"nome": "Jurema Werneck",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "leandro-ruschel",
+"tipo": "pessoa",
+"nome": "Leandro Ruschel",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "lecio-patrocinio",
+"tipo": "pessoa",
+"nome": "Lécio Patrocínio",
+"grupo": "Médicos defensores do \"tratamento precoce\" que morreram de Covid",
+"cpi": false
+},
+{
+"id": "luciano-dias-azevedo",
+"tipo": "pessoa",
+"nome": "Luciano Dias Azevedo",
+"grupo": "\"Gabinete paralelo\" e médicos",
+"cpi": true
+},
+{
+"id": "luciano-hang",
+"tipo": "pessoa",
+"nome": "Luciano Hang",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "luis-miranda",
+"tipo": "pessoa",
+"nome": "Luis Miranda e Luis Ricardo Miranda",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "luiz-dominguetti",
+"tipo": "pessoa",
+"nome": "Luiz Paulo Dominguetti Pereira",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "luiz-henrique-mandetta",
+"tipo": "pessoa",
+"nome": "Luiz Henrique Mandetta",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "marcellus-campelo",
+"tipo": "pessoa",
+"nome": "Marcellus Campêlo",
+"grupo": "Governo do Amazonas",
+"cpi": true
+},
+{
+"id": "marcelo-bento-pires",
+"tipo": "pessoa",
+"nome": "Marcelo Bento Pires",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "marcelo-blanco",
+"tipo": "pessoa",
+"nome": "Marcelo Blanco da Costa",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "marcelo-queiroga",
+"tipo": "pessoa",
+"nome": "Marcelo Queiroga",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "marconny-faria",
+"tipo": "pessoa",
+"nome": "Marconny Nunes Ribeiro Albernaz de Faria",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "marcos-tolentino",
+"tipo": "pessoa",
+"nome": "Marcos Tolentino da Silva",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "mauro-ribeiro",
+"tipo": "pessoa",
+"nome": "Mauro Luiz de Brito Ribeiro",
+"grupo": "\"Gabinete paralelo\" e médicos",
+"cpi": true
+},
+{
+"id": "mayra-pinheiro",
+"tipo": "pessoa",
+"nome": "Mayra Pinheiro (\"capitã cloroquina\")",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "monica-calazans",
+"tipo": "pessoa",
+"nome": "Mônica Calazans",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "natalia-pasternak",
+"tipo": "pessoa",
+"nome": "Natalia Pasternak",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "nelson-teich",
+"tipo": "pessoa",
+"nome": "Nelson Teich",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "nise-yamaguchi",
+"tipo": "pessoa",
+"nome": "Nise Yamaguchi",
+"grupo": "\"Gabinete paralelo\" e médicos",
+"cpi": true
+},
+{
+"id": "nisia-trindade",
+"tipo": "pessoa",
+"nome": "Nísia Trindade Lima",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "omar-aziz",
+"tipo": "pessoa",
+"nome": "Omar Aziz",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "onyx-lorenzoni",
+"tipo": "pessoa",
+"nome": "Onyx Lorenzoni",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "osmar-terra",
+"tipo": "pessoa",
+"nome": "Osmar Terra",
+"grupo": "Parlamentares",
+"cpi": true
+},
+{
+"id": "otavio-fakhoury",
+"tipo": "pessoa",
+"nome": "Otávio Oscar Fakhoury",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "otto-alencar",
+"tipo": "pessoa",
+"nome": "Otto Alencar",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "paolo-zanotto",
+"tipo": "pessoa",
+"nome": "Paolo Marinho de Andrade Zanotto",
+"grupo": "\"Gabinete paralelo\" e médicos",
+"cpi": true
+},
+{
+"id": "pedro-benedito-batista",
+"tipo": "pessoa",
+"nome": "Pedro Benedito Batista Júnior",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
+"id": "pedro-hallal",
+"tipo": "pessoa",
+"nome": "Pedro Hallal",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "precisa-medicamentos",
+"tipo": "pessoa",
+"nome": "Precisa Comercialização de Medicamentos Ltda.",
+"grupo": "Empresas (pessoa jurídica)",
+"cpi": true
+},
+{
+"id": "rafael-alves",
+"tipo": "pessoa",
+"nome": "Rafael Francisco Carmo Alves",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "raimundo-nonato-brasil",
+"tipo": "pessoa",
+"nome": "Raimundo Nonato Brasil",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "randolfe-rodrigues",
+"tipo": "pessoa",
+"nome": "Randolfe Rodrigues",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "regina-celia-oliveira",
+"tipo": "pessoa",
+"nome": "Regina Célia Oliveira",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "renan-calheiros",
+"tipo": "pessoa",
+"nome": "Renan Calheiros",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "ricardo-barros",
+"tipo": "pessoa",
+"nome": "Ricardo Barros",
+"grupo": "Parlamentares",
+"cpi": true
+},
+{
+"id": "richards-pozzer",
+"tipo": "pessoa",
+"nome": "Richards Pozzer",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "roberto-dias",
+"tipo": "pessoa",
+"nome": "Roberto Ferreira Dias",
+"grupo": "Ministério da Saúde",
+"cpi": true
+},
+{
+"id": "roberto-goidanich",
+"tipo": "pessoa",
+"nome": "Roberto Goidanich",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "roberto-jefferson",
+"tipo": "pessoa",
+"nome": "Roberto Jefferson",
+"grupo": "Parlamentares",
+"cpi": true
+},
+{
+"id": "stf",
+"tipo": "pessoa",
+"nome": "Supremo Tribunal Federal",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "sus-pni",
+"tipo": "pessoa",
+"nome": "SUS / Programa Nacional de Imunizações e profissionais de saúde",
+"grupo": "Atuaram a favor da população",
+"cpi": false
+},
+{
+"id": "tercio-arnaud-tomaz",
+"tipo": "pessoa",
+"nome": "Tércio Arnaud Tomaz",
+"grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "tulio-silveira",
+"tipo": "pessoa",
+"nome": "Túlio Silveira",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "vtclog",
+"tipo": "pessoa",
+"nome": "VTC Operadora Logística Ltda. (VTCLog)",
+"grupo": "Empresas (pessoa jurídica)",
+"cpi": true
+},
+{
+"id": "wagner-rosario",
+"tipo": "pessoa",
+"nome": "Wagner Rosário",
+"grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "wilson-lima",
+"tipo": "pessoa",
+"nome": "Wilson Lima",
+"grupo": "Governo do Amazonas",
+"cpi": true
+}
+],
+"arestas": [
+{
+"de": "airton-soligo",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+121
+]
+},
+{
+"de": "airton-soligo",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+122
+]
+},
+{
+"de": "alex-lial-marinho",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+113,
+116
+]
+},
+{
+"de": "alex-lial-marinho",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+117
+]
+},
+{
+"de": "allan-dos-santos",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+244
+]
+},
+{
+"de": "allan-dos-santos",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+243
+]
+},
+{
+"de": "amilton-gomes",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+177,
+178,
+179
+]
+},
+{
+"de": "andreia-lima",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+183
+]
+},
+{
+"de": "andreia-lima",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+184
+]
+},
+{
+"de": "antonio-barra-torres",
+"para": "tema:cloroquina",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+31
+]
+},
+{
+"de": "antonio-barra-torres",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+30
+]
+},
+{
+"de": "antonio-jordao",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+148
+]
+},
+{
+"de": "antonio-jordao",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+149
+]
+},
+{
+"de": "anvisa",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 1,
+"atos": [
+35,
+36
+]
+},
+{
+"de": "arthur-weintraub",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+140
+]
+},
+{
+"de": "arthur-weintraub",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+139,
+141
+]
+},
+{
+"de": "bernardo-kuster",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+245
+]
+},
+{
+"de": "bia-kicis",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+224
+]
+},
+{
+"de": "bia-kicis",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+223
+]
+},
+{
+"de": "bia-kicis",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+18,
+204
+]
+},
+{
+"de": "bia-kicis",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 3,
+"processual": 0,
+"atos": [
+222,
+225,
+226
+]
+},
+{
+"de": "braga-netto",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+32
+]
+},
+{
+"de": "braga-netto",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+98
+]
+},
+{
+"de": "braga-netto",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+99
+]
+},
+{
+"de": "carla-zambelli",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+228,
+229
+]
+},
+{
+"de": "carla-zambelli",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+227
+]
+},
+{
+"de": "carla-zambelli",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+18,
+204
+]
+},
+{
+"de": "carla-zambelli",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+230
+]
+},
+{
+"de": "carlos-bolsonaro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+212
+]
+},
+{
+"de": "carlos-bolsonaro",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+18,
+213
+]
+},
+{
+"de": "carlos-jordy",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+231
+]
+},
+{
+"de": "carlos-jordy",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+232
+]
+},
+{
+"de": "carlos-jordy",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+18,
+204
+]
+},
+{
+"de": "carlos-jordy",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+233
+]
+},
+{
+"de": "carlos-wizard",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+54
+]
+},
+{
+"de": "carlos-wizard",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+154
+]
+},
+{
+"de": "carlos-wizard",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+157
+]
+},
+{
+"de": "carlos-wizard",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+155
+]
+},
+{
+"de": "carlos-wizard",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+156
+]
+},
+{
+"de": "claudio-maierovitch",
+"para": "tema:cloroquina",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+42
+]
+},
+{
+"de": "consorcio-imprensa",
+"para": "tema:gestao",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+44
+]
+},
+{
+"de": "consorcio-nordeste",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+47
+]
+},
+{
+"de": "cristiano-carvalho",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+172
+]
+},
+{
+"de": "cristiano-carvalho",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+171
+]
+},
+{
+"de": "danilo-trento",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+165,
+167
+]
+},
+{
+"de": "danilo-trento",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+166
+]
+},
+{
+"de": "dimas-covas",
+"para": "tema:vacinas",
+"favor": 2,
+"contra": 0,
+"processual": 1,
+"atos": [
+37,
+38,
+39
+]
+},
+{
+"de": "eduardo-bolsonaro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+206
+]
+},
+{
+"de": "eduardo-bolsonaro",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+205,
+207
+]
+},
+{
+"de": "eduardo-bolsonaro",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+208
+]
+},
+{
+"de": "eduardo-bolsonaro",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+18,
+204
+]
+},
+{
+"de": "eduardo-bolsonaro",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 1,
+"processual": 1,
+"atos": [
+209,
+210,
+211
+]
+},
+{
+"de": "eduardo-parrillo",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+56,
+193
+]
+},
+{
+"de": "eduardo-parrillo",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 0,
+"processual": 4,
+"atos": [
+196,
+197,
+198,
+199
+]
+},
+{
+"de": "eduardo-pazuello",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+6
+]
+},
+{
+"de": "eduardo-pazuello",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+21
+]
+},
+{
+"de": "eduardo-pazuello",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+25
+]
+},
+{
+"de": "eduardo-pazuello",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+23,
+24
+]
+},
+{
+"de": "eduardo-pazuello",
+"para": "tema:vacinas",
+"favor": 2,
+"contra": 0,
+"processual": 0,
+"atos": [
+20,
+22
+]
+},
+{
+"de": "elcio-franco",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+81
+]
+},
+{
+"de": "elcio-franco",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 1,
+"atos": [
+79,
+80
+]
+},
+{
+"de": "emanuela-medrades",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+55,
+161,
+162
+]
+},
+{
+"de": "ernesto-araujo",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+96
+]
+},
+{
+"de": "ernesto-araujo",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+93
+]
+},
+{
+"de": "ernesto-araujo",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+97
+]
+},
+{
+"de": "ernesto-araujo",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 1,
+"atos": [
+94,
+95
+]
+},
+{
+"de": "ester-sabino",
+"para": "tema:gestao",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+41
+]
+},
+{
+"de": "fabio-wajngarten",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+103
+]
+},
+{
+"de": "fabio-wajngarten",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+104,
+105,
+106
+]
+},
+{
+"de": "fernando-parrillo",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 1,
+"atos": [
+56,
+193,
+195
+]
+},
+{
+"de": "fernando-parrillo",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 0,
+"processual": 4,
+"atos": [
+196,
+197,
+198,
+199
+]
+},
+{
+"de": "filipe-martins",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+108
+]
+},
+{
+"de": "fiocruz",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+40
+]
+},
+{
+"de": "flavio-bolsonaro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+201
+]
+},
+{
+"de": "flavio-bolsonaro",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+200
+]
+},
+{
+"de": "flavio-bolsonaro",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+18,
+204
+]
+},
+{
+"de": "flavio-bolsonaro",
+"para": "tema:vacinas",
+"favor": 2,
+"contra": 0,
+"processual": 0,
+"atos": [
+202,
+203
+]
+},
+{
+"de": "flavio-cadegiani",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+153
+]
+},
+{
+"de": "flavio-cadegiani",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+151,
+152
+]
+},
+{
+"de": "flavio-cadegiani",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+150
+]
+},
+{
+"de": "francisco-maximiano",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+55,
+158,
+159
+]
+},
+{
+"de": "francisco-maximiano",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+160
+]
+},
+{
+"de": "guido-cespedes",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+59
+]
+},
+{
+"de": "guido-cespedes",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+60
+]
+},
+{
+"de": "heitor-freire",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+107
+]
+},
+{
+"de": "heitor-freire",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+99
+]
+},
+{
+"de": "helcio-bruno",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+248
+]
+},
+{
+"de": "helcio-bruno",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+249
+]
+},
+{
+"de": "helio-angotti",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+82
+]
+},
+{
+"de": "helio-angotti",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+83,
+84
+]
+},
+{
+"de": "instituto-butantan",
+"para": "tema:vacinas",
+"favor": 2,
+"contra": 0,
+"processual": 0,
+"atos": [
+37,
+38
+]
+},
+{
+"de": "jair-bolsonaro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+6
+]
+},
+{
+"de": "jair-bolsonaro",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 4,
+"processual": 0,
+"atos": [
+5,
+9,
+13,
+14
+]
+},
+{
+"de": "jair-bolsonaro",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 3,
+"processual": 0,
+"atos": [
+1,
+3,
+4
+]
+},
+{
+"de": "jair-bolsonaro",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+2
+]
+},
+{
+"de": "jair-bolsonaro",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 3,
+"atos": [
+0,
+17,
+18,
+255
+]
+},
+{
+"de": "jair-bolsonaro",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 6,
+"processual": 0,
+"atos": [
+7,
+8,
+10,
+11,
+12,
+15,
+16
+]
+},
+{
+"de": "jaqueline-goes",
+"para": "tema:gestao",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+41
+]
+},
+{
+"de": "joao-doria",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+46
+]
+},
+{
+"de": "jose-alves-filho",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+252,
+253
+]
+},
+{
+"de": "jose-alves-filho",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+254
+]
+},
+{
+"de": "jose-ricardo-santana",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+111
+]
+},
+{
+"de": "jose-ricardo-santana",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+112
+]
+},
+{
+"de": "jurema-werneck",
+"para": "tema:justica",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+43
+]
+},
+{
+"de": "leandro-ruschel",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+247
+]
+},
+{
+"de": "lecio-patrocinio",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+61
+]
+},
+{
+"de": "lecio-patrocinio",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+62
+]
+},
+{
+"de": "luciano-dias-azevedo",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+146,
+147
+]
+},
+{
+"de": "luciano-hang",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+240
+]
+},
+{
+"de": "luciano-hang",
+"para": "tema:manaus",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+238
+]
+},
+{
+"de": "luciano-hang",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+58,
+239
+]
+},
+{
+"de": "luis-miranda",
+"para": "tema:contratos",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+50
+]
+},
+{
+"de": "luiz-dominguetti",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+173,
+174
+]
+},
+{
+"de": "luiz-dominguetti",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+175
+]
+},
+{
+"de": "luiz-henrique-mandetta",
+"para": "tema:cloroquina",
+"favor": 2,
+"contra": 0,
+"processual": 0,
+"atos": [
+26,
+27
+]
+},
+{
+"de": "luiz-henrique-mandetta",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+28
+]
+},
+{
+"de": "marcellus-campelo",
+"para": "tema:gestao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+132
+]
+},
+{
+"de": "marcellus-campelo",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+133,
+134
+]
+},
+{
+"de": "marcelo-bento-pires",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+113,
+114,
+115
+]
+},
+{
+"de": "marcelo-blanco",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+123
+]
+},
+{
+"de": "marcelo-blanco",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+124
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:cloroquina",
+"favor": 1,
+"contra": 1,
+"processual": 1,
+"atos": [
+75,
+76,
+77
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+70,
+71
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+78
+]
+},
+{
+"de": "marcelo-queiroga",
+"para": "tema:vacinas",
+"favor": 3,
+"contra": 1,
+"processual": 0,
+"atos": [
+69,
+72,
+73,
+74
+]
+},
+{
+"de": "marconny-faria",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+181
+]
+},
+{
+"de": "marconny-faria",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+180
+]
+},
+{
+"de": "marcos-tolentino",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+168,
+170
+]
+},
+{
+"de": "marcos-tolentino",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+169
+]
+},
+{
+"de": "mauro-ribeiro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 1,
+"atos": [
+135,
+137,
+138
+]
+},
+{
+"de": "mauro-ribeiro",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+136
+]
+},
+{
+"de": "mayra-pinheiro",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+57
+]
+},
+{
+"de": "mayra-pinheiro",
+"para": "tema:manaus",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+66,
+67
+]
+},
+{
+"de": "monica-calazans",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+49
+]
+},
+{
+"de": "natalia-pasternak",
+"para": "tema:cloroquina",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+42
+]
+},
+{
+"de": "nelson-teich",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+29
+]
+},
+{
+"de": "nise-yamaguchi",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 3,
+"processual": 0,
+"atos": [
+33,
+34,
+64
+]
+},
+{
+"de": "nise-yamaguchi",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+63
+]
+},
+{
+"de": "nise-yamaguchi",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+65
+]
+},
+{
+"de": "nisia-trindade",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+40
+]
+},
+{
+"de": "omar-aziz",
+"para": "tema:justica",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+45
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+89
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+90
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:gestao",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+88
+]
+},
+{
+"de": "onyx-lorenzoni",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+91,
+92
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+219
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+218,
+220
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+217
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+18,
+53,
+204
+]
+},
+{
+"de": "osmar-terra",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+221
+]
+},
+{
+"de": "otavio-fakhoury",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+241
+]
+},
+{
+"de": "otavio-fakhoury",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+242
+]
+},
+{
+"de": "otto-alencar",
+"para": "tema:justica",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+68
+]
+},
+{
+"de": "paolo-zanotto",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+142
+]
+},
+{
+"de": "paolo-zanotto",
+"para": "tema:outros",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+143
+]
+},
+{
+"de": "paolo-zanotto",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+144,
+145
+]
+},
+{
+"de": "pedro-benedito-batista",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+56,
+193
+]
+},
+{
+"de": "pedro-benedito-batista",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+194
+]
+},
+{
+"de": "pedro-benedito-batista",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 1,
+"processual": 2,
+"atos": [
+192,
+196,
+198
+]
+},
+{
+"de": "pedro-hallal",
+"para": "tema:justica",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+43
+]
+},
+{
+"de": "precisa-medicamentos",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 2,
+"processual": 4,
+"atos": [
+55,
+159,
+188,
+189,
+190,
+191
+]
+},
+{
+"de": "rafael-alves",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+176
+]
+},
+{
+"de": "raimundo-nonato-brasil",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+182
+]
+},
+{
+"de": "randolfe-rodrigues",
+"para": "tema:justica",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+45
+]
+},
+{
+"de": "regina-celia-oliveira",
+"para": "tema:contratos",
+"favor": 1,
+"contra": 0,
+"processual": 1,
+"atos": [
+118,
+119
+]
+},
+{
+"de": "regina-celia-oliveira",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+120
+]
+},
+{
+"de": "renan-calheiros",
+"para": "tema:justica",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+45
+]
+},
+{
+"de": "ricardo-barros",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+52
+]
+},
+{
+"de": "ricardo-barros",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+51
+]
+},
+{
+"de": "ricardo-barros",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+18,
+204
+]
+},
+{
+"de": "ricardo-barros",
+"para": "tema:vacinas",
+"favor": 0,
+"contra": 0,
+"processual": 3,
+"atos": [
+214,
+215,
+216
+]
+},
+{
+"de": "richards-pozzer",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+246
+]
+},
+{
+"de": "roberto-dias",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 2,
+"processual": 1,
+"atos": [
+85,
+86,
+113
+]
+},
+{
+"de": "roberto-dias",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+87
+]
+},
+{
+"de": "roberto-goidanich",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+250,
+251
+]
+},
+{
+"de": "roberto-jefferson",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 2,
+"processual": 0,
+"atos": [
+234,
+235
+]
+},
+{
+"de": "roberto-jefferson",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+236,
+237
+]
+},
+{
+"de": "stf",
+"para": "tema:justica",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+48
+]
+},
+{
+"de": "sus-pni",
+"para": "tema:vacinas",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+19
+]
+},
+{
+"de": "tercio-arnaud-tomaz",
+"para": "tema:desinformacao",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+109
+]
+},
+{
+"de": "tercio-arnaud-tomaz",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+110
+]
+},
+{
+"de": "tulio-silveira",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+164
+]
+},
+{
+"de": "tulio-silveira",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+163
+]
+},
+{
+"de": "vtclog",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 1,
+"atos": [
+186,
+187
+]
+},
+{
+"de": "vtclog",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+185
+]
+},
+{
+"de": "wagner-rosario",
+"para": "tema:contratos",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+100
+]
+},
+{
+"de": "wagner-rosario",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 2,
+"atos": [
+101,
+102
+]
+},
+{
+"de": "wilson-lima",
+"para": "tema:distanciamento",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+128
+]
+},
+{
+"de": "wilson-lima",
+"para": "tema:gestao",
+"favor": 1,
+"contra": 2,
+"processual": 1,
+"atos": [
+125,
+126,
+129,
+131
+]
+},
+{
+"de": "wilson-lima",
+"para": "tema:justica",
+"favor": 0,
+"contra": 0,
+"processual": 1,
+"atos": [
+130
+]
+},
+{
+"de": "wilson-lima",
+"para": "tema:manaus",
+"favor": 1,
+"contra": 0,
+"processual": 0,
+"atos": [
+127
+]
+}
+],
+"regras": [
+{
+"id": "prevent",
+"nome": "Prevent Senior",
+"palavras": [
+"prevent"
+]
+},
+{
+"id": "contratos",
+"nome": "Covaxin e contratos",
+"palavras": [
+"covaxin",
+"precisa",
+"davati",
+"propina",
+"dominguetti",
+"vtclog",
+"offshore",
+"invoice",
+"fib bank",
+"senah",
+"motoboy",
+"global gestão"
+]
+},
+{
+"id": "manaus",
+"nome": "Manaus e oxigênio",
+"palavras": [
+"manaus",
+"oxigênio",
+"oxigenio",
+"amazonas",
+"white martins"
+]
+},
+{
+"id": "cloroquina",
+"nome": "Cloroquina e \"tratamento precoce\"",
+"palavras": [
+"cloroquin",
+"ivermectin",
+"tratamento precoce",
+"kit covid",
+"kit-covid",
+"bula",
+"tratecov",
+"proxalutamida",
+"azitromicina"
+]
+},
+{
+"id": "vacinas",
+"nome": "Vacinas",
+"palavras": [
+"vacin",
+"pfizer",
+"coronavac",
+"butantan",
+"astrazeneca",
+"fiocruz",
+"imuniz",
+"covax",
+"sputnik",
+"dose",
+"janssen"
+]
+},
+{
+"id": "distanciamento",
+"nome": "Distanciamento e máscara",
+"palavras": [
+"isolamento",
+"distanciamento",
+"máscara",
+"mascara",
+"lockdown",
+"aglomer",
+"quarentena",
+"toque de recolher",
+"fique em casa"
+]
+},
+{
+"id": "desinformacao",
+"nome": "Discurso e desinformação",
+"palavras": [
+"gripezinha",
+"e daí",
+"maricas",
+"jacaré",
+"aids",
+"fake",
+"desinform",
+"live",
+"tuíte",
+"tweet",
+"twitter",
+"redes sociais",
+"publicou",
+"post",
+"vídeo",
+"imunidade de rebanho",
+"mimimi",
+"não temas"
+]
+},
+{
+"id": "gestao",
+"nome": "Gestão da crise e dados",
+"palavras": [
+"comitê de crise",
+"comite de crise",
+"nota técnica",
+"nota informativa",
+"nota foi substituída",
+"secom",
+"campanha",
+"auxílio",
+"hospital",
+"decretou",
+"comércio",
+"número de mortes",
+"números de mortes",
+"caixões",
+"dados",
+"genoma",
+"secretarias",
+"número 2",
+"respiradores",
+"conselho nacional de saúde",
+"estudo",
+"jejum",
+"um manda e o outro obedece"
+]
+},
+{
+"id": "justica",
+"nome": "CPI e Justiça",
+"palavras": [
+"cpi",
+"stf",
+"stj",
+"adi ",
+"investigados",
+"pgr",
+"inquérito",
+"denúncia",
+"arquiv",
+"indici",
+"polícia federal",
+"réu",
+"condenad",
+"tcu",
+"cgu",
+"ministério público"
+]
+}
+]
+}

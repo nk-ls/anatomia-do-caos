@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Investigação — Anatomia do Caos</title>
+<meta name="description" content="Investigação aberta sobre a gestão federal da Covid-19: rede de conexões, achados com provas encadeadas, votos da CPI e seus efeitos.">
+<link rel="stylesheet" href="assets/css/estilo.css">
+</head>
+<body>
+<header class="topo">
+  <div class="conteiner">
+    <a class="marca" href="index.html">Anatomia do Caos</a>
+    <nav class="nav" aria-label="Principal">
+      <a href="index.html">Início</a>
+      <a href="investigacao.html" aria-current="page">Investigação</a>
+      <a href="envolvidos.html">Envolvidos</a>
+      <a href="referencias.html">Referências</a>
+      <a href="https://github.com/nk-ls/anatomia-do-caos">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main class="conteiner">
+<section>
+  <h1>Investigação aberta</h1>
+  <p>Este é o caminho completo da investigação, do jeito que ela foi feita: cada achado vem com as <strong>provas numeradas</strong>, o <strong>contraponto</strong> de quem foi apontado e a <strong>situação atual</strong>. Nada aqui pede que você acredite: tudo pede que você confira.</p>
+
+  <nav class="sumario" aria-label="Sumário">
+    <strong>Sumário</strong>
+    <ol>
+      <li><a href="#guia">Como ler e conferir (comece aqui)</a></li>
+      <li><a href="#rede">A rede: quem fez o quê</a></li>
+      <li><a href="#achados">Achados, com as provas</a>
+        <ol>
+          <li><a href="#a1">Vacinas oferecidas e não respondidas</a></li>
+          <li><a href="#a2">Cloroquina e o "tratamento precoce"</a></li>
+          <li><a href="#a3">Manaus sem oxigênio</a></li>
+          <li><a href="#a4">Covaxin: o contrato mais caro</a></li>
+          <li><a href="#a5">Prevent Senior</a></li>
+        </ol>
+      </li>
+      <li><a href="#votos">A CPI: os votos e os efeitos dos votos</a></li>
+      <li><a href="#sistema">Como garantimos a validade de cada informação</a></li>
+    </ol>
+  </nav>
+</section>
+
+<section id="guia">
+  <h2>1. Como ler e conferir</h2>
+  <div class="passos">
+    <div class="passo"><strong>① Leia o achado</strong>O resumo diz o que foi encontrado. Cada afirmação tem um tipo: <em>fato</em>, <em>declaração</em>, <em>alegação</em> (dita em depoimento, não provada), <em>conclusão da CPI</em> ou <em>decisão judicial</em>.</div>
+    <div class="passo"><strong>② Abra a prova</strong>Cada prova numerada tem link para a fonte original. Quando existe, há também a <strong>cópia arquivada</strong> ou o documento oficial na íntegra.</div>
+    <div class="passo"><strong>③ Confira a cópia</strong>Cada cópia tem uma impressão digital SHA-256. No computador, rode <code>sha256sum arquivo.pdf</code> e compare com a <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/SHA256SUMS">lista oficial</a>. Se bater, o arquivo é exatamente o coletado.</div>
+    <div class="passo"><strong>④ Leia o outro lado</strong>Cada achado traz o contraponto: o que os apontados dizem em sua defesa. As fichas dos envolvidos trazem a defesa de cada um.</div>
+    <div class="passo"><strong>⑤ Conteste</strong>Achou erro, ou uma fonte que falta, a favor ou contra alguém? <a href="https://github.com/nk-ls/anatomia-do-caos/issues">Abra uma issue</a> com o link. A correção entra com registro público.</div>
+  </div>
+  <p class="aviso">⚖️ <strong>Pedido de indiciamento não é condenação.</strong> Até onde as fontes mostram, ninguém foi condenado pelos fatos apontados pela CPI. Toda pessoa tem direito à presunção de inocência.</p>
+</section>
+
+<section id="rede">
+  <h2>2. A rede: quem fez o quê</h2>
+  <p>Cada pessoa ou instituição está ligada aos temas em que atuou. A cor da linha mostra o que ela fez naquele tema. Clique para ver os atos e as provas.</p>
+  <p class="filtros"><label for="rede-busca" hidden>Buscar pessoa</label><input id="rede-busca" list="rede-nomes" placeholder="Buscar pessoa ou tema" autocomplete="off"><datalist id="rede-nomes"></datalist></p>
+  <div class="rede">
+    <div class="rede-quadro" id="rede-quadro"><p class="nota" style="color:#e5e7eb;padding:16px">Carregando a rede…</p></div>
+    <aside class="rede-painel" id="rede-painel" aria-live="polite"></aside>
+  </div>
+  <p class="nota">Cada ato é ligado a um tema por regras de palavras-chave públicas (<a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/scripts/gerar_rede.py">scripts/gerar_rede.py</a>). Dados: <a href="dados/rede.json">rede.json</a> e <a href="dados/atos.csv">atos.csv</a>.</p>
+</section>
+
+<section id="achados">
+  <h2>3. Achados, com as provas</h2>
+
+  <article class="achado" id="a1">
+    <h3>Achado 1 · Vacinas oferecidas e não respondidas</h3>
+    <p class="resumo">O governo federal recebeu ofertas de vacina da Pfizer e do Butantan a partir de meados de 2020, não respondeu a tempo, desautorizou a compra da CoronaVac e só fechou o contrato da Pfizer em março de 2021. O Brasil começou a vacinar 40 dias depois do Reino Unido.</p>
+    <ol class="provas">
+      <li><strong>30/07/2020 · alegação em depoimento.</strong> O Butantan ofereceu 60 milhões de doses da CoronaVac para o fim de 2020; segundo Dimas Covas à CPI, não houve resposta. <a href="https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi">Agência Senado</a></li>
+      <li><strong>14, 18 e 26/08/2020 · alegação em depoimento.</strong> A Pfizer ofereceu 30 ou 70 milhões de doses, com ao menos 1,5 milhão ainda em dezembro de 2020; o governo não respondeu. <a href="https://www12.senado.leg.br/radio/1/noticia/2021/05/13/pfizer-proposta-de-70-milhoes-de-doses-em-agosto-nao-teve-resposta-do-governo">Rádio Senado</a></li>
+      <li><strong>12/09/2020 · documento.</strong> Carta do presidente da Pfizer ao governo: <em>"até o momento não recebemos uma resposta"</em>. <a href="https://www.metropoles.com/brasil/politica-brasil/leia-a-integra-da-carta-enviada-pela-pfizer-a-bolsonaro-sobre-vacinas">Íntegra (Metrópoles)</a></li>
+      <li><strong>21/10/2020 · declaração.</strong> Um dia depois de o ministro anunciar a compra de 46 milhões de doses da CoronaVac, o presidente publicou: <em>"A VACINA CHINESA DE JOÃO DORIA"</em> […] <em>"minha decisão é a de não adquirir a referida vacina"</em>. <a href="https://www.em.com.br/app/noticia/politica/2020/10/21/interna_politica,1196655/povo-brasileiro-nao-sera-cobaia-diz-bolsonaro-sobre-vacina-chinesa.shtml">Estado de Minas</a></li>
+      <li><strong>17/01/2021 · fato.</strong> Primeira vacinada no Brasil, com a CoronaVac, 40 dias depois do Reino Unido. <a href="index.html#t-vacina">Tabela e gráfico</a></li>
+      <li><strong>Março de 2021 · documento oficial.</strong> Contrato nº 52/2021 com a Pfizer, sete meses depois da primeira oferta. <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/contrato_pfizer_2021-03-19.pdf">Contrato na íntegra</a></li>
+      <li><strong>30/06/2021 · dado.</strong> Só 12,4% da população tinha esquema completo, contra cerca de 49% nos EUA e no Reino Unido. <a href="dados/covid_paises.csv">Planilha</a></li>
+    </ol>
+    <div class="contraponto"><strong>Contraponto.</strong> O governo alegou cláusulas abusivas e insegurança jurídica no contrato da Pfizer e, sobre a CoronaVac, que exigia comprovação científica e aval da Anvisa. No fim de 2020 a oferta mundial de vacinas era pequena: a própria Pfizer previa só 1,5 milhão de doses ao Brasil em 2020. <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/docs/estudos.md">Estudos e contra-argumentos</a></div>
+  </article>
+
+  <article class="achado" id="a2">
+    <h3>Achado 2 · Cloroquina e o "tratamento precoce"</h3>
+    <p class="resumo">Enquanto estudos internacionais e brasileiros mostravam que a hidroxicloroquina não funcionava contra a Covid, o Ministério da Saúde ampliou seu uso, o Exército aumentou a produção e houve uma proposta, no Planalto, de mudar a bula do remédio.</p>
+    <ol class="provas">
+      <li><strong>20/05/2020 · documento oficial.</strong> Nota Informativa nº 9/2020 do Ministério da Saúde libera cloroquina e hidroxicloroquina também para casos leves. <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/ms_nota_informativa_9-2020_cloroquina_2020-05-20.pdf">Nota na íntegra</a></li>
+      <li><strong>05/06, 17/06 e 23/07/2020 · ciência.</strong> Os estudos Recovery (Reino Unido), Solidarity (OMS) e Coalizão Covid-19 Brasil (NEJM) não mostram benefício. <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/docs/cronologia.md">Cronologia</a></li>
+      <li><strong>2020 · fato.</strong> O laboratório do Exército produz cerca de 3,2 milhões de comprimidos de cloroquina. <a href="https://jornaldebrasilia.com.br/noticias/brasil/processo-sobre-producao-de-cloroquina-pelo-exercito-esta-parado-ha-mais-de-3-anos-no-tcu/">Jornal de Brasília</a></li>
+      <li><strong>04/05/2021 · alegação em depoimento.</strong> Mandetta diz à CPI ter visto no Planalto uma minuta de decreto para mudar a bula da cloroquina e incluir a Covid. <a href="https://istoe.com.br/mandetta-havia-decreto-presidencial-para-que-se-mudasse-a-bula-da-cloroquina">IstoÉ</a></li>
+      <li><strong>11/05/2021 · alegação em depoimento.</strong> O presidente da Anvisa, Antonio Barra Torres, confirma a reunião e diz que se opôs. <a href="https://www.poder360.com.br/congresso/barra-torres-diz-que-nise-yamaguchi-apoiou-mudanca-na-bula-da-cloroquina/">Poder360</a></li>
+      <li><strong>jan/2021 · fato.</strong> O aplicativo TrateCov, do Ministério, receitava cloroquina; foi lançado em Manaus e retirado do ar em 21/01/2021. <a href="https://www.opovo.com.br/noticias/saude/2021/01/21/ministerio-da-saude-retira-do-ar-aplicativo-tratecovid.html">O Povo</a></li>
+    </ol>
+    <div class="contraponto"><strong>Contraponto.</strong> Os defensores invocaram a autonomia médica, e as notas do Ministério diziam que a decisão era do médico, com consentimento do paciente. Nise Yamaguchi nega ter proposto a minuta da bula, e quem a redigiu não está estabelecido.</div>
+  </article>
+
+  <article class="achado" id="a3">
+    <h3>Achado 3 · Manaus sem oxigênio</h3>
+    <p class="resumo">O Ministério da Saúde foi avisado da falta de oxigênio em Manaus dias antes do colapso de 14 e 15 de janeiro de 2021. No mesmo período, distribuiu hidroxicloroquina e lançou na cidade o aplicativo que receitava o remédio.</p>
+    <ol class="provas">
+      <li><strong>07 a 10/01/2021 · documentos e depoimentos.</strong> Alertas ao Ministério sobre o oxigênio: o secretário do Amazonas diz ter falado com Pazuello em 07/01; há e-mail da White Martins e ofícios nos dias seguintes. <a href="https://www.poder360.com.br/brasil/a-sucessao-erros-manaus-dw/">Poder360/DW</a></li>
+      <li><strong>Inquérito da PF · alegação.</strong> Segundo a Polícia Federal, Pazuello e o comando militar foram avisados cinco dias antes do colapso. <a href="https://www.metropoles.com/brasil/pf-pazuello-e-exercito-ignoraram-pedidos-de-ajuda-a-manaus">Metrópoles</a></li>
+      <li><strong>Documento de 07/01/2021 · fato.</strong> A secretaria de Mayra Pinheiro enviou à Secretaria Municipal de Manaus ofício orientando o "tratamento precoce"; ela o reconheceu na CPI. <a href="https://outraspalavras.net/outrasaude/mayra-pinheiro-na-cpi/">Outras Palavras</a></li>
+      <li><strong>Documentário, 00:26–00:29 · registro.</strong> Imagens de familiares buscando oxigênio e o depoimento de Pazuello à CPI. <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/docs/documentario.md">Roteiro</a></li>
+    </ol>
+    <div class="contraponto"><strong>Contraponto.</strong> Pazuello disse que a falta foi "surpresa" e durou entre 13 e 15 de janeiro. O governador Wilson Lima e o ex-secretário Marcellus Campêlo também tiveram pedido de indiciamento, o que mostra responsabilidade estadual apontada pela própria CPI.</div>
+  </article>
+
+  <article class="achado" id="a4">
+    <h3>Achado 4 · Covaxin: o contrato mais caro</h3>
+    <p class="resumo">O Ministério da Saúde assinou em fevereiro de 2021 um contrato de cerca de R$ 1,6 bilhão por 20 milhões de doses da vacina indiana Covaxin, a única intermediada por uma empresa privada, a Precisa. Servidores denunciaram pressão e uma nota de cobrança pedindo pagamento antecipado de US$ 45 milhões a uma empresa em paraíso fiscal, não prevista no contrato.</p>
+    <ol class="provas">
+      <li><strong>25/02/2021 · fato.</strong> Assinatura do contrato da Covaxin, intermediado pela Precisa Medicamentos. <a href="https://www.agazeta.com.br/brasil/entenda-como-o-depoimento-dos-irmaos-miranda-na-cpi-complica-bolsonaro-0621">A Gazeta</a></li>
+      <li><strong>25/06/2021 · alegação em depoimento.</strong> O deputado Luis Miranda e o servidor Luis Ricardo Miranda relatam "pressão anormal" e dizem ter levado as suspeitas ao presidente. <a href="https://www.correiobraziliense.com.br/politica/2021/06/amp/4933866-cpi-da-covid-irmaos-miranda-reforcam-indicios-de-corrupcao-na-covaxin.html">Correio Braziliense</a></li>
+      <li><strong>Documentário, 00:43–00:57 · registro.</strong> O depoimento e o embate na CPI. <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/docs/documentario.md">Roteiro</a></li>
+      <li><strong>26/10/2021 · conclusão da CPI.</strong> Pedidos de indiciamento de sócios e diretores da Precisa e da própria empresa. <a href="https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf">Relatório final aprovado</a></li>
+    </ol>
+    <div class="contraponto"><strong>Contraponto.</strong> Nenhum pagamento foi feito, a vacina não foi entregue e o contrato foi cancelado. O deputado Ricardo Barros nega envolvimento; o STF arquivou o procedimento contra ele por falta de prova mínima (2023). <a href="envolvidos.html?id=ricardo-barros">Ficha</a></div>
+  </article>
+
+  <article class="achado" id="a5">
+    <h3>Achado 5 · Prevent Senior</h3>
+    <p class="resumo">Médicos da operadora Prevent Senior denunciaram à CPI que a empresa distribuía o "kit Covid" para conter internações e alterava o registro da causa das mortes. A empresa nega.</p>
+    <ol class="provas">
+      <li><strong>28/09/2021 · alegação em depoimento.</strong> A advogada Bruna Morato, que representava ex-médicos, relata a orientação de entregar o kit e não internar. <a href="https://istoedinheiro.com.br/advogada-aponta-pacto-entre-governo-e-prevent-senior-por-kit-covid">IstoÉ Dinheiro</a></li>
+      <li><strong>22/09/2021 · declaração.</strong> O diretor-executivo Pedro Benedito Batista Júnior admitiu na CPI que o código da Covid era alterado nas fichas após certo período de internação. <a href="envolvidos.html?id=pedro-benedito-batista">Ficha com as fontes</a></li>
+      <li><strong>Documentário, 01:09–01:14 · registro.</strong> O depoimento e o relato dos familiares. <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/docs/documentario.md">Roteiro</a></li>
+    </ol>
+    <div class="contraponto"><strong>Contraponto.</strong> A Prevent Senior nega as acusações e diz que a troca do código seguia critério de fim do período de transmissão. Uma CPI da Câmara Municipal de São Paulo também pediu indiciamentos; o desfecho judicial não foi localizado.</div>
+  </article>
+</section>
+
+<section id="votos">
+  <h2>4. A CPI: os votos e os efeitos dos votos</h2>
+  <p>Em 26/10/2021 os 11 senadores titulares votaram o relatório final. Clique em cada nome para ver o voto e a fonte.</p>
+  <div class="plenario" id="plenario"></div>
+  <div id="voto-detalhe" class="nota" aria-live="polite"></div>
+  <h3>O que aconteceu depois do voto</h3>
+  <div class="fluxo" id="caminho"></div>
+</section>
+
+<section id="sistema">
+  <h2>5. Como garantimos a validade de cada informação</h2>
+  <p>Toda informação percorre o mesmo caminho até chegar a você. Clique em cada etapa para ver o arquivo real.</p>
+  <div class="fluxo" id="fluxo-sistema"></div>
+</section>
+</main>
+
+<footer class="rodape">
+  <div class="conteiner">
+    <p>Anatomia do Caos · Nickolas Moretto · com auxílio de inteligência artificial (Claude, da Anthropic), revisão independente e auditoria completa. Encontrou um erro? <a href="https://github.com/nk-ls/anatomia-do-caos/issues">Abra uma issue com a fonte</a>.</p>
+  </div>
+</footer>
+<script type="module" src="assets/js/investigacao.js"></script>
+</body>
+</html>
