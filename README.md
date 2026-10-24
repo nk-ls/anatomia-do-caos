@@ -101,6 +101,8 @@ Nenhum desses números é exato, e cada um depende de premissas explicadas no do
 
 **A CPI da Covid** ([quem foi apontado e o que aconteceu depois](docs/cpi.md)) — o relatório final, aprovado em 26/10/2021 por 7 votos a 4, pediu o indiciamento de **78 pessoas e 2 empresas**, entre elas o presidente da República por 9 crimes. Em 2022 a Procuradoria-Geral da República pediu o arquivamento da maior parte; em setembro de 2025 o STF autorizou um inquérito da Polícia Federal com 24 investigados, que segue sob sigilo. ⚖️ **Pedido de indiciamento não é condenação**, e até hoje não há condenação.
 
+**Todos os envolvidos, um por um** — [ficha de cada pessoa](pessoas/README.md) com o que fez **a favor** e **contra** o combate à pandemia, o pedido da CPI, o que aconteceu depois e o que ela diz em sua defesa. São 104 fichas, entre elas as 78 pessoas e 2 empresas apontadas pela CPI.
+
 **Quem atuou a favor da população** — Butantan, Fiocruz, SUS e profissionais de saúde, cientistas, Anvisa, imprensa e outros, com ato, data e ressalvas: [lista aberta](docs/quem-atuou.md).
 
 ---
@@ -129,8 +131,9 @@ Ponto de partida: o documentário *Anatomia do Caos* (dir. Dandara Ferreira, 202
 
 | Pasta | Conteúdo |
 |---|---|
-| [`dados/`](dados/) | Planilha e CSV com os 234 países e territórios |
+| [`dados/`](dados/) | Planilha dos 234 países; `pessoas.csv` e `atos.csv` (envolvidos e seus atos, com fonte) |
 | [`graficos/`](graficos/) | Gráficos (PNG) |
+| [`pessoas/`](pessoas/README.md) | Uma ficha por envolvido: atos a favor e contra, CPI, desdobramentos, defesa |
 | [`docs/`](docs/) | [Cronologia](docs/cronologia.md), [estudos](docs/estudos.md), [CPI](docs/cpi.md), [quem atuou](docs/quem-atuou.md), [documentário](docs/documentario.md), [fontes](docs/fontes.md), [verificação](docs/verificacao.md), [metodologia](docs/metodologia.md), [posicionamento do autor](docs/posicionamento-do-autor.md) |
 | [Arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes) | Cópias datadas de cada fonte citada (repositório separado) |
 | [`scripts/`](scripts/) | Código que gera tudo |

@@ -1,0 +1,39 @@
+# Fabio Wajngarten
+
+**Cargo à época:** Chefe da Secretaria de Comunicação (Secom)  
+**Grupo:** Outros ministérios e órgãos federais
+
+> 🔎 Conferido pela busca. Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
+
+## 🟢 O que fez a favor do combate à pandemia
+
+Nenhum ato registrado ainda neste levantamento.
+
+## 🔴 O que fez contra o combate à pandemia
+
+Nenhum ato registrado ainda neste levantamento.
+
+## ⚪ Fatos processuais e neutros
+
+Nenhum ato registrado ainda neste levantamento.
+
+## Na CPI da Covid
+
+> ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
+
+**Crimes apontados no relatório final (26/10/2021):** prevaricação; advocacia administrativa
+
+## O que aconteceu depois
+
+Nenhum desdobramento localizado neste levantamento.
+
+## O que a pessoa diz
+
+Disse à CPI que respondeu à carta da Pfizer, sem resposta desde 12/09/2020, em 09/11/2020.
+
+## Fontes da ficha
+
+- https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
+
+---
+[← Todos os envolvidos](README.md)
