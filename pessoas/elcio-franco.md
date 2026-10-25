@@ -11,7 +11,8 @@
 
 ## 🔴 O que fez contra o combate à pandemia
 
-A CPI pediu o indiciamento desta pessoa, mas os atos dela **ainda não foram levantados**. Nenhum ato contra registrado aqui é lacuna deste trabalho, não ficha limpa.
+- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 1099: como secretário-executivo, "centralizou as negociações sobre aquisição de vacinas, deu urgência a vacinas sem o atendimento mínimo de critérios de eficácia e segurança (em detrimento de outras mais seguras e mais baratas) e deu andamento a processo de compra pública cheio de vícios graves", no caso Covaxin. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
+- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 1084: incluído entre os que "nada fizeram" diante das denúncias dos irmãos Miranda sobre a Covaxin, conduta que a comissão enquadrou como prevaricação. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## ⚪ Fatos processuais e neutros
 

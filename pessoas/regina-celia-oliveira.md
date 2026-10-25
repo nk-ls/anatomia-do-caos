@@ -11,7 +11,7 @@
 
 ## 🔴 O que fez contra o combate à pandemia
 
-A CPI pediu o indiciamento desta pessoa, mas os atos dela **ainda não foram levantados**. Nenhum ato contra registrado aqui é lacuna deste trabalho, não ficha limpa.
+- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 1086: como fiscal do contrato, é um dos dois servidores que, segundo o relatório, "deram seguimento ao processo, mesmo cientes das irregularidades" na contratação da Covaxin — proforma invoice com pagamento adiantado e previsão de pagamento à offshore Madison Biotech, estranha ao contrato. A comissão viu indícios de advocacia administrativa. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## ⚪ Fatos processuais e neutros
 

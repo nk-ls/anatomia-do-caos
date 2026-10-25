@@ -50,7 +50,7 @@ function cartao(p) {
       <span class="selo favor">🟢 ${contar(p.id, "a favor")}</span>
       <span class="selo contra">🔴 ${contar(p.id, "contra")}</span>
       ${p.crimes_cpi ? '<span class="etiqueta">pedido da CPI</span>' : ""}
-      ${emLevantamento(p) ? '<span class="etiqueta lacuna" title="A CPI pediu o indiciamento, mas os atos desta pessoa ainda não foram levantados. O 🔴 0 é lacuna do levantamento, não ficha limpa.">ficha em levantamento</span>' : ""}
+      ${emLevantamento(p) ? '<span class="etiqueta lacuna" title="Este levantamento ainda não registrou atos desta pessoa. A ausência não é prova nem indício — é limite do trabalho.">sem atos levantados</span>' : ""}
       ${estado.uf?.get(p.id) && estado.uf.get(p.id).uf !== "Federal" ? `<span class="etiqueta uf">${esc(estado.uf.get(p.id).uf.includes(";") ? "Nordeste" : estado.uf.get(p.id).uf)}</span>` : ""}
     </div></button>`;
 }
@@ -90,7 +90,7 @@ function ficha(p) {
       ${a.no_documentario ? ` · <a href="${VIDEO}&t=${segundos(a.no_documentario)}s" target="_blank" rel="noopener">no documentário, ${esc(a.no_documentario)}</a>` : ""}
     </li>`).join("");
     return `<h3>${titulo}</h3>${itens ? `<ul class="atos">${itens}</ul>` : (av === "contra" && p.crimes_cpi
-        ? '<p class="nota aviso-lacuna">A CPI pediu o indiciamento desta pessoa, mas os atos dela <strong>ainda não foram levantados</strong>. Nenhum ato contra registrado aqui é lacuna deste trabalho, não ficha limpa.</p>'
+        ? '<p class="nota aviso-lacuna">Este levantamento <strong>ainda não registrou atos desta pessoa</strong>. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.</p>'
         : '<p class="nota">Nenhum ato registrado ainda neste levantamento.</p>')}`;
   }).join("");
   const cpi = p.crimes_cpi

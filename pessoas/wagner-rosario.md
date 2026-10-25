@@ -15,7 +15,7 @@
 
 ## 🔴 O que fez contra o combate à pandemia
 
-A CPI pediu o indiciamento desta pessoa, mas os atos dela **ainda não foram levantados**. Nenhum ato contra registrado aqui é lacuna deste trabalho, não ficha limpa.
+- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 1085: indícios de prevaricação na atuação dele à frente da CGU na apuração da Covaxin, por "ter ignorado o envolvimento de Roberto Dias", ter se omitido quanto a um mercado interno de corrupção no ministério e ter se atido "apenas para aspectos formais". [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## ⚪ Fatos processuais e neutros
 

@@ -122,9 +122,7 @@ def pagina(p, atos):
         lin += [f"## {titulo}", ""]
         if not lista:
             if chave == "contra" and p["crimes_cpi"]:
-                lin += ["A CPI pediu o indiciamento desta pessoa, mas os atos dela **ainda não foram "
-                        "levantados**. Nenhum ato contra registrado aqui é lacuna deste trabalho, não "
-                        "ficha limpa.", ""]
+                lin += ["Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.", ""]
             else:
                 lin += ["Nenhum ato registrado ainda neste levantamento.", ""]
             continue

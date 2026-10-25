@@ -25,7 +25,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Flávio Bolsonaro](flavio-bolsonaro.md) | Senador (RJ); filho do presidente | 2 | 2 | sim |
 | [Eduardo Bolsonaro](eduardo-bolsonaro.md) | Deputado federal (SP); filho do presidente | 1 | 4 | sim |
 | [Carlos Bolsonaro](carlos-bolsonaro.md) | Vereador no Rio de Janeiro; filho do presidente | 0 | 1 | sim |
-| [Filipe G. Martins](filipe-martins.md) | Assessor especial para Assuntos Internacionais da Presidência | 0 | 0 | sim |
+| [Filipe G. Martins](filipe-martins.md) | Assessor especial para Assuntos Internacionais da Presidência | 0 | 1 | sim |
 | [Tércio Arnaud Tomaz](tercio-arnaud-tomaz.md) | Assessor especial da Presidência | 0 | 1 | sim |
 
 ## Ministério da Saúde
@@ -34,7 +34,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 |---|---|---:|---:|---|
 | [Eduardo Pazuello](eduardo-pazuello.md) | Ministro da Saúde (interino a partir de 15/05/2020; exonerado em 23/03/2021) | 2 | 5 | sim |
 | [Marcelo Queiroga](marcelo-queiroga.md) | Ministro da Saúde (desde 23/03/2021) | 4 | 5 | sim |
-| [Antônio Élcio Franco Filho](elcio-franco.md) | Secretário-executivo do Ministério da Saúde | 1 | 0 | sim |
+| [Antônio Élcio Franco Filho](elcio-franco.md) | Secretário-executivo do Ministério da Saúde | 1 | 2 | sim |
 | [Mayra Pinheiro](mayra-pinheiro.md) | Secretária de Gestão do Trabalho e da Educação na Saúde (MS) | 0 | 3 | sim |
 | [Hélio Angotti Neto](helio-angotti.md) | Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (MS) | 0 | 2 | sim |
 | [Roberto Ferreira Dias](roberto-dias.md) | Diretor de Logística do Ministério da Saúde | 0 | 2 | sim |
@@ -42,8 +42,8 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Airton Antonio Soligo](airton-soligo.md) | Ex-assessor especial do Ministério da Saúde | 0 | 1 | sim |
 | [Marcelo Bento Pires](marcelo-bento-pires.md) | Coronel; assessor do Ministério da Saúde | 0 | 1 | sim |
 | [Alex Lial Marinho](alex-lial-marinho.md) | Ex-coordenador de Logística de Insumos Estratégicos do MS | 0 | 2 | sim |
-| [Thiago Fernandes da Costa](thiago-fernandes-costa.md) | Assessor técnico do MS | 0 | 0 | sim |
-| [Regina Célia Oliveira](regina-celia-oliveira.md) | Fiscal do contrato da Covaxin no MS | 1 | 0 | sim |
+| [Thiago Fernandes da Costa](thiago-fernandes-costa.md) | Assessor técnico do MS | 0 | 1 | sim |
+| [Regina Célia Oliveira](regina-celia-oliveira.md) | Fiscal do contrato da Covaxin no MS | 1 | 1 | sim |
 | [Luiz Henrique Mandetta](luiz-henrique-mandetta.md) | Ministro da Saúde até 16/04/2020 | 2 | 1 | — |
 | [Nelson Teich](nelson-teich.md) | Ministro da Saúde (abr–mai/2020) | 0 | 0 | — |
 
@@ -54,11 +54,11 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Onyx Lorenzoni](onyx-lorenzoni.md) | Ministro (Cidadania; Secretaria-Geral; Trabalho e Previdência) | 1 | 2 | sim |
 | [Ernesto Araújo](ernesto-araujo.md) | Ministro das Relações Exteriores (até mar/2021) | 1 | 3 | sim |
 | [Walter Braga Netto](braga-netto.md) | Ministro da Casa Civil (coordenador do comitê de crise) e depois da Defesa | 0 | 2 | sim |
-| [Wagner Rosário](wagner-rosario.md) | Ministro-chefe da Controladoria-Geral da União | 1 | 0 | sim |
+| [Wagner Rosário](wagner-rosario.md) | Ministro-chefe da Controladoria-Geral da União | 1 | 1 | sim |
 | [Fabio Wajngarten](fabio-wajngarten.md) | Chefe da Secretaria de Comunicação (Secom) | 0 | 2 | sim |
 | [Heitor Freire de Abreu](heitor-freire.md) | Subchefe de Articulação e Monitoramento da Casa Civil; coordenador do Centro de Operações do Comitê de Crise | 0 | 1 | sim |
 | [Roberto Goidanich](roberto-goidanich.md) | Ex-presidente da Funag | 0 | 2 | sim |
-| [José Ricardo Santana](jose-ricardo-santana.md) | Ex-secretário da Anvisa | 0 | 0 | sim |
+| [José Ricardo Santana](jose-ricardo-santana.md) | Ex-secretário da Anvisa | 0 | 1 | sim |
 
 ## Parlamentares
 
@@ -93,7 +93,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Wilson Lima](wilson-lima.md) | Governador do Amazonas | 3 | 2 | sim |
-| [Marcellus Campêlo](marcellus-campelo.md) | Secretário de Saúde do Amazonas | 0 | 0 | sim |
+| [Marcellus Campêlo](marcellus-campelo.md) | Secretário de Saúde do Amazonas | 0 | 1 | sim |
 | [João Doria](joao-doria.md) | Governador de São Paulo | 1 | 1 | — |
 | [Consórcio Nordeste](consorcio-nordeste.md) | Governadores do Nordeste | 1 | 0 | — |
 
@@ -155,12 +155,12 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Luciano Hang](luciano-hang.md) | Empresário (Havan) | 0 | 1 | sim |
 | [Otávio Oscar Fakhoury](otavio-fakhoury.md) | Empresário | 0 | 2 | sim |
 | [Allan Lopes dos Santos](allan-dos-santos.md) | Blogueiro (Terça Livre) | 0 | 2 | sim |
-| [Paulo de Oliveira Eneas](paulo-eneas.md) | Editor do site Crítica Nacional | 0 | 0 | sim |
+| [Paulo de Oliveira Eneas](paulo-eneas.md) | Editor do site Crítica Nacional | 0 | 1 | sim |
 | [Bernardo Kuster](bernardo-kuster.md) | Diretor do jornal Brasil Sem Medo | 0 | 1 | sim |
-| [Oswaldo Eustáquio](oswaldo-eustaquio.md) | Blogueiro | 0 | 0 | sim |
+| [Oswaldo Eustáquio](oswaldo-eustaquio.md) | Blogueiro | 0 | 1 | sim |
 | [Richards Pozzer](richards-pozzer.md) | Artista gráfico | 0 | 1 | sim |
-| [Leandro Ruschel](leandro-ruschel.md) | Jornalista | 0 | 0 | sim |
-| [Hélcio Bruno de Almeida](helcio-bruno.md) | Coronel; presidente do Instituto Força Brasil | 0 | 0 | sim |
+| [Leandro Ruschel](leandro-ruschel.md) | Jornalista | 0 | 1 | sim |
+| [Hélcio Bruno de Almeida](helcio-bruno.md) | Coronel; presidente do Instituto Força Brasil | 0 | 1 | sim |
 | [José Alves Filho](jose-alves-filho.md) | Dono do grupo José Alves (Vitamedic) | 0 | 1 | sim |
 
 ## Contratos de vacina e logística (Covaxin, Davati, VTCLog)
