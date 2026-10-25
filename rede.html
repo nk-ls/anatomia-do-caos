@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>try{var t=localStorage.getItem("tema");if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-tema",t)}catch(e){}</script>
 <title>Rede de conexões — Anatomia do Caos</title>
 <meta name="description" content="Grafo em tela cheia: quem fez o quê na pandemia de Covid-19 no Brasil, com as fontes de cada ato.">
 <meta property="og:type" content="website">
@@ -139,5 +140,6 @@ if (ufAtual) { $("filtros").hidden = false; $("abrir-filtros").setAttribute("ari
 if (idInicial) rede.selecionarPorId(idInicial);
 setTimeout(() => $("aviso").remove(), 7000);
 </script>
+<script src="assets/js/tema.js" defer></script>
 </body>
 </html>

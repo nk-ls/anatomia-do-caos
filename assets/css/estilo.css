@@ -21,8 +21,9 @@
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   color-scheme: light;
 }
+/* Tema escuro: segue o sistema, a menos que o leitor tenha escolhido claro. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-tema="claro"]) {
     --fundo: #1f1e1d;
     --superficie: #2a2927;
     --texto: #f0eee6;
@@ -38,6 +39,23 @@
     --aviso-borda: #5c4a30;
     color-scheme: dark;
   }
+}
+/* Escolha explícita do leitor, que vence a preferência do sistema. */
+:root[data-tema="escuro"] {
+    --fundo: #1f1e1d;
+    --superficie: #2a2927;
+    --texto: #f0eee6;
+    --suave: #b7b5ab;
+    --borda: #3a3936;
+    --destaque: #e08a6b;
+    --favor: #6fc28f;
+    --contra: #ef7a70;
+    --neutro: #a3a19a;
+    --alerta: #f0a33a;
+    --cat1: #4f86cf; --cat2: #17997a; --cat3: #d9692a; --cat4: #8f74e6;
+    --aviso-fundo: #2f2a22;
+    --aviso-borda: #5c4a30;
+    color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -85,7 +103,8 @@ section h2 { font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.2; margin: 0 0 
 .aviso { background: var(--aviso-fundo); border: 1px solid var(--aviso-borda); border-radius: var(--raio); padding: 12px 16px; margin: 16px 0; }
 figure { margin: 20px 0; background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 12px; }
 figcaption { color: var(--suave); font-size: .9rem; margin-top: 8px; }
-@media (prefers-color-scheme: dark) { figure img { background: #fff; border-radius: 6px; } }
+@media (prefers-color-scheme: dark) { :root:not([data-tema="claro"]) figure img { background: #fff; border-radius: 6px; } }
+:root[data-tema="escuro"] figure img { background: #fff; border-radius: 6px; }
 
 /* Tabelas */
 .rolagem { overflow-x: auto; -webkit-overflow-scrolling: touch; }
@@ -337,3 +356,19 @@ a.ampliar-foto { display: inline-block; cursor: zoom-in; }
 .hino figcaption { margin-top: 14px; font-size: .85rem; color: var(--suave); }
 .abertura .opiniao { font-size: 1.05rem; }
 .abertura-acoes { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
+
+
+/* Botão de tema (claro / escuro / sistema) */
+.botao-tema {
+  font: inherit;
+  font-size: .9rem;
+  color: var(--suave);
+  background: none;
+  border: 1px solid var(--borda);
+  border-radius: 999px;
+  padding: 3px 12px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.botao-tema:hover { color: var(--texto); border-color: var(--suave); }
+.botao-tema:focus-visible { outline: 2px solid var(--destaque); outline-offset: 2px; }
