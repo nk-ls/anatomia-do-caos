@@ -1,6 +1,6 @@
 // Rede de conexões pessoa ↔ tema, em SVG puro (sem bibliotecas).
 // Dados: dados/rede.json (gerado por scripts/gerar_rede.py), dados/atos.csv e dados/pessoas.csv.
-import { carregarCSV, esc, dataBR } from "./csv.js";
+import { carregarCSV, esc, dataBR, quando, urlsFonte } from "./csv.js";
 
 const NS = "http://www.w3.org/2000/svg";
 export const COR_TEMA = { prevent: "#a855f7", contratos: "#ca8a04", manaus: "#0ea5e9", cloroquina: "#f97316", vacinas: "#16a34a",
@@ -305,7 +305,12 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   function itemAto(i) {
     const a = atos[i];
     const cls = { "a favor": "favor", contra: "contra", processual: "processual" }[a.avaliacao];
-    return `<li class="${cls}"><span class="data">${dataBR(a.data)}</span> <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)} <a href="${/^https?:/.test(a.fonte) ? esc(a.fonte) : "#"}" target="_blank" rel="noopener">fonte</a></li>`;
+    const urls = urlsFonte(a.fonte);
+    const refs = urls.length
+      ? urls.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${urls.length > 1 ? `fonte ${i + 1}` : "fonte"}</a>`).join(" · ")
+      : "";
+    const rot = quando(a.data);
+    return `<li class="${cls}"><span class="data">${dataBR(a.data)}</span>${rot ? ` <span class="desde-marco">${esc(rot)}</span>` : ""} <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)} ${refs}</li>`;
   }
   function detalhe(n) {
     if (n.tipo === "tema") {

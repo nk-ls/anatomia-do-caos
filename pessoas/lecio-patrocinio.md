@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **02/01/2021** (fato) Morreu aos 68 anos, no Rio de Janeiro, depois de cerca de dois meses internado com complicações da Covid (um mês em Macaé e cerca de três semanas no Hospital Copa D'Or). A UFRJ lamentou a morte em nota. [fonte](https://www.em.com.br/app/noticia/nacional/2021/01/05/interna_nacional,1226042/medico-que-defendia-cloroquina-e-criticava-oms-morre-de-covid-19.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-nacional-2021-01-05-interna-nacional-1226042-medico-que-defendia-clo-bec3d66c/2026-10-24.html)
+- **02/01/2021** · *15 dias antes da 1ª vacina* (fato) Morreu aos 68 anos, no Rio de Janeiro, depois de cerca de dois meses internado com complicações da Covid (um mês em Macaé e cerca de três semanas no Hospital Copa D'Or). A UFRJ lamentou a morte em nota. [fonte](https://www.em.com.br/app/noticia/nacional/2021/01/05/interna_nacional,1226042/medico-que-defendia-cloroquina-e-criticava-oms-morre-de-covid-19.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-nacional-2021-01-05-interna-nacional-1226042-medico-que-defendia-clo-bec3d66c/2026-10-24.html)
 
 ## Na CPI da Covid
 

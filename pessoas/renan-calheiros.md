@@ -19,8 +19,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **26/10/2021** (fato) Conduziram a CPI (instalada em 27/04/2021) e aprovaram o relatório final; depois recorreram ao STF contra arquivamentos (um recurso, no caso Ricardo Barros, foi negado em nov/2024). Governistas acusaram a CPI de uso político. [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
-- **26/10/2021** (fato) Votou a favor da aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
+- **26/10/2021** · *282 dias depois da 1ª vacina* (fato) Conduziram a CPI (instalada em 27/04/2021) e aprovaram o relatório final; depois recorreram ao STF contra arquivamentos (um recurso, no caso Ricardo Barros, foi negado em nov/2024). Governistas acusaram a CPI de uso político. [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
+- **26/10/2021** · *282 dias depois da 1ª vacina* (fato) Votou a favor da aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
 
 ## Na CPI da Covid
 

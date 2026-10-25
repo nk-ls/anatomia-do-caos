@@ -1,4 +1,4 @@
-import { carregarCSV, esc, dataBR, escComLinks} from "./csv.js";
+import { carregarCSV, esc, dataBR, escComLinks, quando, urlsFonte } from "./csv.js";
 
 const VIDEO = "https://www.youtube.com/watch?v=MG3XZYu0_No";
 const CLASSE = { "a favor": "favor", contra: "contra", processual: "processual" };
@@ -38,6 +38,11 @@ function avatar(p, grande = false) {
     : `<span class="${cls} sem-foto" aria-hidden="true">${esc(iniciais(p.nome))}</span>`;
 }
 
+// Pedido de indiciamento da CPI e nenhum ato "contra" documentado não quer
+// dizer ficha limpa: quer dizer que ainda não levantamos os atos dessa pessoa.
+// Sem isto, o 🔴 0 no cartão se lê como absolvição.
+const emLevantamento = (p) => Boolean(p.crimes_cpi) && contar(p.id, "contra") === 0;
+
 function cartao(p) {
   return `<button class="cartao" type="button" data-id="${esc(p.id)}">
     <div class="cartao-topo">${avatar(p)}<div><h3>${esc(p.nome)}</h3><p>${esc(p.cargo_epoca)}</p></div></div>
@@ -45,6 +50,7 @@ function cartao(p) {
       <span class="selo favor">🟢 ${contar(p.id, "a favor")}</span>
       <span class="selo contra">🔴 ${contar(p.id, "contra")}</span>
       ${p.crimes_cpi ? '<span class="etiqueta">pedido da CPI</span>' : ""}
+      ${emLevantamento(p) ? '<span class="etiqueta lacuna" title="Este levantamento ainda não registrou atos desta pessoa. A ausência não é prova nem indício — é limite do trabalho.">sem atos levantados</span>' : ""}
       ${estado.uf?.get(p.id) && estado.uf.get(p.id).uf !== "Federal" ? `<span class="etiqueta uf">${esc(estado.uf.get(p.id).uf.includes(";") ? "Nordeste" : estado.uf.get(p.id).uf)}</span>` : ""}
     </div></button>`;
 }
@@ -63,15 +69,29 @@ function listar() {
   $("lista").innerHTML = lista.map(cartao).join("") || '<p class="nota">Nenhuma ficha encontrada.</p>';
 }
 
+// Um ato pode ter mais de uma fonte. Cada uma ganha o seu link e a sua cópia.
+function refsHTML(campo) {
+  const urls = urlsFonte(campo);
+  if (!urls.length) return "";
+  const um = (u, rot) => {
+    const copia = estado.copias.get(u);
+    return `<a href="${linkSeguro(u)}" target="_blank" rel="noopener">${rot}</a>`
+      + (copia ? ` · <a href="${linkSeguro(copia)}" target="_blank" rel="noopener">${urls.length > 1 ? "cópia" : "cópia arquivada"}</a>` : "");
+  };
+  return urls.length === 1 ? um(urls[0], "fonte") : urls.map((u, i) => um(u, `fonte ${i + 1}`)).join(" · ");
+}
+
 function ficha(p) {
   const atos = (estado.atosPor.get(p.id) || []).slice().sort((a, b) => a.data.localeCompare(b.data));
   const blocos = TITULOS.map(([av, titulo]) => {
     const itens = atos.filter((a) => a.avaliacao === av).map((a) => `<li class="${CLASSE[av]}">
-      <span class="data">${dataBR(a.data)}</span> <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)}
-      <a href="${linkSeguro(a.fonte)}" target="_blank" rel="noopener">fonte</a>${estado.copias.get(a.fonte) ? ` · <a href="${linkSeguro(estado.copias.get(a.fonte))}" target="_blank" rel="noopener">cópia arquivada</a>` : ""}
+      <span class="data">${dataBR(a.data)}</span>${quando(a.data) ? ` <span class="desde-marco">${esc(quando(a.data))}</span>` : ""} <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)}
+      ${refsHTML(a.fonte)}
       ${a.no_documentario ? ` · <a href="${VIDEO}&t=${segundos(a.no_documentario)}s" target="_blank" rel="noopener">no documentário, ${esc(a.no_documentario)}</a>` : ""}
     </li>`).join("");
-    return `<h3>${titulo}</h3>${itens ? `<ul class="atos">${itens}</ul>` : '<p class="nota">Nenhum ato registrado ainda neste levantamento.</p>'}`;
+    return `<h3>${titulo}</h3>${itens ? `<ul class="atos">${itens}</ul>` : (av === "contra" && p.crimes_cpi
+        ? '<p class="nota aviso-lacuna">Este levantamento <strong>ainda não registrou atos desta pessoa</strong>. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.</p>'
+        : '<p class="nota">Nenhum ato registrado ainda neste levantamento.</p>')}`;
   }).join("");
   const cpi = p.crimes_cpi
     ? `<p class="aviso">⚖️ Pedido de indiciamento não é condenação.</p><p><strong>Crimes apontados no relatório final (26/10/2021):</strong> ${esc(p.crimes_cpi)}</p>`

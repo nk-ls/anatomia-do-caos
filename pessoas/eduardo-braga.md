@@ -19,8 +19,8 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **25/10/2021** (fato) Apresentou voto em separado ao relatório final. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_eduardo_braga_2021-10-25.rar) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_eduardo_braga_2021-10-25.rar)
-- **26/10/2021** (fato) Votou a favor da aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
+- **25/10/2021** · *281 dias depois da 1ª vacina* (fato) Apresentou voto em separado ao relatório final. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_eduardo_braga_2021-10-25.rar) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_eduardo_braga_2021-10-25.rar)
+- **26/10/2021** · *282 dias depois da 1ª vacina* (fato) Votou a favor da aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
 
 ## Na CPI da Covid
 

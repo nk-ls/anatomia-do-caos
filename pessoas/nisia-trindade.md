@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **27/06/2020** (fato) Acordo com AstraZeneca/Oxford para produzir a vacina no Brasil; em jun/2021, contrato de transferência do IFA (a transferência atrasou em relação ao previsto). [fonte](https://www.conass.org.br/?p=22379) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/conass-org-br-p-22379-e7375b94/2026-10-24.html)
+- **27/06/2020** · *204 dias antes da 1ª vacina* (fato) Acordo com AstraZeneca/Oxford para produzir a vacina no Brasil; em jun/2021, contrato de transferência do IFA (a transferência atrasou em relação ao previsto). [fonte](https://www.conass.org.br/?p=22379) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/conass-org-br-p-22379-e7375b94/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

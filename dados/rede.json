@@ -590,6 +590,13 @@
 "cpi": true
 },
 {
+"id": "oswaldo-eustaquio",
+"tipo": "pessoa",
+"nome": "Oswaldo Eustáquio",
+"grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
 "id": "otavio-fakhoury",
 "tipo": "pessoa",
 "nome": "Otávio Oscar Fakhoury",
@@ -608,6 +615,13 @@
 "tipo": "pessoa",
 "nome": "Paolo Marinho de Andrade Zanotto",
 "grupo": "Médicos e conselheiros citados pela CPI (cloroquina e \"gabinete paralelo\")",
+"cpi": true
+},
+{
+"id": "paulo-eneas",
+"tipo": "pessoa",
+"nome": "Paulo de Oliveira Eneas",
+"grupo": "Empresários, comunicadores e influenciadores",
 "cpi": true
 },
 {
@@ -727,6 +741,13 @@
 "tipo": "pessoa",
 "nome": "Tércio Arnaud Tomaz",
 "grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "thiago-fernandes-costa",
+"tipo": "pessoa",
+"nome": "Thiago Fernandes da Costa",
+"grupo": "Ministério da Saúde",
 "cpi": true
 },
 {
@@ -1480,14 +1501,16 @@
 "de": "elcio-franco",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 2,
 "processual": 5,
 "atos": [
 73,
 74,
 76,
 143,
-254
+254,
+315,
+316
 ]
 },
 {
@@ -1637,6 +1660,16 @@
 },
 {
 "de": "filipe-martins",
+"para": "tema:cloroquina",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+322
+]
+},
+{
+"de": "filipe-martins",
 "para": "tema:vacinas",
 "favor": 0,
 "contra": 0,
@@ -1754,7 +1787,7 @@
 253,
 254,
 268,
-312
+311
 ]
 },
 {
@@ -1774,7 +1807,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-312
+311
 ]
 },
 {
@@ -1784,8 +1817,8 @@
 "contra": 2,
 "processual": 0,
 "atos": [
-314,
-315
+313,
+314
 ]
 },
 {
@@ -1795,8 +1828,8 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-311,
-313
+310,
+312
 ]
 },
 {
@@ -1863,10 +1896,11 @@
 "de": "helcio-bruno",
 "para": "tema:justica",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 1,
 "atos": [
-113
+113,
+326
 ]
 },
 {
@@ -2101,11 +2135,12 @@
 "de": "jose-ricardo-santana",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 2,
 "atos": [
 155,
-268
+268,
+320
 ]
 },
 {
@@ -2136,6 +2171,16 @@
 "processual": 1,
 "atos": [
 157
+]
+},
+{
+"de": "leandro-ruschel",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+325
 ]
 },
 {
@@ -2182,9 +2227,9 @@
 {
 "de": "luciano-hang",
 "para": "tema:manaus",
-"favor": 1,
+"favor": 0,
 "contra": 0,
-"processual": 0,
+"processual": 1,
 "atos": [
 163
 ]
@@ -2296,12 +2341,13 @@
 "de": "marcellus-campelo",
 "para": "tema:manaus",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 3,
 "atos": [
 69,
 177,
-178
+178,
+321
 ]
 },
 {
@@ -2386,8 +2432,8 @@
 "de": "marcelo-queiroga",
 "para": "tema:vacinas",
 "favor": 3,
-"contra": 0,
-"processual": 1,
+"contra": 1,
+"processual": 0,
 "atos": [
 185,
 188,
@@ -2696,6 +2742,16 @@
 ]
 },
 {
+"de": "oswaldo-eustaquio",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+323
+]
+},
+{
 "de": "otavio-fakhoury",
 "para": "tema:cloroquina",
 "favor": 0,
@@ -2755,6 +2811,16 @@
 "atos": [
 238,
 239
+]
+},
+{
+"de": "paulo-eneas",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+324
 ]
 },
 {
@@ -2821,7 +2887,7 @@
 252,
 253,
 254,
-312
+311
 ]
 },
 {
@@ -2859,13 +2925,14 @@
 "de": "regina-celia-oliveira",
 "para": "tema:contratos",
 "favor": 1,
-"contra": 0,
+"contra": 1,
 "processual": 3,
 "atos": [
 76,
 254,
 258,
-259
+259,
+318
 ]
 },
 {
@@ -2931,7 +2998,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-311
+310
 ]
 },
 {
@@ -3032,12 +3099,11 @@
 {
 "de": "stf",
 "para": "tema:justica",
-"favor": 1,
+"favor": 0,
 "contra": 0,
 "processual": 1,
 "atos": [
-283,
-284
+283
 ]
 },
 {
@@ -3047,7 +3113,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-285
+284
 ]
 },
 {
@@ -3057,7 +3123,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-286
+285
 ]
 },
 {
@@ -3067,8 +3133,8 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-286,
-287
+285,
+286
 ]
 },
 {
@@ -3078,7 +3144,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-288
+287
 ]
 },
 {
@@ -3088,7 +3154,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-289
+288
 ]
 },
 {
@@ -3098,7 +3164,17 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-290
+289
+]
+},
+{
+"de": "thiago-fernandes-costa",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+319
 ]
 },
 {
@@ -3108,7 +3184,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-291
+290
 ]
 },
 {
@@ -3118,7 +3194,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-292
+291
 ]
 },
 {
@@ -3131,11 +3207,11 @@
 76,
 273,
 274,
+293,
 294,
 295,
 296,
-297,
-298
+297
 ]
 },
 {
@@ -3145,17 +3221,18 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-293
+292
 ]
 },
 {
 "de": "wagner-rosario",
 "para": "tema:contratos",
 "favor": 1,
-"contra": 0,
+"contra": 1,
 "processual": 0,
 "atos": [
-299
+298,
+317
 ]
 },
 {
@@ -3165,9 +3242,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
+299,
 300,
-301,
-302
+301
 ]
 },
 {
@@ -3177,7 +3254,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-306
+305
 ]
 },
 {
@@ -3187,11 +3264,11 @@
 "contra": 2,
 "processual": 2,
 "atos": [
+302,
 303,
-304,
-307,
-309,
-310
+306,
+308,
+309
 ]
 },
 {
@@ -3201,7 +3278,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-308
+307
 ]
 },
 {
@@ -3211,7 +3288,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-305
+304
 ]
 }
 ],

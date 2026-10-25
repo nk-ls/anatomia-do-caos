@@ -11,11 +11,11 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.
 
 ## ⚪ Fatos processuais e neutros
 
-- **05/10/2021** (fato) Na CPI, confirmou que saques em espécie eram praxe na VTCLog e negou pagamento de propina a Roberto Dias [fonte](https://www.poder360.com.br/cpi-da-covid/socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-diretor-da-saude/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-cpi-da-covid-socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-dire-03c4242f/2026-10-24.html)
+- **05/10/2021** · *261 dias depois da 1ª vacina* (fato) Na CPI, confirmou que saques em espécie eram praxe na VTCLog e negou pagamento de propina a Roberto Dias [fonte](https://www.poder360.com.br/cpi-da-covid/socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-diretor-da-saude/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-cpi-da-covid-socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-dire-03c4242f/2026-10-24.html)
 
 ## Na CPI da Covid
 

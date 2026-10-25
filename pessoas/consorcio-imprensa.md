@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **08/06/2020** (fato) Passou a apurar casos e mortes direto com as 27 secretarias estaduais quando o Ministério da Saúde atrasou e alterou a divulgação dos dados. [fonte](https://seer.ufrgs.br/index.php/intexto/article/view/140935) · [no documentário, 00:03:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=180s)
+- **08/06/2020** · *223 dias antes da 1ª vacina* (fato) Passou a apurar casos e mortes direto com as 27 secretarias estaduais quando o Ministério da Saúde atrasou e alterou a divulgação dos dados. [fonte](https://seer.ufrgs.br/index.php/intexto/article/view/140935) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/seer-ufrgs-br-index-php-intexto-article-view-140935-f854cbe5/2026-10-25.html) · [no documentário, 00:03:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=180s)
 
 ## 🔴 O que fez contra o combate à pandemia
 

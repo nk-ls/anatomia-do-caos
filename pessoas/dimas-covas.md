@@ -7,8 +7,8 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **10/06/2020** (fato) Acordo com a Sinovac para testar e produzir a CoronaVac no Brasil. [fonte](https://www.poder360.com.br/brasil/sp-deve-produzir-vacina-contra-coronavirus-ate-junho-de-2021-diz-doria/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-sp-deve-produzir-vacina-contra-coronavirus-ate-junho-de-2021-diz-do-e69d8b4e/2026-10-24.html)
-- **30/07/2020** (alegação) Ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020; segundo Dimas Covas, não houve resposta. Em outubro a oferta subiu para 100 milhões. [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-05-27-brasil-poderia-ter-sido-primeiro-do-mundo-a-vac-b656a248/2026-10-24.html)
+- **10/06/2020** · *221 dias antes da 1ª vacina* (fato) Acordo com a Sinovac para testar e produzir a CoronaVac no Brasil. [fonte](https://www.poder360.com.br/brasil/sp-deve-produzir-vacina-contra-coronavirus-ate-junho-de-2021-diz-doria/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-brasil-sp-deve-produzir-vacina-contra-coronavirus-ate-junho-de-2021-diz-do-e69d8b4e/2026-10-24.html)
+- **30/07/2020** · *171 dias antes da 1ª vacina* (alegação) Ofereceu ao Ministério da Saúde 60 milhões de doses da CoronaVac para o fim de 2020; segundo Dimas Covas, não houve resposta. Em outubro a oferta subiu para 100 milhões. [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-05-27-brasil-poderia-ter-sido-primeiro-do-mundo-a-vac-b656a248/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **27/05/2021** (declaração) Na CPI: "O Brasil poderia ter sido o primeiro país do mundo a iniciar a vacinação, se não fossem esses percalços". [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-05-27-brasil-poderia-ter-sido-primeiro-do-mundo-a-vac-b656a248/2026-10-24.html) · [no documentário, 00:29:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1770s)
+- **27/05/2021** · *130 dias depois da 1ª vacina* (declaração) Na CPI: "O Brasil poderia ter sido o primeiro país do mundo a iniciar a vacinação, se não fossem esses percalços". [fonte](https://www12.senado.leg.br/noticias/materias/2021/05/27/brasil-poderia-ter-sido-primeiro-do-mundo-a-vacinar-afirma-dimas-covas-a-cpi) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-05-27-brasil-poderia-ter-sido-primeiro-do-mundo-a-vac-b656a248/2026-10-24.html) · [no documentário, 00:29:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1770s)
 
 ## Na CPI da Covid
 

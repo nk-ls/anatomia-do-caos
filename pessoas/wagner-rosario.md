@@ -11,17 +11,17 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **07/2021** (fato) Auditoria da CGU sobre a Covaxin não achou sobrepreço, identificou documentos fraudados apresentados pela Precisa e enviou o caso à PF [fonte](https://www.infomoney.com.br/?p=1673206) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/infomoney-com-br-p-1673206-4cb0e3e2/2026-10-24.html)
+- **07/2021** · *cerca de 6 meses depois da 1ª vacina* (fato) Auditoria da CGU sobre a Covaxin não achou sobrepreço, identificou documentos fraudados apresentados pela Precisa e enviou o caso à PF [fonte](https://www.infomoney.com.br/?p=1673206) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/infomoney-com-br-p-1673206-4cb0e3e2/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 1085: indícios de prevaricação na atuação dele à frente da CGU na apuração da Covaxin, por "ter ignorado o envolvimento de Roberto Dias", ter se omitido quanto a um mercado interno de corrupção no ministério e ter se atido "apenas para aspectos formais". [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## ⚪ Fatos processuais e neutros
 
-- **21/09/2021** (fato) Chamou a senadora Simone Tebet de "descontrolada" na CPI e passou à condição de investigado [fonte](https://www.poder360.com.br/cpi-da-covid/wagner-rosario-chama-senadora-de-descontrolada-e-cpi-passa-a-investiga-lo/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-cpi-da-covid-wagner-rosario-chama-senadora-de-descontrolada-e-cpi-passa-a--d55d94ea/2026-10-24.html)
-- **01/08/2022** (decisão judicial) Ministro Ricardo Lewandowski (STF) arquivou, a pedido da PGR, a investigação aberta a partir do relatório da CPI [fonte](https://www.cnnbrasil.com.br/nacional/lewandowski-arquiva-investigacao-contra-ministro-da-cgu/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-nacional-lewandowski-arquiva-investigacao-contra-ministro-da-cgu-86a0b2d1/2026-10-24.html)
-- **01/08/2022** (decisão judicial) STF · Decisão de Lewandowski: arquivamento Pet 10.062/DF (prevaricação): Acolhe o arquivamento pedido pela PGR, com a ressalva do art. 18 do CPP. Situação em out/2026: Arquivado. Trânsito em julgado em 09/08/2022. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307910) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10062_arquivamento_2022-08-01.pdf)
+- **21/09/2021** · *247 dias depois da 1ª vacina* (fato) Chamou a senadora Simone Tebet de "descontrolada" na CPI e passou à condição de investigado [fonte](https://www.poder360.com.br/cpi-da-covid/wagner-rosario-chama-senadora-de-descontrolada-e-cpi-passa-a-investiga-lo/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-cpi-da-covid-wagner-rosario-chama-senadora-de-descontrolada-e-cpi-passa-a--d55d94ea/2026-10-24.html)
+- **01/08/2022** · *561 dias depois da 1ª vacina* (decisão judicial) Ministro Ricardo Lewandowski (STF) arquivou, a pedido da PGR, a investigação aberta a partir do relatório da CPI [fonte](https://www.cnnbrasil.com.br/nacional/lewandowski-arquiva-investigacao-contra-ministro-da-cgu/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-nacional-lewandowski-arquiva-investigacao-contra-ministro-da-cgu-86a0b2d1/2026-10-24.html)
+- **01/08/2022** · *561 dias depois da 1ª vacina* (decisão judicial) STF · Decisão de Lewandowski: arquivamento Pet 10.062/DF (prevaricação): Acolhe o arquivamento pedido pela PGR, com a ressalva do art. 18 do CPP. Situação em out/2026: Arquivado. Trânsito em julgado em 09/08/2022. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307910) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10062_arquivamento_2022-08-01.pdf)
 
 ## Na CPI da Covid
 

@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **17/03/2021** (fato) Os governadores assinaram contratos para 37 milhões de doses da Sputnik V (17/03/2021); a Anvisa negou e depois limitou a importação, e o consórcio suspendeu a compra em ago/2021. [fonte](https://www.agazeta.com.br/brasil/consorcio-do-nordeste-assina-acordo-por-37-milhoes-de-doses-da-sputnik-v-0321) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-consorcio-do-nordeste-assina-acordo-por-37-milhoes-de-doses-da-sputn-0426f200/2026-10-24.html)
+- **17/03/2021** · *59 dias depois da 1ª vacina* (fato) Os governadores assinaram contratos para 37 milhões de doses da Sputnik V (17/03/2021); a Anvisa negou e depois limitou a importação, e o consórcio suspendeu a compra em ago/2021. [fonte](https://www.agazeta.com.br/brasil/consorcio-do-nordeste-assina-acordo-por-37-milhoes-de-doses-da-sputnik-v-0321) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agazeta-com-br-brasil-consorcio-do-nordeste-assina-acordo-por-37-milhoes-de-doses-da-sputn-0426f200/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 
