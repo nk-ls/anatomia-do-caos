@@ -3,12 +3,12 @@
 import { carregarCSV, esc, dataBR } from "./csv.js";
 
 const NS = "http://www.w3.org/2000/svg";
-export const COR_TEMA = { prevent: "#a855f7", contratos: "#ca8a04", manaus: "#0ea5e9", cloroquina: "#f97316", vacinas: "#22c55e",
+export const COR_TEMA = { prevent: "#a855f7", contratos: "#ca8a04", manaus: "#0ea5e9", cloroquina: "#f97316", vacinas: "#16a34a",
   distanciamento: "#14b8a6", desinformacao: "#ef4444", gestao: "#94a3b8", justica: "#3b82f6", outros: "#6b7280" };
-export const COR_LIGA = { favor: "#22c55e", contra: "#ef4444", ambos: "#eab308", processual: "#6b7280" };
+export const COR_LIGA = { favor: "#16a34a", contra: "#dc2626", ambos: "#a16207", processual: "#6b7280" };
 // Cor por esfera de atuação, sem juízo: verde e vermelho ficam só para os atos (ligações).
-export const COR_ESFERA = { "Governo federal": "#60a5fa", "Congresso": "#c084fc", "Governos estaduais": "#fbbf24",
-  "Judiciário": "#cbd5e1", "Saúde, ciência e imprensa": "#2dd4bf", "Setor privado": "#f9a8d4", "Médicos": "#fdba74" };
+export const COR_ESFERA = { "Governo federal": "#3b82f6", "Congresso": "#a855f7", "Governos estaduais": "#b45309",
+  "Judiciário": "#64748b", "Saúde, ciência e imprensa": "#0d9488", "Setor privado": "#db2777", "Médicos": "#ea580c" };
 export const ESFERA = {
   "Presidência da República e família": "Governo federal", "Ministério da Saúde": "Governo federal", "Outros ministérios e órgãos federais": "Governo federal",
   "Parlamentares": "Congresso", "Senadores da CPI": "Congresso", "Governos estaduais": "Governos estaduais", "Judiciário": "Judiciário",
@@ -124,9 +124,12 @@ export async function montarRede(alvo, painel, opcoes = {}) {
       const pid = "foto-" + n.id;
       const pat = el("pattern", { id: pid, width: 1, height: 1, patternContentUnits: "objectBoundingBox" }, defs);
       el("image", { href: foto.arquivo, width: 1, height: 1, preserveAspectRatio: "xMidYMid slice" }, pat);
-      el("circle", { r: n.r, fill: `url(#${pid})`, stroke: n.cpi ? "#ef4444" : cor, "stroke-width": 2 }, n.g);
+      el("circle", { r: n.r, fill: `url(#${pid})`, ...(n.cpi ? { class: "borda-cpi" } : { stroke: cor }), "stroke-width": 2 }, n.g);
     } else {
-      el("circle", { r: n.r, fill: cor, stroke: tema ? "#0b0d10" : n.cpi ? "#ef4444" : "#0b0d10", "stroke-width": tema ? 3 : n.cpi ? 2 : 1, filter: tema ? "url(#brilho)" : "" }, n.g);
+      // O contorno segue o tema: a cor do fundo (some) ou o vermelho da CPI.
+      // Antes era fixo em #0b0d10, feito para o fundo escuro — virava um anel
+      // escuro quando o site passou a abrir claro.
+      el("circle", { r: n.r, fill: cor, class: !tema && n.cpi ? "borda-cpi" : "borda-fundo", "stroke-width": tema ? 3 : n.cpi ? 2 : 1, filter: tema ? "url(#brilho)" : "" }, n.g);
     }
     if (tema) {
       n.rot = el("text", { x: n.rx, y: n.ry, "text-anchor": n.ancora, class: "rot-tema" }, n.g);

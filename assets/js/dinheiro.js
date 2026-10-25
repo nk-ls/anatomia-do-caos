@@ -299,11 +299,30 @@ if (receita) {
   const ctr = document.createElement("div");
   ctr.className = "rede-controles";
   ctr.innerHTML = '<button type="button" data-z="0.8" aria-label="Aproximar">+</button>'
-                + '<button type="button" data-z="1.25" aria-label="Afastar">\u2212</button>'
-                + '<button type="button" data-z="reset" aria-label="Enquadrar tudo">\u21BA</button>';
+                + '<button type="button" data-z="1.25" aria-label="Afastar">−</button>'
+                + '<button type="button" data-z="reset" aria-label="Enquadrar tudo">↺</button>'
+                + '<button type="button" data-z="tela" aria-label="Ver em tela cheia" aria-pressed="false">⤢</button>';
+
+  // Modo expandido por classe, e nao pela API de tela cheia do navegador:
+  // no iPhone a API nativa nao vale para elementos que nao sejam video.
+  const caixaPai = caixa.parentElement;
+  const expandir = (sim) => {
+    caixaPai.classList.toggle("expandido", sim);
+    document.body.classList.toggle("sem-rolagem", sim);
+    const bt = ctr.querySelector('[data-z="tela"]');
+    bt.setAttribute("aria-pressed", String(sim));
+    bt.textContent = sim ? "✕" : "⤢";
+    bt.setAttribute("aria-label", sim ? "Sair da tela cheia" : "Ver em tela cheia");
+    vb = { ...BASE }; aplicar();
+  };
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && caixaPai.classList.contains("expandido")) expandir(false);
+  });
+
   ctr.addEventListener("click", (e) => {
     const z = e.target.dataset.z;
-    if (z === "reset") { vb = { ...BASE }; aplicar(); }
+    if (z === "tela") expandir(!caixaPai.classList.contains("expandido"));
+    else if (z === "reset") { vb = { ...BASE }; aplicar(); }
     else if (z) zoom(+z);
   });
   caixa.parentElement.insertBefore(ctr, caixa.nextSibling);
