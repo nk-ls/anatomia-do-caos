@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /imagem.html
+
+Sitemap: https://transparenciadocaos.com/sitemap.xml

@@ -1,0 +1,23 @@
+# Anatomia do Caos
+
+> Levantamento aberto e verificável sobre a Covid-19 no Brasil: mortes, vacinação, decisões de governo questionadas na CPI, caminho do dinheiro dos contratos e quem fez o quê. Cada afirmação tem fonte pública e cópia arquivada com impressão digital SHA-256. Classifica-se o ato, não a pessoa; pedido de indiciamento não é condenação. Contato: brasil@transparenciadocaos.com
+
+## Páginas
+- [Início](https://transparenciadocaos.com/): números do Brasil, comparação com outros países, vacinação e o posicionamento do autor (marcado como opinião).
+- [Investigação](https://transparenciadocaos.com/investigacao.html): rede de conexões, achados com provas encadeadas e votos da CPI da Pandemia, com filtro por estado.
+- [Caminho do dinheiro](https://transparenciadocaos.com/dinheiro.html): contratos federais e estaduais investigados, valores, decisões do TCU, CGU e STF, e quadro societário das empresas (Receita Federal).
+- [Estados](https://transparenciadocaos.com/estados.html): mortes e vacinação por estado, senadores da CPI e pessoas ligadas a cada estado.
+- [Envolvidos](https://transparenciadocaos.com/envolvidos.html): ficha de cada pessoa ou instituição com atos datados, fonte, defesa e situação judicial.
+- [Referências](https://transparenciadocaos.com/referencias.html): todas as fontes, com link para a cópia arquivada.
+
+## Dados abertos
+- [atos.csv](https://transparenciadocaos.com/dados/atos.csv): cada ato com data, tipo (fato, declaração, decisão judicial...), avaliação e fonte.
+- [pessoas.csv](https://transparenciadocaos.com/dados/pessoas.csv): pessoas e instituições, cargo na época e grupo.
+- [dinheiro.json](https://transparenciadocaos.com/dados/dinheiro.json): casos, valores e documentos do caminho do dinheiro.
+- [estados.csv](https://transparenciadocaos.com/dados/estados.csv): mortes e vacinação por estado.
+- [fontes.csv](https://transparenciadocaos.com/dados/fontes.csv): todas as fontes e onde cada uma é usada.
+
+## Como verificar
+- [Cadeia de custódia](https://github.com/nk-ls/anatomia-do-caos/blob/main/docs/cadeia-de-custodia.md): coleta, lacre SHA-256, guarda, processamento por scripts públicos e exibição.
+- [Arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes): cópias datadas dos documentos oficiais.
+- [Código e scripts](https://github.com/nk-ls/anatomia-do-caos): tudo o que gera os dados do site.

@@ -16,7 +16,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 FONTES = Path(sys.argv[1]) if len(sys.argv) > 1 else RAIZ.parent / "anatomia-do-caos-fontes"
 REPO_FONTES = "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main"
 URL_RE = re.compile(r"https?://[^\s<>\"'`|)\]]+")
-PROPRIOS = ("github.com/nk-ls", "nk-ls.github.io", "transparenciadocaos.com", "raw.githubusercontent.com/nk-ls")
+PROPRIOS = ("github.com/nk-ls", "nk-ls.github.io", "transparenciadocaos.com", "raw.githubusercontent.com/nk-ls", "schema.org")  # schema.org: vocabulário dos metadados, não é fonte
 
 TIPOS = [
     ("documento oficial", ("gov.br", "leg.br", "jus.br", "tcu.", "cgu.", "mpf.mp.br", "in.gov.br", "anvisa", "butantan.gov", "fiocruz.br", "ebc.com.br")),
