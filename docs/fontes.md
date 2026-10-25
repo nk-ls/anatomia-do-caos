@@ -2,7 +2,7 @@
 
 A lista completa de fontes, com cópia arquivada e onde cada uma é usada, fica em:
 
-- **Site:** [Referências](https://nk-ls.github.io/anatomia-do-caos/referencias.html), com busca e filtros
+- **Site:** [Referências](https://transparenciadocaos.com/referencias.html), com busca e filtros
 - **Planilha:** [`dados/fontes.csv`](../dados/fontes.csv), gerada por [`scripts/gerar_fontes.py`](../scripts/gerar_fontes.py)
 - **Documentos oficiais na íntegra:** [pasta de documentos](https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/documentos)
 
