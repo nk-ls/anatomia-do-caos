@@ -233,9 +233,12 @@ body.tela-cheia {
   /* No celular o painel vira folha: alta o bastante para ler, rolável por
      dentro, e com botão de fechar grande o suficiente para o dedo. */
   .rede-painel.flutuante {
-    top: auto; bottom: 0; right: 0; left: 0;
+    /* Ancorado no alto, não no rodapé: com conteúdo curto o painel colava na
+       base da tela, longe dos olhos. Agora começa sempre a 30% do topo, o que
+       deixa o grafo visível em cima e dá uma área de leitura estável embaixo. */
+    top: 30%; bottom: 0; right: 0; left: 0;
     width: 100%;
-    max-height: 72%;
+    max-height: none;
     border-radius: 16px 16px 0 0;
     border-bottom: 0;
     padding: 14px 16px 20px;

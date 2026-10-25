@@ -278,6 +278,13 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   }
   function selecionar(n) {
     atual = n; destacar(n);
+    // No celular o painel cobre os 70% de baixo. Sem isto, o leitor abria a
+    // ficha e perdia de vista o nó de quem ela fala.
+    if (n && opcoes.painelFlutuante && window.matchMedia("(max-width: 700px)").matches) {
+      vb.x = n.x - vb.w / 2;
+      vb.y = n.y - vb.h * 0.14;
+      aplicar();
+    }
     if (painel) {
       painel.innerHTML = n ? (opcoes.painelFlutuante ? '<button type="button" class="fechar" data-fechar aria-label="Fechar">×</button>' : "") + detalhe(n) : painelInicial();
       if (opcoes.painelFlutuante) painel.hidden = !n;
