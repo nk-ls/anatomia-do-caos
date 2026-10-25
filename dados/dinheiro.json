@@ -1064,18 +1064,18 @@
      },
      {
       "orgao": "CGU",
-      "texto": "Multa de R$ 3,88 mi e inidoneidade (2024)",
+      "texto": "Multa de R$ 3,88 mi e inidoneidade (2024). O registro da CGU hoje mostra R$ 2,59 mi — exatamente dois terços do valor da decisão. Sem trânsito em julgado",
       "doc": {
-       "nome": "TCU, Acórdão 1.179/2025",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+       "nome": "CNEP/CGU, consulta de 24/10/2026",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_cnep_precisa_ovs_2026-10-24.json"
       }
      },
      {
       "orgao": "TCU",
-      "texto": "Inidônea por 3 anos (2024)",
+      "texto": "Inidônea até 31/10/2027, com trânsito em julgado em 31/10/2024",
       "doc": {
-       "nome": "TCU, Acórdão 1.912/2024",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+       "nome": "CEIS/CGU, consulta de 24/10/2026",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_ceis_precisa_ovs_2026-10-24.json"
       }
      }
     ]
@@ -1156,18 +1156,26 @@
     "decisoes": [
      {
       "orgao": "CGU",
-      "texto": "Multa de R$ 21,7 mi (2024)",
+      "texto": "Multa de R$ 21,7 mi (2024), sem trânsito em julgado",
       "doc": {
-       "nome": "TCU, Acórdão 1.912/2024",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+       "nome": "CNEP/CGU, consulta de 24/10/2026",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_cnep_global_2026-10-24.json"
       }
      },
      {
       "orgao": "TCU",
-      "texto": "Inidônea por 3 anos (2024)",
+      "texto": "Inidônea até 31/10/2027, com trânsito em julgado em 31/10/2024",
       "doc": {
-       "nome": "TCU, Acórdão 1.912/2024",
-       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+       "nome": "CEIS/CGU, consulta de 24/10/2026",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_ceis_global_2026-10-24.json"
+      }
+     },
+     {
+      "orgao": "Petrobras",
+      "texto": "Multa de R$ 2,33 mi em 2021, por fraude em licitação anterior e sem relação com a Covid",
+      "doc": {
+       "nome": "CNEP/CGU, consulta de 24/10/2026",
+       "url": "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_cnep_global_2026-10-24.json"
       }
      }
     ]
