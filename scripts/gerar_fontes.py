@@ -77,7 +77,7 @@ def main():
         for u in URL_RE.findall(f.read_text(encoding="utf-8")):
             u = limpar(u)
             if not any(k in u for k in PROPRIOS):
-                usos[u].add(f"doc:{f.relative_to(RAIZ)}")
+                usos[u].add(f"doc:{f.relative_to(RAIZ).as_posix()}")
     # páginas do site e dados que alimentam as páginas
     paginas = sorted(RAIZ.glob("*.html")) + [RAIZ / "assets/js/diagramas.js"] + [RAIZ / f"dados/{n}" for n in ("dinheiro.json", "empresas.json", "estados.csv", "pessoas_uf.csv")]
     for f in paginas:
@@ -89,7 +89,7 @@ def main():
         for u in URL_RE.findall(texto):
             u = limpar(u)
             if not any(k in u for k in PROPRIOS) and not u.startswith(("https://cdn", "https://fonts.")):
-                usos[u].add(f"doc:{f.relative_to(RAIZ)}")
+                usos[u].add(f"doc:{f.relative_to(RAIZ).as_posix()}")
 
     arquivo = {}
     man = FONTES / "arquivo" / "manifesto.csv"

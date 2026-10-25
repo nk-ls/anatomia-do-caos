@@ -1,6 +1,6 @@
 # Cronologia: o governo federal e a pandemia (2020–2021)
 
-> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 493 das 550 fontes citadas (contagem de 24/10/2026; a atual está em Referências) e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
+> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 543 das 556 fontes citadas (contagem de 24/10/2026; a atual está em Referências) e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
 
 **Como ler a coluna Tipo:** *fato* = aconteceu e está documentado; *declaração* = fala pública registrada; *alegação* = o que alguém afirmou em depoimento, sem ter sido provado; *conclusão da CPI* = posição do relatório do Senado, que não é decisão judicial.
 

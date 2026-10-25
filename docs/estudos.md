@@ -1,6 +1,6 @@
 # Mortes evitáveis: o que os estudos dizem (e o que não dizem)
 
-> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 493 das 550 fontes citadas (contagem de 24/10/2026; a atual está em Referências) e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
+> **Estado de verificação: 🔎 conferido pela busca.** Cada fato abaixo foi confirmado em resultados de busca que trazem o link citado, em 24/10/2026. Cópias datadas de 543 das 556 fontes citadas (contagem de 24/10/2026; a atual está em Referências) e a íntegra dos principais documentos oficiais já estão guardadas no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes), e uma revisão independente conferiu uma amostra ([resultado](revisao.md)). Veja a [legenda de verificação](verificacao.md). Encontrou um erro? Abra uma *issue* com o link da fonte.
 
 ## Como ler as estimativas
 

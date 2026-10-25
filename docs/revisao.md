@@ -66,7 +66,7 @@ Pedida pelo autor com a regra: tudo no site tem de poder ser auditado, ser verí
 - Nenhum link quebrado: 688 links do site para o arquivo de fontes, 490 links internos e 150 links dentro do arquivo de fontes.
 - Os scripts foram rodados de novo e reproduzem os dados publicados (gráficos, fichas, rede, caminho do dinheiro, estados). A lista de fontes estava desatualizada e foi corrigida no gerador: agora lê também as páginas e os dados do site.
 - Os 28 valores da página Caminho do dinheiro e os números da página inicial (716.626 óbitos, excesso de mortes, órfãos) foram procurados e encontrados, escritos iguais, nos documentos citados.
-- Cópias arquivadas passaram de 199 para **493 das 550 fontes citadas (90%)**. Foram arquivadas também as respostas brutas das APIs oficiais (painel do Ministério da Saúde, Câmara, Senado), os dados de saúde da página inicial e os documentos dos casos estaduais.
+- Cópias arquivadas passaram de 199 para **543 das 556 fontes citadas (90%)**. Foram arquivadas também as respostas brutas das APIs oficiais (painel do Ministério da Saúde, Câmara, Senado), os dados de saúde da página inicial e os documentos dos casos estaduais.
 
 **Neutralidade (revisão crítica independente, 37 achados; todos tratados)**
 - O grupo "Atuaram a favor da população" julgava pessoas, contra a regra de classificar só atos. Os grupos passaram a ser por função (por exemplo, "Senadores da CPI", "Governos estaduais", "Instituições de saúde e SUS"), e as cores da rede, por esfera de atuação; verde e vermelho ficam só para os atos.
