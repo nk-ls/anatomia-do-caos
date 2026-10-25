@@ -1,0 +1,1399 @@
+{
+ "processos": [
+  {
+   "orgao": "MPF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Ministério da Saúde pagou adiantado R$ 19.906.197,80 à Global (ordens bancárias 2017OB801843 a 801845) por medicamentos de doenças raras que nunca foram entregues; o MPF registrou pressão de superiores para antecipar",
+   "situacao": "",
+   "data": "2017",
+   "judicial": false,
+   "estado": "sem estado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "global-gestao-saude",
+     "nome": "Global Gestão em Saúde S.A."
+    },
+    {
+     "id": "ricardo-barros",
+     "nome": "Ricardo Barros"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Referendo de cautelar",
+   "numero": "ADI 6.341/DF",
+   "relator": "",
+   "texto": "Competência concorrente de União, estados e municípios nas medidas sanitárias (Lei 13.979, art. 3º).",
+   "situacao": "Liminar referendada. Mérito não localizado.",
+   "data": "2020-04-15",
+   "judicial": true,
+   "estado": "decidido no mérito",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "stf",
+     "nome": "Supremo Tribunal Federal"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5880765"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Pet sigilosa",
+   "numero": "Pet 10.056/DF",
+   "relator": "Cármen Lúcia",
+   "texto": "Uma das 10 petições da PGR. As partes estão ocultas na consulta (o andamento indica Bolsonaro). Houve \"remessa dos autos ao juízo competente\" em 31/10/2023 e decisão sigilosa em 13/05/2024.",
+   "situacao": "Remetido a outro juízo; o conteúdo é sigiloso.",
+   "data": "2021",
+   "judicial": true,
+   "estado": "sigiloso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307919"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Ministra Rosa Weber manteve a quebra de sigilo determinada pela CPI, que investigava o chamado \"gabinete do ódio\"",
+   "situacao": "",
+   "data": "2021",
+   "judicial": true,
+   "estado": "sem estado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "tercio-arnaud-tomaz",
+     "nome": "Tércio Arnaud Tomaz"
+    }
+   ],
+   "fontes": [
+    "https://oantagonista.com.br/?p=604008"
+   ]
+  },
+  {
+   "orgao": "Petrobras",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Petrobras aplicou multa de R$ 2.330.377,85 por fraude em licitação, em caso anterior e sem relação com a Covid",
+   "situacao": "",
+   "data": "2021-02-05",
+   "judicial": false,
+   "estado": "com sanção",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "global-gestao-saude",
+     "nome": "Global Gestão em Saúde S.A."
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_cnep_global_2026-10-24.json"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Ministra Rosa Weber manteve a quebra de sigilos determinada pela CPI, que apurava sua atuação em suposto boicote à compra de vacinas",
+   "situacao": "",
+   "data": "2021-06",
+   "judicial": true,
+   "estado": "sigiloso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "filipe-martins",
+     "nome": "Filipe G. Martins"
+    }
+   ],
+   "fontes": [
+    "https://www.poder360.com.br/justica/weber-mantem-quebra-de-sigilo-contra-filipe-martins/"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Ministra Rosa Weber autorizou que não comparecesse à CPI, por ser investigado por desvio de recursos na pandemia",
+   "situacao": "",
+   "data": "2021-06",
+   "judicial": true,
+   "estado": "sem estado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "wilson-lima",
+     "nome": "Wilson Lima"
+    }
+   ],
+   "fontes": [
+    "https://www.noticiasagricolas.com.br/noticia/290029"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdãos (TrateCov, a pedido da CPI)",
+   "numero": "1.413/2021 e 1.780/2021",
+   "relator": "Vital do Rêgo",
+   "texto": "Autoriza inspeção no aplicativo TrateCov, sob responsabilidade da Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES), e referenda o envio do resultado à CPI. O app sugeria a cloroquina diante de um \"provável diagnóstico\".",
+   "situacao": "Atendidos e juntados ao acompanhamento.",
+   "data": "2021-06-16",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "mayra-pinheiro",
+     "nome": "Mayra Pinheiro"
+    },
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1413-2021_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "CGU",
+   "rotulo": "Nota Técnica (Covaxin) NT 1839/2021/CGSAU/DS/SFC",
+   "numero": "",
+   "relator": "",
+   "texto": "Analisa legalidade e conformidade da compra da Covaxin. É um PDF escaneado, sem camada de texto. A imprensa registrou que ela descartou sobrepreço e viu documentos adulterados.",
+   "situacao": "O processo de responsabilização (PAR) contra a Precisa e a Bharat foi aberto em 24/08/2021. Decisão não localizada.",
+   "data": "2021-08-09",
+   "judicial": false,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "precisa-medicamentos",
+     "nome": "Precisa Comercialização de Medicamentos Ltda."
+    }
+   ],
+   "fontes": [
+    "https://eaud.cgu.gov.br/relatorios/download/1018211"
+   ]
+  },
+  {
+   "orgao": "STJ",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "STJ aceitou denúncia da PGR sobre a compra de respiradores e o tornou réu (ser réu não é condenação).",
+   "situacao": "",
+   "data": "2021-09-20",
+   "judicial": true,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "wilson-lima",
+     "nome": "Wilson Lima"
+    }
+   ],
+   "fontes": [
+    "https://www.poder360.com.br/justica/por-unanimidade-stj-recebe-denuncia-contra-wilson-lima-por-respiradores/"
+   ]
+  },
+  {
+   "orgao": "STJ",
+   "rotulo": "Ação Penal (Operação Sangria: 28 respiradores comprados de loja de vinhos)",
+   "numero": "APn 993/DF",
+   "relator": "",
+   "texto": "A Corte Especial recebeu a denúncia por unanimidade (peculato, dispensa e fraude em licitação, organização criminosa, embaraço). Em 17/06/2026 houve redistribuição a Nancy Andrighi. Em 08/09/2026 a Corte Especial negou, por unanimidade, os agravos de Wilson Lima e de Gutemberg Alencar (voto de Raul Araújo). Embargos de declaração estão conclusos desde 23/10/2026. O caso continua no STJ mesmo depois de Lima deixar o governo em abril de 2026.",
+   "situacao": "Réu, sem sentença. Não houve condenação nem absolvição até 24/10/2026.",
+   "data": "2021-09-20",
+   "judicial": true,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "wilson-lima",
+     "nome": "Wilson Lima"
+    }
+   ],
+   "fontes": [
+    "https://processo.stj.jus.br/processo/pesquisa/?num_registro=202000928826&aplicacao=processos.ea"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdãos sobre o FIB Bank como garantidor (pedido da CPI)",
+   "numero": "2.439/2021 e 2.373/2022",
+   "relator": "",
+   "texto": "Auditoria de contratos com carta de fiança do FIB Bank, empresa sem autorização do Banco Central.",
+   "situacao": "Atendidos. A sanção ao FIB Bank veio no Acórdão 1.912/2024.",
+   "data": "2021-10-06",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "marcos-tolentino",
+     "nome": "Marcos Tolentino da Silva"
+    },
+    {
+     "id": "francisco-maximiano",
+     "nome": "Francisco Emerson Maximiano"
+    },
+    {
+     "id": "danilo-trento",
+     "nome": "Danilo Berndt Trento"
+    },
+    {
+     "id": "precisa-medicamentos",
+     "nome": "Precisa Comercialização de Medicamentos Ltda."
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2439-2021_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "MP-SP",
+   "rotulo": "Termo de Ajustamento de Conduta (TAC) com a Prevent Senior —",
+   "numero": "",
+   "relator": "",
+   "texto": "Proíbe o \"kit covid\" e pesquisas sem aval da Anvisa e da Conep, exige comunicado em jornais e cria conselho de supervisão, com multa de R$ 10 mil a R$ 100 mil por ocorrência. A empresa admitiu que os \"resultados\" não eram pesquisa científica.",
+   "situacao": "Acordo firmado. O cumprimento não foi verificado.",
+   "data": "2021-10-22",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "fernando-parrillo",
+     "nome": "Fernando Parrillo"
+    },
+    {
+     "id": "eduardo-parrillo",
+     "nome": "Eduardo Parrillo"
+    },
+    {
+     "id": "pedro-benedito-batista",
+     "nome": "Pedro Benedito Batista Júnior"
+    }
+   ],
+   "fontes": [
+    "https://www.brasildefato.com.br/2021/11/29/prevent-senior-assina-acordo-com-mp-e-afirma-que-publicou-inverdades-sobre-a-cloroquina/"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdãos de solicitação da CPI sobre a VTCLog",
+   "numero": "2.608/2021 e 2.967/2021",
+   "relator": "",
+   "texto": "Informações enviadas à CPI. O objeto já estava tratado em representação própria.",
+   "situacao": "Arquivados.",
+   "data": "2021-10-27",
+   "judicial": false,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "vtclog",
+     "nome": "VTC Operadora Logística Ltda. (VTCLog)"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2608-2021_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "PF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "A PF pediu para incluí-lo no inquérito por denunciação caluniosa, após notícia-crime do ministro da Casa Civil, Luiz Eduardo Ramos; a ministra Rosa Weber, seguindo a PGR, arquivou o pedido por entender que o fato narrado não constituía crime.",
+   "situacao": "",
+   "data": "2021-11",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "luis-miranda",
+     "nome": "Luis Miranda e Luis Ricardo Miranda"
+    }
+   ],
+   "fontes": [
+    "https://www.poder360.com.br/justica/stf-arquiva-pedido-para-incluir-luis-miranda-em-investigacao-contra-bolsonaro/"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Ministro Luís Roberto Barroso (STF) suspendeu trechos da portaria que impedia a demissão de não vacinados, permitindo que empresas exijam comprovante de vacinação",
+   "situacao": "",
+   "data": "2021-11",
+   "judicial": true,
+   "estado": "sem estado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "onyx-lorenzoni",
+     "nome": "Onyx Lorenzoni"
+    }
+   ],
+   "fontes": [
+    "https://www.poder360.com.br/economia/governo-vai-recorrer-de-decisao-que-permite-demissao-de-nao-vacinados/"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acompanhamento, ciclos 6 a 8",
+   "numero": "2.878/2021, 2.369/2022 e 1.967/2023, TC 015.125/2021-1",
+   "relator": "Vital do Rêgo",
+   "texto": "Avaliação da governança, das despesas e dos contratos de vacina (Pfizer apensada) e do TrateCov. O 7º ciclo cita Pazuello.",
+   "situacao": "Encerrados por ciclo.",
+   "data": "2021-12-01",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    },
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    },
+    {
+     "id": "marcelo-queiroga",
+     "nome": "Marcelo Queiroga"
+    },
+    {
+     "id": "helio-angotti",
+     "nome": "Hélio Angotti Neto"
+    },
+    {
+     "id": "anvisa",
+     "nome": "Anvisa (diretoria colegiada e corpo técnico)"
+    },
+    {
+     "id": "fiocruz",
+     "nome": "Fiocruz"
+    },
+    {
+     "id": "instituto-butantan",
+     "nome": "Instituto Butantan"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2878-2021_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "JF-AM (9ª Vara)",
+   "rotulo": "Sentença em ação de improbidade do MPF (crise do oxigênio em Manaus) — (número não localizado)",
+   "numero": "",
+   "relator": "",
+   "texto": "A ação foi rejeitada com base na nova Lei de Improbidade (Lei 14.230/2021), por falta de dolo. A decisão beneficiou todos os réus.",
+   "situacao": "Rejeitada em 1ª instância. O resultado de eventual recurso não foi localizado.",
+   "data": "2022",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    },
+    {
+     "id": "mayra-pinheiro",
+     "nome": "Mayra Pinheiro"
+    },
+    {
+     "id": "helio-angotti",
+     "nome": "Hélio Angotti Neto"
+    },
+    {
+     "id": "marcellus-campelo",
+     "nome": "Marcellus Campêlo"
+    }
+   ],
+   "fontes": [
+    "https://www.cartacapital.com.br/saude/justica-do-amazonas-absolve-pazuello-pelo-colapso-de-oxigenio-em-manaus/"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Referendo da 12ª tutela provisória incidental (TPI)",
+   "numero": "ADPF 756/DF",
+   "relator": "",
+   "texto": "Suspende o despacho do MEC que proibia a exigência de vacina nas universidades. Também liberou a União de atualizar as ações em Manaus (03/12/2021).",
+   "situacao": "Trânsito em julgado em 19/09/2023.",
+   "data": "2022-02-21",
+   "judicial": true,
+   "estado": "decidido no mérito",
+   "definitivo": true,
+   "envolvidos": [
+    {
+     "id": "stf",
+     "nome": "Supremo Tribunal Federal"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6035593"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Referendo da 16ª tutela provisória incidental (TPI)",
+   "numero": "ADPF 754/DF",
+   "relator": "",
+   "texto": "Obriga o Ministério da Saúde e o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) a corrigir notas técnicas sobre a vacinação infantil, deixando clara a obrigatoriedade.",
+   "situacao": "Trânsito em julgado em 26/09/2023, com processo baixado.",
+   "data": "2022-03-21",
+   "judicial": true,
+   "estado": "encerrado",
+   "definitivo": true,
+   "envolvidos": [
+    {
+     "id": "stf",
+     "nome": "Supremo Tribunal Federal"
+    },
+    {
+     "id": "sus-pni",
+     "nome": "SUS / Programa Nacional de Imunizações e profissionais de saúde"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6034102"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (falta de oxigênio no Amazonas)",
+   "numero": "676/2022, TC 000.344/2021-4",
+   "relator": "Zymler",
+   "texto": "Determina ao Ministério da Saúde um plano de monitoramento do oxigênio. Manda a Ebserh apurar a White Martins. Envia cópia à Procuradoria da República no Amazonas, ao Tribunal de Contas do Amazonas (TCE-AM) e ao Ministério Público do Amazonas (MP-AM).",
+   "situacao": "Juntado ao acompanhamento.",
+   "data": "2022-03-30",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    },
+    {
+     "id": "mayra-pinheiro",
+     "nome": "Mayra Pinheiro"
+    },
+    {
+     "id": "helio-angotti",
+     "nome": "Hélio Angotti Neto"
+    },
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_676-2022_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (pedido da CPI sobre Covaxin)",
+   "numero": "837/2022",
+   "relator": "",
+   "texto": "Pedido de auditoria sobre Covaxin e reuniões sem registro no Ministério da Saúde. O processo ficou sobrestado até o Acórdão 2.598/2025.",
+   "situacao": "Atendido em 2025.",
+   "data": "2022-04-13",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    },
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    },
+    {
+     "id": "precisa-medicamentos",
+     "nome": "Precisa Comercialização de Medicamentos Ltda."
+    },
+    {
+     "id": "ricardo-barros",
+     "nome": "Ricardo Barros"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_837-2022_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão de Rosa Weber: arquivamento",
+   "numero": "Pet 10.058/DF",
+   "relator": "",
+   "texto": "Arquivamento a pedido da PGR, com a ressalva do art. 18 do CPP. O texto da decisão não está disponível em link público.",
+   "situacao": "Arquivado. Trânsito em julgado em 09/08/2022.",
+   "data": "2022-06-17",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": true,
+   "envolvidos": [
+    {
+     "id": "ricardo-barros",
+     "nome": "Ricardo Barros"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307915"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Ministro Ricardo Lewandowski (STF) arquivou, a pedido da PGR, a investigação aberta a partir do relatório da CPI",
+   "situacao": "",
+   "data": "2022-08-01",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "wagner-rosario",
+     "nome": "Wagner Rosário"
+    }
+   ],
+   "fontes": [
+    "https://www.cnnbrasil.com.br/nacional/lewandowski-arquiva-investigacao-contra-ministro-da-cgu/"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão de Lewandowski: arquivamento",
+   "numero": "Pet 10.062/DF",
+   "relator": "",
+   "texto": "Acolhe o arquivamento pedido pela PGR, com a ressalva do art. 18 do CPP.",
+   "situacao": "Arquivado. Trânsito em julgado em 09/08/2022.",
+   "data": "2022-08-01",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": true,
+   "envolvidos": [
+    {
+     "id": "wagner-rosario",
+     "nome": "Wagner Rosário"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307910"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdãos (Pfizer: recusa da oferta pela metade do preço)",
+   "numero": "1.766/2022 e 2.267/2023",
+   "relator": "",
+   "texto": "Responde à CFFC da Câmara. O mérito foi tratado dentro do TC 015.125/2021-1 (TC 016.191/2021-8 apensado).",
+   "situacao": "Atendidos. Não há sanção individual.",
+   "data": "2022-08-03",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    },
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    },
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1766-2022_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão monocrática de Rosa Weber; hoje o relator é Luiz Fux",
+   "numero": "Pet 10.060/DF",
+   "relator": "",
+   "texto": "Defere diligência pedida pela cúpula da CPI e envia os autos à PF, apesar do pedido de arquivamento da PGR. A PGR e a AGU entraram com agravos.",
+   "situacao": "Pendente. A última movimentação relevante é de 15/02/2024. Não há relatório da PF nem decisão de mérito publicados.",
+   "data": "2022-09-12",
+   "judicial": true,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    },
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307913"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão de Rosa Weber; hoje o relator é Fux",
+   "numero": "Pet 10.061/DF",
+   "relator": "",
+   "texto": "defere a diligência da CPI e envia à PF. A manifestação da PGR (Lindôra) argumenta que segurar a caixa de cloroquina não configura o crime.",
+   "situacao": "Pendente. Última petição em 15/02/2024; sem decisão posterior.",
+   "data": "2022-09-12",
+   "judicial": true,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307912"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão de Rosa Weber; hoje o relator é Fux",
+   "numero": "Pet 10.065/DF",
+   "relator": "",
+   "texto": "Defere a diligência da CPI, \"mantido, no entanto, o arquivamento\" de parte dos fatos, e envia à PF.",
+   "situacao": "Pendente. A última movimentação é de 19/03/2024 (conclusos).",
+   "data": "2022-09-12",
+   "judicial": true,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    },
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    },
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    },
+    {
+     "id": "marcelo-queiroga",
+     "nome": "Marcelo Queiroga"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307907"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdãos (cloroquina para malária x covid, a pedido da Comissão de Fiscalização Financeira e Controle, CFFC, da Câmara)",
+   "numero": "2.045/2022 e 265/2026",
+   "relator": "",
+   "texto": "Remete ao TC 022.765/2020-4 e ao Acórdão 2.629/2025 (improcedência).",
+   "situacao": "Arquivado.",
+   "data": "2022-09-14",
+   "judicial": false,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2045-2022_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão de Dias Toffoli: extingue o feito",
+   "numero": "Pet 10.057/DF",
+   "relator": "",
+   "texto": "Acolhe a PGR (atipicidade, falta de justa causa) e extingue o feito, que tratava do uso de máscara e de aglomerações.",
+   "situacao": "Arquivado. O agravo do Senado foi destacado por Cármen Lúcia em 09/05/2023, com 3 votos já dados pela manutenção. Pautado para o Plenário presencial em 21/06/2024, ainda sem julgamento.",
+   "data": "2023-02-28",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307917"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão de Dias Toffoli: extingue o feito",
+   "numero": "Pet 10.059/DF",
+   "relator": "",
+   "texto": "Extingue o feito a pedido da PGR.",
+   "situacao": "Arquivado, com o mesmo agravo pendente no Plenário desde 2023/2024.",
+   "data": "2023-02-28",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    },
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    },
+    {
+     "id": "osmar-terra",
+     "nome": "Osmar Terra"
+    },
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    },
+    {
+     "id": "marcelo-queiroga",
+     "nome": "Marcelo Queiroga"
+    },
+    {
+     "id": "helio-angotti",
+     "nome": "Hélio Angotti Neto"
+    },
+    {
+     "id": "braga-netto",
+     "nome": "Walter Braga Netto"
+    },
+    {
+     "id": "heitor-freire",
+     "nome": "Heitor Freire de Abreu"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307914"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (VTCLog: aditivos ao contrato 59/2018)",
+   "numero": "651/2023, TC 025.828/2021-5",
+   "relator": "Zymler",
+   "texto": "Representação parcialmente procedente. Multas a Roberto Dias (R$ 79.004,53) e Alex Lial Marinho (R$ 50 mil). Dias ficou inabilitado por 5 anos. As justificativas da VTCLog foram aceitas. Retenção cautelar dos pagamentos dos voos fretados e abertura de 2 tomadas de contas especiais (TCEs).",
+   "situacao": "O reexame (Acórdão 1.861/2024) manteve a punição de Dias e anulou a multa de Marinho. Transitado em julgado.",
+   "data": "2023-04-05",
+   "judicial": false,
+   "estado": "com sanção",
+   "definitivo": true,
+   "envolvidos": [
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    },
+    {
+     "id": "alex-lial-marinho",
+     "nome": "Alex Lial Marinho"
+    },
+    {
+     "id": "vtclog",
+     "nome": "VTC Operadora Logística Ltda. (VTCLog)"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_651-2023_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão de Nunes Marques, depois acórdão da 2ª Turma",
+   "numero": "Pet 10.063/DF",
+   "relator": "",
+   "texto": "Arquiva em relação ao deputado Ricardo Barros e envia o restante à Justiça Federal do DF. A 2ª Turma negou, por unanimidade, o agravo do Senado. Os autos foram remetidos ao TRF1 em 13/02/2025, e o processo foi arquivado no STF em 20/07/2026.",
+   "situacao": "No STF: arquivado para Barros. Os demais seguem na 1ª instância federal, sem andamento público localizado.",
+   "data": "2023-06-15",
+   "judicial": true,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "ricardo-barros",
+     "nome": "Ricardo Barros"
+    },
+    {
+     "id": "francisco-maximiano",
+     "nome": "Francisco Emerson Maximiano"
+    },
+    {
+     "id": "danilo-trento",
+     "nome": "Danilo Berndt Trento"
+    },
+    {
+     "id": "jose-ricardo-santana",
+     "nome": "José Ricardo Santana"
+    },
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307909"
+   ]
+  },
+  {
+   "orgao": "CGU",
+   "rotulo": "Relatório de Apuração (preservativos femininos, PE 81/2020)",
+   "numero": "1178691",
+   "relator": "",
+   "texto": "Contratos de R$ 31,9 milhões desnecessários. Garantia ilegal aceita. Multas de R$ 2,79 milhões à Precisa e à Injeflex ainda não pagas. Recomenda apurar responsabilidades.",
+   "situacao": "Recomendações em aberto.",
+   "data": "2023-12-26",
+   "judicial": false,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "precisa-medicamentos",
+     "nome": "Precisa Comercialização de Medicamentos Ltda."
+    }
+   ],
+   "fontes": [
+    "https://eaud.cgu.gov.br/relatorios/download/1316719"
+   ]
+  },
+  {
+   "orgao": "CGU",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "CGU aplicou multa de R$ 21.697.740,49 pela Lei Anticorrupção (12.846/2013). Não transitou em julgado",
+   "situacao": "",
+   "data": "2024-01-12",
+   "judicial": false,
+   "estado": "com sanção",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "global-gestao-saude",
+     "nome": "Global Gestão em Saúde S.A."
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_cnep_global_2026-10-24.json"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (falhas na aquisição de vacinas: Fiocruz/Fiotec)",
+   "numero": "737/2024",
+   "relator": "",
+   "texto": "Representação improcedente (\"fato do príncipe\").",
+   "situacao": "Arquivado.",
+   "data": "2024-04-17",
+   "judicial": false,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "fiocruz",
+     "nome": "Fiocruz"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_737-2024_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (VTCLog: acesso aos sistemas WMS/TMS)",
+   "numero": "1.161/2024, TC 037.065/2019-0",
+   "relator": "Nardes",
+   "texto": "A VTCLog não deu ao Ministério da Saúde acesso aos sistemas de gestão de armazém (WMS) e de transporte (TMS). Dias foi considerado revel, e as justificativas de 5 gestores foram rejeitadas, mas sem multa.",
+   "situacao": "Encerrado.",
+   "data": "2024-06-12",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    },
+    {
+     "id": "alex-lial-marinho",
+     "nome": "Alex Lial Marinho"
+    },
+    {
+     "id": "vtclog",
+     "nome": "VTC Operadora Logística Ltda. (VTCLog)"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1161-2024_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (pedido de reexame no caso VTCLog)",
+   "numero": "1.861/2024",
+   "relator": "Jorge Oliveira",
+   "texto": "Nega o recurso de Roberto Dias e dá provimento ao de Alex Lial Marinho.",
+   "situacao": "Transitado em julgado.",
+   "data": "2024-09-11",
+   "judicial": false,
+   "estado": "sem estado",
+   "definitivo": true,
+   "envolvidos": [
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    },
+    {
+     "id": "alex-lial-marinho",
+     "nome": "Alex Lial Marinho"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1861-2024_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (licitações do Ministério da Saúde, apartado da CPI)",
+   "numero": "1.912/2024, TC 028.814/2022-3",
+   "relator": "Vital do Rêgo",
+   "texto": "Declara inidôneas por 3 anos a Global Gestão em Saúde, a OVS (ex-Precisa), o FIB Bank e o Profit Bank. Multa de R$ 30 mil a Roberto Dias (revel). Multa e inabilitação a 2 servidores. Cópia enviada à PF, à PR-DF, à CGU e ao Banco Central.",
+   "situacao": "O reexame (Acórdão 2.111/2025, de 10/09/2025) reduziu a multa de um servidor e manteve a de outro.",
+   "data": "2024-09-18",
+   "judicial": false,
+   "estado": "com sanção",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "precisa-medicamentos",
+     "nome": "Precisa Comercialização de Medicamentos Ltda."
+    },
+    {
+     "id": "francisco-maximiano",
+     "nome": "Francisco Emerson Maximiano"
+    },
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    },
+    {
+     "id": "marcos-tolentino",
+     "nome": "Marcos Tolentino da Silva"
+    },
+    {
+     "id": "alex-lial-marinho",
+     "nome": "Alex Lial Marinho"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "Declarada inidônea pelo TCU até 31/10/2027, por fraude comprovada à licitação (Lei 8.443, art. 46). Transitou em julgado",
+   "situacao": "",
+   "data": "2024-10-31",
+   "judicial": false,
+   "estado": "com sanção",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "global-gestao-saude",
+     "nome": "Global Gestão em Saúde S.A."
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/apis_oficiais/portaltransparencia_ceis_global_2026-10-24.json"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (contrato 250/2020 com a Life Technologies, depois anulado; pedido da CPI, Req. 1.104/2021)",
+   "numero": "222/2025",
+   "relator": "Bruno Dantas",
+   "texto": "Informa à CPI a conclusão da investigação preliminar sumária (IPS) da CGU nº 00190.106369/2021-78: gravidade \"alta\" e TACs com 3 servidores. Roberto Dias e Breno Leite Soares respondem a processo disciplinar (PAD 00190.104838/2023-86).",
+   "situacao": "O PAD estava em instrução (fev/2025); o resultado não foi localizado.",
+   "data": "2025-02-05",
+   "judicial": false,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_222-2025_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (Covaxin) 1.179/2025, TC 006.789/2021-8 : A representação foi julgada procedente",
+   "numero": "",
+   "relator": "Zymler",
+   "texto": "procuração forjada e invoices fora do contrato 29/2021. A OVS Importadora (ex-Precisa) foi declarada inidônea por 4 anos. Multas a Élcio Franco (R$ 70 mil), Roberto Dias (R$ 40 mil) e Regina Célia (R$ 30 mil). As justificativas da Bharat foram aceitas.",
+   "situacao": "Há embargos de Élcio e Regina pendentes (informado em nov/2025).",
+   "data": "2025-05-28",
+   "judicial": false,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "precisa-medicamentos",
+     "nome": "Precisa Comercialização de Medicamentos Ltda."
+    },
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    },
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    },
+    {
+     "id": "regina-celia-oliveira",
+     "nome": "Regina Célia Oliveira"
+    },
+    {
+     "id": "francisco-maximiano",
+     "nome": "Francisco Emerson Maximiano"
+    },
+    {
+     "id": "emanuela-medrades",
+     "nome": "Emanuela Batista de Souza Medrades"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1179-2025_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "",
+   "numero": "",
+   "relator": "",
+   "texto": "O ministro Flávio Dino (STF) autorizou inquérito da PF com 24 investigados a partir das conclusões da CPI; segue sob sigilo.",
+   "situacao": "",
+   "data": "2025-09",
+   "judicial": true,
+   "estado": "sigiloso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    },
+    {
+     "id": "flavio-bolsonaro",
+     "nome": "Flávio Bolsonaro"
+    },
+    {
+     "id": "eduardo-bolsonaro",
+     "nome": "Eduardo Bolsonaro"
+    },
+    {
+     "id": "carlos-bolsonaro",
+     "nome": "Carlos Bolsonaro"
+    },
+    {
+     "id": "ricardo-barros",
+     "nome": "Ricardo Barros"
+    },
+    {
+     "id": "osmar-terra",
+     "nome": "Osmar Terra"
+    },
+    {
+     "id": "bia-kicis",
+     "nome": "Bia Kicis"
+    },
+    {
+     "id": "carla-zambelli",
+     "nome": "Carla Zambelli"
+    },
+    {
+     "id": "carlos-jordy",
+     "nome": "Carlos Jordy"
+    }
+   ],
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/dino-determina-que-pf-investigue-conduta-de-bolsonaro-durante-pandemia"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (Nota Informativa 17/2020 sobre cloroquina)",
+   "numero": "2.010/2025, TC 019.895/2020-8",
+   "relator": "Zymler",
+   "texto": "Representações procedentes. Determina ao Ministério da Saúde, em 15 dias, anular a NI 17/2020-SE/GAB/SE/MS, de 10/08/2020 (orientação sobre cloroquina/hidroxicloroquina), por violação aos motivos determinantes. Não conhece da parte sobre o presidente do CFM. Cópia enviada ao Senado.",
+   "situacao": "Encerrado, com determinação de anulação.",
+   "data": "2025-09-03",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "mayra-pinheiro",
+     "nome": "Mayra Pinheiro"
+    },
+    {
+     "id": "eduardo-pazuello",
+     "nome": "Eduardo Pazuello"
+    },
+    {
+     "id": "marcelo-queiroga",
+     "nome": "Marcelo Queiroga"
+    },
+    {
+     "id": "helio-angotti",
+     "nome": "Hélio Angotti Neto"
+    },
+    {
+     "id": "mauro-ribeiro",
+     "nome": "Mauro Luiz de Brito Ribeiro"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2010-2025_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Decisão do ministro Flávio Dino",
+   "numero": "Pet 10.064/DF",
+   "relator": "",
+   "texto": "Acolhe pedido da PF contra a posição da PGR. Converte a Pet em inquérito policial, com prazo inicial de 60 dias e sigilo nível 3. A Pet consta como \"processo findo\" em 19/09/2025 e foi baixada em 18/02/2026, porque virou inquérito sob outro número, não divulgado. Em jan/2026 a PF pediu mais prazo.",
+   "situacao": "Em investigação sob sigilo. Nenhum relatório final, denúncia ou arquivamento foi localizado até 24/10/2026.",
+   "data": "2025-09-18",
+   "judicial": true,
+   "estado": "sigiloso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    },
+    {
+     "id": "flavio-bolsonaro",
+     "nome": "Flávio Bolsonaro"
+    },
+    {
+     "id": "eduardo-bolsonaro",
+     "nome": "Eduardo Bolsonaro"
+    },
+    {
+     "id": "carlos-bolsonaro",
+     "nome": "Carlos Bolsonaro"
+    },
+    {
+     "id": "carla-zambelli",
+     "nome": "Carla Zambelli"
+    },
+    {
+     "id": "bia-kicis",
+     "nome": "Bia Kicis"
+    },
+    {
+     "id": "osmar-terra",
+     "nome": "Osmar Terra"
+    },
+    {
+     "id": "ricardo-barros",
+     "nome": "Ricardo Barros"
+    },
+    {
+     "id": "carlos-jordy",
+     "nome": "Carlos Jordy"
+    },
+    {
+     "id": "onyx-lorenzoni",
+     "nome": "Onyx Lorenzoni"
+    },
+    {
+     "id": "ernesto-araujo",
+     "nome": "Ernesto Araújo"
+    }
+   ],
+   "fontes": [
+    "https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-determina-abertura-de-inquerito-para-investigar-resultados-da-cpi-da-pandemia/"
+   ]
+  },
+  {
+   "orgao": "CGU",
+   "rotulo": "Avaliação (gestão de insumos estratégicos)",
+   "numero": "1452250",
+   "relator": "",
+   "texto": "Gestão de insumos estratégicos de saúde. Cita o operador logístico VTCLog.",
+   "situacao": "",
+   "data": "2025-10-31",
+   "judicial": false,
+   "estado": "sem estado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "vtclog",
+     "nome": "VTC Operadora Logística Ltda. (VTCLog)"
+    }
+   ],
+   "fontes": [
+    "https://eaud.cgu.gov.br/relatorios/download/1465406"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão: resposta ao Senado sobre o relatório final da CPI",
+   "numero": "2.598/2025, TC 042.888/2021-2",
+   "relator": "Bruno Dantas",
+   "texto": "Faz o balanço consolidado dos processos de Covaxin e VTCLog. Cita os Acórdãos 651/2023, 1.861/2024 e 1.161/2024.",
+   "situacao": "Arquivado (solicitação atendida).",
+   "data": "2025-11-05",
+   "judicial": false,
+   "estado": "arquivado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "elcio-franco",
+     "nome": "Antônio Élcio Franco Filho"
+    },
+    {
+     "id": "roberto-dias",
+     "nome": "Roberto Ferreira Dias"
+    },
+    {
+     "id": "regina-celia-oliveira",
+     "nome": "Regina Célia Oliveira"
+    },
+    {
+     "id": "alex-lial-marinho",
+     "nome": "Alex Lial Marinho"
+    },
+    {
+     "id": "vtclog",
+     "nome": "VTC Operadora Logística Ltda. (VTCLog)"
+    },
+    {
+     "id": "precisa-medicamentos",
+     "nome": "Precisa Comercialização de Medicamentos Ltda."
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_2598-2025_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (CoronaVac 2023: perda de doses)",
+   "numero": "1.006/2026",
+   "relator": "Bruno Dantas",
+   "texto": "Audiência de 2 gestores pela demora de 7 meses no contrato 221/2023 com o Butantan. É a gestão posterior a 2022.",
+   "situacao": "Em curso.",
+   "data": "2026-04-22",
+   "judicial": false,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "instituto-butantan",
+     "nome": "Instituto Butantan"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1006-2026_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "TCU",
+   "rotulo": "Acórdão (insumos estratégicos, a pedido da CFFC)",
+   "numero": "1.786/2026",
+   "relator": "",
+   "texto": "Gestão de vacinas e medicamentos no Ministério da Saúde. Menciona a VTCLog.",
+   "situacao": "Atendido.",
+   "data": "2026-07-08",
+   "judicial": false,
+   "estado": "encerrado",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "vtclog",
+     "nome": "VTC Operadora Logística Ltda. (VTCLog)"
+    }
+   ],
+   "fontes": [
+    "https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1786-2026_Plenario.pdf"
+   ]
+  },
+  {
+   "orgao": "STF",
+   "rotulo": "Despacho do presidente Edson Fachin",
+   "numero": "Inq 4.888/DF",
+   "relator": "",
+   "texto": "a PF encerrou a investigação em 23/12/2022 com relatório que indicia Mauro Cid. A PGR pediu arquivamento em 16/02/2023 (\"ausência de indícios mínimos\"). Em 15/04/2025 chegou resposta de cooperação com o DOJ dos EUA. A Portaria GP 189, de 09/09/2026, revogou a designação de Moraes no Inq 4.781, e com isso os inquéritos dependentes voltaram à Presidência. Fachin deu 5 dias à PGR para ratificar o arquivamento.",
+   "situacao": "Aberto, sem denúncia. Aguarda a PGR ratificar o arquivamento. Não há desfecho.",
+   "data": "2026-10-06",
+   "judicial": true,
+   "estado": "em curso",
+   "definitivo": false,
+   "envolvidos": [
+    {
+     "id": "jair-bolsonaro",
+     "nome": "Jair Messias Bolsonaro"
+    }
+   ],
+   "fontes": [
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6314707"
+   ]
+  }
+ ]
+}
