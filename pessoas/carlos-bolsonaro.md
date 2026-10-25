@@ -1,5 +1,9 @@
 # Carlos Bolsonaro
 
+<img src="../assets/fotos/carlos-bolsonaro.jpg" alt="Foto oficial de Carlos Bolsonaro" width="120" height="120">
+
+<sub>Palácio do Planalto from Brasilia, Brasil via Wikimedia Commons · [origem](https://commons.wikimedia.org/wiki/File:Carlos_Bolsonaro_durante_Encontro_Brasil-R%C3%BAssia_em_2022.jpg)</sub>
+
 **Cargo à época:** Vereador no Rio de Janeiro; filho do presidente  
 **Grupo:** Presidência da República e família
 
@@ -11,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **22/04/2021** (checagem) Publicou vídeo editado de Flávio Dino sugerindo defesa da cloroquina; Comprova classificou como enganoso [fonte](https://www.nsctotal.com.br/?p=2624269)
+- **22/04/2021** (checagem) Publicou vídeo editado de Flávio Dino sugerindo defesa da cloroquina; Comprova classificou como enganoso [fonte](https://www.nsctotal.com.br/?p=2624269) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/nsctotal-com-br-p-2624269-734a1dd1/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

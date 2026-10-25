@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **24/06/2021** (fato) Recomendou em 24/06/2021, como fiscal do contrato, a rescisão da compra da Covaxin — três meses após o descumprimento das entregas e depois de o caso vir a público; entregou o documento à CPI [fonte](https://www.folhavitoria.com.br/politica/fiscal-diz-que-sugeriu-barrar-covaxin/)
+- **24/06/2021** (fato) Recomendou em 24/06/2021, como fiscal do contrato, a rescisão da compra da Covaxin — três meses após o descumprimento das entregas e depois de o caso vir a público; entregou o documento à CPI [fonte](https://www.folhavitoria.com.br/politica/fiscal-diz-que-sugeriu-barrar-covaxin/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/folhavitoria-com-br-politica-fiscal-diz-que-sugeriu-barrar-covaxin-44b5fb8c/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

@@ -1,5 +1,9 @@
 # Luiz Henrique Mandetta
 
+<img src="../assets/fotos/luiz-henrique-mandetta.jpg" alt="Foto oficial de Luiz Henrique Mandetta" width="120" height="120">
+
+<sub>Carolina Antunes/PR via Wikimedia Commons · [origem](https://commons.wikimedia.org/wiki/File:Luiz_Henrique_Mandetta_em_29_de_maio_de_2019_(recorte).jpg)</sub>
+
 **Cargo à época:** Ministro da Saúde até 16/04/2020  
 **Grupo:** Ministério da Saúde
 

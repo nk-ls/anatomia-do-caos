@@ -7,7 +7,7 @@
 
 ## 🟢 O que fez a favor do combate à pandemia
 
-- **06/2021** (alegação) Afirma que a Havan destinou mais de R$ 5 milhões à saúde em 2020 (respiradores, macas, máscaras) e comprou 200 cilindros de oxigênio para Manaus (dados declarados pela empresa) [fonte](https://www.nsctotal.com.br/?p=2952123)
+- **06/2021** (alegação) Afirma que a Havan destinou mais de R$ 5 milhões à saúde em 2020 (respiradores, macas, máscaras) e comprou 200 cilindros de oxigênio para Manaus (dados declarados pela empresa) [fonte](https://www.nsctotal.com.br/?p=2952123) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/nsctotal-com-br-p-2952123-76283584/2026-10-24.html)
 
 ## 🔴 O que fez contra o combate à pandemia
 

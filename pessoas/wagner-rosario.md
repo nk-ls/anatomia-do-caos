@@ -1,5 +1,9 @@
 # Wagner Rosário
 
+<img src="../assets/fotos/wagner-rosario.jpg" alt="Foto oficial de Wagner Rosário" width="120" height="120">
+
+<sub>Palácio do Planalto from Brasilia, Brasil via Wikimedia Commons · [origem](https://commons.wikimedia.org/wiki/File:Wagner_Ros%C3%A1rio_em_30_de_julho_de_2019_(recorte).jpg)</sub>
+
 **Cargo à época:** Ministro-chefe da Controladoria-Geral da União  
 **Grupo:** Outros ministérios e órgãos federais
 

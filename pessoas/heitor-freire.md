@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **04/2020** (fato) Coordenou o centro de operações do comitê de crise da Covid-19 como subchefe na Casa Civil [fonte](https://legis.senado.leg.br/sdleg-getter/documento?dm=8976841)
+- **04/2020** (fato) Coordenou o centro de operações do comitê de crise da Covid-19 como subchefe na Casa Civil [fonte](https://legis.senado.leg.br/sdleg-getter/documento?dm=8976841) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/legis-senado-leg-br-sdleg-getter-documento-dm-8976841-8e77e1dc/2026-10-24.pdf)
 - **28/02/2023** (decisão judicial) STF · Decisão de Dias Toffoli: extingue o feito Pet 10.059/DF (epidemia com resultado morte, art. 267): Extingue o feito a pedido da PGR. Situação em out/2026: Arquivado, com o mesmo agravo pendente no Plenário desde 2023/2024. [fonte](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6307914) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/STF_Pet10059_extincao_Toffoli_2023-03-01.pdf)
 
 ## Na CPI da Covid

@@ -11,7 +11,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## 🔴 O que fez contra o combate à pandemia
 
-- **03/08/2021** (declaração) Na CPI, admitiu que a Senah esperava receber doações em troca de facilitar o acesso da empresa ao Ministério da Saúde [fonte](https://www.folhavitoria.com.br/politica/reverendo-admite-ter-esperado-doacao-por-facilitar-acesso-de-empresa-a-saude/)
+- **03/08/2021** (declaração) Na CPI, admitiu que a Senah esperava receber doações em troca de facilitar o acesso da empresa ao Ministério da Saúde [fonte](https://www.folhavitoria.com.br/politica/reverendo-admite-ter-esperado-doacao-por-facilitar-acesso-de-empresa-a-saude/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/folhavitoria-com-br-politica-reverendo-admite-ter-esperado-doacao-por-facilitar-acesso-de--3e3b0206/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

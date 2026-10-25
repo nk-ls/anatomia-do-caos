@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **2020** (checagem) Esteve entre os dez parlamentares que mais publicaram desinformação sobre covid-19 no Twitter, segundo a Aos Fatos [fonte](https://www.cartacapital.com.br/?p=122532) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cartacapital-com-br-p-122532-e3bc4b38/2026-10-24.html)
-- **03/2021** (fato) Na CCJ, foi cobrado por deputado a usar máscara; disse estar sem ela para falar e beber café e água [fonte](https://www.folhavitoria.com.br/politica/com-bia-kicis-ccj-se-transforma-em-praca-de-guerra/)
+- **03/2021** (fato) Na CCJ, foi cobrado por deputado a usar máscara; disse estar sem ela para falar e beber café e água [fonte](https://www.folhavitoria.com.br/politica/com-bia-kicis-ccj-se-transforma-em-praca-de-guerra/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/folhavitoria-com-br-politica-com-bia-kicis-ccj-se-transforma-em-praca-de-guerra-59ebdea6/2026-10-24.html)
 - **07/2021** (conclusão da CPI) Lista da CPI de políticos que espalharam fake news cita alegação falsa de que nem a China usava a CoronaVac, defesa de remédio sem eficácia e vinculação sem provas do vírus ao PCC [fonte](https://congressoemfoco.com.br/coluna/38037/cpi-lista-26-politicos-que-espalharam-fake-news-sobre-covid-veja-quem-sao) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-coluna-38037-cpi-lista-26-politicos-que-espalharam-fake-news-sobre--ea241435/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros

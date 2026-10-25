@@ -1,5 +1,9 @@
 # Ernesto Araújo
 
+<img src="../assets/fotos/ernesto-araujo.jpg" alt="Foto oficial de Ernesto Araújo" width="120" height="120">
+
+<sub>U.S. Department of State from United States via Wikimedia Commons · [origem](https://commons.wikimedia.org/wiki/File:Ernesto_Ara%C3%BAjo_(46571408771)_(cropped).jpg)</sub>
+
 **Cargo à época:** Ministro das Relações Exteriores (até mar/2021)  
 **Grupo:** Outros ministérios e órgãos federais
 
@@ -12,7 +16,7 @@
 ## 🔴 O que fez contra o combate à pandemia
 
 - **22/04/2020** (declaração) Publicou em blog o texto "Chegou o Comunavírus", dizendo que a pandemia era usada para implantar o comunismo e criticando a OMS [fonte](https://observador.pt/2020/04/22/ministro-brasileiro-diz-que-pandemia-e-usada-para-implantar-o-comunismo-e-ataca-oms/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/observador-pt-2020-04-22-ministro-brasileiro-diz-que-pandemia-e-usada-para-implantar-o-com-337991fa/2026-10-24.html)
-- **18/05/2021** (declaração) Disse à CPI que ajudou na importação de insumos da Índia para produção de cloroquina [fonte](https://www.folhavitoria.com.br/politica/cpi-araujo-diz-que-ajudou-na-importacao-de-insumos-da-india-para-cloroquina/)
+- **18/05/2021** (declaração) Disse à CPI que ajudou na importação de insumos da Índia para produção de cloroquina [fonte](https://www.folhavitoria.com.br/politica/cpi-araujo-diz-que-ajudou-na-importacao-de-insumos-da-india-para-cloroquina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/folhavitoria-com-br-politica-cpi-araujo-diz-que-ajudou-na-importacao-de-insumos-da-india-p-4ed1f70c/2026-10-24.html)
 - **18/05/2021** (checagem) Aos Fatos classificou como falsa a afirmação, feita à CPI, de que não provocou atritos com a China [fonte](https://www.aosfatos.org/noticias/na-cpi-ernesto-araujo-mente-ao-dizer-que-nao-provocou-atritos-com-china/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-na-cpi-ernesto-araujo-mente-ao-dizer-que-nao-provocou-atritos-com-ch-96ca848a/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros

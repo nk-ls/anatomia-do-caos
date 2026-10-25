@@ -12,7 +12,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **01/2022** (fato) Assinou nota técnica que rejeitou diretriz da Conitec contra o "kit covid" e trazia tabela apontando hidroxicloroquina como eficaz e vacinas sem eficácia demonstrada [fonte](https://www.correiobraziliense.com.br/brasil/2022/01/amp/4979525-covid-19-hidroxicloroquina-funciona-e-vacina-nao-diz-ministerio-da-saude.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/correiobraziliense-com-br-brasil-2022-01-amp-4979525-covid-19-hidroxicloroquina-funciona-e-c36dc673/2026-10-24.html)
-- **01/2022** (fato) Nota foi substituída por nova versão, também assinada por ele; segundo o MPF, a nova versão ainda rejeitava as diretrizes da Conitec [fonte](https://redeondadigital.com.br/saude/ministerio-da-saude-altera-nota-polemica-que-defendia-cloroquina)
+- **01/2022** (fato) Nota foi substituída por nova versão, também assinada por ele; segundo o MPF, a nova versão ainda rejeitava as diretrizes da Conitec [fonte](https://redeondadigital.com.br/saude/ministerio-da-saude-altera-nota-polemica-que-defendia-cloroquina) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/redeondadigital-com-br-saude-ministerio-da-saude-altera-nota-polemica-que-defendia-cloroqu-9b3097db/2026-10-24.html)
 
 ## ⚪ Fatos processuais e neutros
 

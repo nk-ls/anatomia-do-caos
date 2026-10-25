@@ -7,7 +7,7 @@ Cada pessoa ou instituição tem uma página com **o que fez a favor e contra o 
 - 🔴 **contra**: ato contrário à evidência disponível na época ou que dificultou a resposta à pandemia (recusar ou atrasar vacina, promover remédio sem eficácia, desinformar, irregularidade em contrato);
 - ⚪ **processual**: decisões, pedidos e fatos neutros.
 
-Hoje: **114 fichas**, das quais **80** com pedido de indiciamento da CPI (78 pessoas e 2 empresas). Muitas fichas ainda só têm a imputação da CPI: os atos de cada pessoa estão sendo levantados.
+Hoje: **115 fichas**, das quais **80** com pedido de indiciamento da CPI (78 pessoas e 2 empresas). Muitas fichas ainda só têm a imputação da CPI: os atos de cada pessoa estão sendo levantados.
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
 
@@ -60,7 +60,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Ricardo Barros](ricardo-barros.md) | Deputado federal (PP-PR); líder do governo na Câmara | 0 | 1 | sim |
+| [Ricardo Barros](ricardo-barros.md) | Deputado federal (PP-PR); líder do governo na Câmara | 0 | 2 | sim |
 | [Osmar Terra](osmar-terra.md) | Deputado federal (MDB-RS); ex-ministro da Cidadania | 0 | 5 | sim |
 | [Bia Kicis](bia-kicis.md) | Deputada federal | 0 | 5 | sim |
 | [Carla Zambelli](carla-zambelli.md) | Deputada federal | 0 | 4 | sim |
@@ -201,3 +201,4 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 |---|---|---:|---:|---|
 | [Precisa Comercialização de Medicamentos Ltda.](precisa-medicamentos.md) | Intermediária da vacina Covaxin | 0 | 2 | sim |
 | [VTC Operadora Logística Ltda. (VTCLog)](vtclog.md) | Empresa de logística do Ministério da Saúde | 0 | 2 | sim |
+| [Global Gestão em Saúde S.A.](global-gestao-saude.md) | Sócia majoritária da Precisa; fornecedora do Ministério da Saúde em 2017 | 0 | 3 | — |

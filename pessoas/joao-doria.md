@@ -1,5 +1,9 @@
 # João Doria
 
+<img src="../assets/fotos/joao-doria.jpg" alt="Foto oficial de João Doria" width="120" height="120">
+
+<sub>Governo do Estado de São Paulo via Wikimedia Commons · [origem](https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Jo%C3%A3o_D%C3%B3ria_como_Governador_de_S%C3%A3o_Paulo.jpg)</sub>
+
 **Cargo à época:** Governador de São Paulo  
 **Grupo:** Governos estaduais
 

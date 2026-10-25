@@ -1,5 +1,9 @@
 # Fabio Wajngarten
 
+<img src="../assets/fotos/fabio-wajngarten.jpg" alt="Foto oficial de Fabio Wajngarten" width="120" height="120">
+
+<sub>Marcos Corrêa/PR via Wikimedia Commons · [origem](https://commons.wikimedia.org/wiki/File:F%C3%A1bio_Wajngarten_(cropped).jpg)</sub>
+
 **Cargo à época:** Chefe da Secretaria de Comunicação (Secom)  
 **Grupo:** Outros ministérios e órgãos federais
 

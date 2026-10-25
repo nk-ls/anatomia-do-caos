@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **05/08/2021** (declaração) Disse à CPI que, se pudesse, teria comprado antecipadamente as vacinas da Pfizer e da Janssen [fonte](https://revistaoeste.com/brasil/se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacinas/)
+- **05/08/2021** (declaração) Disse à CPI que, se pudesse, teria comprado antecipadamente as vacinas da Pfizer e da Janssen [fonte](https://revistaoeste.com/brasil/se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacinas/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/revistaoeste-com-brasil-se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacina-b7515bd1/2026-10-24.html)
 
 ## Na CPI da Covid
 

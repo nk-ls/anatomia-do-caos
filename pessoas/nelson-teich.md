@@ -1,5 +1,9 @@
 # Nelson Teich
 
+<img src="../assets/fotos/nelson-teich.jpg" alt="Foto oficial de Nelson Teich" width="120" height="120">
+
+<sub>Palácio do Planalto via Wikimedia Commons · [origem](https://commons.wikimedia.org/wiki/File:2020-04-27_Coletiva_de_imprensa_com_Ministro_da_Sa%C3%BAde,_Nelson_Teich_-_49827870472_(cropped).jpg)</sub>
+
 **Cargo à época:** Ministro da Saúde (abr–mai/2020)  
 **Grupo:** Ministério da Saúde
 
