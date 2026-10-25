@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **06/2021** (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilos determinada pela CPI, que apurava sua atuação em suposto boicote à compra de vacinas [fonte](https://www.poder360.com.br/justica/weber-mantem-quebra-de-sigilo-contra-filipe-martins/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-justica-weber-mantem-quebra-de-sigilo-contra-filipe-martins-c502dff8/2026-10-24.html)
+- **06/2021** · *cerca de 5 meses depois da 1ª vacina* (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilos determinada pela CPI, que apurava sua atuação em suposto boicote à compra de vacinas [fonte](https://www.poder360.com.br/justica/weber-mantem-quebra-de-sigilo-contra-filipe-martins/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-justica-weber-mantem-quebra-de-sigilo-contra-filipe-martins-c502dff8/2026-10-24.html)
 
 ## Na CPI da Covid
 

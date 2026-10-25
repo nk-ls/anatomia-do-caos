@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **12/05/2020** (fato) Foi palestrante de seminário virtual da Funag sobre o pós-coronavírus; a Funag difundiu nesse período falas de influenciadores críticos ao isolamento [fonte](https://www.intercept.com.br/?p=306886) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/intercept-com-br-p-306886-4d6125f2/2026-10-24.html)
+- **12/05/2020** · *250 dias antes da 1ª vacina* (fato) Foi palestrante de seminário virtual da Funag sobre o pós-coronavírus; a Funag difundiu nesse período falas de influenciadores críticos ao isolamento [fonte](https://www.intercept.com.br/?p=306886) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/intercept-com-br-p-306886-4d6125f2/2026-10-24.html)
 
 ## Na CPI da Covid
 

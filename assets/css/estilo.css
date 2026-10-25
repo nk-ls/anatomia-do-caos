@@ -143,6 +143,13 @@ tr.brasil td { font-weight: 700; background: color-mix(in srgb, var(--destaque) 
 .atos li.processual { border-color: var(--neutro); }
 .atos .data { font-weight: 600; font-variant-numeric: tabular-nums; }
 .atos .tipo { color: var(--suave); font-size: .85rem; }
+
+/* Distância do ato até a 1ª vacina (17/01/2021). Discreto de propósito: é
+   contexto, não manchete — o olho lê a data, depois o intervalo. */
+.desde-marco { font-size: .78rem; color: var(--suave); background: var(--fundo);
+  border: 1px solid var(--borda); border-radius: 999px; padding: 1px 8px;
+  white-space: nowrap; display: inline-block; }
+@media (max-width: 700px) { .desde-marco { font-size: .72rem; padding: 1px 6px; } }
 .voltar { font: inherit; background: none; border: 0; color: var(--destaque); cursor: pointer; padding: 0; }
 
 .rodape { border-top: 1px solid var(--borda); padding: 28px 0 40px; color: var(--suave); font-size: .9rem; margin-top: 24px; }

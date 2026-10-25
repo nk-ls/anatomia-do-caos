@@ -15,7 +15,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## ⚪ Fatos processuais e neutros
 
-- **02/09/2020** (fato) Morreu de Covid aos 46 anos, na UTI do Hospital Regional de Sinop, depois de mais de um mês internado. Tinha diabetes, sobrepeso e hipertensão. [fonte](https://www.congressoemfoco.com.br/saude/medico-conhecido-por-defesa-de-kit-covid-morre-vitima-da-doenca/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-saude-medico-conhecido-por-defesa-de-kit-covid-morre-vitima-da-doen-686b7ff5/2026-10-24.html)
+- **02/09/2020** · *137 dias antes da 1ª vacina* (fato) Morreu de Covid aos 46 anos, na UTI do Hospital Regional de Sinop, depois de mais de um mês internado. Tinha diabetes, sobrepeso e hipertensão. [fonte](https://www.congressoemfoco.com.br/saude/medico-conhecido-por-defesa-de-kit-covid-morre-vitima-da-doenca/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-saude-medico-conhecido-por-defesa-de-kit-covid-morre-vitima-da-doen-686b7ff5/2026-10-24.html)
 
 ## Na CPI da Covid
 

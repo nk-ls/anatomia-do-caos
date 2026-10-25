@@ -1,4 +1,4 @@
-import { carregarCSV, esc, dataBR, escComLinks} from "./csv.js";
+import { carregarCSV, esc, dataBR, escComLinks, quando, urlsFonte } from "./csv.js";
 
 const VIDEO = "https://www.youtube.com/watch?v=MG3XZYu0_No";
 const CLASSE = { "a favor": "favor", contra: "contra", processual: "processual" };
@@ -63,12 +63,24 @@ function listar() {
   $("lista").innerHTML = lista.map(cartao).join("") || '<p class="nota">Nenhuma ficha encontrada.</p>';
 }
 
+// Um ato pode ter mais de uma fonte. Cada uma ganha o seu link e a sua cópia.
+function refsHTML(campo) {
+  const urls = urlsFonte(campo);
+  if (!urls.length) return "";
+  const um = (u, rot) => {
+    const copia = estado.copias.get(u);
+    return `<a href="${linkSeguro(u)}" target="_blank" rel="noopener">${rot}</a>`
+      + (copia ? ` · <a href="${linkSeguro(copia)}" target="_blank" rel="noopener">${urls.length > 1 ? "cópia" : "cópia arquivada"}</a>` : "");
+  };
+  return urls.length === 1 ? um(urls[0], "fonte") : urls.map((u, i) => um(u, `fonte ${i + 1}`)).join(" · ");
+}
+
 function ficha(p) {
   const atos = (estado.atosPor.get(p.id) || []).slice().sort((a, b) => a.data.localeCompare(b.data));
   const blocos = TITULOS.map(([av, titulo]) => {
     const itens = atos.filter((a) => a.avaliacao === av).map((a) => `<li class="${CLASSE[av]}">
-      <span class="data">${dataBR(a.data)}</span> <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)}
-      <a href="${linkSeguro(a.fonte)}" target="_blank" rel="noopener">fonte</a>${estado.copias.get(a.fonte) ? ` · <a href="${linkSeguro(estado.copias.get(a.fonte))}" target="_blank" rel="noopener">cópia arquivada</a>` : ""}
+      <span class="data">${dataBR(a.data)}</span>${quando(a.data) ? ` <span class="desde-marco">${esc(quando(a.data))}</span>` : ""} <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)}
+      ${refsHTML(a.fonte)}
       ${a.no_documentario ? ` · <a href="${VIDEO}&t=${segundos(a.no_documentario)}s" target="_blank" rel="noopener">no documentário, ${esc(a.no_documentario)}</a>` : ""}
     </li>`).join("");
     return `<h3>${titulo}</h3>${itens ? `<ul class="atos">${itens}</ul>` : '<p class="nota">Nenhum ato registrado ainda neste levantamento.</p>'}`;

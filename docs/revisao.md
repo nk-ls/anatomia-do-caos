@@ -5,7 +5,7 @@ Antes da divulgação, dois revisores que não participaram da redação tentara
 ## O que foi revisado
 
 1. **Página inicial e documentos:** todos os números da página inicial (recalculados a partir da planilha), todas as citações entre aspas, datas de decisões judiciais e coerência entre arquivos.
-2. **Fichas dos envolvidos:** uma amostra sorteada de **50 atos** entre os 259 registrados. Para cada ato, o revisor checou se aconteceu e se a data, a pessoa, a citação, o tipo e a classificação estão certos.
+2. **Fichas dos envolvidos:** uma amostra sorteada de **50 atos** entre os 259 então registrados (o acervo cresceu depois). Para cada ato, o revisor checou se aconteceu e se a data, a pessoa, a citação, o tipo e a classificação estão certos.
 
 ## Resultado
 

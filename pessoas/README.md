@@ -7,6 +7,10 @@ Cada pessoa ou instituição tem uma página com **o que fez a favor e contra o 
 - 🔴 **contra**: ato contrário à evidência disponível na época ou que dificultou a resposta à pandemia (recusar ou atrasar vacina, promover remédio sem eficácia, desinformar, irregularidade em contrato);
 - ⚪ **processual**: decisões, pedidos e fatos neutros.
 
+**Quando o ato aconteceu.** Ao lado de cada data está a distância até a **1ª dose aplicada no Brasil, em 17/01/2021** — o marco que separa agir quando ainda não havia vacina de agir depois que a fila já andava. O intervalo é calculado a partir da própria data do ato, não digitado à mão, e só aparece onde significa algo: em atos entre 2020 e 2022, com data de dia ou de mês.
+
+**Uma assimetria que o leitor precisa saber.** Os 17 atos do tipo *checagem* são todos vermelhos, e isso é da natureza do gênero: agência de checagem publica quando algo é falso, não quando é verdadeiro. Quem foi muito checado acumula vermelhos por um critério que não se aplicou igualmente a todos. Leia o selo como registro do que foi documentado, nunca como placar.
+
 Hoje: **115 fichas**, das quais **80** com pedido de indiciamento da CPI (78 pessoas e 2 empresas). Muitas fichas ainda só têm a imputação da CPI: os atos de cada pessoa estão sendo levantados.
 
 > ⚖️ **Pedido de indiciamento não é condenação.** É uma recomendação da CPI aos órgãos de investigação. Toda pessoa tem direito à presunção de inocência.
@@ -29,7 +33,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Eduardo Pazuello](eduardo-pazuello.md) | Ministro da Saúde (interino a partir de 15/05/2020; exonerado em 23/03/2021) | 2 | 5 | sim |
-| [Marcelo Queiroga](marcelo-queiroga.md) | Ministro da Saúde (desde 23/03/2021) | 4 | 4 | sim |
+| [Marcelo Queiroga](marcelo-queiroga.md) | Ministro da Saúde (desde 23/03/2021) | 4 | 5 | sim |
 | [Antônio Élcio Franco Filho](elcio-franco.md) | Secretário-executivo do Ministério da Saúde | 1 | 0 | sim |
 | [Mayra Pinheiro](mayra-pinheiro.md) | Secretária de Gestão do Trabalho e da Educação na Saúde (MS) | 0 | 3 | sim |
 | [Hélio Angotti Neto](helio-angotti.md) | Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (MS) | 0 | 2 | sim |
@@ -97,7 +101,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
-| [Supremo Tribunal Federal](stf.md) | Poder Judiciário | 1 | 0 | — |
+| [Supremo Tribunal Federal](stf.md) | Poder Judiciário | 0 | 0 | — |
 
 ## Instituições de saúde e SUS
 
@@ -148,7 +152,7 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | Nome | Cargo à época | 🟢 | 🔴 | Pedido da CPI |
 |---|---|---:|---:|---|
 | [Carlos Wizard Martins](carlos-wizard.md) | Empresário; apontado pela CPI como integrante do "gabinete paralelo" | 0 | 2 | sim |
-| [Luciano Hang](luciano-hang.md) | Empresário (Havan) | 1 | 1 | sim |
+| [Luciano Hang](luciano-hang.md) | Empresário (Havan) | 0 | 1 | sim |
 | [Otávio Oscar Fakhoury](otavio-fakhoury.md) | Empresário | 0 | 2 | sim |
 | [Allan Lopes dos Santos](allan-dos-santos.md) | Blogueiro (Terça Livre) | 0 | 2 | sim |
 | [Paulo de Oliveira Eneas](paulo-eneas.md) | Editor do site Crítica Nacional | 0 | 0 | sim |

@@ -1,5 +1,5 @@
 // Aba Caminho do dinheiro. Lê dados/dinheiro.json (gerado por scripts/gerar_dinheiro.py).
-import { carregarCSV, esc, fmt } from "./csv.js";
+import { carregarCSV, esc, fmt, quandoBR } from "./csv.js";
 
 // Situação do dinheiro: cor de estado + ícone + rótulo (nunca só cor).
 const SITUACAO = {
@@ -95,13 +95,13 @@ document.getElementById("lista-casos").innerHTML = dados.casos.filter((c) => !es
     <p class="resumo">${esc(c.resumo)}</p>
     ${c.etapas.length ? `<h4>O caminho do dinheiro</h4><ol class="trilha">${c.etapas.map((e) => `
       <li class="passo-dinheiro" style="--c:${sit(e.situacao).cor}">
-        <div class="passo-topo"><span class="quando">${esc(e.data)}</span>${selo(e.situacao)}<span class="tipo-info">${esc(e.tipo)}</span></div>
+        <div class="passo-topo"><span class="quando">${esc(e.data)}</span>${quandoBR(e.data) ? `<span class="desde-marco">${esc(quandoBR(e.data))}</span>` : ""}${selo(e.situacao)}<span class="tipo-info">${esc(e.tipo)}</span></div>
         <div class="passo-rota"><strong>${esc(e.de)}</strong> <span aria-hidden="true">→</span> <strong>${esc(e.para)}</strong></div>
         <p>${esc(e.o_que)}</p>
         <div class="passo-pe"><span class="passo-valor">${e.valor_reais ? reais(e.valor_reais) : esc(e.valor_texto || "")}</span><span class="nota">📄 ${docs(e.docs)}</span></div>
       </li>`).join("")}</ol>` : ""}
     <h4>O que os órgãos de controle e a Justiça decidiram</h4>
-    <ul class="decisoes">${c.decisoes.map((d) => `<li><span class="orgao">${esc(d.orgao)}</span> <span class="quando">${esc(d.data)}</span> — ${esc(d.texto)}. <span class="nota">📄 ${docs(d.docs)}</span></li>`).join("")}</ul>
+    <ul class="decisoes">${c.decisoes.map((d) => `<li><span class="orgao">${esc(d.orgao)}</span> <span class="quando">${esc(d.data)}</span>${quandoBR(d.data) ? ` <span class="desde-marco">${esc(quandoBR(d.data))}</span>` : ""} — ${esc(d.texto)}. <span class="nota">📄 ${docs(d.docs)}</span></li>`).join("")}</ul>
     ${c.pessoas.length ? `<p class="nota">Fichas: ${c.pessoas.map((id) => `<a href="envolvidos.html?id=${encodeURIComponent(id)}">${esc(nomes[id] || id)}</a>`).join(" · ")}</p>` : ""}
   </article>`).join("");
 }

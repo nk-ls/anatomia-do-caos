@@ -1754,7 +1754,7 @@
 253,
 254,
 268,
-312
+311
 ]
 },
 {
@@ -1774,7 +1774,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-312
+311
 ]
 },
 {
@@ -1784,8 +1784,8 @@
 "contra": 2,
 "processual": 0,
 "atos": [
-314,
-315
+313,
+314
 ]
 },
 {
@@ -1795,8 +1795,8 @@
 "contra": 1,
 "processual": 1,
 "atos": [
-311,
-313
+310,
+312
 ]
 },
 {
@@ -2182,9 +2182,9 @@
 {
 "de": "luciano-hang",
 "para": "tema:manaus",
-"favor": 1,
+"favor": 0,
 "contra": 0,
-"processual": 0,
+"processual": 1,
 "atos": [
 163
 ]
@@ -2386,8 +2386,8 @@
 "de": "marcelo-queiroga",
 "para": "tema:vacinas",
 "favor": 3,
-"contra": 0,
-"processual": 1,
+"contra": 1,
+"processual": 0,
 "atos": [
 185,
 188,
@@ -2821,7 +2821,7 @@
 252,
 253,
 254,
-312
+311
 ]
 },
 {
@@ -2931,7 +2931,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-311
+310
 ]
 },
 {
@@ -3032,12 +3032,11 @@
 {
 "de": "stf",
 "para": "tema:justica",
-"favor": 1,
+"favor": 0,
 "contra": 0,
 "processual": 1,
 "atos": [
-283,
-284
+283
 ]
 },
 {
@@ -3047,7 +3046,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-285
+284
 ]
 },
 {
@@ -3057,7 +3056,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-286
+285
 ]
 },
 {
@@ -3067,8 +3066,8 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-286,
-287
+285,
+286
 ]
 },
 {
@@ -3078,7 +3077,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-288
+287
 ]
 },
 {
@@ -3088,7 +3087,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-289
+288
 ]
 },
 {
@@ -3098,7 +3097,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-290
+289
 ]
 },
 {
@@ -3108,7 +3107,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-291
+290
 ]
 },
 {
@@ -3118,7 +3117,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-292
+291
 ]
 },
 {
@@ -3131,11 +3130,11 @@
 76,
 273,
 274,
+293,
 294,
 295,
 296,
-297,
-298
+297
 ]
 },
 {
@@ -3145,7 +3144,7 @@
 "contra": 1,
 "processual": 0,
 "atos": [
-293
+292
 ]
 },
 {
@@ -3155,7 +3154,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-299
+298
 ]
 },
 {
@@ -3165,9 +3164,9 @@
 "contra": 0,
 "processual": 3,
 "atos": [
+299,
 300,
-301,
-302
+301
 ]
 },
 {
@@ -3177,7 +3176,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-306
+305
 ]
 },
 {
@@ -3187,11 +3186,11 @@
 "contra": 2,
 "processual": 2,
 "atos": [
+302,
 303,
-304,
-307,
-309,
-310
+306,
+308,
+309
 ]
 },
 {
@@ -3201,7 +3200,7 @@
 "contra": 0,
 "processual": 1,
 "atos": [
-308
+307
 ]
 },
 {
@@ -3211,7 +3210,7 @@
 "contra": 0,
 "processual": 0,
 "atos": [
-305
+304
 ]
 }
 ],

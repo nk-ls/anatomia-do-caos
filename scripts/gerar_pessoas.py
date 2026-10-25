@@ -6,6 +6,7 @@ dados/atos.csv com fonte e rodar este script. Não edite pessoas/*.md à mão.
 """
 import csv
 from collections import defaultdict
+from datetime import date
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -35,6 +36,40 @@ def data_br(d):
     return "/".join(reversed(partes)) if len(partes) > 1 else d
 
 
+MARCO = date(2021, 1, 17)          # primeira dose aplicada no Brasil
+JANELA = (date(2020, 1, 1), date(2022, 12, 31))
+
+
+def quando(d):
+    """Distância até a 1ª vacina (17/01/2021), a partir da própria data do ato.
+
+    Calculado, nunca digitado: se a data for corrigida, o intervalo acompanha.
+    Só aparece onde significa algo — dentro da pandemia e com data de dia ou
+    mês. Em data só de ano o rótulo não diria nada que a data já não diga.
+    """
+    partes = d.strip().split("-")
+    try:
+        if len(partes) == 3:
+            dt, exato = date(*map(int, partes)), True
+        elif len(partes) == 2:
+            dt, exato = date(int(partes[0]), int(partes[1]), 15), False
+        else:
+            return ""
+    except ValueError:
+        return ""
+    if not JANELA[0] <= dt <= JANELA[1]:
+        return ""
+    dias = (dt - MARCO).days
+    if exato:
+        if dias == 0:
+            return "no dia da 1ª vacina"
+        return f"{abs(dias)} {'dia' if abs(dias) == 1 else 'dias'} {'depois' if dias > 0 else 'antes'} da 1ª vacina"
+    meses = round(dias / 30.44)
+    if meses == 0:
+        return "no mês da 1ª vacina"
+    return f"cerca de {abs(meses)} {'mês' if abs(meses) == 1 else 'meses'} {'depois' if meses > 0 else 'antes'} da 1ª vacina"
+
+
 def link_filme(t):
     if not t:
         return ""
@@ -45,6 +80,20 @@ def link_filme(t):
 
 def fontes(txt):
     return "\n".join(f"- {u}" for u in txt.split() if u.startswith("http"))
+
+
+def refs(txt):
+    """Links da fonte de um ato. O campo aceita mais de uma URL, separada por
+    espaço: antes elas iam todas dentro de um href só e o link morria."""
+    urls = [u for u in txt.split() if u.startswith("http")]
+    if not urls:
+        return ""
+    if len(urls) == 1:
+        u = urls[0]
+        return f" [fonte]({u})" + (f" · [cópia arquivada]({COPIAS[u]})" if u in COPIAS else "")
+    partes = [f"[fonte {i}]({u})" + (f" · [cópia]({COPIAS[u]})" if u in COPIAS else "")
+              for i, u in enumerate(urls, 1)]
+    return " " + " · ".join(partes)
 
 
 def copias():
@@ -75,7 +124,9 @@ def pagina(p, atos):
             lin += ["Nenhum ato registrado ainda neste levantamento.", ""]
             continue
         for a in sorted(lista, key=lambda x: x["data"]):
-            lin.append(f"- **{data_br(a['data'])}** ({a['tipo']}) {a['ato']} [fonte]({a['fonte']}){f" · [cópia arquivada]({COPIAS[a['fonte']]})" if a['fonte'] in COPIAS else ''}{link_filme(a['no_documentario'])}")
+            rot = quando(a["data"])
+            lin.append(f"- **{data_br(a['data'])}**{f' · *{rot}*' if rot else ''} "
+                       f"({a['tipo']}) {a['ato']}{refs(a['fonte'])}{link_filme(a['no_documentario'])}")
         lin.append("")
     lin += ["## Na CPI da Covid", ""]
     if p["crimes_cpi"]:
@@ -114,6 +165,16 @@ def main():
            "- 🟢 **a favor**: ato que, segundo a evidência disponível na época ou seu efeito documentado, ajudou a proteger vidas (comprar ou produzir vacina, defender medidas sanitárias, divulgar dados, investigar);",
            "- 🔴 **contra**: ato contrário à evidência disponível na época ou que dificultou a resposta à pandemia (recusar ou atrasar vacina, promover remédio sem eficácia, desinformar, irregularidade em contrato);",
            "- ⚪ **processual**: decisões, pedidos e fatos neutros.", "",
+           "**Quando o ato aconteceu.** Ao lado de cada data está a distância até a **1ª dose "
+           "aplicada no Brasil, em 17/01/2021** — o marco que separa agir quando ainda não havia "
+           "vacina de agir depois que a fila já andava. O intervalo é calculado a partir da própria "
+           "data do ato, não digitado à mão, e só aparece onde significa algo: em atos entre 2020 e "
+           "2022, com data de dia ou de mês.", "",
+           "**Uma assimetria que o leitor precisa saber.** Os 17 atos do tipo *checagem* são todos "
+           "vermelhos, e isso é da natureza do gênero: agência de checagem publica quando algo é "
+           "falso, não quando é verdadeiro. Quem foi muito checado acumula vermelhos por um critério "
+           "que não se aplicou igualmente a todos. Leia o selo como registro do que foi documentado, "
+           "nunca como placar.", "",
            f"Hoje: **{len(pessoas)} fichas**, das quais **{n_cpi}** com pedido de indiciamento da CPI (78 pessoas e 2 empresas). "
            "Muitas fichas ainda só têm a imputação da CPI: os atos de cada pessoa estão sendo levantados.", "",
            AVISO_CPI, "",
