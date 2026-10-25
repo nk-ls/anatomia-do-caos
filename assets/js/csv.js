@@ -30,6 +30,12 @@ export async function carregarCSV(caminho) {
 
 export const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
+// Texto que pode trazer link em markdown: [rótulo](https://…).
+// Escapa primeiro e converte depois — nessa ordem, HTML vindo do dado não é executado,
+// e só http/https viram link (nunca javascript:).
+export const escComLinks = (s) =>
+  esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2">$1</a>');
+
 export function dataBR(d) {
   if (!d) return "";
   const p = d.split("-");

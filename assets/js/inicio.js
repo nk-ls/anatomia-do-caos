@@ -24,7 +24,7 @@ async function iniciar() {
     numero(`${fmt(br.rank_mortes_100k)}º`, `pior resultado entre ${grandes.length} países e territórios`),
     numero(`${posAmericas}º`, "pior das Américas"),
     numero(`≈ ${fmt(br.excesso_acumulado / 1000)} mil`, "excesso de mortes estimado (The Economist)"),
-    numero(dataBR(br.inicio_vacinacao), `início da vacinação: ${br.dias_apos_reino_unido} dias depois do Reino Unido`),
+    numero(dataBR(br.inicio_vacinacao), `início da vacinação: ${fmt(br.dias_apos_reino_unido)} dias depois do Reino Unido`),
     numero(`${fmt(br.completo_2021_06_30, 1)}%`, "com esquema completo em 30/06/2021"),
     numero(`${fmt(br.completo_2021_12_31, 1)}%`, "com esquema completo em 31/12/2021"),
   ].join("");

@@ -1,4 +1,4 @@
-import { carregarCSV, esc, dataBR } from "./csv.js";
+import { carregarCSV, esc, dataBR, escComLinks} from "./csv.js";
 
 const VIDEO = "https://www.youtube.com/watch?v=MG3XZYu0_No";
 const CLASSE = { "a favor": "favor", contra: "contra", processual: "processual" };
@@ -86,7 +86,7 @@ function ficha(p) {
     ${blocos}
     <h3>Na CPI da Covid</h3>${cpi}
     <h3>O que aconteceu depois</h3><p>${esc(p.situacao_judicial || "Nenhum desdobramento localizado neste levantamento.")}</p>
-    <h3>O que a pessoa diz</h3><p>${esc(p.o_que_diz || "Nenhuma manifestação registrada. A defesa, com fonte, pode ser enviada por issue e será publicada.")}</p>
+    <h3>O que a pessoa diz</h3><p>${escComLinks(p.o_que_diz || "Nenhuma manifestação registrada. A defesa, com fonte, pode ser enviada por issue e será publicada.")}</p>
     <p class="nota"><a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/pessoas/${esc(p.id)}.md">Ficha no GitHub</a></p>
   </article>`;
   $("lista").hidden = true;

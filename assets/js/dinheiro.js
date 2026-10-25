@@ -113,13 +113,17 @@ desenharCasos();
 const COR_NO = { orgao: "var(--cat1)", empresa: "var(--cat3)", pessoa: "var(--cat4)" };
 const NOME_TIPO = { orgao: "Governo (quem paga)", empresa: "Empresa", pessoa: "Pessoa" };
 const TRACEJADA = new Set(["acusação", "denúncia"]);
+// O rótulo destes é redundante com a legenda ("Cargo ou sociedade", seta cinza):
+// fica escondido e só aparece sob o cursor ou com foco pelo teclado.
+const ROTULO_SOB_DEMANDA = new Set(["cargo", "sócio", "intermediação", "vendedor"]);
 const COR_LIGA = (t) => (TRACEJADA.has(t) ? "var(--alerta)" : ["cargo", "sócio", "intermediação", "vendedor"].includes(t) ? "var(--neutro)" : "var(--contra)");
 document.getElementById("rede-dinheiro-legenda").innerHTML =
   Object.entries(NOME_TIPO).map(([k, n]) => `<span class="chip"><span class="ponto" style="background:${COR_NO[k]}"></span>${n}</span>`).join("") +
   `<span class="chip"><span class="traco" style="background:var(--contra)"></span>Dinheiro: contrato, pagamento, garantia</span>` +
   `<span class="chip"><span class="traco" style="background:var(--neutro)"></span>Cargo ou sociedade</span>` +
   `<span class="chip"><span class="traco tracejado"></span>Acusação ou denúncia</span>` +
-  `<span class="chip"><span class="selo-legenda">3</span>decisões do TCU, CGU, STF ou pedidos da CPI (clique para ver)</span>`;
+  `<span class="chip"><span class="selo-legenda">3</span>decisões do TCU, CGU, STF ou pedidos da CPI (clique para ver)</span>` +
+  `<span class="chip dica-rede">Passe o cursor sobre uma pessoa ou empresa para ver o que liga cada seta; clique para abrir os documentos.</span>`;
 
 const R = dados.rede, W = R.largura, H = R.altura, NS = "http://www.w3.org/2000/svg";
 const el = (t, a, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); if (p) p.appendChild(e); return e; };
@@ -140,11 +144,18 @@ const ligs = R.ligacoes.map((l) => {
   el("line", { x1, y1, x2, y2, stroke: "transparent", "stroke-width": 16 }, g);
   // rótulo no meio da linha, sempre na horizontal, com fundo para não brigar com as linhas
   const f = l.pos_rotulo ?? 0.5, mx = x1 + (x2 - x1) * f, my = y1 + (y2 - y1) * f;
-  const rg = el("g", { class: "rotulo-liga", transform: `translate(${mx},${my})` }, gr);
+  const sobDemanda = ROTULO_SOB_DEMANDA.has(l.tipo);
+  const rg = el("g", { class: "rotulo-liga" + (sobDemanda ? " sob-demanda" : ""), transform: `translate(${mx},${my})` }, gr);
+  if (sobDemanda) rg.style.opacity = 0;
   const t = el("text", { "text-anchor": "middle", dy: "0.35em" }, rg); t.textContent = l.curto;
-  const item = { ...l, a, b, g, vis, rg };
+  const item = { ...l, a, b, g, vis, rg, sobDemanda };
   g.addEventListener("click", () => mostrarLiga(item));
   g.addEventListener("keydown", (ev) => { if (ev.key === "Enter") mostrarLiga(item); });
+  const revelar = (sim) => { if (sobDemanda) rg.style.opacity = sim ? 1 : 0; };
+  g.addEventListener("pointerenter", () => revelar(true));
+  g.addEventListener("pointerleave", () => revelar(false));
+  g.addEventListener("focusin", () => revelar(true));
+  g.addEventListener("focusout", () => revelar(false));
   return item;
 });
 // fundo dos rótulos depois de medir o texto
@@ -171,7 +182,9 @@ R.nos.forEach((n) => {
 function destacar(n) {
   ligs.forEach((l) => {
     const on = !n || l.a === n || l.b === n;
-    l.g.style.opacity = on ? 1 : 0.15; l.rg.style.opacity = on ? 1 : 0.15;
+    l.g.style.opacity = on ? 1 : 0.15;
+    // rótulo sob demanda: invisível em repouso, visível quando o nó dele está apontado
+    l.rg.style.opacity = l.sobDemanda ? (n && on ? 1 : 0) : (on ? 1 : 0.15);
   });
   R.nos.forEach((m) => { m.g.style.opacity = !n || m === n || ligs.some((l) => (l.a === n && l.b === m) || (l.b === n && l.a === m)) ? 1 : 0.3; });
 }
