@@ -482,3 +482,103 @@ body.sem-rolagem { overflow: hidden; }
   .rede-busca input { width: 100%; }
   .rede-topo .botao { font-size: .8rem; padding: 5px 9px; }
 }
+
+/* ---------------------------------------------------- página de processos */
+
+.cartoes-numero { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 12px 0; }
+.cartao-numero { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 12px 14px; }
+.cartao-numero strong { display: block; font-size: 1.9rem; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.cartao-numero span { display: block; font-weight: 600; margin-top: 2px; }
+.cartao-numero small { display: block; color: var(--suave); font-size: .8rem; margin-top: 2px; }
+
+/* Classe própria: a .filtros das outras páginas dá flex:1 1 220px ao select, o
+   que dentro de um label em coluna vira ALTURA de 220px. */
+.filtros-proc { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; margin: 12px 0 6px; }
+.filtros-proc label { display: flex; flex-direction: column; gap: 3px; font-size: .85rem; color: var(--suave); }
+.filtros-proc select { flex: 0 0 auto; font: inherit; padding: 6px 8px; border: 1px solid var(--borda);
+  border-radius: 8px; background: var(--superficie); color: var(--texto); max-width: 230px; }
+.filtros-proc button { font: inherit; padding: 7px 12px; border: 1px solid var(--borda); border-radius: 8px;
+  background: var(--superficie); color: var(--texto); cursor: pointer; }
+
+.processos-caixa { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 4px; }
+.rolagem-processos { max-height: 72vh; overflow: auto; overscroll-behavior: contain; }
+.proc-grade { list-style: none; margin: 0; padding: 0; }
+
+/* as três colunas: quando · a decisão · quem responde */
+.proc-linha, .proc-cabecalho { display: grid; grid-template-columns: 150px minmax(0, 1fr) 210px;
+  gap: 12px; padding: 10px 10px 10px 12px; border-bottom: 1px solid var(--borda); align-items: start; }
+.proc-cabecalho { position: sticky; top: 0; z-index: 2; background: var(--superficie);
+  font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); }
+.proc-linha { border-left: 4px solid var(--neutro); }
+.proc-linha:last-child { border-bottom: 0; }
+.proc-quando { display: flex; flex-direction: column; gap: 4px; align-items: flex-start; }
+.proc-quando strong { font-variant-numeric: tabular-nums; }
+.proc-abrir { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; background: none; border: 0;
+  padding: 0; font: inherit; color: inherit; cursor: pointer; text-align: left; }
+.proc-abrir:hover .proc-numero, .proc-abrir:focus-visible .proc-numero { text-decoration: underline; }
+.proc-orgao { font-weight: 700; }
+.proc-numero { font-variant-numeric: tabular-nums; color: var(--destaque); }
+.proc-texto { margin: 4px 0 0; font-size: .9rem; color: var(--suave); }
+.proc-quem { display: flex; flex-wrap: wrap; gap: 4px; align-content: flex-start; min-width: 0; }
+.chip-pessoa { font-size: .78rem; border: 1px solid var(--borda); border-radius: 999px;
+  padding: 1px 8px; background: var(--fundo); color: inherit; text-decoration: none; white-space: nowrap;
+  min-width: 0; max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
+.chip-pessoa:hover { border-color: var(--destaque); }
+.chip-pessoa.escolhido { border-color: var(--destaque); font-weight: 700; }
+
+/* o desfecho dá a cor da linha: arquivado e com sanção são opostos */
+.selo-estado { font-size: .74rem; border-radius: 999px; padding: 1px 8px; border: 1px solid var(--borda);
+  background: var(--fundo); white-space: nowrap; }
+.selo-transito { font-size: .72rem; color: var(--suave); }
+.proc-linha.e-arquivado, .selo-estado.e-arquivado { border-left-color: var(--contra); }
+.proc-linha.e-com-sanção, .selo-estado.e-com-sanção { border-left-color: var(--favor); }
+.proc-linha.e-em-curso { border-left-color: var(--destaque); }
+.proc-linha.e-sigiloso { border-left-color: var(--suave); }
+.selo-estado.e-arquivado { color: var(--contra); border-color: var(--contra); }
+.selo-estado.e-com-sanção { color: var(--favor); border-color: var(--favor); }
+.selo-estado.e-em-curso { color: var(--destaque); border-color: var(--destaque); }
+
+.painel-processo { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio);
+  padding: 14px 16px; margin-top: 12px; position: relative; }
+.painel-processo h3 { margin: 0 32px 4px 0; }
+.fechar-painel { position: absolute; top: 8px; right: 8px; width: 44px; height: 44px; border: 0;
+  background: none; font-size: 1.1rem; cursor: pointer; color: var(--suave); }
+
+/* O estilo geral de tabela usa nowrap, o que serve para número e data. Aqui as
+   colunas de nome e de situação são frases inteiras: sem quebrar linha, a
+   tabela das Pet chegava a 2.893px e exigia rolar a página inteira de lado. */
+#pets { table-layout: fixed; }
+#pets th, #pets td { white-space: normal; vertical-align: top; }
+#pets th:nth-child(1), #pets td:nth-child(1) { width: 7.5rem; }
+#pets th:nth-child(2), #pets td:nth-child(2) { width: 30%; }
+#pets th:nth-child(3), #pets td:nth-child(3) { width: 9.5rem; }
+#periodos th, #periodos td { white-space: normal; }
+#periodos th:first-child, #periodos td:first-child { min-width: 11rem; }
+
+.link-tabela { background: none; border: 0; padding: 0; font: inherit; font-variant-numeric: tabular-nums;
+  color: var(--destaque); cursor: pointer; text-decoration: underline; }
+.rolagem-tabela { overflow-x: auto; }
+
+/* a curva das mortes, com a da vacinação por cima */
+.grafico-mortes { margin: 12px 0; }
+.grafico-mortes svg { width: 100%; height: auto; display: block; }
+.area-mortes { fill: var(--contra); opacity: .14; }
+.linha-mortes { fill: none; stroke: var(--contra); stroke-width: 2; }
+.linha-vacina { fill: none; stroke: var(--favor); stroke-width: 2; stroke-dasharray: 5 4; }
+.ponto-vacina { fill: var(--favor); }
+.rot-vacina { fill: var(--favor); font-size: 11px; font-weight: 600; }
+.marco { stroke: var(--suave); stroke-width: 1; stroke-dasharray: 3 3; opacity: .7; }
+.rot-marco { fill: var(--suave); font-size: 10.5px; }
+.eixo line { stroke: var(--borda); stroke-width: 1; }
+.eixo text { fill: var(--suave); font-size: 11px; }
+td.num { text-align: right; font-variant-numeric: tabular-nums; }
+
+@media (max-width: 760px) {
+  /* no celular as três colunas viram três blocos empilhados, na mesma ordem */
+  .proc-linha { grid-template-columns: 1fr; gap: 6px; }
+  .proc-cabecalho { display: none; }
+  .proc-quando { flex-direction: row; flex-wrap: wrap; align-items: baseline; gap: 6px; }
+  .rolagem-processos { max-height: none; }
+  .filtros-proc select { max-width: 100%; }
+  .filtros-proc label { flex: 1 1 140px; }
+}

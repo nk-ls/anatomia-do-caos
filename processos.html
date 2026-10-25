@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="pt-BR" data-tema="claro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<title>Processos — Transparência do Caos</title>
+<meta name="description" content="O que aconteceu com os processos abertos a partir da CPI da Covid: quem responde, em que órgão, e o que já foi decidido. Com a curva das mortes ao lado.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Transparência do Caos">
+<meta property="og:title" content="Processos — Transparência do Caos">
+<meta property="og:description" content="O que aconteceu com os processos abertos a partir da CPI da Covid: quem responde, em que órgão, e o que já foi decidido.">
+<meta property="og:url" content="https://transparenciadocaos.com/processos.html">
+<meta property="og:image" content="https://transparenciadocaos.com/assets/marca/compartilhar.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Lupa e o nome Transparência do Caos sobre fundo claro">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://transparenciadocaos.com/processos.html">
+<link rel="icon" href="assets/marca/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/estilo.css">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebPage",
+ "url": "https://transparenciadocaos.com/processos.html",
+ "name": "Processos — Transparência do Caos",
+ "description": "O que aconteceu com os processos abertos a partir da CPI da Covid: quem responde, em que órgão, e o que já foi decidido.",
+ "inLanguage": "pt-BR",
+ "dateModified": "2026-10-25",
+ "author": {
+  "@type": "Person",
+  "name": "Nickolas Moretto",
+  "url": "https://github.com/nk-ls",
+  "email": "brasil@transparenciadocaos.com"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "Transparência do Caos",
+  "url": "https://transparenciadocaos.com"
+ }
+}
+</script>
+</head>
+<body>
+<header class="topo">
+  <div class="conteiner">
+    <a class="marca" href="index.html">Transparência do Caos</a>
+    <nav class="nav" aria-label="Principal">
+      <a href="index.html">Início</a>
+      <a href="investigacao.html">Investigação</a>
+      <a href="dinheiro.html">Caminho do dinheiro</a>
+      <a href="processos.html" aria-current="page">Processos</a>
+      <a href="estados.html">Estados</a>
+      <a href="rede.html">Rede</a>
+      <a href="envolvidos.html">Envolvidos</a>
+      <a href="referencias.html">Referências</a>
+      <a href="https://github.com/nk-ls/anatomia-do-caos">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main class="conteiner">
+  <h1>Processos</h1>
+  <p class="destaque">A CPI da Covid pediu o indiciamento de <strong>80 pessoas e 2 empresas</strong> em 26 de outubro de 2021. Esta página mostra, decisão por decisão, o que aconteceu desde então.</p>
+
+  <section aria-labelledby="t-saldo">
+    <h2 id="t-saldo">O saldo, em números</h2>
+    <div id="saldo" class="cartoes-numero" aria-busy="true">Carregando…</div>
+    <p class="nota" id="saldo-nota"></p>
+  </section>
+
+  <section aria-labelledby="t-pets">
+    <h2 id="t-pets">As dez petições do STF</h2>
+    <p>Das acusações da CPI contra autoridades com foro privilegiado, a Procuradoria-Geral da República abriu dez petições no Supremo. É o caminho mais direto entre o relatório e a Justiça — e por isso o mais fácil de acompanhar.</p>
+    <div class="rolagem-tabela"><table id="pets"></table></div>
+    <p class="nota">Situação em outubro de 2026. Clique no número para ver a decisão inteira.</p>
+  </section>
+
+  <section aria-labelledby="t-grafo">
+    <h2 id="t-grafo">Todas as decisões, por data</h2>
+    <p>À esquerda, quando aconteceu e em que altura da pandemia. No centro, a decisão e o que ela decidiu. À direita, quem responde nela. <strong>Toque em qualquer um dos três</strong> para abrir o detalhe.</p>
+    <div class="filtros-proc" role="group" aria-label="Filtros">
+      <label>Órgão <select id="f-orgao"><option value="">Todos</option></select></label>
+      <label>Desfecho <select id="f-estado"><option value="">Todos</option></select></label>
+      <label>Pessoa <select id="f-pessoa"><option value="">Todas</option></select></label>
+      <button type="button" id="limpar">Limpar</button>
+    </div>
+    <p class="nota" id="contagem"></p>
+    <div class="processos-caixa">
+      <div class="rolagem-processos"><svg id="grafo" class="processos-svg" role="img" aria-label="Decisões judiciais e de órgãos de controle, por data"></svg></div>
+    </div>
+    <aside id="painel" class="painel-processo" hidden aria-live="polite"></aside>
+  </section>
+
+  <section aria-labelledby="t-mortes">
+    <h2 id="t-mortes">A curva das mortes, e a da vacinação</h2>
+    <p>As duas juntas, sempre. A primeira sozinha diria uma coisa que os dados não dizem: cerca de 70% das mortes são posteriores à primeira dose aplicada no país — <strong>mas 74% aconteceram antes de o Brasil chegar a 14% da população com esquema vacinal completo</strong>.</p>
+    <figure class="grafico-mortes">
+      <svg id="curva" role="img" aria-label="Mortes acumuladas por Covid-19 no Brasil e cobertura vacinal, de 2020 a 2023"></svg>
+      <figcaption class="nota" id="curva-legenda"></figcaption>
+    </figure>
+    <div class="rolagem-tabela"><table id="periodos"></table></div>
+    <p class="nota">Mortes por período, com a cobertura vacinal alcançada em cada um.</p>
+  </section>
+
+  <section aria-labelledby="t-metodo">
+    <h2 id="t-metodo">De onde vêm estes dados</h2>
+    <p>As decisões saem de <a href="dados/processos.json">dados/processos.json</a>, gerado a partir de <a href="dados/atos.csv">dados/atos.csv</a> — a mesma planilha que alimenta as fichas. Corrigir um ato acerta o processo junto: o site não tem como dizer duas coisas sobre a mesma decisão.</p>
+    <p>A curva das mortes vem de <a href="dados/mortes_brasil.csv">dados/mortes_brasil.csv</a>, o painel do Ministério da Saúde compilado pelo <a href="https://github.com/wcota/covid19br" target="_blank" rel="noopener">covid19br</a>. <strong>Ela termina em 18/03/2023, com 699.310 mortes</strong>; o painel seguiu registrando depois, e a soma dos 27 estados em out/2026 dá 716.626. Como a série foi conferida contra o que se via em janeiro de 2021, e o que ela não cobre, está em <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/docs/curva-de-mortes.md">como a curva foi conferida</a>.</p>
+    <p class="nota">⚖️ Pedido de indiciamento da CPI não é condenação, e multa do TCU ou da CGU é sanção administrativa, não penal. Até out/2026, até onde as fontes mostram, ninguém foi condenado criminalmente pelos fatos apontados pela CPI.</p>
+  </section>
+</main>
+
+<footer class="rodape">
+  <div class="conteiner">
+    <p>Transparência do Caos · Nickolas Moretto · com auxílio de inteligência artificial (Claude, da Anthropic), revisão independente e auditoria completa. Dados desta página: <a href="dados/processos.json">processos.json</a> e <a href="dados/mortes_brasil.csv">mortes_brasil.csv</a>.</p>
+    <p class="contato">Contato: <a href="mailto:brasil@transparenciadocaos.com">brasil@transparenciadocaos.com</a></p>
+  </div>
+</footer>
+<script type="module" src="assets/js/processos.js"></script>
+</body>
+</html>
