@@ -16,7 +16,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **2017** (decisão de órgão de controle) Ministério da Saúde pagou adiantado R$ 19.906.197,80 à Global (ordens bancárias 2017OB801843 a 801845) por medicamentos de doenças raras que nunca foram entregues; o MPF registrou pressão de superiores para antecipar [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/controle/TCU_Acordao_1912-2024_Plenario.pdf)
-- **2020** (fato) Como líder do governo, defendeu na Câmara (out/2020), em reunião sobre estratégias contra a Covid, a volta à normalidade e a busca da "imunidade de rebanho". [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 00:10:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=630s)
+- **2020** (fato) Como líder do governo, defendeu na Câmara (out/2020), em reunião sobre estratégias contra a Covid, a volta à normalidade e a busca da "imunidade de rebanho". [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/youtube-com-watch-v-MG3XZYu0-No-2dec1325/2026-10-25.html) · [no documentário, 00:10:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=630s)
 
 ## ⚪ Fatos processuais e neutros
 

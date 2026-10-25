@@ -12,7 +12,7 @@ Nenhum ato registrado ainda neste levantamento.
 ## 🔴 O que fez contra o combate à pandemia
 
 - **06/2020** · *cerca de 7 meses antes da 1ª vacina* (declaração) Como conselheiro do Ministério da Saúde, disse, sem apresentar provas, que os números de mortes dos estados eram 'fantasiosos ou manipulados' e que o governo faria recontagem [fonte](https://www.swissinfo.ch/por/governo-%C3%A9-acusado-de-querer-tornar-invis%C3%ADveis-mortos-por-covid-19-no-brasil/45818240) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/swissinfo-ch-por-governo-C3-A9-acusado-de-querer-tornar-invis-C3-ADveis-mortos-por-covid-1-f6fea587/2026-10-24.html)
-- **2021** (declaração) Em vídeo de 2020, afirmou que em Porto Feliz (SP), com "tratamento precoce", ninguém havia morrido de Covid; exibido na CPI em 30/06/2021, o vice-presidente Randolfe Rodrigues apontou 122 mortes acumuladas na cidade até então. [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [no documentário, 00:40:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2400s)
+- **2021** (declaração) Em vídeo de 2020, afirmou que em Porto Feliz (SP), com "tratamento precoce", ninguém havia morrido de Covid; exibido na CPI em 30/06/2021, o vice-presidente Randolfe Rodrigues apontou 122 mortes acumuladas na cidade até então. [fonte](https://www.youtube.com/watch?v=MG3XZYu0_No) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/youtube-com-watch-v-MG3XZYu0-No-2dec1325/2026-10-25.html) · [no documentário, 00:40:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=2400s)
 
 ## ⚪ Fatos processuais e neutros
 

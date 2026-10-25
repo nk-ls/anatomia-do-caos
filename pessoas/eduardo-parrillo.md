@@ -30,7 +30,7 @@ Nenhum ato registrado ainda neste levantamento.
 
 ## O que aconteceu depois
 
-Uma CPI da Câmara Municipal de São Paulo (abr/2022) também pediu indiciamentos na Prevent Senior. Desfecho judicial não localizado.
+Uma CPI da Câmara Municipal de São Paulo (abr/2022) também pediu indiciamentos na Prevent Senior. Desfecho judicial não localizado. Em 05/06/2024 o Ministério Público de São Paulo denunciou 10 diretores e 1 médico por homicídio culposo, pela morte de 7 pacientes, e 13 pessoas — diretores e médicos — por crime de perigo pelo "kit covid"; os promotores analisaram 130 prontuários. **Oito médicos fecharam acordo de não persecução penal e não foram denunciados**: segundo o promotor Everton Zanella, eles eram pressionados pela cúpula da operadora a prescrever os remédios sem eficácia. O Ministério Público não divulgou a lista de denunciados — o processo corre em sigilo para preservar o nome dos pacientes, e **este levantamento não sabe quem são os oito**. Não foi localizado, até out/2026, se a Justiça recebeu a denúncia. ([fonte](https://www.metropoles.com/sao-paulo/prevent-senior-mpsp-mortes-pandemia) · [fonte](https://www.migalhas.com.br/quentes/408766/mp-sp-denuncia-diretores-da-prevent-senior-por-crimes-na-pandemia))
 
 ## O que a pessoa diz
 
@@ -39,6 +39,9 @@ A empresa nega as acusações.
 ## Fontes da ficha
 
 - https://istoedinheiro.com.br/cpi-da-covid-veja-lista-de-indiciados-e-crimes-atribuidos
+- https://www.metropoles.com/sao-paulo/prevent-senior-mpsp-mortes-pandemia
+- https://www.migalhas.com.br/quentes/408766/mp-sp-denuncia-diretores-da-prevent-senior-por-crimes-na-pandemia
+- https://www.poder360.com.br/justica/mp-sp-denuncia-prevent-senior-por-crimes-na-pandemia-de-covid/
 
 ---
 [← Todos os envolvidos](README.md)
