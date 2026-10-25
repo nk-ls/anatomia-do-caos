@@ -1,4 +1,4 @@
-# Anatomia do Caos — a Covid-19 no Brasil em dados públicos
+# Transparência do Caos — a Covid-19 no Brasil em dados públicos
 
 ## Memória, verdade e reparação
 
@@ -18,7 +18,7 @@ O povo judeu repete *Zachor*, "lembra-te", e mantém viva a memória do Holocaus
 
 > ✅ **Revisado.** Dados e gráficos reproduzíveis; caso brasileiro conferido, com cópias datadas de 493 das 550 fontes citadas (contagem de 24/10/2026; a atual está em Referências) e dos documentos oficiais no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes); revisão independente por amostra e auditoria completa em 24/10/2026; correções registradas em [docs/revisao.md](docs/revisao.md). Erros remanescentes podem ser apontados por *issue*.
 
-> **Sobre o nome.** O levantamento partiu do documentário *Anatomia do Caos* (2026), uma obra autoral que não se apresenta como neutra ([roteiro e recepção](docs/documentario.md)). Aqui o filme é só ponto de partida: cada fato é conferido em fonte própria, com [cadeia de custódia](docs/cadeia-de-custodia.md) auditável.
+> **Sobre o nome.** O levantamento partiu do documentário *Anatomia do Caos* (2026), uma obra autoral que não se apresenta como neutra. Este projeto é independente do filme e tem nome próprio desde 24/10/2026 ([roteiro e recepção](docs/documentario.md)). Aqui o filme é só ponto de partida: cada fato é conferido em fonte própria, com [cadeia de custódia](docs/cadeia-de-custodia.md) auditável.
 
 **Site:** [transparenciadocaos.com](https://transparenciadocaos.com/) · **[Investigação aberta](https://transparenciadocaos.com/investigacao.html)**: rede de conexões, achados com provas, votos da CPI e seus efeitos (HTML, CSS e JavaScript, sem dependências; lê as mesmas planilhas deste repositório)
 

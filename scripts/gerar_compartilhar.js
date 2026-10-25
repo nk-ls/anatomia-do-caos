@@ -15,7 +15,7 @@ const html = `<!doctype html><html><head><meta charset="utf-8"><style>
   p { font-family: system-ui, sans-serif; font-size: 34px; color: #5e5d59; margin: 0; line-height: 1.35; max-width: 980px; }
   .rodape { font-family: system-ui, sans-serif; font-size: 26px; color: #b5502f; border-top: 3px solid #e6e3d8; padding-top: 22px; }
 </style></head><body><div class="c">
-  <div class="marca">${lupa}<h1>Anatomia do Caos</h1></div>
+  <div class="marca">${lupa}<h1>Transparência do Caos</h1></div>
   <p>Covid-19 no Brasil: dados, documentos e o caminho do dinheiro. Cada fato com fonte e cópia conferível.</p>
   <div class="rodape">transparenciadocaos.com</div>
 </div></body></html>`;

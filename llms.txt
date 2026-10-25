@@ -1,4 +1,4 @@
-# Anatomia do Caos
+# Transparência do Caos
 
 > Levantamento aberto e verificável sobre a Covid-19 no Brasil: mortes, vacinação, decisões de governo questionadas na CPI, caminho do dinheiro dos contratos e quem fez o quê. Cada afirmação tem fonte pública e cópia arquivada com impressão digital SHA-256. Classifica-se o ato, não a pessoa; pedido de indiciamento não é condenação. Contato: brasil@transparenciadocaos.com
 
