@@ -267,7 +267,10 @@ figure details { overflow-x: auto; }
 .caso-dinheiro h4 { margin: 16px 0 6px; font-size: 1rem; }
 .dinheiro-rede-caixa { position: relative; background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 8px; }
 .rede-rolagem { overflow-x: auto; }
-.rede-dinheiro { width: 100%; min-width: 820px; height: auto; display: block; }
+.rede-dinheiro { width: 100%; height: auto; display: block; touch-action: none; cursor: grab; }
+.rede-dinheiro:active { cursor: grabbing; }
+/* o contêiner deixa de rolar de lado: agora o próprio grafo tem zoom e arraste */
+#rede-dinheiro-svg.rede-rolagem { overflow: hidden; }
 .rede-dinheiro text { pointer-events: none; }
 .nome-no { font-size: 15px; font-weight: 700; fill: var(--texto); paint-order: stroke; stroke: var(--superficie); stroke-width: 4px; }
 .selo-no { font-size: 12px; font-weight: 700; fill: var(--superficie); }

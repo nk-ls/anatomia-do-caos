@@ -145,23 +145,60 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   svg.addEventListener("wheel", (e) => { e.preventDefault(); const p = ponto(e); zoom(e.deltaY > 0 ? 1.15 : 0.87, p.x, p.y); }, { passive: false });
 
   let arrasto = null, arrastou = false;
+
+  // Dedos encostados na tela. Com dois, vira pinça de zoom — no celular não há
+  // roda de mouse, e o .rede-quadro usa touch-action:none, que desliga o zoom
+  // nativo do navegador. Sem isto o grafo fica preso num único nível.
+  const dedos = new Map();
+  let pinca = null;
+  const distancia = () => {
+    const [a, b] = [...dedos.values()];
+    return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY);
+  };
+  const meio = () => {
+    const [a, b] = [...dedos.values()];
+    const r = svg.getBoundingClientRect();
+    return {
+      x: vb.x + (((a.clientX + b.clientX) / 2 - r.left) / r.width) * vb.w,
+      y: vb.y + (((a.clientY + b.clientY) / 2 - r.top) / r.height) * vb.h,
+    };
+  };
+
   svg.addEventListener("pointerdown", (e) => {
+    dedos.set(e.pointerId, e);
+    if (dedos.size === 2) {               // começou a pinça: cancela o arraste em curso
+      if (arrasto?.no) arrasto.no.preso = false;
+      arrasto = null; arrastou = true;
+      pinca = { d: distancia(), c: meio() };
+      return;
+    }
+    if (dedos.size > 2) return;
     const gno = e.target.closest(".no"); arrastou = false;
     const n = gno && nos.find((x) => x.g === gno);
     if (n) { arrasto = { no: n }; n.preso = true; } else arrasto = { x: e.clientX, y: e.clientY, vx: vb.x, vy: vb.y };
     svg.setPointerCapture(e.pointerId);
   });
   svg.addEventListener("pointermove", (e) => {
+    if (dedos.has(e.pointerId)) dedos.set(e.pointerId, e);
+    if (pinca && dedos.size === 2) {
+      const d = distancia();
+      if (d > 0 && pinca.d > 0) { zoom(pinca.d / d, pinca.c.x, pinca.c.y); pinca.d = d; }
+      return;
+    }
     if (!arrasto) return;
     arrastou = true;
     if (arrasto.no) { const p = ponto(e); arrasto.no.x = p.x; arrasto.no.y = p.y; desenhar(); }
     else { const r = svg.getBoundingClientRect(); vb.x = arrasto.vx - ((e.clientX - arrasto.x) / r.width) * vb.w; vb.y = arrasto.vy - ((e.clientY - arrasto.y) / r.height) * vb.h; aplicar(); }
   });
-  svg.addEventListener("pointerup", (e) => {
+  const soltar = (e) => {
+    dedos.delete(e.pointerId);
+    if (dedos.size < 2) pinca = null;
     const a = arrasto; arrasto = null;
     if (a?.no) { a.no.preso = false; if (!arrastou) selecionar(a.no); }
     else if (!arrastou && !e.target.closest(".no")) selecionar(null);
-  });
+  };
+  svg.addEventListener("pointerup", soltar);
+  svg.addEventListener("pointercancel", soltar);
 
   function desenhar() {
     for (const n of nos) n.g.setAttribute("transform", `translate(${n.x.toFixed(1)},${n.y.toFixed(1)})`);

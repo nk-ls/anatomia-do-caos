@@ -243,3 +243,68 @@ if (receita) {
   document.getElementById("fonte-empresas").innerHTML = `Fonte: ${esc(receita.fonte)}, consultados em ${dataBRiso(receita.consultado_em)}. Dados: <a href="dados/empresas.json">empresas.json</a>, gerados por <a href="https://github.com/nk-ls/anatomia-do-caos/blob/main/scripts/gerar_empresas.py">scripts/gerar_empresas.py</a>.`;
   desenharEmpresas();
 }
+
+// --- Navegação do grafo: arrastar, roda do mouse, pinça de dois dedos e botões ---
+// Antes o grafo só rolava de lado num contêiner de 820px, sem nenhum zoom:
+// no celular o texto ficava pequeno demais e não havia como aproximar.
+(function navegacao() {
+  const BASE = { x: -20, y: -10, w: W + 40, h: H + 50 };
+  let vb = { ...BASE };
+  const aplicar = () => svg.setAttribute("viewBox", `${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
+  const zoom = (f, cx = vb.x + vb.w / 2, cy = vb.y + vb.h / 2) => {
+    const w = Math.min(Math.max(vb.w * f, BASE.w / 6), BASE.w * 1.4);
+    const h = (w * BASE.h) / BASE.w;
+    vb = { x: cx - ((cx - vb.x) * w) / vb.w, y: cy - ((cy - vb.y) * h) / vb.h, w, h };
+    aplicar();
+  };
+  const ponto = (e) => {
+    const r = svg.getBoundingClientRect();
+    return { x: vb.x + ((e.clientX - r.left) / r.width) * vb.w, y: vb.y + ((e.clientY - r.top) / r.height) * vb.h };
+  };
+
+  svg.addEventListener("wheel", (e) => { e.preventDefault(); const p = ponto(e); zoom(e.deltaY > 0 ? 1.15 : 0.87, p.x, p.y); }, { passive: false });
+
+  const dedos = new Map();
+  let pinca = null, arrasto = null;
+  const dist = () => { const [a, b] = [...dedos.values()]; return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY); };
+  const meio = () => {
+    const [a, b] = [...dedos.values()], r = svg.getBoundingClientRect();
+    return { x: vb.x + (((a.clientX + b.clientX) / 2 - r.left) / r.width) * vb.w,
+             y: vb.y + (((a.clientY + b.clientY) / 2 - r.top) / r.height) * vb.h };
+  };
+
+  svg.addEventListener("pointerdown", (e) => {
+    dedos.set(e.pointerId, e);
+    if (dedos.size === 2) { arrasto = null; pinca = { d: dist(), c: meio() }; return; }
+    if (dedos.size > 2) return;
+    arrasto = { x: e.clientX, y: e.clientY, vx: vb.x, vy: vb.y };
+  });
+  svg.addEventListener("pointermove", (e) => {
+    if (dedos.has(e.pointerId)) dedos.set(e.pointerId, e);
+    if (pinca && dedos.size === 2) {
+      const d = dist();
+      if (d > 0 && pinca.d > 0) { zoom(pinca.d / d, pinca.c.x, pinca.c.y); pinca.d = d; }
+      return;
+    }
+    if (!arrasto) return;
+    const r = svg.getBoundingClientRect();
+    vb.x = arrasto.vx - ((e.clientX - arrasto.x) / r.width) * vb.w;
+    vb.y = arrasto.vy - ((e.clientY - arrasto.y) / r.height) * vb.h;
+    aplicar();
+  });
+  const soltar = (e) => { dedos.delete(e.pointerId); if (dedos.size < 2) pinca = null; arrasto = null; };
+  svg.addEventListener("pointerup", soltar);
+  svg.addEventListener("pointercancel", soltar);
+
+  const ctr = document.createElement("div");
+  ctr.className = "rede-controles";
+  ctr.innerHTML = '<button type="button" data-z="0.8" aria-label="Aproximar">+</button>'
+                + '<button type="button" data-z="1.25" aria-label="Afastar">\u2212</button>'
+                + '<button type="button" data-z="reset" aria-label="Enquadrar tudo">\u21BA</button>';
+  ctr.addEventListener("click", (e) => {
+    const z = e.target.dataset.z;
+    if (z === "reset") { vb = { ...BASE }; aplicar(); }
+    else if (z) zoom(+z);
+  });
+  caixa.parentElement.insertBefore(ctr, caixa.nextSibling);
+})();
