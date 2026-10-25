@@ -35,6 +35,7 @@
   <aside class="rede-filtros" id="filtros" hidden>
     <div id="ajuda"></div>
     <h3>Ligações</h3><div id="f-ligas"></div>
+    <label class="chip"><input type="checkbox" id="f-todas"> mostrar todas as ligações (fica mais cheio)</label>
     <h3>Temas</h3><div id="f-temas"></div>
     <h3>Estado</h3><select id="f-uf" aria-label="Filtrar por estado"><option value="">Todos os estados</option><option value="Federal">Atuação federal ou nacional</option></select>
     <p class="nota" id="f-uf-nota"></p>
@@ -74,6 +75,7 @@ $("filtros").addEventListener("change", (e) => {
   if (i.dataset.liga) rede.alternarLiga(i.dataset.liga, i.checked);
   if (i.dataset.tema) rede.alternarTema(i.dataset.tema, i.checked);
   if (i.id === "f-cpi") rede.soCpi(i.checked);
+  if (i.id === "f-todas") rede.todasLigacoes(i.checked);
   if (i.id === "f-uf") filtrarUF(i.value);
 });
 $("abrir-filtros").addEventListener("click", (e) => { const f = $("filtros"); f.hidden = !f.hidden; e.target.setAttribute("aria-expanded", String(!f.hidden)); });

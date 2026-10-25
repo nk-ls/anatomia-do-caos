@@ -43,21 +43,68 @@ export async function montarRede(alvo, painel, opcoes = {}) {
 
   const L = opcoes.largura || 1400, A = opcoes.altura || 900;
   const temas = nos.filter((n) => n.tipo === "tema");
-  temas.forEach((n, i) => {
-    const ang = (2 * Math.PI * i) / temas.length - Math.PI / 2;
-    n.x = L / 2 + Math.cos(ang) * L * 0.36; n.y = A / 2 + Math.sin(ang) * A * 0.38; n.fixo = true;
-  });
-  nos.filter((n) => n.tipo !== "tema").forEach((n, i) => {
-    const viz = arestas.filter((a) => a.de === n.id).map((a) => a.para_);
-    const cx = viz.reduce((s, v) => s + v.x, 0) / (viz.length || 1), cy = viz.reduce((s, v) => s + v.y, 0) / (viz.length || 1);
-    n.x = cx * 0.7 + L * 0.15 + Math.cos(i) * 20; n.y = cy * 0.7 + A * 0.15 + Math.sin(i) * 20;
-  });
+  const atores = nos.filter((n) => n.tipo !== "tema");
+  const soma = (a) => a.favor + a.contra + a.processual;
+  for (const n of nos) n.r = n.tipo === "tema" ? 18 + Math.sqrt(n.total) * 2.4 : Math.max(4 + Math.sqrt(n.total) * 1.5, fotoDe.has(n.id) ? 9 : 0);
 
-  const filtros = { temas: new Set(temas.map((t) => t.id)), ligas: new Set(Object.keys(COR_LIGA)), soCpi: false, uf: "" };
+  // Arranjo em grupos: cada pessoa fica junto do tema em que mais atuou (o "tema principal").
+  // Os temas formam um anel; cada tema ocupa no anel um espaço proporcional ao tamanho do seu grupo.
+  const membros = new Map(temas.map((t) => [t.id, []]));
+  for (const n of atores) {
+    const suas = arestas.filter((a) => a.de === n.id).sort((a, b) => soma(b) - soma(a) || b.contra - a.contra);
+    n.principal = suas[0]?.para || temas[temas.length - 1].id;
+    membros.get(n.principal).push(n);
+  }
+  const ESP = 14; // espaçamento entre pessoas dentro do grupo
+  const raioGrupo = (t) => t.r + 12 + ESP * Math.sqrt(membros.get(t.id).length + 1) * 1.2;
+  const totalArco = temas.reduce((s, t) => s + 2 * raioGrupo(t) + 40, 0);
+  const R = totalArco / (2 * Math.PI), estica = Math.min(Math.max(Math.sqrt(L / A), 0.6), 1.3);
+  let arco = 0;
+  for (const t of temas) {
+    const meio = arco + raioGrupo(t) + 20; arco += 2 * raioGrupo(t) + 40;
+    t.ang = (meio / totalArco) * 2 * Math.PI - Math.PI / 2;
+    t.x = Math.cos(t.ang) * R * estica; t.y = Math.sin(t.ang) * R / estica; t.fixo = true;
+    // espiral de girassol: quem tem mais atos fica mais perto do tema
+    membros.get(t.id).sort((a, b) => b.total - a.total).forEach((n, k) => {
+      const rr = t.r + 10 + ESP * Math.sqrt(k + 0.6) * 1.2, ang = k * 2.39996 + t.ang;
+      n.x = n.ax = t.x + Math.cos(ang) * rr; n.y = n.ay = t.y + Math.sin(ang) * rr;
+    });
+  }
+  // Afasta pontos sobrepostos (uma vez, antes de desenhar), sem tirar ninguém do seu grupo.
+  for (let it = 0; it < 120; it++) {
+    for (let i = 0; i < nos.length; i++) for (let j = i + 1; j < nos.length; j++) {
+      const a = nos[i], b = nos[j], dx = b.x - a.x, dy = b.y - a.y, min = a.r + b.r + 4;
+      if (Math.abs(dx) > min || Math.abs(dy) > min) continue;
+      const d = Math.hypot(dx, dy) || 0.01; if (d >= min) continue;
+      const m = (min - d) / d / (a.fixo || b.fixo ? 1 : 2);
+      if (!a.fixo) { a.x -= dx * m; a.y -= dy * m; }
+      if (!b.fixo) { b.x += dx * m; b.y += dy * m; }
+    }
+    for (const n of atores) { n.x += (n.ax - n.x) * 0.02; n.y += (n.ay - n.y) * 0.02; }
+  }
+  // Nome de cada tema por fora do seu grupo, longe das pessoas.
+  for (const t of temas) {
+    t.ext = Math.max(t.r, ...membros.get(t.id).map((m) => Math.hypot(m.x - t.x, m.y - t.y) + m.r)) + 14;
+    const c = Math.cos(t.ang), s = Math.sin(t.ang), larg = t.nome.length * 7.6;
+    t.ancora = c > 0.35 ? "start" : c < -0.35 ? "end" : "middle";
+    t.rx = c * t.ext; t.ry = s * t.ext + (s > 0.3 ? 12 : s < -0.3 ? -2 : 5);
+    const ex = t.x + t.rx - (t.ancora === "end" ? larg : t.ancora === "middle" ? larg / 2 : 0);
+    t.caixa = [ex, t.y + t.ry - 14, ex + larg, t.y + t.ry + 4];
+  }
+  // Quadro inicial: tudo o que foi desenhado, com os nomes dos temas, na proporção da tela.
+  let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+  for (const n of nos) { x0 = Math.min(x0, n.x - n.r); x1 = Math.max(x1, n.x + n.r); y0 = Math.min(y0, n.y - n.r - 16); y1 = Math.max(y1, n.y + n.r); }
+  for (const t of temas) { x0 = Math.min(x0, t.caixa[0]); y0 = Math.min(y0, t.caixa[1]); x1 = Math.max(x1, t.caixa[2]); y1 = Math.max(y1, t.caixa[3]); }
+  x0 -= 20; x1 += 20; y0 -= 20; y1 += 20;
+  let bw = x1 - x0, bh = y1 - y0;
+  if (bw / bh < L / A) { const w = (bh * L) / A; x0 -= (w - bw) / 2; bw = w; } else { const h = (bw * A) / L; y0 -= (h - bh) / 2; bh = h; }
+  const BASE = { x: x0, y: y0, w: bw, h: bh };
+
+  const filtros = { temas: new Set(temas.map((t) => t.id)), ligas: new Set(Object.keys(COR_LIGA)), soCpi: false, uf: "", todas: false };
   const visivel = (a) => filtros.temas.has(a.para) && filtros.ligas.has(a.tipo) && (!filtros.soCpi || a.de_.cpi) && (!filtros.uf || ufsDe(a.de).includes(filtros.uf));
 
   alvo.innerHTML = "";
-  const svg = el("svg", { viewBox: `0 0 ${L} ${A}`, class: "rede-svg", role: "img", "aria-label": "Rede de conexões entre pessoas e temas da pandemia" }, alvo);
+  const svg = el("svg", { viewBox: `${BASE.x} ${BASE.y} ${BASE.w} ${BASE.h}`, class: "rede-svg", role: "img", "aria-label": "Rede de conexões entre pessoas e temas da pandemia" }, alvo);
   const defs = el("defs", {}, svg);
   const brilho = el("filter", { id: "brilho", x: "-50%", y: "-50%", width: "200%", height: "200%" }, defs);
   el("feGaussianBlur", { stdDeviation: "4", result: "b" }, brilho);
@@ -66,16 +113,14 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   const dica = document.createElement("div"); dica.className = "rede-dica"; dica.hidden = true; alvo.appendChild(dica);
 
   for (const a of arestas) {
-    a.el = el("line", { stroke: COR_LIGA[a.tipo], "stroke-width": 0.8 + Math.min(a.favor + a.contra + a.processual, 8) * 0.5, "stroke-opacity": 0.45, "stroke-linecap": "round" }, gl);
+    a.el = el("line", { stroke: COR_LIGA[a.tipo], "stroke-width": 0.8 + Math.min(soma(a), 8) * 0.35, "stroke-opacity": 0.5, "stroke-linecap": "round" }, gl);
   }
   for (const n of nos) {
     const tema = n.tipo === "tema";
-    n.r = tema ? 18 + Math.sqrt(n.total) * 2.4 : 4 + Math.sqrt(n.total) * 1.5;
     n.g = el("g", { class: "no", tabindex: 0, role: "button", "aria-label": n.nome }, gn);
     const cor = tema ? COR_TEMA[n.id.slice(5)] : COR_GRUPO[n.grupo] || "#93c5fd";
     const foto = !tema && fotoDe.get(n.id);
     if (foto) {
-      n.r = Math.max(n.r, 9);
       const pid = "foto-" + n.id;
       const pat = el("pattern", { id: pid, width: 1, height: 1, patternContentUnits: "objectBoundingBox" }, defs);
       el("image", { href: foto.arquivo, width: 1, height: 1, preserveAspectRatio: "xMidYMid slice" }, pat);
@@ -83,15 +128,17 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     } else {
       el("circle", { r: n.r, fill: cor, stroke: tema ? "#0b0d10" : n.cpi ? "#ef4444" : "#0b0d10", "stroke-width": tema ? 3 : n.cpi ? 2 : 1, filter: tema ? "url(#brilho)" : "" }, n.g);
     }
-    n.rot = el("text", { y: tema ? n.r + 16 : -n.r - 5, "text-anchor": "middle", class: tema ? "rot-tema" : "rot-pessoa" }, n.g);
+    if (tema) {
+      n.rot = el("text", { x: n.rx, y: n.ry, "text-anchor": n.ancora, class: "rot-tema" }, n.g);
+    } else n.rot = el("text", { y: -n.r - 5, "text-anchor": "middle", class: "rot-pessoa" }, n.g);
     n.rot.textContent = n.nome;
   }
 
   // zoom e arrasto do fundo
-  let vb = { x: 0, y: 0, w: L, h: A };
+  let vb = { ...BASE };
   const aplicar = () => { svg.setAttribute("viewBox", `${vb.x} ${vb.y} ${vb.w} ${vb.h}`); rotulos(); };
   const zoom = (f, cx = vb.x + vb.w / 2, cy = vb.y + vb.h / 2) => {
-    const w = Math.min(Math.max(vb.w * f, 160), L * 1.6), h = (w * A) / L;
+    const w = Math.min(Math.max(vb.w * f, BASE.w / 8), BASE.w * 1.6), h = (w * BASE.h) / BASE.w;
     vb = { x: cx - ((cx - vb.x) * w) / vb.w, y: cy - ((cy - vb.y) * h) / vb.h, w, h }; aplicar();
   };
   const ponto = (e) => { const p = svg.getBoundingClientRect(); return { x: vb.x + ((e.clientX - p.left) / p.width) * vb.w, y: vb.y + ((e.clientY - p.top) / p.height) * vb.h }; };
@@ -107,7 +154,7 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   svg.addEventListener("pointermove", (e) => {
     if (!arrasto) return;
     arrastou = true;
-    if (arrasto.no) { const p = ponto(e); arrasto.no.x = p.x; arrasto.no.y = p.y; aquecer(0.3); }
+    if (arrasto.no) { const p = ponto(e); arrasto.no.x = p.x; arrasto.no.y = p.y; desenhar(); }
     else { const r = svg.getBoundingClientRect(); vb.x = arrasto.vx - ((e.clientX - arrasto.x) / r.width) * vb.w; vb.y = arrasto.vy - ((e.clientY - arrasto.y) / r.height) * vb.h; aplicar(); }
   });
   svg.addEventListener("pointerup", (e) => {
@@ -116,48 +163,32 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     else if (!arrastou && !e.target.closest(".no")) selecionar(null);
   });
 
-  // simulação contínua
-  let calor = 1, rodando = false;
-  function aquecer(v) { calor = Math.max(calor, v); if (!rodando) { rodando = true; requestAnimationFrame(passo); } }
-  function passo() {
-    const ativos = nos.filter((n) => n.ativo !== false);
-    for (const n of ativos) { n.vx *= 0.6; n.vy *= 0.6; }
-    for (let i = 0; i < ativos.length; i++) for (let j = i + 1; j < ativos.length; j++) {
-      const a = ativos[i], b = ativos[j]; let dx = a.x - b.x, dy = a.y - b.y; const d2 = dx * dx + dy * dy || 1;
-      if (d2 > 90000) continue;
-      const d = Math.sqrt(d2), min = a.r + b.r + 6, f = (900 / d2) + (d < min ? (min - d) * 0.5 : 0);
-      a.vx += (dx / d) * f; a.vy += (dy / d) * f; b.vx -= (dx / d) * f; b.vy -= (dy / d) * f;
-    }
-    for (const a of arestas) {
-      if (a.de_.ativo === false || a.para_.ativo === false) continue;
-      const p = a.de_, t = a.para_, dx = t.x - p.x, dy = t.y - p.y, d = Math.hypot(dx, dy) || 1, f = (d - 60) * 0.012;
-      p.vx += (dx / d) * f; p.vy += (dy / d) * f;
-    }
-    for (const n of ativos) {
-      if (n.fixo || n.preso) continue;
-      n.vx += (L / 2 - n.x) * 0.0015; n.vy += (A / 2 - n.y) * 0.0015;
-      n.x = Math.min(L - 20, Math.max(20, n.x + n.vx * calor)); n.y = Math.min(A - 20, Math.max(20, n.y + n.vy * calor));
-    }
-    desenhar();
-    calor *= 0.985;
-    if (calor > 0.02) requestAnimationFrame(passo); else rodando = false;
-  }
   function desenhar() {
     for (const n of nos) n.g.setAttribute("transform", `translate(${n.x.toFixed(1)},${n.y.toFixed(1)})`);
     for (const a of arestas) { a.el.setAttribute("x1", a.de_.x); a.el.setAttribute("y1", a.de_.y); a.el.setAttribute("x2", a.para_.x); a.el.setAttribute("y2", a.para_.y); }
   }
   function rotulos() {
-    const escala = L / vb.w;
-    for (const n of nos) if (n.tipo !== "tema") n.rot.style.display = n.destaque || (filtros.uf && n.ativo) || escala > 1.8 || n.total >= (escala > 1.2 ? 4 : 8) ? "" : "none";
+    // nomes só dos mais atuantes; os outros aparecem ao aproximar, ao passar o mouse ou num filtro
+    const escala = BASE.w / vb.w;
+    for (const n of nos) if (n.tipo !== "tema") n.rot.style.display = n.destaque || (filtros.uf && n.ativo) || escala > 2.4 || n.total >= (escala > 1.5 ? 6 : 12) ? "" : "none";
   }
 
   // filtros
   function aplicarFiltros() {
     for (const n of nos) n.ativo = n.tipo === "tema" ? filtros.temas.has(n.id) : false;
-    for (const a of arestas) { const v = visivel(a); a.el.style.display = v ? "" : "none"; if (v) a.de_.ativo = true; }
+    // a ligação principal de cada pessoa é a de mais atos entre as que passam no filtro
+    const melhor = new Map();
+    for (const a of arestas) {
+      a.principal = false;
+      if (!visivel(a)) continue;
+      a.de_.ativo = true;
+      // a do tema onde a pessoa está desenhada vence sempre que passa no filtro (linha curta)
+      const m = melhor.get(a.de);
+      if (!m || (m.para !== a.de_.principal && (a.para === a.de_.principal || soma(a) > soma(m)))) melhor.set(a.de, a);
+    }
+    for (const a of melhor.values()) a.principal = true;
     for (const n of nos) n.g.style.display = n.ativo ? "" : "none";
     selecionar(atual);
-    aquecer(0.6);
   }
 
   // destaque e seleção
@@ -165,8 +196,10 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   function destacar(n) {
     const viz = new Set();
     for (const a of arestas) {
-      const liga = n && (a.de === n.id || a.para === n.id) && visivel(a);
-      a.el.setAttribute("stroke-opacity", !n ? 0.45 : liga ? 0.95 : 0.05);
+      const v = visivel(a), liga = n && v && (a.de === n.id || a.para === n.id);
+      // fora do destaque, só a ligação principal de cada pessoa (ou todas, se pedido)
+      a.el.style.display = v && (liga || a.principal || filtros.todas) ? "" : "none";
+      a.el.setAttribute("stroke-opacity", !n ? (a.principal ? 0.55 : 0.3) : liga ? 0.95 : 0.05);
       if (liga) { viz.add(a.de); viz.add(a.para); }
     }
     for (const x of nos) { x.destaque = n && viz.has(x.id); x.g.style.opacity = !n || viz.has(x.id) ? 1 : 0.12; }
@@ -205,7 +238,7 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     const lig = arestas.filter((a) => a.de === n.id && visivel(a));
     const p = fichas[n.id] || {};
     const ft = fotoDe.get(n.id);
-    return `${ft ? `<img class="avatar grande" src="${esc(ft.arquivo)}" alt="Foto oficial de ${esc(n.nome)}" width="72" height="72"><p class="nota">${esc(ft.credito)}</p>` : ""}<h3><span class="ponto" style="background:${COR_GRUPO[n.grupo] || "#93c5fd"}"></span>${esc(n.nome)}</h3><p class="nota">${esc(p.cargo_epoca || "")}<br>${esc(n.grupo || "")}</p>
+    return `${ft ? `<a class="ampliar-foto" href="imagem.html?foto=${encodeURIComponent(n.id)}" title="Abrir a foto em tamanho grande"><img class="avatar grande" src="${esc(ft.arquivo)}" alt="Foto oficial de ${esc(n.nome)}" width="72" height="72"></a><p class="nota">${esc(ft.credito)}</p>` : ""}<h3><span class="ponto" style="background:${COR_GRUPO[n.grupo] || "#93c5fd"}"></span>${esc(n.nome)}</h3><p class="nota">${esc(p.cargo_epoca || "")}<br>${esc(n.grupo || "")}</p>
       ${ufDe.get(n.id) && ufDe.get(n.id).uf !== "Federal" ? `<p class="nota">📍 <a href="estados.html?uf=${esc(ufsDe(n.id)[0])}">${esc(ufsDe(n.id).join(", "))}</a> · ${esc(ufDe.get(n.id).vinculo)}</p>` : ""}
       ${p.crimes_cpi ? '<p class="nota">⚖️ Teve pedido de indiciamento na CPI. Pedido não é condenação.</p>' : ""}
       ${lig.map((a) => `<h4>${esc(a.para_.nome)} <span class="selo ${a.tipo === "ambos" ? "" : a.tipo}">(${NOME_LIGA[a.tipo]})</span></h4><ul class="atos">${a.atos.map(itemAto).join("")}</ul>`).join("")}
@@ -213,10 +246,11 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   }
   function painelInicial() {
     return `<h3>Como usar</h3><ul class="lista-simples">
-      <li>Os <strong>círculos grandes</strong> são temas; os pequenos, pessoas e instituições, coloridos pelo grupo.</li>
+      <li>Os <strong>círculos grandes</strong> são temas; os pequenos, pessoas e instituições, coloridos pela esfera de atuação.</li>
+      <li>Cada pessoa fica <strong>junto do tema em que mais atuou</strong>, e só essa ligação aparece. Passe o mouse ou clique num ponto para ver todas as ligações dele.</li>
       <li>A <strong>cor da linha</strong> diz o que a pessoa fez no tema: <span class="selo favor">verde, a favor</span>; <span class="selo contra">vermelho, contra</span>; <span style="color:#ca8a04;font-weight:600">amarelo, os dois</span>; cinza, só fatos processuais. Linha mais grossa, mais atos.</li>
       <li>Borda vermelha: teve pedido de indiciamento na CPI (não é condenação).</li>
-      <li>Passe o mouse para ver as conexões; <strong>clique</strong> para ver os atos com as fontes; arraste os pontos; use a roda ou os botões para aproximar.</li></ul>`;
+      <li>Passe o mouse para ver as conexões; <strong>clique</strong> para ver os atos com as fontes; use a roda ou os botões para aproximar.</li></ul>`;
   }
   if (painel) painel.addEventListener("click", (e) => {
     if (e.target.closest("[data-fechar]")) { selecionar(null); return; }
@@ -226,10 +260,11 @@ export async function montarRede(alvo, painel, opcoes = {}) {
 
   const api = {
     total: nos.length, ligacoes: arestas.length, temas, nos,
-    zoom: (f) => (f === 0 ? ((vb = { x: 0, y: 0, w: L, h: A }), aplicar()) : zoom(f)),
+    zoom: (f) => (f === 0 ? ((vb = { ...BASE }), aplicar()) : zoom(f)),
     alternarTema(id, on) { on ? filtros.temas.add(id) : filtros.temas.delete(id); aplicarFiltros(); },
     alternarLiga(t, on) { on ? filtros.ligas.add(t) : filtros.ligas.delete(t); aplicarFiltros(); },
     soCpi(on) { filtros.soCpi = on; aplicarFiltros(); },
+    todasLigacoes(on) { filtros.todas = on; destacar(atual); },
     // filtro por estado: "" = todos; "Federal" = atuação federal; "SP", "RJ"... Devolve quantas pessoas ficaram.
     porEstado(uf) { filtros.uf = uf || ""; aplicarFiltros(); return nos.filter((n) => n.tipo !== "tema" && n.ativo).length; },
     estados: estadosUF.map((e) => ({ uf: e.uf, nome: e.estado, pessoas: ufs.filter((u) => u.uf.split(";").includes(e.uf) && porId.has(u.id)).length })),
@@ -243,6 +278,7 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     c.addEventListener("click", (e) => { const z = e.target.dataset.z; if (z !== undefined) api.zoom(+z); });
     alvo.appendChild(c);
   }
+  desenhar();
   aplicarFiltros();
   if (painel && !opcoes.painelFlutuante) painel.innerHTML = painelInicial();
   api.ajuda = painelInicial;

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Imagem — Anatomia do Caos</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="assets/marca/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/estilo.css">
+</head>
+<body>
+<header class="topo">
+  <div class="conteiner">
+    <a class="marca" href="index.html">Anatomia do Caos</a>
+    <nav class="nav" aria-label="Principal">
+      <a href="index.html">Início</a>
+      <a href="investigacao.html">Investigação</a>
+      <a href="dinheiro.html">Caminho do dinheiro</a>
+      <a href="estados.html">Estados</a>
+      <a href="rede.html">Rede</a>
+      <a href="envolvidos.html">Envolvidos</a>
+      <a href="referencias.html">Referências</a>
+      <a href="https://github.com/nk-ls/anatomia-do-caos">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main class="conteiner">
+  <p><a class="botao-claro" id="voltar" href="index.html">← Voltar</a></p>
+  <figure class="imagem-inteira" id="figura">
+    <p class="nota">Carregando a imagem…</p>
+  </figure>
+  <p class="nota" id="dica-imagem">No celular, afaste dois dedos sobre a imagem para aproximar. <a id="baixar" href="#" download>Baixar a imagem</a></p>
+</main>
+
+<footer class="rodape">
+  <div class="conteiner">
+    <p>Uma fonte saiu do ar ou mudou? A cópia arquivada continua valendo. Encontrou um erro? <a href="https://github.com/nk-ls/anatomia-do-caos/issues">Abra uma issue com a fonte</a>.</p>
+    <p>Anatomia do Caos · Nickolas Moretto · com auxílio de inteligência artificial (Claude, da Anthropic) e revisão independente.</p>
+  </div>
+</footer>
+<script type="module">
+// Mostra uma imagem do site sozinha, grande, com a descrição e a fonte.
+// Só abre imagens do próprio site: os gráficos da página inicial (?grafico=) e as fotos oficiais (?foto=).
+import { carregarCSV, esc } from "./assets/js/csv.js";
+const q = new URLSearchParams(location.search), fig = document.getElementById("figura");
+const voltar = document.getElementById("voltar");
+// Volta para onde a pessoa estava; se ela chegou direto pelo link, vai para o início.
+if (document.referrer && new URL(document.referrer).origin === location.origin) voltar.href = document.referrer;
+voltar.addEventListener("click", (e) => { if (history.length > 1 && document.referrer) { e.preventDefault(); history.back(); } });
+async function achar() {
+  const g = q.get("grafico"), f = q.get("foto");
+  if (g && /^[0-9]{2}_[a-z0-9_]+$/.test(g)) {
+    const src = `graficos/${g}.png`;
+    const html = new DOMParser().parseFromString(await fetch("index.html").then((r) => r.text()), "text/html");
+    const img = html.querySelector(`img[src="${src}"]`);
+    if (!img) return null;
+    const leg = img.closest("figure")?.querySelector("figcaption")?.textContent || "";
+    return { src, alt: img.alt, legenda: leg, titulo: img.closest("section")?.querySelector("h2")?.textContent || "Gráfico" };
+  }
+  if (f && /^[a-z0-9-]+$/.test(f)) {
+    const [fotos, pessoas] = await Promise.all([carregarCSV("dados/fotos.csv"), carregarCSV("dados/pessoas.csv")]);
+    const ft = fotos.find((x) => x.id === f), p = pessoas.find((x) => x.id === f);
+    if (!ft) return null;
+    const nome = p?.nome || f;
+    return { src: ft.arquivo, alt: `Foto oficial de ${nome}`, titulo: nome, legenda: `${ft.credito}. ${ft.licenca}.`, ficha: `envolvidos.html?id=${encodeURIComponent(f)}` };
+  }
+  return null;
+}
+const d = await achar().catch(() => null);
+if (!d) fig.innerHTML = '<p>Imagem não encontrada. <a href="index.html">Ir para o início</a>.</p>';
+else {
+  document.title = `${d.titulo} — Anatomia do Caos`;
+  fig.innerHTML = `<h1>${esc(d.titulo)}</h1><img src="${esc(d.src)}" alt="${esc(d.alt)}"><figcaption><p>${esc(d.alt)}</p>${d.legenda ? `<p class="nota">${esc(d.legenda)}</p>` : ""}${d.ficha ? `<p><a href="${esc(d.ficha)}">Ver a ficha →</a></p>` : ""}</figcaption>`;
+  document.getElementById("baixar").href = d.src;
+}
+</script>
+</body>
+</html>

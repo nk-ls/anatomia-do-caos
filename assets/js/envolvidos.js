@@ -31,8 +31,10 @@ function iniciais(nome) {
 function avatar(p, grande = false) {
   const f = estado.fotos.get(p.id);
   const cls = grande ? "avatar grande" : "avatar";
+  const img = f && `<img class="${cls}" src="${esc(f.arquivo)}" alt="Foto oficial de ${esc(p.nome)}" title="${esc(f.credito)}" loading="lazy" width="${grande ? 96 : 44}" height="${grande ? 96 : 44}">`;
+  // na ficha, a foto abre sozinha numa página (no cartão não: o cartão inteiro já é um botão)
   return f
-    ? `<img class="${cls}" src="${esc(f.arquivo)}" alt="Foto oficial de ${esc(p.nome)}" title="${esc(f.credito)}" loading="lazy" width="${grande ? 96 : 44}" height="${grande ? 96 : 44}">`
+    ? grande ? `<a class="ampliar-foto" href="imagem.html?foto=${encodeURIComponent(p.id)}" title="Abrir a foto em tamanho grande">${img}</a>` : img
     : `<span class="${cls} sem-foto" aria-hidden="true">${esc(iniciais(p.nome))}</span>`;
 }
 

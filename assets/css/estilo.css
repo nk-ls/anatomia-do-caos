@@ -310,3 +310,13 @@ button.barra-linha { width: 100%; background: none; border: 0; font: inherit; te
 .provas li::before { font-family: var(--serifa); }
 .botao-claro, .botao { border-radius: 999px; }
 .rede-topo .marca::before { background: #e08a6b; }
+
+/* Imagens que abrem sozinhas numa página (imagem.html) */
+a.ampliar { display: block; position: relative; cursor: zoom-in; }
+a.ampliar img { display: block; }
+a.ampliar::after { content: "Ampliar ⤢"; position: absolute; right: 8px; bottom: 8px; font: 600 .78rem var(--sans); color: #fff; background: rgba(20,20,19,.72); padding: 4px 9px; border-radius: 999px; pointer-events: none; }
+a.ampliar:hover::after, a.ampliar:focus-visible::after { background: var(--destaque); }
+a.ampliar-foto { display: inline-block; cursor: zoom-in; }
+.imagem-inteira h1 { font-size: 1.4rem; margin: 4px 0 12px; }
+.imagem-inteira img { display: block; width: 100%; height: auto; max-width: 1400px; margin: 0 auto; }
+.imagem-inteira figcaption p { margin: 10px 0 0; }
