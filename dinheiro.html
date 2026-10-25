@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script>(function(){var t="claro";try{var s=localStorage.getItem("tema");if(s==="escuro"||s==="sistema")t=s}catch(e){}if(t!=="sistema")document.documentElement.setAttribute("data-tema",t)})()</script>
+<script>document.documentElement.setAttribute("data-tema","claro")</script>
 <title>Caminho do dinheiro — Transparência do Caos</title>
 <meta name="description" content="O caminho do dinheiro na pandemia: Covaxin, VTCLog, Davati, Global e doses vencidas. Quanto foi contratado, quanto foi pago, quanto foi barrado e o que os órgãos de controle decidiram, com documento em cada passo.">
 <meta property="og:type" content="website">
@@ -133,12 +133,14 @@
 <section id="rede-dinheiro">
   <h2>3. A rede do dinheiro</h2>
   <p>Empresas, pessoas e o Ministério da Saúde, ligados pelo que de fato aconteceu entre eles. Cada seta diz o que é: contrato, pagamento, garantia, cargo ou acusação. O número no canto de cada nó conta as decisões de órgãos de controle e da Justiça sobre aquela pessoa ou empresa. <strong>Clique</strong> em qualquer nome ou seta para ver os documentos. A rede cobre os casos federais, onde os documentos ligam empresas, sócios e órgãos entre si; os casos estaduais estão na seção 4.</p>
+  <div class="rede rede-dinheiro-grade">
   <div class="dinheiro-rede-caixa">
-    <div class="rede-legenda" id="rede-dinheiro-legenda"></div>
-    <div class="rede-rolagem" id="rede-dinheiro-svg"></div>
-    <p class="nota">Arraste para mover, use a pinça de dois dedos ou a roda do mouse para aproximar. Toque numa pessoa, empresa ou seta para ver os documentos.</p>
-  </div>
-  <div class="rede-dinheiro-painel" id="rede-dinheiro-painel" aria-live="polite"></div>
+      <div class="rede-legenda" id="rede-dinheiro-legenda"></div>
+      <div class="rede-rolagem" id="rede-dinheiro-svg"></div>
+      <p class="nota">Arraste para mover, use a pinça de dois dedos ou a roda do mouse para aproximar. Toque numa pessoa, empresa ou seta para ver os documentos.</p>
+    </div>
+    <div class="rede-dinheiro-painel" id="rede-dinheiro-painel" aria-live="polite"></div>
+</div>
   <details><summary>Ver todas as ligações em lista</summary><div id="rede-dinheiro-lista"></div></details>
   <p class="nota">Para ver todas as pessoas e instituições ligadas a todos os temas, use a <a href="rede.html">rede completa</a>.</p>
 </section>
@@ -181,6 +183,5 @@
   </div>
 </footer>
 <script type="module" src="assets/js/dinheiro.js"></script>
-<script src="assets/js/tema.js" defer></script>
 </body>
 </html>

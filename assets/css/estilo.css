@@ -391,3 +391,17 @@ body.sem-rolagem { overflow: hidden; }
 .dinheiro-rede-caixa.expandido #rede-dinheiro-svg { flex: 1; min-height: 0; }
 .dinheiro-rede-caixa.expandido .rede-dinheiro { height: 100%; width: 100%; }
 .dinheiro-rede-caixa.expandido .rede-legenda { flex: none; }
+
+
+/* O caminho do dinheiro usa a mesma grade da rede: grafo à esquerda, painel ao
+   lado. Antes o painel ficava embaixo, e o leitor perdia o grafo de vista ao
+   clicar num nó. */
+.rede-dinheiro-grade > .rede-dinheiro-painel {
+  margin: 0;
+  align-self: start;
+  max-height: 70vh;
+  overflow: auto;
+  border-left-width: 4px;
+}
+.rede-dinheiro-grade > .dinheiro-rede-caixa { min-width: 0; }
+.rede-dinheiro-grade > .dinheiro-rede-caixa.expandido { max-height: none; }
