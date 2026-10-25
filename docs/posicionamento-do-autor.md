@@ -3,6 +3,12 @@
 > Esta página é **opinião**, não fato. Está separada do levantamento para que o leitor
 > distinga o que é dado verificável do que é posição pessoal.
 
+> *Mas, se ergues da justiça a clava forte,*
+> *Verás que um filho teu não foge à luta,*
+> *Nem teme, quem te adora, a própria morte.*
+>
+> Hino Nacional Brasileiro, letra de Joaquim Osório Duque Estrada ([texto oficial no Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/hino.htm); [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/tree/main/arquivo/planalto-gov-br-ccivil-03-constituicao-hino-htm-c3f21cdc))
+
 **A Bandeira do Brasil é do povo.** Ela pertence a todos os brasileiros e não deve servir a nenhum lado político. O Brasil é do seu povo.
 
 **O nome de D'us não deve ser profanado,** nem as Escrituras. *Profanar* é desrespeitar o que é sagrado: tratá-lo sem reverência, rebaixá-lo ou usá-lo para fins que o desonram ([Dicio](https://www.dicio.com.br/profanacao/): profanação é "ação ou efeito de profanar; sacrilégio"). Usar o nome de D'us ou passagens bíblicas para justificar o descaso com a vida é uma forma de profanação.
