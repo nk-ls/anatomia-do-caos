@@ -200,12 +200,23 @@ tr.brasil td { font-weight: 700; background: color-mix(in srgb, var(--destaque) 
 .cadeira.sim .bola { background: var(--favor); } .cadeira.nao .bola { background: var(--contra); }
 
 /* Rede em tela cheia */
-body.tela-cheia { height: 100vh; overflow: hidden; background: var(--fundo); color: var(--texto); }
-.rede-topo { display: flex; align-items: center; gap: 10px; padding: 8px 12px; background: var(--superficie); border-bottom: 1px solid var(--borda); flex-wrap: wrap; }
+body.tela-cheia {
+  height: 100vh;
+  height: 100dvh;           /* no celular, 100vh inclui a barra do navegador */
+  overflow: hidden;
+  background: var(--fundo);
+  color: var(--texto);
+  display: flex;            /* o grafo ocupa o que sobrar, seja qual for o cabeçalho */
+  flex-direction: column;
+}
+.rede-topo { display: flex; align-items: center; gap: 10px; padding: 8px 12px; background: var(--superficie); border-bottom: 1px solid var(--borda); flex-wrap: wrap; flex: none; }
 .rede-topo .marca { color: var(--texto); margin-right: auto; }
 .rede-busca input { font: inherit; padding: 7px 10px; border-radius: 8px; border: 1px solid var(--borda); background: var(--fundo); color: var(--texto); width: min(320px, 60vw); }
 .botao { font: inherit; font-size: .9rem; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--borda); background: var(--superficie); color: var(--texto); text-decoration: none; cursor: pointer; }
-.rede-cheia { position: relative; height: calc(100vh - 54px); }
+/* Antes era calc(100vh - 54px), com 54px cravados para o cabeçalho. A 390px de
+   largura o cabeçalho quebra em várias linhas e passa de 200px: o grafo era
+   empurrado para fora da tela e, com overflow hidden, ficava inalcançável. */
+.rede-cheia { position: relative; flex: 1; min-height: 0; }
 .rede-cheia .rede-quadro { height: 100%; border: 0; border-radius: 0; }
 .rede-cheia .rede-svg { height: 100%; aspect-ratio: auto; }
 .rede-cheia .rede-controles { position: absolute; left: 12px; bottom: 12px; top: auto; right: auto; }
@@ -219,7 +230,35 @@ body.tela-cheia { height: 100vh; overflow: hidden; background: var(--fundo); col
 .rede-dica { position: absolute; pointer-events: none; background: var(--texto); color: var(--fundo); font-size: .82rem; padding: 4px 8px; border-radius: 6px; white-space: nowrap; z-index: 3; }
 .rede-quadro .rot-pessoa { display: inline; }
 @media (max-width: 700px) {
-  .rede-painel.flutuante { top: auto; bottom: 0; right: 0; width: 100%; max-height: 45%; border-radius: var(--raio) var(--raio) 0 0; }
+  /* No celular o painel vira folha: alta o bastante para ler, rolável por
+     dentro, e com botão de fechar grande o suficiente para o dedo. */
+  .rede-painel.flutuante {
+    top: auto; bottom: 0; right: 0; left: 0;
+    width: 100%;
+    max-height: 72%;
+    border-radius: 16px 16px 0 0;
+    border-bottom: 0;
+    padding: 14px 16px 20px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-y;            /* rolar dentro, sem o grafo capturar */
+    overscroll-behavior: contain;   /* ao chegar no fim, não arrasta a página */
+    box-shadow: 0 -8px 28px rgba(0,0,0,.22);
+  }
+  /* alça, para o painel parecer arrastável e não um pedaço cortado do grafo */
+  .rede-painel.flutuante::before {
+    content: ""; display: block; width: 40px; height: 4px; border-radius: 2px;
+    background: var(--borda); margin: 0 auto 12px;
+  }
+  .rede-painel.flutuante .fechar {
+    position: sticky; top: 0; float: right;
+    width: 44px; height: 44px;      /* alvo de toque recomendado */
+    margin: -8px -8px 0 0;
+    font-size: 1.9rem; line-height: 1;
+    background: var(--superficie); border-radius: 50%;
+    z-index: 2;
+  }
+  .rede-filtros { max-height: 60%; touch-action: pan-y; overscroll-behavior: contain; }
 }
 .rede-painel .fechar { float: right; background: none; border: 0; color: inherit; font-size: 1.6rem; line-height: 1; cursor: pointer; }
 .rede-filtros .lista-simples { font-size: .88rem; padding-left: 16px; }
@@ -405,3 +444,22 @@ body.sem-rolagem { overflow: hidden; }
 }
 .rede-dinheiro-grade > .dinheiro-rede-caixa { min-width: 0; }
 .rede-dinheiro-grade > .dinheiro-rede-caixa.expandido { max-height: none; }
+
+
+/* O nome do nó também recebe toque.
+   No celular o rótulo é o alvo maior e mais fácil que o círculo; com
+   pointer-events:none ele não respondia a nada. Vale para os dois grafos. */
+.rede-svg .no .rot-tema,
+.rede-svg .no .rot-pessoa { pointer-events: auto; cursor: pointer; }
+.rede-dinheiro .no-dinheiro .nome-no { pointer-events: auto; cursor: pointer; }
+
+
+/* Cabeçalho da rede em tela cheia, no celular.
+   A 390px ele quebrava para 204px de altura — mais de um quinto da tela. */
+@media (max-width: 560px) {
+  .rede-topo { gap: 6px; padding: 6px 8px; }
+  .rede-topo .marca { font-size: 1rem; width: 100%; margin-right: 0; }
+  .rede-busca { flex: 1 1 100%; }
+  .rede-busca input { width: 100%; }
+  .rede-topo .botao { font-size: .8rem; padding: 5px 9px; }
+}

@@ -167,6 +167,7 @@ requestAnimationFrame(() => ligs.forEach((l) => {
 
 R.nos.forEach((n) => {
   n.g = el("g", { class: "no-dinheiro", tabindex: 0, transform: `translate(${n.x},${n.y})` }, gn);
+  el("circle", { r: Math.max(n.r, 22), fill: "transparent", class: "alvo-toque" }, n.g);
   el("circle", { r: n.r, fill: COR_NO[n.tipo], stroke: "var(--superficie)", "stroke-width": 3 }, n.g);
   const t = el("text", { y: n.r + 17, "text-anchor": "middle", class: "nome-no" }, n.g); t.textContent = n.nome;
   if (n.decisoes.length) {
@@ -277,7 +278,7 @@ if (receita) {
     dedos.set(e.pointerId, e);
     if (dedos.size === 2) { arrasto = null; pinca = { d: dist(), c: meio() }; return; }
     if (dedos.size > 2) return;
-    arrasto = { x: e.clientX, y: e.clientY, vx: vb.x, vy: vb.y };
+    arrasto = { x: e.clientX, y: e.clientY, vx: vb.x, vy: vb.y, moveu: false };
   });
   svg.addEventListener("pointermove", (e) => {
     if (dedos.has(e.pointerId)) dedos.set(e.pointerId, e);
@@ -287,6 +288,9 @@ if (receita) {
       return;
     }
     if (!arrasto) return;
+    // mesmo limiar da rede: o tremor do dedo não deve deslocar o grafo
+    if (!arrasto.moveu && Math.hypot(e.clientX - arrasto.x, e.clientY - arrasto.y) < 10) return;
+    arrasto.moveu = true;
     const r = svg.getBoundingClientRect();
     vb.x = arrasto.vx - ((e.clientX - arrasto.x) / r.width) * vb.w;
     vb.y = arrasto.vy - ((e.clientY - arrasto.y) / r.height) * vb.h;

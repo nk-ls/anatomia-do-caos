@@ -118,6 +118,9 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   for (const n of nos) {
     const tema = n.tipo === "tema";
     n.g = el("g", { class: "no", tabindex: 0, role: "button", "aria-label": n.nome }, gn);
+    // Área de toque invisível: no dedo, um círculo de 13px de raio é alvo
+    // pequeno demais. Fica atrás de tudo e não muda nada no visual.
+    el("circle", { r: Math.max(n.r, 20), fill: "transparent", class: "alvo-toque" }, n.g);
     const cor = tema ? COR_TEMA[n.id.slice(5)] : COR_GRUPO[n.grupo] || "#93c5fd";
     const foto = !tema && fotoDe.get(n.id);
     if (foto) {
@@ -147,7 +150,8 @@ export async function montarRede(alvo, painel, opcoes = {}) {
   const ponto = (e) => { const p = svg.getBoundingClientRect(); return { x: vb.x + ((e.clientX - p.left) / p.width) * vb.w, y: vb.y + ((e.clientY - p.top) / p.height) * vb.h }; };
   svg.addEventListener("wheel", (e) => { e.preventDefault(); const p = ponto(e); zoom(e.deltaY > 0 ? 1.15 : 0.87, p.x, p.y); }, { passive: false });
 
-  let arrasto = null, arrastou = false;
+  let arrasto = null, arrastou = false, partida = null;
+  const LIMIAR = 10;  // pixels
 
   // Dedos encostados na tela. Com dois, vira pinça de zoom — no celular não há
   // roda de mouse, e o .rede-quadro usa touch-action:none, que desliga o zoom
@@ -178,6 +182,8 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     if (dedos.size > 2) return;
     const gno = e.target.closest(".no"); arrastou = false;
     const n = gno && nos.find((x) => x.g === gno);
+    // guarda onde o dedo encostou: só vira arraste depois de passar o limiar
+    partida = { x: e.clientX, y: e.clientY };
     if (n) { arrasto = { no: n }; n.preso = true; } else arrasto = { x: e.clientX, y: e.clientY, vx: vb.x, vy: vb.y };
     svg.setPointerCapture(e.pointerId);
   });
@@ -189,10 +195,28 @@ export async function montarRede(alvo, painel, opcoes = {}) {
       return;
     }
     if (!arrasto) return;
+    // No dedo o toque sempre treme alguns pixels. Sem este limiar, qualquer
+    // toque virava arraste e a seleção do nó nunca acontecia no celular.
+    if (!arrastou && partida && Math.hypot(e.clientX - partida.x, e.clientY - partida.y) < LIMIAR) return;
     arrastou = true;
     if (arrasto.no) { const p = ponto(e); arrasto.no.x = p.x; arrasto.no.y = p.y; desenhar(); }
     else { const r = svg.getBoundingClientRect(); vb.x = arrasto.vx - ((e.clientX - arrasto.x) / r.width) * vb.w; vb.y = arrasto.vy - ((e.clientY - arrasto.y) / r.height) * vb.h; aplicar(); }
   });
+  // O painel fica dentro do .rede-quadro, que tem touch-action:none. Sem isto,
+  // o dedo que rola o texto era lido pelo grafo como arraste, e ao soltar o
+  // grafo entendia "toque no vazio" e fechava o painel.
+  if (painel) {
+    for (const ev of ["pointerdown", "pointermove", "pointerup", "wheel", "touchstart", "touchmove"]) {
+      painel.addEventListener(ev, (e) => e.stopPropagation(), { passive: true });
+    }
+  }
+  const filtrosEl = document.getElementById("filtros");
+  if (filtrosEl) {
+    for (const ev of ["pointerdown", "pointermove", "pointerup", "wheel", "touchstart", "touchmove"]) {
+      filtrosEl.addEventListener(ev, (e) => e.stopPropagation(), { passive: true });
+    }
+  }
+
   const soltar = (e) => {
     dedos.delete(e.pointerId);
     if (dedos.size < 2) pinca = null;
@@ -208,9 +232,16 @@ export async function montarRede(alvo, painel, opcoes = {}) {
     for (const a of arestas) { a.el.setAttribute("x1", a.de_.x); a.el.setAttribute("y1", a.de_.y); a.el.setAttribute("x2", a.para_.x); a.el.setAttribute("y2", a.para_.y); }
   }
   function rotulos() {
-    // nomes só dos mais atuantes; os outros aparecem ao aproximar, ao passar o mouse ou num filtro
+    // Nomes só dos mais atuantes; os outros aparecem ao aproximar, ao passar o
+    // mouse ou num filtro.
+    // Em tela estreita os limiares sobem bastante: a 390px, mostrar todos os
+    // nomes a partir de 2,4x empilhava mais de cem rótulos uns sobre os outros.
+    // No toque não há hover, então quem quiser o nome toca no nó e lê no painel.
     const escala = BASE.w / vb.w;
-    for (const n of nos) if (n.tipo !== "tema") n.rot.style.display = n.destaque || (filtros.uf && n.ativo) || escala > 2.4 || n.total >= (escala > 1.5 ? 6 : 12) ? "" : "none";
+    const estreito = window.matchMedia("(max-width: 700px)").matches;
+    const porEscala = estreito ? 6 : 2.4;
+    const porAtos = escala > 1.5 ? (estreito ? 16 : 6) : (estreito ? 24 : 12);
+    for (const n of nos) if (n.tipo !== "tema") n.rot.style.display = n.destaque || (filtros.uf && n.ativo) || escala > porEscala || n.total >= porAtos ? "" : "none";
   }
 
   // filtros
