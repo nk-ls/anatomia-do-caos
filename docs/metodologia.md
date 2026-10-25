@@ -30,3 +30,26 @@ e gera `dados/covid_paises.csv` e os gráficos em `graficos/`.
 - População de referência: 2022 (OWID).
 - Comparar países não isola o efeito de governo: idade da população, densidade, desigualdade,
   variantes e sistema de saúde também pesam. O README e docs/estudos.md tratam disso explicitamente.
+
+## O que este levantamento não classifica
+
+**Partido e "lado político" não aparecem nas fichas.** A pergunta é legítima e a
+decisão é deliberada, por três razões:
+
+1. **Não se aplica à maioria.** Das 115 fichas, **18 são de pessoas com mandato
+   eletivo**. As outras 97 são médicos, servidores, empresários, jornalistas e
+   instituições como Anvisa, Fiocruz, STF e Butantan. Para elas, partido não é
+   um dado que exista.
+2. **O partido mudava durante a pandemia.** Na legislatura de 2019–2023, uma
+   mesma deputada aparece no registro da Câmara por quatro siglas diferentes.
+   Qualquer rótulo exigiria uma data de referência arbitrária, e estaria errado
+   em metade dos casos sob qualquer outra.
+3. **"Lado político" não tem fonte.** Não existe registro oficial, não há como
+   conferir, e este levantamento só afirma o que tem documento. Um rótulo desses
+   seria opinião do autor sobre a identidade de alguém — e não sobre um ato
+   documentado, que é a única coisa que as fichas classificam.
+
+Quem quiser fazer esse cruzamento tem os dados abertos: a planilha de atos e a
+de pessoas estão publicadas, e as APIs da Câmara e do Senado dão a filiação
+oficial. O site não faz a conta por você porque não teria como mostrar a fonte
+de cada rótulo — e a regra aqui é que todo fato tenha a sua.
