@@ -5,3 +5,5 @@ saida/
 *.mp3
 *.m4a
 *.webm
+node_modules/
+package-lock.json
