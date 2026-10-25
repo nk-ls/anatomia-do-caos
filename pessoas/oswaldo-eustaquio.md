@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 1062: incluído entre os que, segundo a comissão, "de forma mal intencionada e visando interesses próprios e escusos, provocaram grande confusão na população", conduta que o relatório enquadrou como incitação ao crime (CP art. 286). [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1062: incluído entre os que, segundo a comissão, "de forma mal intencionada e visando interesses próprios e escusos, provocaram grande confusão na população", conduta que o relatório enquadrou como incitação ao crime (CP art. 286). [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

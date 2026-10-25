@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **0** contra · ⚪ **1** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.
-
-## ⚪ Fatos processuais e neutros
-
-- **15/07/2021** · *179 dias depois da 1ª vacina* (alegação) Segundo Cristiano Carvalho na CPI, foi o conhecido em comum que o apresentou a Dominguetti por volta de janeiro de 2021 [fonte](https://www.em.com.br/app/noticia/politica/2021/07/15/interna_politica,1286906/representante-da-davati-diz-que-dominghetti-o-procurou-para-negociar-vacina.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-07-15-interna-politica-1286906-representante-da-davati-01600499/2026-10-24.html)
+- ⚪ **15/07/2021** · *179 dias depois da 1ª vacina · 538.942 mortes até aqui* (alegação) Segundo Cristiano Carvalho na CPI, foi o conhecido em comum que o apresentou a Dominguetti por volta de janeiro de 2021 [fonte](https://www.em.com.br/app/noticia/politica/2021/07/15/interna_politica,1286906/representante-da-davati-diz-que-dominghetti-o-procurou-para-negociar-vacina.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-07-15-interna-politica-1286906-representante-da-davati-01600499/2026-10-24.html)
 
 ## Na CPI da Covid
 

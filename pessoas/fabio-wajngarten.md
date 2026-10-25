@@ -9,19 +9,14 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **2** contra · ⚪ **2** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **03/2020** · *cerca de 10 meses antes da 1ª vacina* (fato) Secom divulgou a campanha "O Brasil não pode parar", contra restrições de circulação; procuradores pediram ação de improbidade contra ele [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/procuradores-querem-acao-de-improbidade-contra-secom-por-brasil-nao-pode-parar/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jornaldebrasilia-com-br-noticias-politica-e-poder-procuradores-querem-acao-de-improbidade--abf17e5e/2026-10-24.html)
-- **12/05/2021** · *115 dias depois da 1ª vacina* (checagem) Aos Fatos apontou informações falsas sobre vacina e distanciamento em seu depoimento à CPI [fonte](https://www.aosfatos.org/noticias/wajngarten-se-defende-na-cpi-da-covid-com-informacoes-falsas-sobre-vacina-e-distanciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-wajngarten-se-defende-na-cpi-da-covid-com-informacoes-falsas-sobre-v-6c75a23b/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-- **22/04/2021** · *95 dias depois da 1ª vacina* (declaração) Disse à revista Veja que "abriu as portas do Palácio" à Pfizer e atribuiu o atraso a "incompetência" no Ministério da Saúde [fonte](https://www.poder360.com.br/governo/wajngarten-joga-culpa-por-atraso-na-vacinacao-em-pazuello-incompetencia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-wajngarten-joga-culpa-por-atraso-na-vacinacao-em-pazuello-incompet-b5600e29/2026-10-24.html)
-- **12/05/2021** · *115 dias depois da 1ª vacina* (declaração) Afirmou à CPI que a carta da Pfizer de 12/09/2020 ficou sem resposta até 9 de novembro, quando ele a respondeu [fonte](https://exame.com/brasil/governo-ignorou-carta-da-pfizer-por-dois-meses-diz-wajngarten) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/exame-com-brasil-governo-ignorou-carta-da-pfizer-por-dois-meses-diz-wajngarten-bcc61a89/2026-10-24.html)
+- 🔴 **03/2020** · *cerca de 10 meses antes da 1ª vacina* (fato) Secom divulgou a campanha "O Brasil não pode parar", contra restrições de circulação; procuradores pediram ação de improbidade contra ele [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/procuradores-querem-acao-de-improbidade-contra-secom-por-brasil-nao-pode-parar/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jornaldebrasilia-com-br-noticias-politica-e-poder-procuradores-querem-acao-de-improbidade--abf17e5e/2026-10-24.html)
+- ⚪ **22/04/2021** · *95 dias depois da 1ª vacina · 383.502 mortes até aqui* (declaração) Disse à revista Veja que "abriu as portas do Palácio" à Pfizer e atribuiu o atraso a "incompetência" no Ministério da Saúde [fonte](https://www.poder360.com.br/governo/wajngarten-joga-culpa-por-atraso-na-vacinacao-em-pazuello-incompetencia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-wajngarten-joga-culpa-por-atraso-na-vacinacao-em-pazuello-incompet-b5600e29/2026-10-24.html)
+- ⚪ **12/05/2021** · *115 dias depois da 1ª vacina · 428.034 mortes até aqui* (declaração) Afirmou à CPI que a carta da Pfizer de 12/09/2020 ficou sem resposta até 9 de novembro, quando ele a respondeu [fonte](https://exame.com/brasil/governo-ignorou-carta-da-pfizer-por-dois-meses-diz-wajngarten) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/exame-com-brasil-governo-ignorou-carta-da-pfizer-por-dois-meses-diz-wajngarten-bcc61a89/2026-10-24.html)
+- 🔴 **12/05/2021** · *115 dias depois da 1ª vacina · 428.034 mortes até aqui* (checagem) Aos Fatos apontou informações falsas sobre vacina e distanciamento em seu depoimento à CPI [fonte](https://www.aosfatos.org/noticias/wajngarten-se-defende-na-cpi-da-covid-com-informacoes-falsas-sobre-vacina-e-distanciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-wajngarten-se-defende-na-cpi-da-covid-com-informacoes-falsas-sobre-v-6c75a23b/2026-10-24.html)
 
 ## Na CPI da Covid
 

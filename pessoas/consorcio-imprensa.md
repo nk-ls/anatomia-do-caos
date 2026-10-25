@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-- **08/06/2020** · *223 dias antes da 1ª vacina* (fato) Passou a apurar casos e mortes direto com as 27 secretarias estaduais quando o Ministério da Saúde atrasou e alterou a divulgação dos dados. [fonte](https://seer.ufrgs.br/index.php/intexto/article/view/140935) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/seer-ufrgs-br-index-php-intexto-article-view-140935-f854cbe5/2026-10-25.html) · [no documentário, 00:03:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=180s)
+🟢 **1** a favor · 🔴 **0** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-Nenhum ato registrado ainda neste levantamento.
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🟢 **08/06/2020** · *223 dias antes da 1ª vacina · 37.134 mortes até aqui* (fato) Passou a apurar casos e mortes direto com as 27 secretarias estaduais quando o Ministério da Saúde atrasou e alterou a divulgação dos dados. [fonte](https://seer.ufrgs.br/index.php/intexto/article/view/140935) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/seer-ufrgs-br-index-php-intexto-article-view-140935-f854cbe5/2026-10-25.html) · [no documentário, 00:03:00](https://www.youtube.com/watch?v=MG3XZYu0_No&t=180s)
 
 ## Na CPI da Covid
 

@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-- **27/06/2020** · *204 dias antes da 1ª vacina* (fato) Acordo com AstraZeneca/Oxford para produzir a vacina no Brasil; em jun/2021, contrato de transferência do IFA (a transferência atrasou em relação ao previsto). [fonte](https://www.conass.org.br/?p=22379) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/conass-org-br-p-22379-e7375b94/2026-10-24.html)
+🟢 **1** a favor · 🔴 **0** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-Nenhum ato registrado ainda neste levantamento.
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🟢 **27/06/2020** · *204 dias antes da 1ª vacina · 57.070 mortes até aqui* (fato) Acordo com AstraZeneca/Oxford para produzir a vacina no Brasil; em jun/2021, contrato de transferência do IFA (a transferência atrasou em relação ao previsto). [fonte](https://www.conass.org.br/?p=22379) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/conass-org-br-p-22379-e7375b94/2026-10-24.html)
 
 ## Na CPI da Covid
 

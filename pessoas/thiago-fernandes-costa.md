@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 1086: como assessor técnico do Núcleo de Insumos do Departamento de Imunização, é um dos dois servidores que, segundo o relatório, "deram seguimento ao processo, mesmo cientes das irregularidades" na contratação da Covaxin. A comissão viu indícios de advocacia administrativa. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1086: como assessor técnico do Núcleo de Insumos do Departamento de Imunização, é um dos dois servidores que, segundo o relatório, "deram seguimento ao processo, mesmo cientes das irregularidades" na contratação da Covaxin. A comissão viu indícios de advocacia administrativa. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

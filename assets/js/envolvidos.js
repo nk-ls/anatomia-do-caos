@@ -1,12 +1,9 @@
-import { carregarCSV, esc, dataBR, escComLinks, quando, urlsFonte } from "./csv.js";
+import { carregarCSV, esc, dataBR, escComLinks, quando, urlsFonte, carregarMortes, mortesAte } from "./csv.js";
 
 const VIDEO = "https://www.youtube.com/watch?v=MG3XZYu0_No";
 const CLASSE = { "a favor": "favor", contra: "contra", processual: "processual" };
-const TITULOS = [
-  ["a favor", "🟢 O que fez a favor do combate à pandemia"],
-  ["contra", "🔴 O que fez contra o combate à pandemia"],
-  ["processual", "⚪ Fatos processuais e neutros"],
-];
+const SELO = { "a favor": "🟢", contra: "🔴", processual: "⚪" };
+const TITULOS_CURTOS = { "a favor": "a favor do combate à pandemia", contra: "contra o combate à pandemia", processual: "processual ou neutro" };
 
 const estado = { pessoas: [], atosPor: new Map(), copias: new Map(), fotos: new Map() };
 const $ = (id) => document.getElementById(id);
@@ -69,6 +66,12 @@ function listar() {
   $("lista").innerHTML = lista.map(cartao).join("") || '<p class="nota">Nenhuma ficha encontrada.</p>';
 }
 
+// Quando o ato aconteceu, e em que altura da pandemia. Duas pílulas, não uma
+// string colada: juntas passam de 330px e estouram a tela de um celular
+// estreito; separadas, quebram a linha sozinhas.
+const contexto = (d) => [quando(d), mortesAte(d)].filter(Boolean)
+  .map((t) => `<span class="desde-marco">${esc(t)}</span>`).join(" ");
+
 // Um ato pode ter mais de uma fonte. Cada uma ganha o seu link e a sua cópia.
 function refsHTML(campo) {
   const urls = urlsFonte(campo);
@@ -82,17 +85,26 @@ function refsHTML(campo) {
 }
 
 function ficha(p) {
+  // Uma linha do tempo só, não três listas separadas. Agrupado por verde,
+  // vermelho e branco, a sequência real sumia: um ato a favor dois dias depois
+  // de um ato contra aparecia em seções distintas, e o leitor não via a
+  // contradição. O selo de cada linha continua dizendo a classificação.
   const atos = (estado.atosPor.get(p.id) || []).slice().sort((a, b) => a.data.localeCompare(b.data));
-  const blocos = TITULOS.map(([av, titulo]) => {
-    const itens = atos.filter((a) => a.avaliacao === av).map((a) => `<li class="${CLASSE[av]}">
-      <span class="data">${dataBR(a.data)}</span>${quando(a.data) ? ` <span class="desde-marco">${esc(quando(a.data))}</span>` : ""} <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)}
+  const conta = (av) => atos.filter((a) => a.avaliacao === av).length;
+  const linhas = atos.map((a) => `<li class="${CLASSE[a.avaliacao]}">
+      <span class="selo-ato" title="${esc(TITULOS_CURTOS[a.avaliacao])}">${SELO[a.avaliacao]}</span>
+      <span class="data">${dataBR(a.data)}</span>${contexto(a.data) ? ` ${contexto(a.data)}` : ""} <span class="tipo">(${esc(a.tipo)})</span> ${esc(a.ato)}
       ${refsHTML(a.fonte)}
       ${a.no_documentario ? ` · <a href="${VIDEO}&t=${segundos(a.no_documentario)}s" target="_blank" rel="noopener">no documentário, ${esc(a.no_documentario)}</a>` : ""}
     </li>`).join("");
-    return `<h3>${titulo}</h3>${itens ? `<ul class="atos">${itens}</ul>` : (av === "contra" && p.crimes_cpi
-        ? '<p class="nota aviso-lacuna">Este levantamento <strong>ainda não registrou atos desta pessoa</strong>. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.</p>'
-        : '<p class="nota">Nenhum ato registrado ainda neste levantamento.</p>')}`;
-  }).join("");
+  const vazio = p.crimes_cpi
+    ? '<p class="nota aviso-lacuna">Este levantamento <strong>ainda não registrou atos desta pessoa</strong>. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.</p>'
+    : '<p class="nota">Nenhum ato registrado ainda neste levantamento.</p>';
+  const blocos = `<h3>O que fez, em ordem</h3>
+    <p class="nota resumo-selos"><span class="selo favor">🟢 ${conta("a favor")} a favor</span>
+      <span class="selo contra">🔴 ${conta("contra")} contra</span>
+      <span class="selo processual">⚪ ${conta("processual")} processual</span></p>
+    ${linhas ? `<ul class="atos linha-tempo">${linhas}</ul>` : vazio}`;
   const cpi = p.crimes_cpi
     ? `<p class="aviso">⚖️ Pedido de indiciamento não é condenação.</p><p><strong>Crimes apontados no relatório final (26/10/2021):</strong> ${esc(p.crimes_cpi)}</p>`
     : "<p>Sem pedido de indiciamento no relatório final.</p>";
@@ -122,7 +134,7 @@ function mostrar() {
 }
 
 async function iniciar() {
-  const [pessoas, atos, fontes, fotos, wikidata, ufs, estadosUF] = await Promise.all([carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv"), carregarCSV("dados/fotos.csv"), carregarCSV("dados/wikidata.csv").catch(() => []), carregarCSV("dados/pessoas_uf.csv").catch(() => []), carregarCSV("dados/estados.csv").catch(() => [])]);
+  const [, pessoas, atos, fontes, fotos, wikidata, ufs, estadosUF] = await Promise.all([carregarMortes(), carregarCSV("dados/pessoas.csv"), carregarCSV("dados/atos.csv"), carregarCSV("dados/fontes.csv"), carregarCSV("dados/fotos.csv"), carregarCSV("dados/wikidata.csv").catch(() => []), carregarCSV("dados/pessoas_uf.csv").catch(() => []), carregarCSV("dados/estados.csv").catch(() => [])]);
   estado.uf = new Map(ufs.map((u) => [u.id, u]));
   $("uf").insertAdjacentHTML("beforeend", estadosUF.map((e) => `<option value="${esc(e.uf)}">${esc(e.estado)} (${esc(e.uf)})</option>`).join(""));
   const ufInicial = new URLSearchParams(location.search).get("uf");

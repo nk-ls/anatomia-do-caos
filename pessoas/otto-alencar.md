@@ -9,18 +9,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **0** contra · ⚪ **2** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-Nenhum ato registrado ainda neste levantamento.
-
-## ⚪ Fatos processuais e neutros
-
-- **01/06/2021** · *135 dias depois da 1ª vacina* (fato) Na CPI, como médico, confrontou Nise Yamaguchi com perguntas básicas de infectologia (a diferença entre protozoário e vírus; a família do vírus da Covid-19) e concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jornaldebrasilia-com-br-noticias-politica-e-poder-otto-alencar-questiona-nise-e-afirma-a-s-b2bc14e0/2026-10-24.html) · [no documentário, 00:17:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1050s)
-- **26/10/2021** · *282 dias depois da 1ª vacina* (fato) Votou a favor da aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
+- ⚪ **01/06/2021** · *135 dias depois da 1ª vacina · 465.199 mortes até aqui* (fato) Na CPI, como médico, confrontou Nise Yamaguchi com perguntas básicas de infectologia (a diferença entre protozoário e vírus; a família do vírus da Covid-19) e concluiu: "a senhora não sabe nada de infectologia". [fonte](https://jornaldebrasilia.com.br/noticias/politica-e-poder/otto-alencar-questiona-nise-e-afirma-a-senhora-nao-sabe-nada-de-infectologia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jornaldebrasilia-com-br-noticias-politica-e-poder-otto-alencar-questiona-nise-e-afirma-a-s-b2bc14e0/2026-10-24.html) · [no documentário, 00:17:30](https://www.youtube.com/watch?v=MG3XZYu0_No&t=1050s)
+- ⚪ **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (fato) Votou a favor da aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
 
 ## Na CPI da Covid
 

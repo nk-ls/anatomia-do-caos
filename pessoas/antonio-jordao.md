@@ -5,17 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **1** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **23/02/2021** · *37 dias depois da 1ª vacina* (fato) Associação Médicos pela Vida, que preside, publicou em grandes jornais anúncio pago ('Manifesto pela Vida') defendendo 'tratamento precoce' com hidroxicloroquina, azitromicina e ivermectina [fonte](https://www.congressoemfoco.com.br/noticia/22289/jornais-publicam-anuncio-pago-de-tratamento-ineficaz-contra-covid-19) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-noticia-22289-jornais-publicam-anuncio-pago-de-tratamento-ineficaz--283989c7/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-- **11/06/2021** · *145 dias depois da 1ª vacina* (fato) Médicos pela Vida recorreu ao STF para preservar seu sigilo diante da CPI da Covid [fonte](https://blogs.correiobraziliense.com.br/servidor/medicos-pela-vida-recorre-ao-stf-para-preservar-sigilo-na-cpi/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/blogs-correiobraziliense-com-br-servidor-medicos-pela-vida-recorre-ao-stf-para-preservar-s-380cbbc7/2026-10-24.html)
+- 🔴 **23/02/2021** · *37 dias depois da 1ª vacina · 248.529 mortes até aqui* (fato) Associação Médicos pela Vida, que preside, publicou em grandes jornais anúncio pago ('Manifesto pela Vida') defendendo 'tratamento precoce' com hidroxicloroquina, azitromicina e ivermectina [fonte](https://www.congressoemfoco.com.br/noticia/22289/jornais-publicam-anuncio-pago-de-tratamento-ineficaz-contra-covid-19) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-noticia-22289-jornais-publicam-anuncio-pago-de-tratamento-ineficaz--283989c7/2026-10-24.html)
+- ⚪ **11/06/2021** · *145 dias depois da 1ª vacina · 484.235 mortes até aqui* (fato) Médicos pela Vida recorreu ao STF para preservar seu sigilo diante da CPI da Covid [fonte](https://blogs.correiobraziliense.com.br/servidor/medicos-pela-vida-recorre-ao-stf-para-preservar-sigilo-na-cpi/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/blogs-correiobraziliense-com-br-servidor-medicos-pela-vida-recorre-ao-stf-para-preservar-s-380cbbc7/2026-10-24.html)
 
 ## Na CPI da Covid
 

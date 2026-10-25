@@ -70,6 +70,23 @@ def quando(d):
     return f"cerca de {abs(meses)} {'mês' if abs(meses) == 1 else 'meses'} {'depois' if meses > 0 else 'antes'} da 1ª vacina"
 
 
+def mortes_ate(d):
+    """Quantas mortes por Covid o país já registrava na data do ato.
+
+    É o relógio da pandemia, não uma conta de responsabilidade: o número é o
+    total nacional naquele dia, e não se atribui ao ato ao lado. Serve para o
+    leitor saber em que altura da pandemia aquilo aconteceu.
+
+    Só em data de dia: aproximar num mês inteiro daria um número que não existiu.
+    """
+    if len(d.strip()) != 10 or d.strip() not in MORTES:
+        return ""
+    n = MORTES[d.strip()]
+    if n == 0:
+        return "nenhuma morte registrada ainda"
+    return f"{n:,}".replace(",", ".") + " mortes até aqui"
+
+
 def link_filme(t):
     if not t:
         return ""
@@ -105,6 +122,7 @@ def copias():
 
 COPIAS = {}
 FOTOS = {}
+MORTES = {}   # data ISO -> mortes acumuladas no país naquele dia
 
 
 def pagina(p, atos):
@@ -115,22 +133,24 @@ def pagina(p, atos):
     lin += [f"**Cargo à época:** {p['cargo_epoca']}  ", f"**Grupo:** {p['grupo']}", ""]
     lin += ["> 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). "
             "Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.", ""]
-    for titulo, chave in [("🟢 O que fez a favor do combate à pandemia", "a favor"),
-                          ("🔴 O que fez contra o combate à pandemia", "contra"),
-                          ("⚪ Fatos processuais e neutros", "processual")]:
-        lista = [a for a in atos if a["avaliacao"] == chave]
-        lin += [f"## {titulo}", ""]
-        if not lista:
-            if chave == "contra" and p["crimes_cpi"]:
-                lin += ["Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.", ""]
-            else:
-                lin += ["Nenhum ato registrado ainda neste levantamento.", ""]
-            continue
-        for a in sorted(lista, key=lambda x: x["data"]):
-            rot = quando(a["data"])
-            lin.append(f"- **{data_br(a['data'])}**{f' · *{rot}*' if rot else ''} "
-                       f"({a['tipo']}) {a['ato']}{refs(a['fonte'])}{link_filme(a['no_documentario'])}")
-        lin.append("")
+    # Uma linha do tempo só, não três listas. Agrupado por verde, vermelho e
+    # branco, a sequência real sumia: um ato a favor dois dias depois de um ato
+    # contra caía em seções distintas, e a contradição não aparecia. O selo de
+    # cada linha continua dizendo a classificação.
+    conta = {k: sum(1 for a in atos if a["avaliacao"] == k) for k in SELO}
+    lin += ["## O que fez, em ordem", "",
+            " · ".join(f"{SELO[k]} **{conta[k]}** {rot}" for k, rot in
+                       [("a favor", "a favor"), ("contra", "contra"), ("processual", "processual")]), ""]
+    if not atos:
+        lin += [("Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite "
+                 "deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido "
+                 "da CPI, logo abaixo, é recomendação de investigação, não condenação.")
+                if p["crimes_cpi"] else "Nenhum ato registrado ainda neste levantamento.", ""]
+    for a in sorted(atos, key=lambda x: x["data"]):
+        rot = " · ".join(x for x in (quando(a["data"]), mortes_ate(a["data"])) if x)
+        lin.append(f"- {SELO[a['avaliacao']]} **{data_br(a['data'])}**{f' · *{rot}*' if rot else ''} "
+                   f"({a['tipo']}) {a['ato']}{refs(a['fonte'])}{link_filme(a['no_documentario'])}")
+    lin.append("")
     lin += ["## Na CPI da Covid", ""]
     if p["crimes_cpi"]:
         lin += [AVISO_CPI, "", f"**Crimes apontados no relatório final (26/10/2021):** {p['crimes_cpi']}", ""]
@@ -147,6 +167,9 @@ def pagina(p, atos):
 
 def main():
     COPIAS.update(copias())
+    caminho = RAIZ / "dados" / "mortes_brasil.csv"
+    if caminho.exists():
+        MORTES.update({r["data"]: int(r["mortes_acumuladas"]) for r in ler("mortes_brasil.csv")})
     if (RAIZ / "dados" / "fotos.csv").exists():
         FOTOS.update({r["id"]: r for r in ler("fotos.csv")})
     pessoas = ler("pessoas.csv")

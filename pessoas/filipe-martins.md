@@ -5,17 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **1** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **26/10/2021** · *282 dias depois da 1ª vacina* (conclusão da CPI) Relatório final da CPI, p. 735: registra postagem dele contra o lockdown (19/05/2020) e participação em live presidencial atacando a OMS pela suspensão dos testes com hidroxicloroquina (04/06/2020), citando estudo da Lancet que já havia sido retratado; e postagem chamando a vacina chinesa de "xing ling", depois apagada. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
-
-## ⚪ Fatos processuais e neutros
-
-- **06/2021** · *cerca de 5 meses depois da 1ª vacina* (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilos determinada pela CPI, que apurava sua atuação em suposto boicote à compra de vacinas [fonte](https://www.poder360.com.br/justica/weber-mantem-quebra-de-sigilo-contra-filipe-martins/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-justica-weber-mantem-quebra-de-sigilo-contra-filipe-martins-c502dff8/2026-10-24.html)
+- ⚪ **06/2021** · *cerca de 5 meses depois da 1ª vacina* (decisão judicial) Ministra Rosa Weber manteve a quebra de sigilos determinada pela CPI, que apurava sua atuação em suposto boicote à compra de vacinas [fonte](https://www.poder360.com.br/justica/weber-mantem-quebra-de-sigilo-contra-filipe-martins/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-justica-weber-mantem-quebra-de-sigilo-contra-filipe-martins-c502dff8/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 735: registra postagem dele contra o lockdown (19/05/2020) e participação em live presidencial atacando a OMS pela suspensão dos testes com hidroxicloroquina (04/06/2020), citando estudo da Lancet que já havia sido retratado; e postagem chamando a vacina chinesa de "xing ling", depois apagada. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

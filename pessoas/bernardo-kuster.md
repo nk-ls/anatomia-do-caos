@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **2021** (checagem) Coletivo Bereia classificou como enganosa publicação dele com argumentos de medo contra a vacinação [fonte](https://coletivobereia.com.br/youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-para-propagar-medo-de-efeitos/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/coletivobereia-com-br-youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-p-c4b0c725/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🔴 **2021** (checagem) Coletivo Bereia classificou como enganosa publicação dele com argumentos de medo contra a vacinação [fonte](https://coletivobereia.com.br/youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-para-propagar-medo-de-efeitos/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/coletivobereia-com-br-youtuber-catolico-omite-informacoes-sobre-vacina-contra-a-covid-19-p-c4b0c725/2026-10-24.html)
 
 ## Na CPI da Covid
 

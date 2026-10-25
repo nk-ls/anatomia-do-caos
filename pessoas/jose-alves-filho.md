@@ -5,18 +5,13 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **2** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **16/02/2021** · *30 dias depois da 1ª vacina* (fato) Vitamedic (do grupo José Alves) pagou R$ 717 mil por anúncios do grupo Médicos pela Vida em grandes jornais, defendendo "tratamento precoce" com ivermectina e outros remédios [fonte](https://www.folhape.com.br/politica/diretor-de-farmaceutica-diz-a-cpi-que-gastou-r-717-mil-em-anuncios-de/193441/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/folhape-com-br-politica-diretor-de-farmaceutica-diz-a-cpi-que-gastou-r-717-mil-em-anuncios-05aa52e3/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-- **08/2021** · *cerca de 7 meses depois da 1ª vacina* (fato) Convocado pela CPI, não compareceu; a Vitamedic enviou o diretor Jailton Batista, que reconheceu não haver estudo de eficácia e alta de vendas de ivermectina em 2020 [fonte](https://oimparcial.com.br/politica/2021/08/farmaceutica-afirma-que-nao-vendeu-ivermectina-ao-governo-federal/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/oimparcial-com-br-politica-2021-08-farmaceutica-afirma-que-nao-vendeu-ivermectina-ao-gover-4937c8c9/2026-10-24.html)
-- **26/08/2021** · *221 dias depois da 1ª vacina* (fato) CPI aprova incluí-lo no rol de investigados [fonte](https://www.em.com.br/app/noticia/politica/2021/08/26/interna_politica,1299756/cpi-aprova-incluir-jose-alves-filho-e-jose-ricardo-santana-no-rol-de-invest.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-08-26-interna-politica-1299756-cpi-aprova-incluir-jose-b6a2c532/2026-10-24.html)
+- 🔴 **16/02/2021** · *30 dias depois da 1ª vacina · 240.940 mortes até aqui* (fato) Vitamedic (do grupo José Alves) pagou R$ 717 mil por anúncios do grupo Médicos pela Vida em grandes jornais, defendendo "tratamento precoce" com ivermectina e outros remédios [fonte](https://www.folhape.com.br/politica/diretor-de-farmaceutica-diz-a-cpi-que-gastou-r-717-mil-em-anuncios-de/193441/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/folhape-com-br-politica-diretor-de-farmaceutica-diz-a-cpi-que-gastou-r-717-mil-em-anuncios-05aa52e3/2026-10-24.html)
+- ⚪ **08/2021** · *cerca de 7 meses depois da 1ª vacina* (fato) Convocado pela CPI, não compareceu; a Vitamedic enviou o diretor Jailton Batista, que reconheceu não haver estudo de eficácia e alta de vendas de ivermectina em 2020 [fonte](https://oimparcial.com.br/politica/2021/08/farmaceutica-afirma-que-nao-vendeu-ivermectina-ao-governo-federal/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/oimparcial-com-br-politica-2021-08-farmaceutica-afirma-que-nao-vendeu-ivermectina-ao-gover-4937c8c9/2026-10-24.html)
+- ⚪ **26/08/2021** · *221 dias depois da 1ª vacina · 577.565 mortes até aqui* (fato) CPI aprova incluí-lo no rol de investigados [fonte](https://www.em.com.br/app/noticia/politica/2021/08/26/interna_politica,1299756/cpi-aprova-incluir-jose-alves-filho-e-jose-ricardo-santana-no-rol-de-invest.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-08-26-interna-politica-1299756-cpi-aprova-incluir-jose-b6a2c532/2026-10-24.html)
 
 ## Na CPI da Covid
 

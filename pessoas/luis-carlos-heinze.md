@@ -9,18 +9,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **0** contra · ⚪ **2** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-Nenhum ato registrado ainda neste levantamento.
-
-## ⚪ Fatos processuais e neutros
-
-- **26/10/2021** · *282 dias depois da 1ª vacina* (fato) Votou contra a aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
-- **26/10/2021** · *282 dias depois da 1ª vacina* (fato) Apresentou voto em separado contrário ao relatório final, com conclusões próprias. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_heinze_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_heinze_2021-10-26.pdf)
+- ⚪ **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (fato) Votou contra a aprovação do relatório final da CPI (aprovado por 7 a 4). [fonte](https://www.poder360.com.br/governo/cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-cpi-da-covid-aprova-relatorio-final-com-80-pedidos-de-indiciamento-011be976/2026-10-24.html)
+- ⚪ **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (fato) Apresentou voto em separado contrário ao relatório final, com conclusões próprias. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_heinze_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_voto_separado_heinze_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

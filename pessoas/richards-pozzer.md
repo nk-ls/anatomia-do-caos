@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **2020/2022** (checagem) Levantamento da Aos Fatos (2024) aponta ao menos 12 publicações dele questionando a eficácia das vacinas e difusão de conteúdo pró-hidroxicloroquina [fonte](https://www.aosfatos.org/noticias/abin-paralela-desinformacao-30-opositores/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-abin-paralela-desinformacao-30-opositores-76dca288/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🔴 **2020/2022** (checagem) Levantamento da Aos Fatos (2024) aponta ao menos 12 publicações dele questionando a eficácia das vacinas e difusão de conteúdo pró-hidroxicloroquina [fonte](https://www.aosfatos.org/noticias/abin-paralela-desinformacao-30-opositores/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-abin-paralela-desinformacao-30-opositores-76dca288/2026-10-24.html)
 
 ## Na CPI da Covid
 

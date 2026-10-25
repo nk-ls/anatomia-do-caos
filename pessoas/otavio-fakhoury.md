@@ -5,18 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **2** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **30/09/2021** · *256 dias depois da 1ª vacina* (declaração) Na CPI foram exibidos vídeos dele atacando a CoronaVac ("não presta") e o uso de máscaras; sustentou que eram opiniões e defendeu o "kit covid" [fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacionista-e-defende-posicao-antivacina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jovempan-com-br-politica-na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacio-27f448c2/2026-10-24.html)
-- **30/09/2021** · *256 dias depois da 1ª vacina* (checagem) Aos Fatos: citou informações falsas ao dizer na CPI que as vacinas são experimentais [fonte](https://www.aosfatos.org/noticias/fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vacinas-sao-experimentais/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vac-8f4cdf21/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🔴 **30/09/2021** · *256 dias depois da 1ª vacina · 596.749 mortes até aqui* (declaração) Na CPI foram exibidos vídeos dele atacando a CoronaVac ("não presta") e o uso de máscaras; sustentou que eram opiniões e defendeu o "kit covid" [fonte](https://jovempan.com.br/politica/na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacionista-e-defende-posicao-antivacina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jovempan-com-br-politica-na-cpi-da-covid-19-empresario-admite-financiamento-a-site-negacio-27f448c2/2026-10-24.html)
+- 🔴 **30/09/2021** · *256 dias depois da 1ª vacina · 596.749 mortes até aqui* (checagem) Aos Fatos: citou informações falsas ao dizer na CPI que as vacinas são experimentais [fonte](https://www.aosfatos.org/noticias/fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vacinas-sao-experimentais/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/aosfatos-org-noticias-fakhoury-cita-informacoes-falsas-ao-dizer-na-cpi-da-covid-19-que-vac-8f4cdf21/2026-10-24.html)
 
 ## Na CPI da Covid
 

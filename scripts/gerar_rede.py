@@ -52,6 +52,9 @@ def main():
     for pid in sorted(ativos):
         p = pessoas[pid]
         nos.append({"id": pid, "tipo": "pessoa", "nome": p["nome"], "grupo": p["grupo"], "cpi": bool(p["crimes_cpi"])})
+    # em ordem de data: o painel do grafo mostra a sequência, não a ordem do CSV
+    for l in ligas.values():
+        l["atos"].sort(key=lambda i: atos[i]["data"])
     arestas = [{"de": pid, "para": "tema:" + tid, "favor": l["a favor"], "contra": l["contra"], "processual": l["processual"], "atos": l["atos"]}
                for (pid, tid), l in sorted(ligas.items())]
     regras = [{"id": tid, "nome": nome, "palavras": chaves} for tid, nome, chaves in TEMAS]

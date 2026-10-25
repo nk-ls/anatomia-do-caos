@@ -5,17 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **1** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **04/08/2021** · *199 dias depois da 1ª vacina* (alegação) Senadores apontaram que buscava vender vacinas ao setor privado antes de lei que o autorizasse [fonte](https://www.em.com.br/app/noticia/politica/2021/08/04/interna_politica,1292700/senadores-apontam-ilegalidade-de-coronel-blanco-em-negociacao-de-vacinas.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-08-04-interna-politica-1292700-senadores-apontam-ilega-8961571a/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-- **04/08/2021** · *199 dias depois da 1ª vacina* (declaração) Levou Luiz Paulo Dominguetti ao jantar com Roberto Dias em Brasília, segundo o próprio Blanco; negou ter ouvido pedido de propina [fonte](https://jovempan.com.br/politica/blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-com-dominguetti/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jovempan-com-br-politica-blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-86a9b0e5/2026-10-24.html)
+- ⚪ **04/08/2021** · *199 dias depois da 1ª vacina · 559.607 mortes até aqui* (declaração) Levou Luiz Paulo Dominguetti ao jantar com Roberto Dias em Brasília, segundo o próprio Blanco; negou ter ouvido pedido de propina [fonte](https://jovempan.com.br/politica/blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-com-dominguetti/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jovempan-com-br-politica-blanco-nega-pedido-de-propina-em-jantar-mas-nao-esclarece-relacao-86a9b0e5/2026-10-24.html)
+- 🔴 **04/08/2021** · *199 dias depois da 1ª vacina · 559.607 mortes até aqui* (alegação) Senadores apontaram que buscava vender vacinas ao setor privado antes de lei que o autorizasse [fonte](https://www.em.com.br/app/noticia/politica/2021/08/04/interna_politica,1292700/senadores-apontam-ilegalidade-de-coronel-blanco-em-negociacao-de-vacinas.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-08-04-interna-politica-1292700-senadores-apontam-ilega-8961571a/2026-10-24.html)
 
 ## Na CPI da Covid
 

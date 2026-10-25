@@ -5,17 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
-
-## 🔴 O que fez contra o combate à pandemia
+🟢 **0** a favor · 🔴 **0** contra · ⚪ **0** processual
 
 Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.
 
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
 
 ## Na CPI da Covid
 

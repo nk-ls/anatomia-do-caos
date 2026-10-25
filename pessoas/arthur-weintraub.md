@@ -5,18 +5,13 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **2** contra · ⚪ **1** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **08/2020** · *cerca de 5 meses antes da 1ª vacina* (alegação) Em discurso no Planalto (ago/2020) e em lives, deu indicações, segundo vídeos reunidos pelo Metrópoles, de ter coordenado o grupo de aconselhamento informal a Bolsonaro sobre a pandemia (o chamado 'gabinete paralelo') [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/exame-com-brasil-cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralel-4beb2c39/2026-10-24.html)
-- **05/2021** · *cerca de 4 meses depois da 1ª vacina* (declaração) Admitiu em entrevista que dava conselhos a Bolsonaro sobre a pandemia e defendeu o uso da cloroquina, sem eficácia comprovada contra a Covid-19 [fonte](https://www.poder360.com.br/governo/arthur-weintraub-admite-conselhos-a-bolsonaro-e-defende-cloroquina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-arthur-weintraub-admite-conselhos-a-bolsonaro-e-defende-cloroquina-c90f1295/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-- **05/2021** · *cerca de 4 meses depois da 1ª vacina* (fato) Senadores da CPI da Covid (Alessandro Vieira e Humberto Costa) protocolaram requerimentos de convocação após vídeos indicarem participação no 'gabinete paralelo'; por atuar na OEA (EUA), oitiva poderia ser por videoconferência [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/exame-com-brasil-cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralel-4beb2c39/2026-10-24.html)
+- 🔴 **08/2020** · *cerca de 5 meses antes da 1ª vacina* (alegação) Em discurso no Planalto (ago/2020) e em lives, deu indicações, segundo vídeos reunidos pelo Metrópoles, de ter coordenado o grupo de aconselhamento informal a Bolsonaro sobre a pandemia (o chamado 'gabinete paralelo') [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/exame-com-brasil-cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralel-4beb2c39/2026-10-24.html)
+- 🔴 **05/2021** · *cerca de 4 meses depois da 1ª vacina* (declaração) Admitiu em entrevista que dava conselhos a Bolsonaro sobre a pandemia e defendeu o uso da cloroquina, sem eficácia comprovada contra a Covid-19 [fonte](https://www.poder360.com.br/governo/arthur-weintraub-admite-conselhos-a-bolsonaro-e-defende-cloroquina/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-governo-arthur-weintraub-admite-conselhos-a-bolsonaro-e-defende-cloroquina-c90f1295/2026-10-24.html)
+- ⚪ **05/2021** · *cerca de 4 meses depois da 1ª vacina* (fato) Senadores da CPI da Covid (Alessandro Vieira e Humberto Costa) protocolaram requerimentos de convocação após vídeos indicarem participação no 'gabinete paralelo'; por atuar na OEA (EUA), oitiva poderia ser por videoconferência [fonte](https://exame.com/brasil/cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralelo) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/exame-com-brasil-cpi-quer-ouvir-weintraub-apos-indicio-de-participacao-em-gabinete-paralel-4beb2c39/2026-10-24.html)
 
 ## Na CPI da Covid
 

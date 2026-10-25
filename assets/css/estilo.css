@@ -144,6 +144,11 @@ tr.brasil td { font-weight: 700; background: color-mix(in srgb, var(--destaque) 
 .atos .data { font-weight: 600; font-variant-numeric: tabular-nums; }
 .atos .tipo { color: var(--suave); font-size: .85rem; }
 
+/* Linha do tempo única: o selo abre a linha e diz a classificação, já que não
+   há mais três seções separadas para dizê-la. */
+.linha-tempo .selo-ato { font-size: .85rem; margin-right: 2px; cursor: help; }
+.resumo-selos { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
+
 /* Distância do ato até a 1ª vacina (17/01/2021). Discreto de propósito: é
    contexto, não manchete — o olho lê a data, depois o intervalo. */
 /* Lacuna do levantamento, não ficha limpa. Fica à vista no cartão e na ficha. */

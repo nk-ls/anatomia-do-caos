@@ -5,18 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **2** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **06/2021** · *cerca de 5 meses depois da 1ª vacina* (checagem) Tuitou que Christian Eriksen tinha se vacinado antes do mal súbito; Comprova classificou como falso (a Inter negou) [fonte](https://www.opovo.com.br/noticias/checagemopovo/2021/06/15/e-falso-que-jogador-dinamarques-tenha-se-vacinado-antes-de-sofrer-mal-subito.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/opovo-com-br-noticias-checagemopovo-2021-06-15-e-falso-que-jogador-dinamarques-tenha-se-va-2be0fe4e/2026-10-24.html)
-- **10/2021** · *cerca de 9 meses depois da 1ª vacina* (conclusão da CPI) Relatório da CPI o cita 16 vezes como figura central de produção de fake news, com posts pró-cloroquina, contra medidas restritivas e contra a segurança das vacinas [fonte](https://www.cnnbrasil.com.br/politica/allan-dos-santos-e-citado-16-vezes-em-relatorio-final-da-cpi-da-pandemia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-politica-allan-dos-santos-e-citado-16-vezes-em-relatorio-final-da-cpi-da--e21e136d/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🔴 **06/2021** · *cerca de 5 meses depois da 1ª vacina* (checagem) Tuitou que Christian Eriksen tinha se vacinado antes do mal súbito; Comprova classificou como falso (a Inter negou) [fonte](https://www.opovo.com.br/noticias/checagemopovo/2021/06/15/e-falso-que-jogador-dinamarques-tenha-se-vacinado-antes-de-sofrer-mal-subito.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/opovo-com-br-noticias-checagemopovo-2021-06-15-e-falso-que-jogador-dinamarques-tenha-se-va-2be0fe4e/2026-10-24.html)
+- 🔴 **10/2021** · *cerca de 9 meses depois da 1ª vacina* (conclusão da CPI) Relatório da CPI o cita 16 vezes como figura central de produção de fake news, com posts pró-cloroquina, contra medidas restritivas e contra a segurança das vacinas [fonte](https://www.cnnbrasil.com.br/politica/allan-dos-santos-e-citado-16-vezes-em-relatorio-final-da-cpi-da-pandemia/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-politica-allan-dos-santos-e-citado-16-vezes-em-relatorio-final-da-cpi-da--e21e136d/2026-10-24.html)
 
 ## Na CPI da Covid
 

@@ -5,17 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **1** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-- **2020** (alegação) Atuou no Ministério da Saúde sob Pazuello como "número 2" informal, reunindo-se com gestores sem cargo formal [fonte](https://www.metropoles.com/brasil/numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/metropoles-com-brasil-numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid-aa11ea21/2026-10-24.html)
-
-## ⚪ Fatos processuais e neutros
-
-- **05/08/2021** · *200 dias depois da 1ª vacina* (declaração) Disse à CPI que, se pudesse, teria comprado antecipadamente as vacinas da Pfizer e da Janssen [fonte](https://revistaoeste.com/brasil/se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacinas/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/revistaoeste-com-brasil-se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacina-b7515bd1/2026-10-24.html)
+- 🔴 **2020** (alegação) Atuou no Ministério da Saúde sob Pazuello como "número 2" informal, reunindo-se com gestores sem cargo formal [fonte](https://www.metropoles.com/brasil/numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/metropoles-com-brasil-numero-2-informal-de-pazuello-entra-na-mira-da-cpi-da-covid-aa11ea21/2026-10-24.html)
+- ⚪ **05/08/2021** · *200 dias depois da 1ª vacina · 560.706 mortes até aqui* (declaração) Disse à CPI que, se pudesse, teria comprado antecipadamente as vacinas da Pfizer e da Janssen [fonte](https://revistaoeste.com/brasil/se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacinas/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/revistaoeste-com-brasil-se-pudesse-teria-comprado-diz-ex-assessor-de-pazuello-sobre-vacina-b7515bd1/2026-10-24.html)
 
 ## Na CPI da Covid
 

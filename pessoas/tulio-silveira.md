@@ -5,18 +5,12 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-Nenhum ato registrado ainda neste levantamento.
+🟢 **0** a favor · 🔴 **0** contra · ⚪ **2** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.
-
-## ⚪ Fatos processuais e neutros
-
-- **08/2021** · *cerca de 7 meses depois da 1ª vacina* (alegação) Mensagens obtidas pela CPI indicariam que atuava como funcionário do departamento jurídico da Precisa, e não apenas como advogado externo [fonte](https://www.moneytimes.com.br/apos-silencio-reiterado-advogado-da-precisa-passa-a-ser-investigado-pela-cpi/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/moneytimes-com-br-apos-silencio-reiterado-advogado-da-precisa-passa-a-ser-investigado-pela-02ab1c67/2026-10-24.html)
-- **18/08/2021** · *213 dias depois da 1ª vacina* (fato) Depôs à CPI e, invocando sigilo profissional (Fux acolheu só em parte), ficou calado na maior parte da sessão; a CPI o converteu em investigado [fonte](https://www.poder360.com.br/congresso/diante-de-silencio-cpi-transforma-advogado-da-precisa-em-investigado/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-diante-de-silencio-cpi-transforma-advogado-da-precisa-em-investi-ac11f241/2026-10-24.html)
+- ⚪ **08/2021** · *cerca de 7 meses depois da 1ª vacina* (alegação) Mensagens obtidas pela CPI indicariam que atuava como funcionário do departamento jurídico da Precisa, e não apenas como advogado externo [fonte](https://www.moneytimes.com.br/apos-silencio-reiterado-advogado-da-precisa-passa-a-ser-investigado-pela-cpi/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/moneytimes-com-br-apos-silencio-reiterado-advogado-da-precisa-passa-a-ser-investigado-pela-02ab1c67/2026-10-24.html)
+- ⚪ **18/08/2021** · *213 dias depois da 1ª vacina · 571.662 mortes até aqui* (fato) Depôs à CPI e, invocando sigilo profissional (Fux acolheu só em parte), ficou calado na maior parte da sessão; a CPI o converteu em investigado [fonte](https://www.poder360.com.br/congresso/diante-de-silencio-cpi-transforma-advogado-da-precisa-em-investigado/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-diante-de-silencio-cpi-transforma-advogado-da-precisa-em-investi-ac11f241/2026-10-24.html)
 
 ## Na CPI da Covid
 

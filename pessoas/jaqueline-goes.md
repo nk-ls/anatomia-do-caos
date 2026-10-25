@@ -5,17 +5,11 @@
 
 > 🔎 Conferido pela busca; cópias datadas das fontes no [arquivo de fontes](https://github.com/nk-ls/anatomia-do-caos-fontes). Cada ato tem a sua fonte. [Como verificamos](../docs/verificacao.md). Encontrou um erro ou um ato que falta, a favor ou contra? Abra uma *issue* com a fonte.
 
-## 🟢 O que fez a favor do combate à pandemia
+## O que fez, em ordem
 
-- **02/2020** · *cerca de 11 meses antes da 1ª vacina* (fato) Sequenciaram em cerca de 48 horas o genoma do vírus do primeiro caso brasileiro. [fonte](https://agencia.fapesp.br/tecnologia-que-sequenciou-coronavirus-em-48-horas-permitira-monitorar-epidemia-em-tempo-real/32637) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agencia-fapesp-br-tecnologia-que-sequenciou-coronavirus-em-48-horas-permitira-monitorar-ep-e6ce8d96/2026-10-24.html)
+🟢 **1** a favor · 🔴 **0** contra · ⚪ **0** processual
 
-## 🔴 O que fez contra o combate à pandemia
-
-Nenhum ato registrado ainda neste levantamento.
-
-## ⚪ Fatos processuais e neutros
-
-Nenhum ato registrado ainda neste levantamento.
+- 🟢 **02/2020** · *cerca de 11 meses antes da 1ª vacina* (fato) Sequenciaram em cerca de 48 horas o genoma do vírus do primeiro caso brasileiro. [fonte](https://agencia.fapesp.br/tecnologia-que-sequenciou-coronavirus-em-48-horas-permitira-monitorar-epidemia-em-tempo-real/32637) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/agencia-fapesp-br-tecnologia-que-sequenciou-coronavirus-em-48-horas-permitira-monitorar-ep-e6ce8d96/2026-10-24.html)
 
 ## Na CPI da Covid
 

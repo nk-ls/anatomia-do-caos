@@ -83,6 +83,27 @@ export function quandoBR(texto) {
   return "";
 }
 
+// Mortes por Covid registradas no país até a data de um ato. É o relógio da
+// pandemia, não uma conta de responsabilidade: o número é o total nacional
+// daquele dia e não se atribui ao ato ao lado. Só em data de dia — aproximar
+// num mês inteiro daria um número que não existiu.
+const MORTES = new Map();
+
+export async function carregarMortes(caminho = "dados/mortes_brasil.csv") {
+  if (MORTES.size) return MORTES;
+  try {
+    for (const r of await carregarCSV(caminho)) MORTES.set(r.data, Number(r.mortes_acumuladas));
+  } catch { /* sem a série, o rótulo simplesmente não aparece */ }
+  return MORTES;
+}
+
+export function mortesAte(d) {
+  const k = String(d || "").trim();
+  if (k.length !== 10 || !MORTES.has(k)) return "";
+  const n = MORTES.get(k);
+  return n === 0 ? "nenhuma morte registrada ainda" : `${n.toLocaleString("pt-BR")} mortes até aqui`;
+}
+
 // Um ato pode ter mais de uma fonte, separadas por espaço. Antes iam todas
 // dentro de um href só, e o link morria.
 export const urlsFonte = (txt) => String(txt || "").split(/\s+/).filter((u) => /^https?:\/\//.test(u));
