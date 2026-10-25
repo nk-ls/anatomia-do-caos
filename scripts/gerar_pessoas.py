@@ -121,7 +121,12 @@ def pagina(p, atos):
         lista = [a for a in atos if a["avaliacao"] == chave]
         lin += [f"## {titulo}", ""]
         if not lista:
-            lin += ["Nenhum ato registrado ainda neste levantamento.", ""]
+            if chave == "contra" and p["crimes_cpi"]:
+                lin += ["A CPI pediu o indiciamento desta pessoa, mas os atos dela **ainda não foram "
+                        "levantados**. Nenhum ato contra registrado aqui é lacuna deste trabalho, não "
+                        "ficha limpa.", ""]
+            else:
+                lin += ["Nenhum ato registrado ainda neste levantamento.", ""]
             continue
         for a in sorted(lista, key=lambda x: x["data"]):
             rot = quando(a["data"])

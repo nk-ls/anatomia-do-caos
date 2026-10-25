@@ -11,7 +11,7 @@
 
 ## 🔴 O que fez contra o combate à pandemia
 
-Nenhum ato registrado ainda neste levantamento.
+A CPI pediu o indiciamento desta pessoa, mas os atos dela **ainda não foram levantados**. Nenhum ato contra registrado aqui é lacuna deste trabalho, não ficha limpa.
 
 ## ⚪ Fatos processuais e neutros
 

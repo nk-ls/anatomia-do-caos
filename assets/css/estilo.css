@@ -146,6 +146,10 @@ tr.brasil td { font-weight: 700; background: color-mix(in srgb, var(--destaque) 
 
 /* Distância do ato até a 1ª vacina (17/01/2021). Discreto de propósito: é
    contexto, não manchete — o olho lê a data, depois o intervalo. */
+/* Lacuna do levantamento, não ficha limpa. Fica à vista no cartão e na ficha. */
+.etiqueta.lacuna { border-color: var(--contra); color: var(--contra); }
+.aviso-lacuna { border-left: 3px solid var(--contra); padding-left: 10px; }
+
 .desde-marco { font-size: .78rem; color: var(--suave); background: var(--fundo);
   border: 1px solid var(--borda); border-radius: 999px; padding: 1px 8px;
   white-space: nowrap; display: inline-block; }
