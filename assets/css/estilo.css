@@ -320,3 +320,10 @@ a.ampliar-foto { display: inline-block; cursor: zoom-in; }
 .imagem-inteira h1 { font-size: 1.4rem; margin: 4px 0 12px; }
 .imagem-inteira img { display: block; width: 100%; height: auto; max-width: 1400px; margin: 0 auto; }
 .imagem-inteira figcaption p { margin: 10px 0 0; }
+/* No celular o gráfico fica em tamanho legível e desliza para os lados dentro da moldura (a página não rola de lado) */
+.dica-deslizar { display: none; }
+@media (max-width: 760px) {
+  .moldura-deslizar { overflow-x: auto; -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; margin: 0 -12px; padding: 0 12px 8px; }
+  .moldura-deslizar img { width: 900px; max-width: none; }
+  .dica-deslizar { display: block; margin: 0 0 8px; font: 600 .85rem var(--sans); color: var(--destaque); }
+}

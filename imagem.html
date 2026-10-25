@@ -30,7 +30,7 @@
   <figure class="imagem-inteira" id="figura">
     <p class="nota">Carregando a imagem…</p>
   </figure>
-  <p class="nota" id="dica-imagem">No celular, afaste dois dedos sobre a imagem para aproximar. <a id="baixar" href="#" download>Baixar a imagem</a></p>
+  <p class="nota" id="dica-imagem"><a id="baixar" href="#" download>Baixar a imagem</a></p>
 </main>
 
 <footer class="rodape">
@@ -56,7 +56,7 @@ async function achar() {
     const img = html.querySelector(`img[src="${src}"]`);
     if (!img) return null;
     const leg = img.closest("figure")?.querySelector("figcaption")?.textContent || "";
-    return { src, alt: img.alt, legenda: leg, titulo: img.closest("section")?.querySelector("h2")?.textContent || "Gráfico" };
+    return { grafico: true, src, alt: img.alt, legenda: leg, titulo: img.closest("section")?.querySelector("h2")?.textContent || "Gráfico" };
   }
   if (f && /^[a-z0-9-]+$/.test(f)) {
     const [fotos, pessoas] = await Promise.all([carregarCSV("dados/fotos.csv"), carregarCSV("dados/pessoas.csv")]);
@@ -71,7 +71,7 @@ const d = await achar().catch(() => null);
 if (!d) fig.innerHTML = '<p>Imagem não encontrada. <a href="index.html">Ir para o início</a>.</p>';
 else {
   document.title = `${d.titulo} — Anatomia do Caos`;
-  fig.innerHTML = `<h1>${esc(d.titulo)}</h1><img src="${esc(d.src)}" alt="${esc(d.alt)}"><figcaption><p>${esc(d.alt)}</p>${d.legenda ? `<p class="nota">${esc(d.legenda)}</p>` : ""}${d.ficha ? `<p><a href="${esc(d.ficha)}">Ver a ficha →</a></p>` : ""}</figcaption>`;
+  fig.innerHTML = `<h1>${esc(d.titulo)}</h1>${d.grafico ? '<p class="dica-deslizar" aria-hidden="true">Deslize o gráfico para os lados ⇆</p><div class="moldura-deslizar" tabindex="0" role="region" aria-label="Gráfico ampliado; deslize para os lados">' : ""}<img src="${esc(d.src)}" alt="${esc(d.alt)}">${d.grafico ? "</div>" : ""}<figcaption><p>${esc(d.alt)}</p>${d.legenda ? `<p class="nota">${esc(d.legenda)}</p>` : ""}${d.ficha ? `<p><a href="${esc(d.ficha)}">Ver a ficha →</a></p>` : ""}</figcaption>`;
   document.getElementById("baixar").href = d.src;
 }
 </script>
