@@ -7,9 +7,10 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **1** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **1** processual
 
 - ⚪ **05/10/2021** · *261 dias depois da 1ª vacina · 598.829 mortes até aqui* (fato) Na CPI, confirmou que saques em espécie eram praxe na VTCLog e negou pagamento de propina a Roberto Dias [fonte](https://www.poder360.com.br/cpi-da-covid/socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-diretor-da-saude/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-cpi-da-covid-socio-da-vtclog-nega-que-empresa-tenha-pago-propina-a-ex-dire-03c4242f/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1082 e 1100: apontado como "sócio atuante e que assinou o aditivo ao contrato nº 59/2018" da VTCLog, e incluído entre os que "consentiram ou atuaram deliberadamente para fraudar um aditivo contratual e conceder vantagem indevida a Roberto Ferreira Dias". [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

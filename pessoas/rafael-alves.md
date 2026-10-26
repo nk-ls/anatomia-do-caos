@@ -7,9 +7,10 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **1** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **1** processual
 
 - ⚪ **15/07/2021** · *179 dias depois da 1ª vacina · 538.942 mortes até aqui* (alegação) Segundo Cristiano Carvalho na CPI, foi o conhecido em comum que o apresentou a Dominguetti por volta de janeiro de 2021 [fonte](https://www.em.com.br/app/noticia/politica/2021/07/15/interna_politica,1286906/representante-da-davati-diz-que-dominghetti-o-procurou-para-negociar-vacina.shtml) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/em-com-br-app-noticia-politica-2021-07-15-interna-politica-1286906-representante-da-davati-01600499/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1082: incluído entre os que "devem ser indiciados pelo crime de corrupção ativa", diante de "indícios robustos de que houve a oferta de propina a Roberto Dias". [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

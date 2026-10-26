@@ -7,11 +7,12 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **3** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **3** processual
 
 - ⚪ **02/2021** · *cerca de 1 mês depois da 1ª vacina* (fato) Apresentou ao Ministério da Saúde, pela Davati, oferta de 400 milhões de doses da AstraZeneca; a AstraZeneca negou ter autorizado Davati ou ele e disse vender no Brasil só via Fiocruz [fonte](https://ictq.com.br/industria-farmaceutica/3022-astrazeneca-nega-atuar-com-empresa-citada-em-suposto-escandalo-de-propina-para-compra-de-vacinas) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/ictq-com-br-industria-farmaceutica-3022-astrazeneca-nega-atuar-com-empresa-citada-em-supos-d5851fd8/2026-10-24.html)
 - ⚪ **01/07/2021** · *165 dias depois da 1ª vacina · 520.095 mortes até aqui* (alegação) Afirmou à CPI que o diretor de Logística Roberto Dias pediu propina de US$ 1 por dose em jantar de 25/02/2021; Dias confirmou o jantar e negou o pedido [fonte](https://www.cnnbrasil.com.br/politica/cpi-ouve-vendedor-que-denunciou-suposta-propina-na-compra-de-vacinas-acompanhe/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-politica-cpi-ouve-vendedor-que-denunciou-suposta-propina-na-compra-de-vac-bf9e66f2/2026-10-24.html)
 - ⚪ **01/07/2021** · *165 dias depois da 1ª vacina · 520.095 mortes até aqui* (fato) Exibiu áudio atribuído ao deputado Luis Miranda como negociação de vacinas; o deputado disse tratar-se de áudio antigo sobre luvas e a CPI apreendeu o celular do depoente [fonte](https://www.jornalopcao.com.br/ultimas-noticias/dominguetti-expoe-audio-do-deputado-luis-miranda-no-qual-indica-negociar-vacinas-celular-e-apreendido-338315/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/jornalopcao-com-br-ultimas-noticias-dominguetti-expoe-audio-do-deputado-luis-miranda-no-qu-3223e161/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1082: incluído entre os que "devem ser indiciados pelo crime de corrupção ativa", diante de "indícios robustos de que houve a oferta de propina a Roberto Dias". [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

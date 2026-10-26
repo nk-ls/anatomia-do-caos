@@ -169,19 +169,19 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 |---|---|---:|---:|---|
 | [Francisco Emerson Maximiano](francisco-maximiano.md) | Sócio da Precisa Medicamentos | 0 | 1 | sim |
 | [Emanuela Batista de Souza Medrades](emanuela-medrades.md) | Diretora-executiva da Precisa | 0 | 1 | sim |
-| [Túlio Silveira](tulio-silveira.md) | Consultor jurídico da Precisa | 0 | 0 | sim |
-| [Danilo Berndt Trento](danilo-trento.md) | Diretor de relações institucionais da Precisa | 0 | 0 | sim |
+| [Túlio Silveira](tulio-silveira.md) | Consultor jurídico da Precisa | 0 | 1 | sim |
+| [Danilo Berndt Trento](danilo-trento.md) | Diretor de relações institucionais da Precisa | 0 | 1 | sim |
 | [Marcos Tolentino da Silva](marcos-tolentino.md) | Advogado; apontado como sócio oculto do FIB Bank | 0 | 1 | sim |
-| [Cristiano Alberto Hossri Carvalho](cristiano-carvalho.md) | Representante da Davati | 0 | 0 | sim |
-| [Luiz Paulo Dominguetti Pereira](luiz-dominguetti.md) | Representante da Davati | 0 | 0 | sim |
-| [Rafael Francisco Carmo Alves](rafael-alves.md) | Intermediador (Davati) | 0 | 0 | sim |
-| [José Odilon Torres da Silveira Júnior](jose-odilon.md) | Intermediador (Davati) | 0 | 0 | sim |
+| [Cristiano Alberto Hossri Carvalho](cristiano-carvalho.md) | Representante da Davati | 0 | 1 | sim |
+| [Luiz Paulo Dominguetti Pereira](luiz-dominguetti.md) | Representante da Davati | 0 | 1 | sim |
+| [Rafael Francisco Carmo Alves](rafael-alves.md) | Intermediador (Davati) | 0 | 1 | sim |
+| [José Odilon Torres da Silveira Júnior](jose-odilon.md) | Intermediador (Davati) | 0 | 1 | sim |
 | [Amilton Gomes de Paula ("Reverendo Amilton")](amilton-gomes.md) | Representante da Senah | 0 | 1 | sim |
-| [Marconny Nunes Ribeiro Albernaz de Faria](marconny-faria.md) | Lobista | 0 | 0 | sim |
-| [Raimundo Nonato Brasil](raimundo-nonato-brasil.md) | Sócio da VTCLog | 0 | 0 | sim |
-| [Andreia da Silva Lima](andreia-lima.md) | Diretora-executiva da VTCLog | 0 | 0 | sim |
-| [Carlos Alberto de Sá](carlos-alberto-sa.md) | Sócio da VTCLog | 0 | 0 | sim |
-| [Teresa Cristina Reis de Sá](teresa-reis-sa.md) | Sócia da VTCLog | 0 | 0 | sim |
+| [Marconny Nunes Ribeiro Albernaz de Faria](marconny-faria.md) | Lobista | 0 | 1 | sim |
+| [Raimundo Nonato Brasil](raimundo-nonato-brasil.md) | Sócio da VTCLog | 0 | 1 | sim |
+| [Andreia da Silva Lima](andreia-lima.md) | Diretora-executiva da VTCLog | 0 | 1 | sim |
+| [Carlos Alberto de Sá](carlos-alberto-sa.md) | Sócio da VTCLog | 0 | 1 | sim |
+| [Teresa Cristina Reis de Sá](teresa-reis-sa.md) | Sócia da VTCLog | 0 | 1 | sim |
 
 ## Prevent Senior
 
@@ -190,14 +190,14 @@ Os dados ficam em [`dados/pessoas.csv`](../dados/pessoas.csv) e [`dados/atos.csv
 | [Fernando Parrillo](fernando-parrillo.md) | Dono da Prevent Senior | 0 | 2 | sim |
 | [Eduardo Parrillo](eduardo-parrillo.md) | Dono da Prevent Senior | 0 | 2 | sim |
 | [Pedro Benedito Batista Júnior](pedro-benedito-batista.md) | Diretor-executivo da Prevent Senior | 0 | 4 | sim |
-| [Daniella de Aguiar Moreira da Silva](daniella-aguiar.md) | Médica da Prevent Senior | 0 | 0 | sim |
-| [Paola Werneck](paola-werneck.md) | Médica da Prevent Senior | 0 | 0 | sim |
-| [Carla Guerra](carla-guerra.md) | Médica da Prevent Senior | 0 | 0 | sim |
-| [Rodrigo Esper](rodrigo-esper.md) | Médico da Prevent Senior | 0 | 0 | sim |
-| [Fernando Oikawa](fernando-oikawa.md) | Médico da Prevent Senior | 0 | 0 | sim |
-| [Daniel Garrido Baena](daniel-baena.md) | Médico da Prevent Senior | 0 | 0 | sim |
-| [João Paulo F. Barros](joao-paulo-barros.md) | Médico da Prevent Senior | 0 | 0 | sim |
-| [Fernanda de Oliveira Igarashi](fernanda-igarashi.md) | Médica da Prevent Senior | 0 | 0 | sim |
+| [Daniella de Aguiar Moreira da Silva](daniella-aguiar.md) | Médica da Prevent Senior | 0 | 1 | sim |
+| [Paola Werneck](paola-werneck.md) | Médica da Prevent Senior | 0 | 1 | sim |
+| [Carla Guerra](carla-guerra.md) | Médica da Prevent Senior | 0 | 1 | sim |
+| [Rodrigo Esper](rodrigo-esper.md) | Médico da Prevent Senior | 0 | 1 | sim |
+| [Fernando Oikawa](fernando-oikawa.md) | Médico da Prevent Senior | 0 | 1 | sim |
+| [Daniel Garrido Baena](daniel-baena.md) | Médico da Prevent Senior | 0 | 1 | sim |
+| [João Paulo F. Barros](joao-paulo-barros.md) | Médico da Prevent Senior | 0 | 1 | sim |
+| [Fernanda de Oliveira Igarashi](fernanda-igarashi.md) | Médica da Prevent Senior | 0 | 1 | sim |
 
 ## Empresas (pessoa jurídica)
 

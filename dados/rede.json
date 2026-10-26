@@ -135,10 +135,24 @@
 "cpi": true
 },
 {
+"id": "carla-guerra",
+"tipo": "pessoa",
+"nome": "Carla Guerra",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
 "id": "carla-zambelli",
 "tipo": "pessoa",
 "nome": "Carla Zambelli",
 "grupo": "Parlamentares",
+"cpi": true
+},
+{
+"id": "carlos-alberto-sa",
+"tipo": "pessoa",
+"nome": "Carlos Alberto de Sá",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
 "cpi": true
 },
 {
@@ -188,6 +202,20 @@
 "tipo": "pessoa",
 "nome": "Cristiano Alberto Hossri Carvalho",
 "grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
+"cpi": true
+},
+{
+"id": "daniel-baena",
+"tipo": "pessoa",
+"nome": "Daniel Garrido Baena",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
+"id": "daniella-aguiar",
+"tipo": "pessoa",
+"nome": "Daniella de Aguiar Moreira da Silva",
+"grupo": "Prevent Senior",
 "cpi": true
 },
 {
@@ -272,6 +300,20 @@
 "tipo": "pessoa",
 "nome": "Fabio Wajngarten",
 "grupo": "Outros ministérios e órgãos federais",
+"cpi": true
+},
+{
+"id": "fernanda-igarashi",
+"tipo": "pessoa",
+"nome": "Fernanda de Oliveira Igarashi",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
+"id": "fernando-oikawa",
+"tipo": "pessoa",
+"nome": "Fernando Oikawa",
+"grupo": "Prevent Senior",
 "cpi": true
 },
 {
@@ -387,6 +429,13 @@
 "cpi": false
 },
 {
+"id": "joao-paulo-barros",
+"tipo": "pessoa",
+"nome": "João Paulo F. Barros",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
 "id": "jorginho-mello",
 "tipo": "pessoa",
 "nome": "Jorginho Mello",
@@ -398,6 +447,13 @@
 "tipo": "pessoa",
 "nome": "José Alves Filho",
 "grupo": "Empresários, comunicadores e influenciadores",
+"cpi": true
+},
+{
+"id": "jose-odilon",
+"tipo": "pessoa",
+"nome": "José Odilon Torres da Silveira Júnior",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
 "cpi": true
 },
 {
@@ -611,6 +667,13 @@
 "cpi": false
 },
 {
+"id": "paola-werneck",
+"tipo": "pessoa",
+"nome": "Paola Werneck",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
 "id": "paolo-zanotto",
 "tipo": "pessoa",
 "nome": "Paolo Marinho de Andrade Zanotto",
@@ -716,6 +779,13 @@
 "cpi": true
 },
 {
+"id": "rodrigo-esper",
+"tipo": "pessoa",
+"nome": "Rodrigo Esper",
+"grupo": "Prevent Senior",
+"cpi": true
+},
+{
 "id": "stf",
 "tipo": "pessoa",
 "nome": "Supremo Tribunal Federal",
@@ -741,6 +811,13 @@
 "tipo": "pessoa",
 "nome": "Tércio Arnaud Tomaz",
 "grupo": "Presidência da República e família",
+"cpi": true
+},
+{
+"id": "teresa-reis-sa",
+"tipo": "pessoa",
+"nome": "Teresa Cristina Reis de Sá",
+"grupo": "Contratos de vacina e logística (Covaxin, Davati, VTCLog)",
 "cpi": true
 },
 {
@@ -862,10 +939,11 @@
 "de": "andreia-lima",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 1,
 "atos": [
-9
+9,
+337
 ]
 },
 {
@@ -1055,6 +1133,16 @@
 ]
 },
 {
+"de": "carla-guerra",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+340
+]
+},
+{
 "de": "carla-zambelli",
 "para": "tema:cloroquina",
 "favor": 0,
@@ -1095,6 +1183,16 @@
 "processual": 0,
 "atos": [
 32
+]
+},
+{
+"de": "carlos-alberto-sa",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+334
 ]
 },
 {
@@ -1253,6 +1351,16 @@
 },
 {
 "de": "cristiano-carvalho",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+330
+]
+},
+{
+"de": "cristiano-carvalho",
 "para": "tema:vacinas",
 "favor": 0,
 "contra": 0,
@@ -1262,15 +1370,36 @@
 ]
 },
 {
+"de": "daniel-baena",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+343
+]
+},
+{
+"de": "daniella-aguiar",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+338
+]
+},
+{
 "de": "danilo-trento",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 4,
 "atos": [
 47,
 48,
 201,
+328,
 268
 ]
 },
@@ -1630,6 +1759,26 @@
 86,
 87,
 88
+]
+},
+{
+"de": "fernanda-igarashi",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+345
+]
+},
+{
+"de": "fernando-oikawa",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+342
 ]
 },
 {
@@ -2101,6 +2250,16 @@
 ]
 },
 {
+"de": "joao-paulo-barros",
+"para": "tema:justica",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+344
+]
+},
+{
 "de": "jorginho-mello",
 "para": "tema:justica",
 "favor": 0,
@@ -2129,6 +2288,16 @@
 "processual": 1,
 "atos": [
 154
+]
+},
+{
+"de": "jose-odilon",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+333
 ]
 },
 {
@@ -2289,11 +2458,12 @@
 "de": "luiz-dominguetti",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 2,
 "atos": [
 170,
-171
+171,
+331
 ]
 },
 {
@@ -2445,10 +2615,11 @@
 "de": "marconny-faria",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 1,
 "atos": [
-195
+195,
+329
 ]
 },
 {
@@ -2783,6 +2954,16 @@
 ]
 },
 {
+"de": "paola-werneck",
+"para": "tema:distanciamento",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+339
+]
+},
+{
 "de": "paolo-zanotto",
 "para": "tema:contratos",
 "favor": 0,
@@ -2894,20 +3075,22 @@
 "de": "rafael-alves",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 1,
 "atos": [
-255
+255,
+332
 ]
 },
 {
 "de": "raimundo-nonato-brasil",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 1,
 "atos": [
-256
+256,
+336
 ]
 },
 {
@@ -3097,6 +3280,16 @@
 ]
 },
 {
+"de": "rodrigo-esper",
+"para": "tema:prevent",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+341
+]
+},
+{
 "de": "stf",
 "para": "tema:justica",
 "favor": 0,
@@ -3168,6 +3361,16 @@
 ]
 },
 {
+"de": "teresa-reis-sa",
+"para": "tema:contratos",
+"favor": 0,
+"contra": 1,
+"processual": 0,
+"atos": [
+335
+]
+},
+{
 "de": "thiago-fernandes-costa",
 "para": "tema:contratos",
 "favor": 0,
@@ -3181,10 +3384,11 @@
 "de": "tulio-silveira",
 "para": "tema:contratos",
 "favor": 0,
-"contra": 0,
+"contra": 1,
 "processual": 1,
 "atos": [
-290
+290,
+327
 ]
 },
 {

@@ -7,10 +7,9 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **0** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **0** processual
 
-Este levantamento **ainda não registrou atos desta pessoa**. A ausência aqui é limite deste trabalho — não é prova de que não existam, nem indício de que existam. O pedido da CPI, logo abaixo, é recomendação de investigação, não condenação.
-
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1035: a comissão viu indícios de que ela, "que tinha a responsabilidade de impedir a morte do paciente", teria "se omitido em seu dever funcional ao indicar conduta que configura mistanásia" no caso de Tadeu Frederico de Andrade, que depôs à CPI. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

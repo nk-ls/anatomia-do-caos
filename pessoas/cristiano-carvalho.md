@@ -7,10 +7,11 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **2** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **2** processual
 
 - ⚪ **07/2021** · *cerca de 6 meses depois da 1ª vacina* (alegação) Presidente da CPI, Omar Aziz, o chamou de 'mentor' das acusações feitas por Dominguetti [fonte](https://www.cnnbrasil.com.br/politica/ceo-da-davati-e-mentor-do-esquema-e-deve-depor-diz-omar-aziz/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-politica-ceo-da-davati-e-mentor-do-esquema-e-deve-depor-diz-omar-aziz-b77e3c51/2026-10-24.html)
 - ⚪ **15/07/2021** · *179 dias depois da 1ª vacina · 538.942 mortes até aqui* (alegação) Na CPI, disse ter sabido (sem estar no jantar) de pedido de comissão por vacinas atribuído ao grupo do tenente-coronel Blanco e entregou perícia de seu celular [fonte](https://www.correiobraziliense.com.br/politica/2021/07/4937807-representante-da-davati-admite-que-soube-de-pedido-de-propina-e-cita-grupo-de-blanco.html) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/correiobraziliense-com-br-politica-2021-07-4937807-representante-da-davati-admite-que-soub-9445a30a/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1082: apontado como quem "orientava Dominghetti e acompanhava, de perto, o passo das negociações"; segundo a comissão, "detinha o controle do curso causal, era a pessoa que poderia ter evitado ou interrompido a oferta de vantagem ilícita a Roberto Dias". [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

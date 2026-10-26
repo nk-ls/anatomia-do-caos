@@ -7,10 +7,11 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **2** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **2** processual
 
 - ⚪ **02/09/2021** · *228 dias depois da 1ª vacina · 581.914 mortes até aqui* (fato) Faltou ao depoimento com atestado de 'dor pélvica' depois anulado pelo médico emissor; CPI aprovou condução coercitiva [fonte](https://www12.senado.leg.br/noticias/materias/2021/09/02/cpi-aprova-conducao-coercitiva-de-marconny-faria-lobista-que-faltou-ao-depoimento) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/senado-leg-br-noticias-materias-2021-09-02-cpi-aprova-conducao-coercitiva-de-marconny-fari-232edd27/2026-10-24.html)
 - ⚪ **15/09/2021** · *241 dias depois da 1ª vacina · 588.597 mortes até aqui* (fato) Depôs, negou ser lobista mas disse ter sido sondado pela Precisa para assessorar em licitação de testes rápidos; calou ou disse não lembrar sobre mensagens; CPI o tornou investigado [fonte](https://www.cnnbrasil.com.br/politica/cpi-da-covid-ao-vivo-marconny-faria/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/cnnbrasil-com-br-politica-cpi-da-covid-ao-vivo-marconny-faria-500a7668/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1091: a comissão avaliou que "desde o início fez parte da organização criminosa", com conduta "mais reservada no caso Covaxin" em razão de prisão anterior; as suspeitas partiram de mensagens dele enviadas à CPI pelo MPF do Pará. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

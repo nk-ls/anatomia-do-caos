@@ -7,10 +7,11 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **2** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **2** processual
 
 - ⚪ **30/09/2021** · *256 dias depois da 1ª vacina · 596.749 mortes até aqui* (fato) Entrou no plenário da CPI para pedir a Randolfe Rodrigues que a VTCLog fosse dispensada de depor [fonte](https://www.poder360.com.br/cpi-da-covid/ceo-da-vtclog-se-infiltra-na-cpi-para-tentar-cancelar-depoimento-da-empresa/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-cpi-da-covid-ceo-da-vtclog-se-infiltra-na-cpi-para-tentar-cancelar-depoime-b1279e85/2026-10-24.html)
 - ⚪ **05/10/2021** · *261 dias depois da 1ª vacina · 598.829 mortes até aqui* (fato) Na CPI, admitiu que funcionário da empresa pagou boletos em nome de Roberto Dias e confirmou cerca de 135 ligações com ele [fonte](https://www.congressoemfoco.com.br/noticia/13467/cpi-ouve-socio-de-empresa-de-logistica-envolvida-e-contrato-suspeito) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/congressoemfoco-com-br-noticia-13467-cpi-ouve-socio-de-empresa-de-logistica-envolvida-e-co-0dcb3acd/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1082: como diretora-executiva da VTCLog, "confirmou manter intensos contatos com Roberto Ferreira Dias no curso do Contrato e quando da assinatura do aditivo"; na p. 1100, incluída entre os responsabilizados pelo aditivo. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 

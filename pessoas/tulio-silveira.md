@@ -7,10 +7,11 @@
 
 ## O que fez, em ordem
 
-🟢 **0** a favor · 🔴 **0** contra · ⚪ **2** processual
+🟢 **0** a favor · 🔴 **1** contra · ⚪ **2** processual
 
 - ⚪ **08/2021** · *cerca de 7 meses depois da 1ª vacina* (alegação) Mensagens obtidas pela CPI indicariam que atuava como funcionário do departamento jurídico da Precisa, e não apenas como advogado externo [fonte](https://www.moneytimes.com.br/apos-silencio-reiterado-advogado-da-precisa-passa-a-ser-investigado-pela-cpi/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/moneytimes-com-br-apos-silencio-reiterado-advogado-da-precisa-passa-a-ser-investigado-pela-02ab1c67/2026-10-24.html)
 - ⚪ **18/08/2021** · *213 dias depois da 1ª vacina · 571.662 mortes até aqui* (fato) Depôs à CPI e, invocando sigilo profissional (Fux acolheu só em parte), ficou calado na maior parte da sessão; a CPI o converteu em investigado [fonte](https://www.poder360.com.br/congresso/diante-de-silencio-cpi-transforma-advogado-da-precisa-em-investigado/) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/arquivo/poder360-com-br-congresso-diante-de-silencio-cpi-transforma-advogado-da-precisa-em-investi-ac11f241/2026-10-24.html)
+- 🔴 **26/10/2021** · *282 dias depois da 1ª vacina · 606.246 mortes até aqui* (conclusão da CPI) Relatório final da CPI, p. 1067: apontado, ao lado de Emanuela Medrades, por "atuação conjunta" na compra da Covaxin, com "o uso de documentos falsos e a fraude na expansão dos poderes de representação" — tendo Francisco Maximiano como beneficiário final. [fonte](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf) · [cópia arquivada](https://github.com/nk-ls/anatomia-do-caos-fontes/blob/main/documentos/cpi_relatorio_final_aprovado_2021-10-26.pdf)
 
 ## Na CPI da Covid
 
